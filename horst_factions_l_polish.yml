@@ -1,0 +1,38 @@
+﻿l_polish:
+  AT_LEAST_75_MILS: "§YKaždý člen frakce§! s alespoň §Y75 $arms_factory$§!" # todo: NEW TRANSLATION
+  AT_LEAST_100_CIVS: "§YKaždý člen frakce§! s alespoň §Y100 $industrial_complex$§!" # todo: NEW TRANSLATION
+  faction_goal_military_factory_minor_reward_name: "Produkční kvóty pro vojenský průmysl loutkového státu" # todo: NEW TRANSLATION
+  faction_goal_military_factory_minor_reward_desc: "Dotování výrobních linek jednoho z našich loutkových menších států je jistě přiměje pracovat tvrději." # todo: NEW TRANSLATION
+  FACTION_MIL_GOAL_REWARD_TT: "§YJeden ze žlutých menších států§! s alespoň §Y50 $arms_factory$§!" # todo: NEW TRANSLATION
+  faction_goal_civilian_factory_minor_reward_name: "Smlouvy pro civilní průmysl loutkového státu" # todo: NEW TRANSLATION
+  faction_goal_civilian_factory_minor_reward_desc: "Podpora civilního průmyslu jednoho ze vybraných perspektivních menších států určitě pomůže naší věci." # todo: NEW TRANSLATION
+  FACTION_CIV_GOAL_REWARD_TT: "§YJeden ze žlutých menších států§! s alespoň §Y50 $industrial_complex$§!" # todo: NEW TRANSLATION
+  faction_goal_infantry_minor_reward_name: "Budování pěchotní armády loutkového státu" # todo: NEW TRANSLATION
+  faction_goal_infantry_minor_reward_desc: "" # todo: NEW TRANSLATION
+  FACTION_INF_GOAL_REWARD_TT: "§YJeden ze žlutých menších států§! s alespoň §Y25000 $infantry_equipment_2$§!" # todo: NEW TRANSLATION
+  faction_goal_tank_minor_reward_name: "Budování tankové armády loutkového státu" # todo: NEW TRANSLATION
+  faction_goal_tank_minor_reward_desc: "" # todo: NEW TRANSLATION
+  FACTION_TANK_GOAL_REWARD_TT: "§YJeden ze žlutých menších států§! s alespoň §Y750 $light_tank_chassis_3$§!, §Y$medium_tank_chassis_2$§! nebo §Y$heavy_tank_chassis_2$§!" # todo: NEW TRANSLATION
+  faction_goal_germany_plan_z_name: "Plán Z" # todo: NEW TRANSLATION
+  faction_goal_germany_plan_z_desc: "" # todo: NEW TRANSLATION
+  GER_plan_z_faction_idea: "Plán Z dosažen" # todo: NEW TRANSLATION
+  naval_supply_hub: "Námořní zásobovací uzel" # todo: NEW TRANSLATION
+  naval_supply_hub_desc: "Tato budova umožňuje vašim flotilám doplňovat zásoby a palivo v této základně kromě jejich domovských základen, což může potenciálně prodloužit operační dosah vašich §Yúkolových sil§!.\nA námořní zásobovací uzel lze postavit pouze v pobřežní provincii, která má námořní základnu alespoň úrovně 1." # todo: NEW TRANSLATION
+  naval_headquarters: "Námořní velitelství" # todo: NEW TRANSLATION
+  naval_headquarters_desc: "Tato budova vám umožňuje přiřadit admirála, který zvýší účinnost §Yúkolových sil§! působících v dosahu námořního velitelství.\n\nSoučasně může být přiřazen admirál až ke $MAXNUM|H$ velitelstvím.\n   Aktuálně přiřazeno: $CURRNUM|H$\n\nNámořní velitelství lze postavit pouze v pobřežní provincii, která má námořní základnu alespoň úrovně 1. " # todo: NEW TRANSLATION
+  TOPBAR_ENERGY_DEMAND: "Poptávka po energii: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)" # todo: NEW TRANSLATION
+  TOPBAR_ENERGY_GENERATED: "Vyrobená energie: $ENERGY_GENERATED|H1$" # todo: NEW TRANSLATION
+  TOPBAR_COAL_CURRENTLY_USED: "Aktuálně používáno paliva: §Y$COUNT$§! £decision_oil" # todo: NEW TRANSLATION
+  TOPBAR_MAXIMUM_ENERGY_GENERATED: "Maximální vyrobená energie: $ENERGY_GENERATED|H1$" # todo: NEW TRANSLATION
+  TOPBAR_TOTAL_COAL: "K dispozici paliva: §Y$COUNT$§! £decision_oil" # todo: NEW TRANSLATION
+  europe_only_germany_idea: "Vyrovnávač pouze pro Evropu" # todo: NEW TRANSLATION
+  europe_only_soviet_idea: "Vyrovnávač pouze pro Evropu" # todo: NEW TRANSLATION
+  europe_only_britain_idea: "Vyrovnávač pouze pro Evropu" # todo: NEW TRANSLATION
+  europe_only_yellow_minor_idea: "Vyrovnávač pouze pro Evropu" # todo: NEW TRANSLATION
+  europe_only_green_minor_idea: "Vyrovnávač pouze pro Evropu" # todo: NEW TRANSLATION
+  EUROPE_ONLY_NAME: "Pouze Evropa (může být nestabilní)" # todo: NEW TRANSLATION
+  EUROPE_ONLY_DESC: "Rychlý herní režim pouze s určitými evropskými frontami. Může ho hrát 3 hráči. Herní režim je nový! Dejte mi vědět, pokud najdete chyby. \n\nNěmecko bude dostávat palivo z Afriky do 1942.6.1. \n\nTovárny budou v každé hře náhodně postaveny, hodně štěstí při rozmísťování jednotek." # todo: NEW TRANSLATION
+  europe_only_mastery_boost: "Bonus mistrovství — pouze Evropa" # todo: NEW TRANSLATION
+  europe_only_start_date_flag: "§YDátum začátku — pouze Evropa§!" # todo: NEW TRANSLATION
+  SOV_gosproyektstroy_3_europe_only: "Gosproyektstroy POUZE EVROPA" # todo: NEW TRANSLATION
+  GER_europe_only_african_fuel: "Africké palivo (vydrží do 1942.6.1)" # todo: NEW TRANSLATION

@@ -1,0 +1,176 @@
+﻿l_polish:
+  BRA_amrj_organization1: "Arsenal de Marinha do Rio de Janeiro" # todo: NEW TRANSLATION
+  ROM_malaxa_organization1: "MALAXA" # todo: NEW TRANSLATION
+  JAP_tokyo_arsenal_organization1: "Tokijský arzenál" # todo: NEW TRANSLATION
+  mio_cat_eq_all_tank_artillery_chassis: "Všechny podvozky tankových děl" # todo: NEW TRANSLATION
+  mio_cat_eq_all_tank_aa_chassis: "Všechny podvozky protiletadlových tanků" # todo: NEW TRANSLATION
+  mio_cat_eq_all_armor1: "Všechny podvozky tanků" # todo: NEW TRANSLATION
+  mio_cat_eq_all_armor1_desc: "Všechny podvozky tanků" # todo: NEW TRANSLATION
+  mio_cat_eq_all_tank_variants: "Všechny podvozky tankových variant" # todo: NEW TRANSLATION
+  mio_cat_eq_all_tank_variants_desc: "Všechny podvozky tankových variant" # todo: NEW TRANSLATION
+  generic_horst_tank_organization: "Výrobce tanků" # todo: NEW TRANSLATION
+  generic_horst_tank_organization_initial_trait: "Výrobce tanků" # todo: NEW TRANSLATION
+  SOV_generic_horst_tank_organization: "Sovětský výrobce tanků" # todo: NEW TRANSLATION
+  SOV_generic_artillery_organization: "Sovětský výrobce dělostřelectva" # todo: NEW TRANSLATION
+  SOV_generic_infantry_equipment_organization: "Sovětský výrobce pěchotního vybavení" # todo: NEW TRANSLATION
+  SOV_generic_motorized_mechanized_organization: "Sovětský výrobce motorových vozidel" # todo: NEW TRANSLATION
+  FIN_generic_infantry_equipment_organization: "Finský výrobce zbraní" # todo: NEW TRANSLATION
+  FIN_generic_artillery_organization: "Finský výrobce dělostřelectva" # todo: NEW TRANSLATION
+  FIN_generic_tank_organization: "Finský výrobce tanků" # todo: NEW TRANSLATION
+  FIN_generic_plane_organization: "Finský výrobce letadel" # todo: NEW TRANSLATION
+  generic_horst_finland_trait_2: "Maskované zbraně" # todo: NEW TRANSLATION
+  generic_horst_finland_gun_trait_2: "Sady Molotovových koktejlů" # todo: NEW TRANSLATION
+  generic_horst_finland_tank_trait_2: "Zachráněné a přepracované podvozky" # todo: NEW TRANSLATION
+  generic_horst_finland_plane_trait_2: "Modernizované výrobní linky" # todo: NEW TRANSLATION
+  GER_germany_tank_organization: "Výrobce tanků" # todo: NEW TRANSLATION
+  AXIS_MINORS_tank_organization: "Výrobce tanků" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_1: "Výzkum těžkých podvozků" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_2: "Výzkum lepších podvozků" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_3: "Výzkum levnějších podvozků" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_4: "Zefektivněná výroba" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_5: "Rozšířená výroba" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_6: "Politické rozhodování" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_7: "Inženýrské think-tanky" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_8: "Kontroly kvality" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_9: "Efektivní využití zdrojů" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_10: "Zlepšené podvozky" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_11: "Zbraně vyššího kalibru" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_12: "Lepší posádkové prostory" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_13: "Přežití posádky" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_14: "Ergonomie posádky" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_15: "Protiletadlové náboje" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_16: "Pružné vnější pancéřování" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_17: "Kvalitní granáty" # todo: NEW TRANSLATION
+  generic_horst_mio_trait_18: "Lepší výroba granátů" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_1: "Důraz na rychlost" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_2: "Důraz na přežití" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_3: "Měkké pneumatiky" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_4: "Pevné střechy" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_5: "Vyměnitelné pásy" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_6: "Tvrdší pancéřování" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_7: "Těžší raketové kontejnery" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_8: "Více raketových kontejnerů" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_9: "Inženýrské moduly" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_10: "Lepší motory" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_11: "Neprůstřelné podvozky" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_12: "Lehké podvozky" # todo: NEW TRANSLATION
+  generic_motorized_mechanized_organization_trait_13: "Zpevněná ochrana" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_1: "Opakovací pušky" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_2: "Výzkum polních požadavků" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_3: "Vysoce výbušné granáty" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_4: "Lehké vybavení" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_5: "Sabotažní sady" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_6: "Sestavit v poli" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_7: "Vývoj PAK" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_8: "Sady přežití" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_9: "Vývoj vysoké kvality" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_10: "Hromadná výroba" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_11: "Bezodpadové řízení" # todo: NEW TRANSLATION
+  generic_support_equipment_organization_trait_12: "Efektivní výrobní linky" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_1: "Vývoj dělostřelectva" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_2: "Vývoj proti tankům" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_3: "Vývoj protiletadlové obrany" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_4: "Lafety děl" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_5: "Děla sestavovaná v poli" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_6: "Tažná děla" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_7: "Spolehlivá děla" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_8: "Pokročilá mířidla" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_9: "Řízení zahřívání hlavně" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_10: "Větší děla" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_11: "Posuvné závěry" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_12: "Rychlopalné hlavně" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_13: "Ještě větší děla" # todo: NEW TRANSLATION
+  generic_artillery_organization_trait_14: "Hromadná výroba" # todo: NEW TRANSLATION
+  generic_horst_germany_trait_1: "Specializace na tanky Tiger" # todo: NEW TRANSLATION
+  generic_horst_germany_trait_2: "Kruppova ocel" # todo: NEW TRANSLATION
+  generic_horst_germany_trait_3: "Motory řady V" # todo: NEW TRANSLATION
+  generic_horst_AXIS_MINORS_trait_1: "Přestavba těžkého průmyslu" # todo: NEW TRANSLATION
+  generic_horst_AXIS_MINORS_trait_2: "Využití civilních aut" # todo: NEW TRANSLATION
+  generic_horst_AXIS_MINORS_trait_3: "Německá průmyslová odbornost" # todo: NEW TRANSLATION
+  generic_horst_AXIS_MINORS_trait_4: "Raný rozvoj těžkého průmyslu" # todo: NEW TRANSLATION
+  SOV_mio_trait_merge_horst_tank_name: "Sloučit továrny na tanky" # todo: NEW TRANSLATION
+  SOV_mio_trait_merge_horst_artillery_name: "Sloučit továrny na dělostřelectvo" # todo: NEW TRANSLATION
+  SOV_mio_trait_merge_horst_infantry_name: "Sloučit továrny na pěchotní vybavení" # todo: NEW TRANSLATION
+  SOV_mio_trait_merge_horst_motorized_name: "Sloučit továrny na motorová vozidla" # todo: NEW TRANSLATION
+  ITA_italy_tank_organization: "Výrobce tanků" # todo: NEW TRANSLATION
+  generic_horst_AXIS_italy_trait_1: "Italské těžké tanky" # todo: NEW TRANSLATION
+  generic_horst_AXIS_italy_trait_2: "Italské střední tanky" # todo: NEW TRANSLATION
+  generic_horst_AXIS_italy_trait_3: "Italské tankety" # todo: NEW TRANSLATION
+  generic_horst_AXIS_italy_trait_4: "Italská samohybná děla" # todo: NEW TRANSLATION
+  generic_horst_AXIS_italy_trait_5: "Italské stíhače tanků" # todo: NEW TRANSLATION
+  ENG_dominion_tank_reward_tt: "Odemčeno prostřednictvím odměny za fokus "Imperiální obrněné divize"." # todo: NEW TRANSLATION
+  ENG_dominion_inf_arty_reward_tt: "Odemčeno prostřednictvím odměny za fokus "Imperiální pěchotní divize"." # todo: NEW TRANSLATION
+  ALLIED_DOMINION_tank_organization: "Výrobce tanků" # todo: NEW TRANSLATION
+  generic_horst_ALLIED_DOMINION_tank_trait_1: "Imperiální smlouvy na tanky" # todo: NEW TRANSLATION
+  ALLIED_DOMINION_infantry_organization: "Výrobce pěchotního vybavení" # todo: NEW TRANSLATION
+  generic_horst_ALLIED_DOMINION_infantry_trait_1: "Imperiální smlouvy na zbraně" # todo: NEW TRANSLATION
+  ALLIED_DOMINION_artillery_organization: "Výrobce dělostřelectva" # todo: NEW TRANSLATION
+  generic_horst_ALLIED_DOMINION_artillery_trait_1: "Imperiální smlouvy na dělostřelectvo" # todo: NEW TRANSLATION
+  ENG_tank_organization: "Výrobce tanků" # todo: NEW TRANSLATION
+  ENG_motorized_mechanized_organization: "Výrobce motorových vozidel" # todo: NEW TRANSLATION
+  generic_horst_england_trait_1: "Britské návrhy tanků" # todo: NEW TRANSLATION
+  generic_horst_england_trait_2: "Britské návrhy tanků" # todo: NEW TRANSLATION
+  generic_horst_england_trait_3: "Britské návrhy mechanizace" # todo: NEW TRANSLATION
+  generic_horst_plane_organization: "Výrobce letadel" # todo: NEW TRANSLATION
+  generic_horst_plane_organization_initial_trait: "Výrobce letadel" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_1: "Široké trupy" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_2: "Úzké trupy" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_3: "Levné trupy" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_4: "Pancéřovaný trup" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_5: "Větší nosiče pum" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_6: "Pancéřovaný trup" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_7: "Větší nosiče pum" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_8: "Velké palivové nádrže" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_9: "Velké palivové nádrže" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_10: "Lepší motory" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_11: "Důraz na torpéda" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_12: "Důraz na radar" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_13: "Zvýšená kapacita motoru" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_14: "Zvýšená kapacita palivové nádrže" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_15: "Důraz na pozemní podporu" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_16: "Důraz na bombardování cílů" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_17: "Zvýšené bojové schopnosti" # todo: NEW TRANSLATION
+  generic_horst_mio_plane_trait_18: "Optimalizované výrobní linky" # todo: NEW TRANSLATION
+  SOV_horst_plane_organization: "Sovětský výrobce letadel" # todo: NEW TRANSLATION
+  SOV_mio_trait_merge_planes: "Sloučit továrny na letadla" # todo: NEW TRANSLATION
+  mio_cat_eq_all_tank_destroyers: "Všechny podvozky stíhačů tanků" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_organization: "Výrobce stíhačů tanků" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_organization_initial_trait: "Výrobce stíhačů tanků" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_1: "Optimalizované hlavně" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_2: "Děla pro čelní útok" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_3: "Pevné stíhače tanků" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_4: "Spolehlivý převod" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_5: "Boční kulomety" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_6: "APHE munice" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_7: "Lepší práce na podvozcích" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_8: "Přepracování motoru" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_9: "Optimalizace věže" # todo: NEW TRANSLATION
+  generic_horst_tank_destroyer_mio_trait_10: "Optimalizované výrobní linky" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_organization: "Výrobce samohybných děl" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_organization_initial_trait: "Výrobce samohybných děl" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_1: "Podpůrný oddíl" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_2: "Provizorní nástavba" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_2a: "Děla nesená na vozidle" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_3: "Pancéřované podvozky" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_4: "Přepracované věže" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_5: "Přepracovaná děla" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_6: "Optimalizované výrobní linky" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_7: "Nepřímé bombardování" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_7a: "Děla přímé palby" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_8: "Pancéřovaná nástavba" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_8a: "Děla většího kalibru" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_9: "Lité věže" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_10: "Dvojité kontroly" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_11: "Výhled posádky" # todo: NEW TRANSLATION
+  generic_horst_tank_artillery_mio_trait_12: "Optimalizované výrobní linky" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_organization: "Výrobce samohybných protiletadlových tanků" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_organization_initial_trait: "Výrobce samohybných protiletadlových tanků" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_mio_trait_1: "Zbraně většího kalibru" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_mio_trait_2: "Podpůrná role" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_mio_trait_3: "Útočná role" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_mio_trait_4: "Kontroly doby obnovy" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_mio_trait_4a: "Role proti pěchotě" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_mio_trait_4b: "Protitanková podpora" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_mio_trait_5: "Děla ve věži" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_mio_trait_6: "Pancéřované věže" # todo: NEW TRANSLATION
+  generic_horst_tank_aa_mio_trait_7: "Optimalizované výrobní linky" # todo: NEW TRANSLATION

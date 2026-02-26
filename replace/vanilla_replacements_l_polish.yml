@@ -1,0 +1,965 @@
+﻿l_polish:
+  ITA_steel_industry_in_terni_ricostruzione_industriale_tt: "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$modifier_production_speed_arms_factory_factor$: §G+7.50%§! \n\n" # todo: NEW TRANSLATION
+  ITA_power_plants_in_terni_ricostruzione_industriale_tt: "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$modifier_production_speed_industrial_complex_factor$: §G+15.00%§! \n\n" # todo: NEW TRANSLATION
+  ITA_investments_in_edison_ricostruzione_industriale_tt: "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5.0%§! \n\n" # todo: NEW TRANSLATION
+  STRATEGICREGION_3184: "Alboránské moře" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12713: "Sainshand" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10421: "Uliastay" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4469: "Ulaanbaatar" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12344: "Choibalsan" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10424: "Darkhan" # todo: NEW TRANSLATION
+  EQ_MOD_CAT_fighter_weapon_TITLE: "Primární zbraně stíhačů" # todo: NEW TRANSLATION
+  EQ_MOD_CAT_secondary_fighter_weapon_TITLE: "Sekundární zbraně stíhačů" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1868: "Erdenet" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4873: "Ulaangom" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7676: "Kyzyl" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4968: "Ad-Damir" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12839: "Habbaniya" # todo: NEW TRANSLATION
+  STATE_2626: "Ostrov Bubijan" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12771: "Abo Simbel" # todo: NEW TRANSLATION
+  axis_won_scw: "Nacionalistické Španělsko vyhrálo Španělskou občanskou válku" # todo: NEW TRANSLATION
+  sov_won_scw: "Republikánské Španělsko vyhrálo Španělskou občanskou válku" # todo: NEW TRANSLATION
+  STRATEGICREGION_1180: "Severozápadní Pacifik" # todo: NEW TRANSLATION
+  STRATEGICREGION_1107: "Severovýchodní Pacifik" # todo: NEW TRANSLATION
+  STRATEGICREGION_1179: "Azovské moře" # todo: NEW TRANSLATION
+  STRATEGICREGION_1178: "Kaspické moře" # todo: NEW TRANSLATION
+  GetResourcesProducedSteel: "[?ROOT.resource_produced@steel] Vyrobená ocel" # todo: NEW TRANSLATION
+  GetResourcesProducedAluminium: "[?ROOT.resource_produced@aluminium] Vyrobený hliník" # todo: NEW TRANSLATION
+  DDR_SPR: "Republikánské Španělsko" # todo: NEW TRANSLATION
+  DEN_YUG: "Jugoslávie" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1553: "Imphal" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12366: "Guwahiti" # todo: NEW TRANSLATION
+  deep_desert: "Hluboká poušť" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3120: "Kingisepp" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6225: "Demyansk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3969: "Guarda" # todo: NEW TRANSLATION
+  VICTORY_POINTS_308: "Valmiera" # todo: NEW TRANSLATION
+  VICTORY_POINTS_155: "Segezha" # todo: NEW TRANSLATION
+  VICTORY_POINTS_286: "Kuznetsk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6231: "Murom" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3387: "Kasimov" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4954: "Bahir Dar" # todo: NEW TRANSLATION
+  VICTORY_POINTS_8062: "Moyale" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4228: "Legaspi" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12022: "Deprese Deir el Munassib" # todo: NEW TRANSLATION
+  VICTORY_POINTS_231: "Uglich" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9531: "Izyum" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11700: "Melitopol" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4403: "Hafar al-Batin" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9561: "Compiègne" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7925: "Omdurman" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6572: "Morlaix" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3579: "Saint-Lo" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11491: "Melun" # todo: NEW TRANSLATION
+  VICTORY_POINTS_409: "Zinovyevsk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6226: "Syzran" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6175: "Kostomuksha" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11512: "Uryupinsk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11412: "Rossosh" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9571: "Berdyansk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_324: "Saransk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11344: "Azramas" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11048: "Borovichi" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3101: "Vyshny Volochyok" # todo: NEW TRANSLATION
+  VICTORY_POINTS_596: "Maribor" # todo: NEW TRANSLATION
+  VICTORY_POINTS_5023: "Horstlandia" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1574: "Teluk Ambon" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4273: "Denpasar" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11622: "Alba Iulia" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6679: "Sibiu" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9670: "Targu Mures" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6761: "Suceava" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9656: "Gyula" # todo: NEW TRANSLATION
+  VICTORY_POINTS_531: "Dammam" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10315: "Khafji" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10733: "Mecca" # todo: NEW TRANSLATION
+  VICTORY_POINTS_8026: "Laila" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12864: "Tabuk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10885: "Muhail" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6751: "Miskolc" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1395: "Sana'a" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10787: "Khalbar" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11560: "Mainz" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9676: "Gyor" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10255: "Visakhapatnam" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12375: "Kota" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4321: "Chirala" # todo: NEW TRANSLATION
+  VICTORY_POINTS_686: "Sopron" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9522: "Aachen" # todo: NEW TRANSLATION
+  VICTORY_POINTS_684: "Kecskemet" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6703: "Szekesfehervar" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10917: "Tanta" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9344: "Yubileyny" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4115: "Aqaba" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9291: "Pomponchik" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3202: "Gorodskoy" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12799: "Jabalpur" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11425: "Romny" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11254: "Vyazma" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6243: "Yelnya" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4468: "Sorong" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9649: "Hora Elbrus" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7938: "Allahabad" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1949: "Chhatarpur" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1059: "Jamshedpur" # todo: NEW TRANSLATION
+  VICTORY_POINTS_13208: "Sylet" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4202: "Magway" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12154: "Madang" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12090: "Sittwe" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11142: "Kirkenes" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6087: "Rovaniemi" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9980: "Misrata" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4061: "Kasserinský průsmyk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3061: "Hamina" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11141: "Savo" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11408: "Balashov" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9549: "Engels" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3330: "Zavolshkiy" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6479: "Kamyshin" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9455: "Tinaki" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12464: "Katha" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12256: "Taungoo" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7400: "Kengtung" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1961: "Zalla" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11409: "Uman" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6611: "Gospic" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6700: "Szeged" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6685: "Kaposvar" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4429: "Puerto Princesa" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4937: "Siwa" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4047: "Sirte" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10616: "Al Kharja" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4325: "al-Bawiti" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7642: "Jogjakarta" # todo: NEW TRANSLATION
+  VICTORY_POINTS_5030: "al-Farafira" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4057: "El Agheila" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1956: "Bir Qaim" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11535: "Caen" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11407: "Bastogne" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12079: "Msus" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9960: "Djelfa" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3337: "Raseiniai" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9518: "Prokhorovka" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10896: "Formace Al Jaghbub" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10120: "Bardia" # todo: NEW TRANSLATION
+  VICTORY_POINTS_5193: "Medina" # todo: NEW TRANSLATION
+  VICTORY_POINTS_5153: "Terezina" # todo: NEW TRANSLATION
+  VICTORY_POINTS_2227: "João Pessoa" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10998: "Maceió" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7638: "Pelotas" # todo: NEW TRANSLATION
+  VICTORY_POINTS_2153: "Vitória" # todo: NEW TRANSLATION
+  VICTORY_POINTS_8143: "Aracajú" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12933: "São Luiz" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6955: "DO VÍDNĚ" # todo: NEW TRANSLATION
+  VICTORY_POINTS_5048: "Jeddah" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3555: "Traktorová továrna Dzeržinského" # todo: NEW TRANSLATION
+  VICTORY_POINTS_498: "East Rostov" # todo: NEW TRANSLATION
+  VICTORY_POINTS_585: "Azov" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6602: "Rynok" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12653: "Město Basra" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12820: "Rumadiyah" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10876: "Najaf" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3761: "TO BERLIN" # todo: NEW TRANSLATION
+  VICTORY_POINTS_992: "Deprese Munassib" # todo: NEW TRANSLATION
+  VICTORY_POINTS_757: "Přístav Astrachaň" # todo: NEW TRANSLATION
+  VICTORY_POINTS_8077: "Východní Káhira" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11100: "Molde" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3192: "Haugesund" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6176: "Egersund" # todo: NEW TRANSLATION
+  VICTORY_POINTS_199: "Forde" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6118: "Sloren" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9132: "Steinkjer" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4563: "Krasnovodsk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12764: "Wadi El Natrun" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9263: "Gdynia" # todo: NEW TRANSLATION
+  VICTORY_POINTS_923: "Monte Cassino" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7293: "Mataram" # todo: NEW TRANSLATION
+  VICTORY_POINTS_13082: "Pahrah" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12895: "Zabol" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4913: "Wadi Al-Hitan" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10900: "Hřeben Miteriya" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12082: "Mersa Matruh" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1143: "El Alamein" # todo: NEW TRANSLATION
+  IRAN_STRAIT: "Hormuzský průliv" # todo: NEW TRANSLATION
+  YEMEN_STRAIT: "Průliv Bab al-Mandeb" # todo: NEW TRANSLATION
+  KONK_STRAIT: "Řeka Něva" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1204: "Derna" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1127: "Ajedabia" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10748: "Khartoum" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10127: "Hřeben Ruweisat" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7117: "Alam Nayil" # todo: NEW TRANSLATION
+  VICTORY_POINTS_70: "Přístav Volkhov" # todo: NEW TRANSLATION
+  VICTORY_POINTS_201: "Vaskelovo" # todo: NEW TRANSLATION
+  VICTORY_POINTS_5012: "Olgino" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4920: "Ligovo" # todo: NEW TRANSLATION
+  VICTORY_POINTS_2017: "Pavlovo" # todo: NEW TRANSLATION
+  VICTORY_POINTS_149: "Konkerovo" # todo: NEW TRANSLATION
+  VICTORY_POINTS_8053: "Yelshanka" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12788: "Krasnaya Sloboda" # todo: NEW TRANSLATION
+  VICTORY_POINTS_2078: "Spartakova" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12769: "Mytischi" # todo: NEW TRANSLATION
+  VICTORY_POINTS_5082: "Reutov" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7916: "Lyubertsy" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1995: "Zhukovsky" # todo: NEW TRANSLATION
+  VICTORY_POINTS_10789: "Odintsovo" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12831: "Krasnogorsk" # todo: NEW TRANSLATION
+  VICTORY_POINTS_8090: "Khimki" # todo: NEW TRANSLATION
+  category_mountaineers: "All Mountaineers and Rangers" # todo: NEW TRANSLATION
+  ITA_supremacy_in_the_skies_ra_tt: "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$  \n$MODIFIER_AIR_INTERCEPT_EFFICIENCY$: §G+5%§! \n$MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT$: §G+10.0%§!\n\n" # todo: NEW TRANSLATION
+  STRATEGICREGION_68: "Baelaric Sea" # todo: NEW TRANSLATION
+  SOV_propaganda_stalin: "Under the Leadership of [SOV.GetSovLeader]!" # todo: NEW TRANSLATION
+  SOV_stalins_cult_of_personality: "[SOV.GetSovLeader]'s Cult of Personality" # todo: NEW TRANSLATION
+  ITA_reinforce_aeronautica_ra_tt: "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$ \n$MODIFIER_AIR_ATTACK_FACTOR$: §G+5%§! \n $MODIFIER_AIR_AGILITY_FACTOR$: §G+5%§! \n$MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT$: §G+8.0%§! \n\n" # todo: NEW TRANSLATION
+  ITA_vallo_alpino_settentrionale_east_tt: "Build a defensive line in §Y[39.GetName]§! along the North-Eastern Alpine border with [153.GetName].\n" # todo: NEW TRANSLATION
+  ITA_vallo_alpino_occidentale_tt: "Build a defensive line in §Y[158.GetName]§! along the Western Alpine border with [313.GetName].\n" # todo: NEW TRANSLATION
+  ITA_vallo_alpino_orientale_tt: "Build a defensive line in §Y[160.GetName]§! and §Y[314.GetName]§! along the Eastern Alpine border with [153.GetName], [102.GetName], and [103.GetName].\n" # todo: NEW TRANSLATION
+  SOV_the_molotov_hmp_line_tt: "§HStates bordering Axis§! Set §HLand Forts to Level 4§!." # todo: NEW TRANSLATION
+  EQ_MOD_CAT_ship_cruiser_armor_TITLE: "Light Cruiser Armor Scheme" # todo: NEW TRANSLATION
+  amphibious_light_armor: "Amphibious Light Tank" # todo: NEW TRANSLATION
+  ENG_war_with_ussr: "Operation Unthinkable" # todo: NEW TRANSLATION
+  ITA_bop_send_support: "Send Military Support to [GER.GetName]" # todo: NEW TRANSLATION
+  ship_sonar_3: "Sonobuoy" # todo: NEW TRANSLATION
+  GER_ussr_war_goal: "Operation §RBarbarossa§!" # todo: NEW TRANSLATION
+  GRE_protectors_of_the_mediterranean_spirit: "Protectors of the Mediterranean" # todo: NEW TRANSLATION
+  STRATEGICREGION_177: "Eastern Libya" # todo: NEW TRANSLATION
+  DDR_democratic: "Republican Spain" # todo: NEW TRANSLATION
+  DDR_democratic_DEF: "Constitutional Germany" # todo: NEW TRANSLATION
+  YUG_subject: "$CRO$" # todo: NEW TRANSLATION
+  YUG_subject_DEF: "$CRO$" # todo: NEW TRANSLATION
+  STATE_670: "Far Eastern Siberian Wastes" # todo: NEW TRANSLATION
+  ROM_subject: "$ROM$" # todo: NEW TRANSLATION
+  ROM_subject_DEF: "$ROM$" # todo: NEW TRANSLATION
+  GER_war_with_france: "§gFall§! §RRot§!" # todo: NEW TRANSLATION
+  GER_operation_weserubung_desc: "Denmark is a good staging area for the invasion of Norway. We need to seize it first to open Scandinavia up to our control." # todo: NEW TRANSLATION
+  wuw_HUN_demand_southern_slovakia: "Demand [578.GetName]" # todo: NEW TRANSLATION
+  wuw_HUN_demand_southern_slovakia_desc: "The ethnic [ROOT.GetAdjective] minority in [578.GetName] is currently being mistreated and taken advantage of by the occupying government, and as such, we must see to it that the [ROOT.GetAdjective]s and the region they reside in is brought under our control once more." # todo: NEW TRANSLATION
+  SPR_subject: "$SPR$" # todo: NEW TRANSLATION
+  SPR_subject_DEF: "$SPR$" # todo: NEW TRANSLATION
+  BEL_subject: "$BEL$" # todo: NEW TRANSLATION
+  BEL_subject_DEF: "$BEL$" # todo: NEW TRANSLATION
+  BUL_subject: "$BUL$" # todo: NEW TRANSLATION
+  BUL_subject_DEF: "$BUL$" # todo: NEW TRANSLATION
+  HUN_subject: "$HUN$" # todo: NEW TRANSLATION
+  HUN_subject_DEF: "$HUN$" # todo: NEW TRANSLATION
+  CZE_subject: "$CZE$" # todo: NEW TRANSLATION
+  CZE_subject_DEF: "$CZE$" # todo: NEW TRANSLATION
+  POL_subject: "Poland" # todo: NEW TRANSLATION
+  POL_subject_DEF: "Poland" # todo: NEW TRANSLATION
+  FRA_subject: "$FRA$" # todo: NEW TRANSLATION
+  FRA_subject_DEF: "$FRA$" # todo: NEW TRANSLATION
+  HOL_subject: "$HOL$" # todo: NEW TRANSLATION
+  HOL_subject_DEF: "$HOL$" # todo: NEW TRANSLATION
+  ITA_subject: "$ITA$" # todo: NEW TRANSLATION
+  ITA_subject_DEF: "$ITA$" # todo: NEW TRANSLATION
+  GRE_subject: "$GRE$" # todo: NEW TRANSLATION
+  GRE_subject_DEF: "$GRE$" # todo: NEW TRANSLATION
+  ALB_subject: "$IRQ$" # todo: NEW TRANSLATION
+  ALB_subject_DEF: "$IRQ$" # todo: NEW TRANSLATION
+  NOR_subject: "$NOR$" # todo: NEW TRANSLATION
+  NOR_subject_DEF: "$NOR$" # todo: NEW TRANSLATION
+  BRA_subject: "$BRA$" # todo: NEW TRANSLATION
+  BRA_subject_DEF: "$BRA$" # todo: NEW TRANSLATION
+  AST_subject: "$AST$" # todo: NEW TRANSLATION
+  AST_subject_DEF: "$AST$" # todo: NEW TRANSLATION
+  SAF_subject: "$SAF$" # todo: NEW TRANSLATION
+  SAF_subject_DEF: "$SAF$" # todo: NEW TRANSLATION
+  NZL_subject: "$NZL$" # todo: NEW TRANSLATION
+  NZL_subject_DEF: "$NZL$" # todo: NEW TRANSLATION
+  CAN_subject: "$CAN$" # todo: NEW TRANSLATION
+  CAN_subject_DEF: "$CAN$" # todo: NEW TRANSLATION
+  STRATEGICREGION_116: "Eastern Iran" # todo: NEW TRANSLATION
+  DDR_DEF: "the Spanish Republic" # todo: NEW TRANSLATION
+  DDR_ADJ: "Spanish" # todo: NEW TRANSLATION
+  DDR_democratic_ADJ: "Spanish" # todo: NEW TRANSLATION
+  DDR: "Republican Spain" # todo: NEW TRANSLATION
+  AOI_neutrality: "Ethiopia" # todo: NEW TRANSLATION
+  ETH_neutrality: "Abysinnia" # todo: NEW TRANSLATION
+  DDR_neutrality: "Republican Spain" # todo: NEW TRANSLATION
+  DDR_democratic: "Republican Spain" # todo: NEW TRANSLATION
+  DDR_democratic_DEF: "Constitutional Germany" # todo: NEW TRANSLATION
+  BUL_zveno_ns: "Zveno Dissolved" # todo: NEW TRANSLATION
+  SOV_incorporate_local_organizations: "Empower the Soviets" # todo: NEW TRANSLATION
+  ITA_preserve_army_traditions_re_tt: "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_ARMY_ORG$: §G+10.0%§! \n$MODIFIER_ARMY_MORALE_FACTOR$: §G+5.0%§!\n\n" # todo: NEW TRANSLATION
+  armored_car1: "1936 Armored Car" # todo: NEW TRANSLATION
+  bc_tech: "Battlecruiser models" # todo: NEW TRANSLATION
+  armored_car2: "1940 Armored Car" # todo: NEW TRANSLATION
+  armored_car3: "1942 Armored Car" # todo: NEW TRANSLATION
+  CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "You can get the first slot by building the intelligence agency. Other slots will be available after every 10th upgrade or after assigning §HIllusive Gentleman§! advisor.\n" # todo: NEW TRANSLATION
+  uk_scandinavian_focus: "Plan R 4" # todo: NEW TRANSLATION
+  ENG_benelux_intervention: "Operation Market Garden" # todo: NEW TRANSLATION
+  ITA_moschettieri_del_duce_re_tt: "\n\n$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+5.0%§!\n\n" # todo: NEW TRANSLATION
+  SOV_soviet_airforce_aircraft_production_focus_tt: "§YAll types of aircraft§!: £production_cost Production Cost: §G-2.50%§!" # todo: NEW TRANSLATION
+  EQ_MOD_CAT_tank_flamethrower_TITLE: "Utility" # todo: NEW TRANSLATION
+  GER_danzig_or_war: "§gFall§! §WWeiss§!" # todo: NEW TRANSLATION
+  GER_around_maginot: "§gFall§! §YGelb§!" # todo: NEW TRANSLATION
+  GER_weserubung: "Unternehmen Weserübung (Denmark)" # todo: NEW TRANSLATION
+  ITA_increase_production_military_industry_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+10.00%§! \n$MODIFIER_INDUSTRIAL_CAPACITYFactor$: §G+5.00%§! \n\n" # todo: NEW TRANSLATION
+  tank_designer_rocket: "Utility" # todo: NEW TRANSLATION
+  tank_designer_rocket_role_disallowed: "Add a module that allows the §HUtility§! role to be able to switch to it." # todo: NEW TRANSLATION
+  second_italo_ethiopian_war_flag: "The 2nd Italo-Ethiopian War is ongoing §C(Ends February 1937)§!" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4999: "Masturah" # todo: NEW TRANSLATION
+  shadow_scheme_focus_tt: "Grants §G12§! Building Slots and §Y12 Military Factories§! in total in three states when entering a war.\n" # todo: NEW TRANSLATION
+  torpedo_bomber: "Bomber Director" # todo: NEW TRANSLATION
+  spanish_civil_war: "The Spanish Civil War is Ongoing §C(July 1936 to April 1939)§!" # todo: NEW TRANSLATION
+  ETH_the_ethiopian_air_force: "The Italian East African Air Force" # todo: NEW TRANSLATION
+  ETH_ethiopian_shipbuilding: "Italian East African Shipbuilding" # todo: NEW TRANSLATION
+  ETH_ethiopian_industrial_research_institute: "East African Research Institute" # todo: NEW TRANSLATION
+  ETH_declare_for_italy: "Cooperation with Italy" # todo: NEW TRANSLATION
+  GRE_bedrock_of_balkan_financial_stability: "Bedrock of Balkan Financial Stability" # todo: NEW TRANSLATION
+  GRE_fiscal_responsibility: "Fiscal Responsibility" # todo: NEW TRANSLATION
+  GRE_improving_our_defensive_lines: "Building the Metaxas Line" # todo: NEW TRANSLATION
+  ITA_modernize_ansaldo_facilities_military_industry_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5.00%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+5.00%§!\n\n" # todo: NEW TRANSLATION
+  ITA_caligulas_pride_dynamic_modifier_tt: "§Y$ship_hull_super_heavy_1$§!: $production_cost_tt$ §G-5.00%§! \n§Y$ship_hull_super_heavy_1$§!: Armor: §G+10%§! \n" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11561: "Krivoy Rog" # todo: NEW TRANSLATION
+  ETH_reform_the_currency: "Introduce the Italian East African Lira" # todo: NEW TRANSLATION
+  ETH_taxing_the_nobility: "Raise War Taxes" # todo: NEW TRANSLATION
+  VIC_concessions_to_the_germans: "Renegotiate Concessions" # todo: NEW TRANSLATION
+  armored_car_at_upgrade: "Casemate Gun Mount" # todo: NEW TRANSLATION
+  armored_car_at_upgrade_desc: "Putting the main gun on an open casemate allows us to mount bigger cannons." # todo: NEW TRANSLATION
+  sloped_armor: "Sloped Armor Layout" # todo: NEW TRANSLATION
+  ETH_consolidate_east_africa_tt: "We will be able to select decisions to core neighboring states if we control them fully." # todo: NEW TRANSLATION
+  ETH_adopt_the_lira: "Print Money" # todo: NEW TRANSLATION
+  ETH_replace_the_abuna: "Appeal to the Orthodox Church" # todo: NEW TRANSLATION
+  ITA_fanti_dell_aria_re_tt: "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$\n$MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR$: §G-10.00%§! \n$modifier_army_sub_unit_paratrooper_max_org_factor$: §G+5.00%§! \n\n" # todo: NEW TRANSLATION
+  ITA_carica_di_isbuscenskij_re_tt: "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$modifier_army_sub_unit_cavalry_attack_factor$: §G+3.00%§! \n$modifier_army_sub_unit_cavalry_speed_factor$: §G+3.00%§!\n\n" # todo: NEW TRANSLATION
+  GER_pool_technical_know_how: "German Technical Know-How" # todo: NEW TRANSLATION
+  USA_great_depression_cooldown: "New Legislation is still being drafted" # todo: NEW TRANSLATION
+  USA_great_depression_cooldown_tt: "After this law is passed, it will take §Y435 days§! until further New Deal legislation is drafted and ready to be signed.\n\n" # todo: NEW TRANSLATION
+  british_austerity_idea: "General Rearmament" # todo: NEW TRANSLATION
+  ETH_taxed_nobility_idea: "War Taxes" # todo: NEW TRANSLATION
+  SOV_military_reorganization_ns_tt: "\n$SOV_modify_the_red_army_ns_intro$\n\n" # todo: NEW TRANSLATION
+  ITA_libyan_refineries_desc: "Benghasi is a perfect place for constructing refineries. Close to oil sources and close to production in the homeland." # todo: NEW TRANSLATION
+  industrial_factory_donations: "Civilian Factories:" # todo: NEW TRANSLATION
+  secondary_turret_hmg: "Internal Heavy Machine Gun" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9868: "Laayoune" # todo: NEW TRANSLATION
+  ITA_expand_rome_flying_school_ra_tt: "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$\n$MODIFIER_AIR_NIGHT_PENALTY$: §G-15.00%§! \n$MODIFIER_AIR_WEATHER_PENALTY$: §G-15.00%§! \n\n" # todo: NEW TRANSLATION
+  ITA_superaereo_ra_tt: "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$ \n$MODIFIER_AIR_MISSION_EFFICIENCY$: §G+5%§!\n\n" # todo: NEW TRANSLATION
+  ITA_standardization_ra_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$\n$ITA_standardization_dynamic_modifier_tt$\n" # todo: NEW TRANSLATION
+  ITA_standardization_dynamic_modifier_tt: "§YAll Aircraft Equipment§!: $production_cost_tt$ §G-4.00%§!\n" # todo: NEW TRANSLATION
+  ITA_specialization_ra_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$\n$ITA_specialization_dynamic_modifier_tt$\n" # todo: NEW TRANSLATION
+  ITA_supermarina_rm_tt: "$ITA_modify_regia_marina_dynamic_modifier_ns_intro$ \n$MODIFIER_NAVAL_MORALE$: §G+10.0%§! \n$MODIFIER_STRIKE_FORCE_MOVING_ORG$: §G-5.00%§!\n\n" # todo: NEW TRANSLATION
+  ITA_forza_navale_especiale_rm_tt: "$ITA_modify_regia_marina_dynamic_modifier_ns_intro$ \n$MODIFIER_NAVAL_INVASION_PREPARATION$: §G-10.0%§! \n$MODIFIER_NAVAL_INVASION_CAPACITY$: §G+10§! \n$MODIFIER_AMPHIBIOUS_INVASION$: §G+5.0%§! \n\n\n" # todo: NEW TRANSLATION
+  ITA_strengthen_the_blackshirts_template_tt: "Modify template cap of §YCamicie Nere§! by §G+30§!." # todo: NEW TRANSLATION
+  greater_italy_required_other_states: "Italy or a subject of Italy control \n§YCorsica§! \n§YSavoy§! \n§YZara§! \n§YDalmatia§! \n§YLjubljana§! \n§YMalta§! \n§YCrete§! \n§YDodecaneso§!" # todo: NEW TRANSLATION
+  decision_cost_pp_15_AirXP_10: "£pol_power  §Y15§!" # todo: NEW TRANSLATION
+  decision_cost_pp_15_AirXP_10_blocked: "£pol_power  §R15§!" # todo: NEW TRANSLATION
+  decision_cost_pp_15_AirXP_10_tooltip: "It costs £pol_power  §Y15§! to take the decision" # todo: NEW TRANSLATION
+  cruiser_warfare_spirit: "Amphibious Warfare" # todo: NEW TRANSLATION
+  cruiser_warfare_spirit_desc: "The faster we land, the better." # todo: NEW TRANSLATION
+  close_combat_navy_spirit: "Close Naval Support" # todo: NEW TRANSLATION
+  close_combat_navy_spirit_desc: "Getting in close is the key to naval invading." # todo: NEW TRANSLATION
+  aggressive_reconnaisance_spirit: "Aggressive Reconnaissance" # todo: NEW TRANSLATION
+  advanced_light_tank_chassis_short: "1940 Light" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9860: "Santa Cruz de Tenerife" # todo: NEW TRANSLATION
+  military_factory_donations: "Military Factories:" # todo: NEW TRANSLATION
+  SOV_raskovas_aviation_group_ns_tt: "$SOV_modify_airforce_ns_intro$ \nNight Operations Penalty: §G-25.00%§! \n\nWe will deploy a wing of §Y400 U-2§! tactical bombers piloted by the 'Night Witches' in Ivanovo\n\n" # todo: NEW TRANSLATION
+  SOV_propaganda_more_metal_tt: "Providing §G+3§! §Y$state_resource_aluminium$§!, §Y$state_resource_tungsten$§!, §Y$state_resource_steel$§! or §Y$state_resource_chromium$§! for each state producing any of those resources." # todo: NEW TRANSLATION
+  SOV_superior_war_machines_ns_tt: "$SOV_modify_defense_industry_ns_intro$ \n$tank_manufacturer_cost_factor$: §G-100%§! \n\n" # todo: NEW TRANSLATION
+  restructure_supply_system: "Reorganize the Railway System" # todo: NEW TRANSLATION
+  HOL_prepare_the_inundation_lines_tt: "We will §YFlood§! both §YFriesland§! and §YBrabant§! states. States will be drained overtime." # todo: NEW TRANSLATION
+  SOV_national_specialists_tt: "Our Industrial Concerns will get an Upgrade!" # todo: NEW TRANSLATION
+  restructure_supply_system_desc: "By redirecting building materials and railway workers, we can quickly create a small number of make-shift supply dumps along some of our railways. This is, however, not a sustainable way of running the system. \n\n§RThis decision can only be taken once. The bonus will disappear if you construct 1 supply hub.§!" # todo: NEW TRANSLATION
+  armor_tech_1_tt: "Enables Armor Upgrade values of 9 and above." # todo: NEW TRANSLATION
+  SOV_industry_relocation_complete_effect_tt: "Up to §Y2 Military or Civilian Factories§! will be removed from §Y[FROM.GetName]§!.\n" # todo: NEW TRANSLATION
+  SOV_relocate_industry_lose_control_tt: "§RLosing control of [FROM.GetName] will make the factories suffer damage upon relocation.§!" # todo: NEW TRANSLATION
+  armor_tech_2_tt: "Enables Armor Upgrade values of 12 and above." # todo: NEW TRANSLATION
+  HOL_prepare_the_inundation_lines: "Steek De Dijken Door!" # todo: NEW TRANSLATION
+  armor_tech_3_tt: "Enables Armor Upgrade values of 15 and above." # todo: NEW TRANSLATION
+  armor_tech_4_tt: "Enables Armor Upgrade values of 18 and above." # todo: NEW TRANSLATION
+  GRE_metaxism_1: "Greek Nationalism" # todo: NEW TRANSLATION
+  BRA_light_cruiser_1: "Classe Bahia" # todo: NEW TRANSLATION
+  SOV_an_adaptable_army_ns_tt: "$SOV_modify_the_red_army_ns_intro$ \nWinter Attrition: §G-10.0%§! \nHeat Attrition: §G-10.0%§! \nCold accmlimatization gain factor: §G+15.0%§! \nHot accmlimatization gain factor: §G+15.0%§! \n£supply_consumption_texticon  Supply Consumption: §G-5.0%§! \n£organization_texticon  Division Organization: §G+5.0%§! \n§4Every Soviet Commander will gain a trait giving them 3.33% terrain penalty reduction§!." # todo: NEW TRANSLATION
+  GRE_metaxism_2: "Greek Nationalism" # todo: NEW TRANSLATION
+  ITA_fortification_effort: "Defend Our Islands" # todo: NEW TRANSLATION
+  BUL_nikola_petkov: "Nikola Petkov" # todo: NEW TRANSLATION
+  CRO_democratic_party: "HSS" # todo: NEW TRANSLATION
+  JAP_war_conferences_cd: "The Imperial War Conference has convened in the last 3 months" # todo: NEW TRANSLATION
+  CRO_djuro_jakcin: "Đuro Jakčin" # todo: NEW TRANSLATION
+  CRO_djuro_jakcin2: "Đuro Jakčin" # todo: NEW TRANSLATION
+  CRO_fascism_party_long: "Ustaša – Hrvatski Revolucionarni Pokret" # todo: NEW TRANSLATION
+  YUG_serbian_steel: "Croatian Steel" # todo: NEW TRANSLATION
+  BRA_submarine_1: "Classe Humaitá" # todo: NEW TRANSLATION
+  STRATEGICREGION_10: "Sweden" # todo: NEW TRANSLATION
+  GER_case_anton_tt: "Annexes Vichy France in 7 days!§!\n" # todo: NEW TRANSLATION
+  GER_case_anton_tt2: "Does not control any French states in North Africa." # todo: NEW TRANSLATION
+  BRA_submarine_2: "Classe Tupi" # todo: NEW TRANSLATION
+  CRO_democratic_party_long: "Hrvatska Seljačka Stranka" # todo: NEW TRANSLATION
+  GER_case_anton_category_desc: "The intent behind the creation of Vichy France was always to keep the French colonies and the French fleet out of the hands of the allies. However, it is an agreement we may choose to rescind at any time. We have a plan drawn up to forcibly integrate the area, as well as making a lightning push for the French fleet's base at Toulon." # todo: NEW TRANSLATION
+  ETH_ITA_fascism_autonomy_satellite: "Italian East Africa" # todo: NEW TRANSLATION
+  GRE_metaxism_3: "Greek Nationalism" # todo: NEW TRANSLATION
+  BUL_neutrality_party: "Kyoseivanov Cabinet" # todo: NEW TRANSLATION
+  NOR_neutrality_party: "FP" # todo: NEW TRANSLATION
+  NOR_neutrality_party_long: "Folkepartiet" # todo: NEW TRANSLATION
+  FRA_case_anton_mission_tt: "Annexation is avoided." # todo: NEW TRANSLATION
+  tank_heavy_howitzer: "§gBasic§! Heavy Howitzer" # todo: NEW TRANSLATION
+  tank_small_cannon: "§gBasic§! Small Cannon" # todo: NEW TRANSLATION
+  tank_auto_cannon: "§gBasic§! Automatic Cannon" # todo: NEW TRANSLATION
+  tank_auto_cannon_2: "§GImproved§! Automatic Cannon" # todo: NEW TRANSLATION
+  tank_anti_air_cannon: "§gBasic§! Anti-Air Gun" # todo: NEW TRANSLATION
+  tank_anti_air_cannon_2: "§GImproved§! Anti-Air Gun" # todo: NEW TRANSLATION
+  tank_anti_air_cannon_3: "§2Advanced§! Anti-Air Gun" # todo: NEW TRANSLATION
+  tank_small_cannon_2: "§GImproved§! Small Cannon" # todo: NEW TRANSLATION
+  tank_medium_cannon_2: "§GImproved§! Medium Cannon" # todo: NEW TRANSLATION
+  tank_medium_cannon: "§gBasic§! Medium Cannon" # todo: NEW TRANSLATION
+  tank_medium_howitzer: "§gBasic§! Medium Howitzer" # todo: NEW TRANSLATION
+  tank_medium_howitzer_2: "§GImproved§! Medium Howitzer" # todo: NEW TRANSLATION
+  tank_rocket_launcher: "§GBasic§! Rocket Launcher" # todo: NEW TRANSLATION
+  tank_rocket_launcher_2: "§2Improved§! Rocket Launcher" # todo: NEW TRANSLATION
+  tank_heavy_cannon: "§gBasic§! Heavy Cannon" # todo: NEW TRANSLATION
+  tank_heavy_cannon_2: "§GImproved§! Heavy Cannon" # todo: NEW TRANSLATION
+  tank_heavy_cannon_3: "§2Advanced§! Heavy Cannon" # todo: NEW TRANSLATION
+  tank_close_support_gun: "§gBasic§! Close Support Gun" # todo: NEW TRANSLATION
+  tank_heavy_machine_gun: "§gBasic§! Heavy Machine Gun" # todo: NEW TRANSLATION
+  GER_case_anton_category: "Case Anton is being prepared" # todo: NEW TRANSLATION
+  tank_heavy_howitzer_desc: "A heavy field howitzer adapted to be mounted in a vehicle. Its primary purpose is indirect fire support against soft targets, but it can be fired directly at a target if necessary. Carrying only a small amount of armor-percing ammunition, it is ill-suited for anti-tank work." # todo: NEW TRANSLATION
+  GRE_the_hellenic_spirit_desc: "Greeks can be seen as one of the founders of human civilization. We should me more proud of that achievement and revive the nationalist Greek sentiment. We have the right to be proud on this nation!" # todo: NEW TRANSLATION
+  GRE_metaxism_4: "Greek Nationalism" # todo: NEW TRANSLATION
+  YUG_develop_civilian_industry: "Develop Croatian Industry" # todo: NEW TRANSLATION
+  YUG_develop_civilian_industry_desc: "Croatian rakija is known for being the best spirit in the world. We should exploit this and develop our economy." # todo: NEW TRANSLATION
+  engine_tech_1_tt: "Enables Engine Upgrade values of 9 and above." # todo: NEW TRANSLATION
+  engine_tech_2_tt: "Enables Engine Upgrade values of 12 and above." # todo: NEW TRANSLATION
+  engine_tech_3_tt: "Enables Engine Upgrade values of 15 and above." # todo: NEW TRANSLATION
+  SOV_upgrade_industrial_designer_tt: "Modify the following Industrial Designers by: \n\n§Y$stalingrad_tractor_factory$§!: Industrial Research Speed: §G+30%§!, Synthetic resources Research Speed: §G+50%§!, Consumer Goods Factories: §Y-5.0%§! \n\n§Y$leningrad_polytechnical_institute$§!: Electronics Research Speed: §G+40%§!, Research Speed: §G+30.0%§!,Consumer Goods Factories: §Y-2.0%§! \n\n§Y$SOV_soviet_railways$§!: Trains and Railways Research Speed: §G+40%§!, Construction Research Speed: §G+25%§!, Supply Consumption: §G-5%§! Mobilization Speed: §G+25.0%§!, Consumer Goods Factories: §Y-2.0%§!, Infrastructure Construction Speed: §G+25.0%§!" # todo: NEW TRANSLATION
+  SOV_military_engineering_university_ns_tt: "$SOV_modify_defense_industry_ns_intro$ \n§YLand Fort§! construction speed: §G+25.00%§! \n§YCoastal Fort§! construction speed: §G+25.00%§! \n\n" # todo: NEW TRANSLATION
+  engine_tech_4_tt: "Enables Engine Upgrade values of 18 and above." # todo: NEW TRANSLATION
+  SOV_lessons_of_war_cowed_trait_tt: "\n§YEvery army and navy leader§! with the trait §Y$trait_SOV_cowed_by_stalin_army$§!: \n   Loses §Y$trait_SOV_cowed_by_stalin_army$§!:\n     - Division Recovery Rate: §R-5.0%§! \n     - Reinforce Rate: §R-1.0%§!" # todo: NEW TRANSLATION
+  SOV_strengthen_the_mobilization_plan_ns_tt: "$SOV_modify_the_red_army_ns_intro$ \nMobilization speed: §G+100.00%§! \nRecruitable Population: §Y5.00%§! \n\n" # todo: NEW TRANSLATION
+  army_chief_defensive_1: "Army Defense (Expert)" # todo: NEW TRANSLATION
+  army_chief_defensive_2: "Army Defense (Expert)" # todo: NEW TRANSLATION
+  SOV_staggered_retreat: "Order 270" # todo: NEW TRANSLATION
+  BRA_modern_tank_aa_equipment_1: "EE TG AA" # todo: NEW TRANSLATION
+  BRA_modern_tank_aa_equipment_1_short: "EE TG AA" # todo: NEW TRANSLATION
+  ITA_specialization_dynamic_modifier_tt: "§YSmall Plane Airframe§!: $production_cost_tt$ §G-6.00%§!\n" # todo: NEW TRANSLATION
+  ITA_develop_ethiopia: "Develop Italian State of East Africa" # todo: NEW TRANSLATION
+  BUL_CAS_equipment_2: "DAR 10" # todo: NEW TRANSLATION
+  BUL_CAS_equipment_1: "SFKB KB-4 Tchutchuliga-II" # todo: NEW TRANSLATION
+  BUL_CAS_equipment_3: "KB-11A Fazan" # todo: NEW TRANSLATION
+  BRA_destroyer_1: "Classe Carioca" # todo: NEW TRANSLATION
+  BRA_destroyer_2: "Classe Juruena" # todo: NEW TRANSLATION
+  BRA_destroyer_3: "Classe Marcílio Dias" # todo: NEW TRANSLATION
+  BRA_destroyer_4: "Classe Bertioga" # todo: NEW TRANSLATION
+  DESIGNER_UNLOCK: "" # todo: NEW TRANSLATION
+  DESIGNER_REPLACE_DESC: "" # todo: NEW TRANSLATION
+  DESIGNER_ADD_DESC: "" # todo: NEW TRANSLATION
+  DESIGNER_REMOVE_DESC: "" # todo: NEW TRANSLATION
+  DESIGNER_REMOVE_NO_COST: "" # todo: NEW TRANSLATION
+  DESIGNER_NO_COST: "" # todo: NEW TRANSLATION
+  DESIGNER_REMOVE_NEGATIVE_DESC: "" # todo: NEW TRANSLATION
+  EQUIPMENT_UPGRADE_NEXT_UPGRADE_COST: "" # todo: NEW TRANSLATION
+  EQUIPMENT_UPGRADE_PREV_UPGRADE_COST: "" # todo: NEW TRANSLATION
+  army_chief_defensive_4: "Army Defense (Expert)" # todo: NEW TRANSLATION
+  army_chief_defensive_3: "Army Defense (Expert)" # todo: NEW TRANSLATION
+  army_chief_offensive_1: "Army Offense (Expert)" # todo: NEW TRANSLATION
+  army_chief_offensive_2: "Army Offense (Expert)" # todo: NEW TRANSLATION
+  army_chief_offensive_3: "Army Offense (Expert)" # todo: NEW TRANSLATION
+  army_chief_planning_1: "Army Planning (Expert)" # todo: NEW TRANSLATION
+  army_chief_planning_2: "Army Planning (Expert)" # todo: NEW TRANSLATION
+  army_chief_planning_3: "Army Planning (Expert)" # todo: NEW TRANSLATION
+  army_chief_drill_1: "Army Drill (Expert)" # todo: NEW TRANSLATION
+  army_chief_drill_2: "Army Drill (Expert)" # todo: NEW TRANSLATION
+  army_chief_drill_3: "Army Drill (Expert)" # todo: NEW TRANSLATION
+  army_chief_reform_1: "Army Reformer (Expert)" # todo: NEW TRANSLATION
+  army_chief_reform_2: "Army Reformer (Expert)" # todo: NEW TRANSLATION
+  army_chief_reform_3: "Army Reformer (Expert)" # todo: NEW TRANSLATION
+  army_chief_organizational_1: "Army Organization (Expert)" # todo: NEW TRANSLATION
+  army_chief_organizational_2: "Army Organization (Expert)" # todo: NEW TRANSLATION
+  army_chief_organizational_3: "Army Organization (Expert)" # todo: NEW TRANSLATION
+  army_chief_morale_1: "Army Morale (Expert)" # todo: NEW TRANSLATION
+  army_chief_morale_2: "Army Morale (Expert)" # todo: NEW TRANSLATION
+  army_chief_morale_3: "Army Morale (Expert)" # todo: NEW TRANSLATION
+  army_chief_maneuver_1: "Army Maneuver (Expert)" # todo: NEW TRANSLATION
+  army_chief_maneuver_2: "Army Maneuver (Expert)" # todo: NEW TRANSLATION
+  army_chief_maneuver_3: "Army Maneuver (Expert)" # todo: NEW TRANSLATION
+  army_chief_old_guard: "Old Guard" # todo: NEW TRANSLATION
+  army_entrenchment_1: "Entrenchment (Expert)" # todo: NEW TRANSLATION
+  army_entrenchment_2: "Entrenchment (Expert)" # todo: NEW TRANSLATION
+  army_entrenchment_3: "Entrenchment (Expert)" # todo: NEW TRANSLATION
+  army_armored_1: "Armor (Expert)" # todo: NEW TRANSLATION
+  army_armored_2: "Armor (Expert)" # todo: NEW TRANSLATION
+  army_armored_3: "Armor (Genius)" # todo: NEW TRANSLATION
+  army_artillery_1: "Artillery (Expert)" # todo: NEW TRANSLATION
+  army_artillery_2: "Artillery (Expert)" # todo: NEW TRANSLATION
+  army_artillery_3: "Artillery (Expert)" # todo: NEW TRANSLATION
+  army_infantry_1: "Infantry (Expert)" # todo: NEW TRANSLATION
+  army_infantry_2: "Infantry (Expert)" # todo: NEW TRANSLATION
+  army_infantry_3: "Infantry (Genius)" # todo: NEW TRANSLATION
+  army_commando_1: "Commando (Expert)" # todo: NEW TRANSLATION
+  army_commando_2: "Commando (Expert)" # todo: NEW TRANSLATION
+  army_commando_3: "Commando (Genius)" # todo: NEW TRANSLATION
+  army_cavalry_1: "Cavalry (Expert)" # todo: NEW TRANSLATION
+  army_cavalry_2: "Cavalry (Expert)" # todo: NEW TRANSLATION
+  army_cavalry_3: "Cavalry (Expert)" # todo: NEW TRANSLATION
+  army_regrouping_1: "Army Regrouping (Expert)" # todo: NEW TRANSLATION
+  army_regrouping_2: "Army Regrouping (Expert)" # todo: NEW TRANSLATION
+  army_regrouping_3: "Army Regrouping (Expert)" # todo: NEW TRANSLATION
+  army_concealment_1: "Concealment (Expert)" # todo: NEW TRANSLATION
+  army_concealment_2: "Concealment (Expert)" # todo: NEW TRANSLATION
+  army_concealment_3: "Concealment (Expert)" # todo: NEW TRANSLATION
+  army_logistics_1: "Army Logistics (Expert)" # todo: NEW TRANSLATION
+  army_logistics_2: "Army Logistics (Expert)" # todo: NEW TRANSLATION
+  army_logistics_3: "Army Logistics (Expert)" # todo: NEW TRANSLATION
+  air_chief_reform_1: "Air Reformer\n(Specialist)" # todo: NEW TRANSLATION
+  air_chief_reform_2: "Air Reformer\n(Expert)" # todo: NEW TRANSLATION
+  air_chief_reform_3: "Air Reformer\n(Genius)" # todo: NEW TRANSLATION
+  air_chief_safety_1: "Air Safety\n(Specialist)" # todo: NEW TRANSLATION
+  air_chief_safety_2: "Air Safety\n(Expert)" # todo: NEW TRANSLATION
+  air_chief_safety_3: "Air Safety\n(Genius)" # todo: NEW TRANSLATION
+  air_chief_night_operations_1: "Night Operations\n(Specialist)" # todo: NEW TRANSLATION
+  air_chief_night_operations_2: "Night Operations\n(Expert)" # todo: NEW TRANSLATION
+  air_chief_night_operations_3: "Night Operations\n(Genius)" # todo: NEW TRANSLATION
+  air_chief_ground_support_1: "Ground Support\n(Specialist)" # todo: NEW TRANSLATION
+  air_chief_ground_support_2: "Ground Support\n(Expert)" # todo: NEW TRANSLATION
+  air_chief_ground_support_3: "Ground Support\n(Genius)" # todo: NEW TRANSLATION
+  air_chief_all_weather_1: "All-Weather\n(Specialist)" # todo: NEW TRANSLATION
+  air_chief_all_weather_2: "All-Weather\n(Expert)" # todo: NEW TRANSLATION
+  air_chief_all_weather_3: "All-Weather\n(Genius)" # todo: NEW TRANSLATION
+  air_chief_old_guard: "Old Guard" # todo: NEW TRANSLATION
+  air_air_combat_training_1: "Air Combat Training\n(Specialist)" # todo: NEW TRANSLATION
+  air_air_combat_training_2: "Air Combat Training\n(Expert)" # todo: NEW TRANSLATION
+  air_air_combat_training_3: "Air Combat Training\n(Genius)" # todo: NEW TRANSLATION
+  air_naval_strike_1: "Naval Strike\n(Specialist)" # todo: NEW TRANSLATION
+  air_naval_strike_2: "Naval Strike\n(Expert)" # todo: NEW TRANSLATION
+  air_naval_strike_3: "Naval Strike\n(Genius)" # todo: NEW TRANSLATION
+  air_bomber_interception_1: "Bomber Interception\n(Specialist)" # todo: NEW TRANSLATION
+  air_bomber_interception_2: "Bomber Interception\n(Expert)" # todo: NEW TRANSLATION
+  air_bomber_interception_3: "Bomber Interception\n(Genius)" # todo: NEW TRANSLATION
+  air_air_superiority_1: "Air Superiority\n(Specialist)" # todo: NEW TRANSLATION
+  air_air_superiority_2: "Air Superiority\n(Expert)" # todo: NEW TRANSLATION
+  air_air_superiority_3: "Air Superiority\n(Genius)" # todo: NEW TRANSLATION
+  air_close_air_support_1: "Close Air Support\n(Specialist)" # todo: NEW TRANSLATION
+  air_close_air_support_2: "Close Air Support\n(Expert)" # todo: NEW TRANSLATION
+  air_close_air_support_3: "Close Air Support\n(Genius)" # todo: NEW TRANSLATION
+  air_strategic_bombing_1: "Strategic Bombing\n(Specialist)" # todo: NEW TRANSLATION
+  air_strategic_bombing_2: "Strategic Bombing\n(Expert)" # todo: NEW TRANSLATION
+  air_strategic_bombing_3: "Strategic Bombing\n(Genius)" # todo: NEW TRANSLATION
+  air_tactical_bombing_1: "Tactical Bombing\n(Expert)" # todo: NEW TRANSLATION
+  air_tactical_bombing_2: "Tactical Bombing\n(Expert)" # todo: NEW TRANSLATION
+  air_tactical_bombing_3: "Tactical Bombing\n(Expert)" # todo: NEW TRANSLATION
+  air_airborne_1: "Airborne Assault\n(Specialist)" # todo: NEW TRANSLATION
+  air_airborne_2: "Airborne Assault\n(Expert)" # todo: NEW TRANSLATION
+  air_airborne_3: "Airborne Assault\n(Genius)" # todo: NEW TRANSLATION
+  infrastructure_desc: "This building provides the state with improvement of infrastructure. It increases your supply power in strategic regions, increases your divisions' speed, and increases natural resources extracted from a state." # todo: NEW TRANSLATION
+  MODIFIER_NAVAL_INVASION_DEFENSE: "Invasion Defense" # todo: NEW TRANSLATION
+  MODIFIER_NAVAL_INVASION_DEFENSE_DESC: "Reduces the naval invasion penalties so you can fight more efficiently." # todo: NEW TRANSLATION
+  modifier_repair_speed_infrastructure_factor: "Infrastructure Repair Speed" # todo: NEW TRANSLATION
+  modifier_repair_speed_industrial_complex_factor: "Civilian Factory Repair Speed" # todo: NEW TRANSLATION
+  mediterranean_naval_manufacturer: "Mediterranean Fleet Designer" # todo: NEW TRANSLATION
+  MAN_fascism_party: "Concordia Association" # todo: NEW TRANSLATION
+  SWE_democratic: "" # todo: NEW TRANSLATION
+  MAN_fascism_party_long: "Concordia Association" # todo: NEW TRANSLATION
+  VICTORY_POINTS_2089: "Basrah Port" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11683: "Nikolayev" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6593: "Zhitomir" # todo: NEW TRANSLATION
+  VICTORY_POINTS_476: "Vinnitsia" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3457: "Proskurov" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11405: "Zaporozhye" # todo: NEW TRANSLATION
+  naval_defense_factor: "Naval Defense" # todo: NEW TRANSLATION
+  VICTORY_POINTS_8061: "West Alexandria" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4076: "East Alexandria" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12820: "Rumadiyah" # todo: NEW TRANSLATION
+  ENG_tank_focus: "Royal Tank Regiment" # todo: NEW TRANSLATION
+  JAP_armored_divisions: "Chi-Nu Tanks" # todo: NEW TRANSLATION
+  VICTORY_POINTS_498: "East Rostov" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9417: "West Rostov" # todo: NEW TRANSLATION
+  YUG_fascism_party: "JRZ" # todo: NEW TRANSLATION
+  BUL_second_national_catastrophe: "Treaty of Neuilly-sur-Seine" # todo: NEW TRANSLATION
+  BUL_second_national_catastrophe_desc: "The effects of the Great War hit us hard - we have been forced to demilitarise our southern provinces, we can not produce any equipment, and we can certainly not import any." # todo: NEW TRANSLATION
+  VICTORY_POINTS_4112: "Atlantis" # todo: NEW TRANSLATION
+  tank_close_support_gun_desc: "A small weapon designed to fire high-explosive shells against enemy field fortifications to help the infantry on the attack. While capable of engaging tanks, its short barrel and limited ammunition make it unable to deal with more powerful enemy tanks." # todo: NEW TRANSLATION
+  YUG_serbian_steel_desc: "We must start the production of steel in Croatian. We always require more of it for the war effort." # todo: NEW TRANSLATION
+  IRQ_fascism: "Golden Square Iraq" # todo: NEW TRANSLATION
+  BRA_battleship_1: "Classe Minas Gerais" # todo: NEW TRANSLATION
+  CZE_fascism_party: "SNJ" # todo: NEW TRANSLATION
+  CZE_fascism_party_long: "Strana národní jednoty" # todo: NEW TRANSLATION
+  IRQ_fascism_DEF: "Golden Square Iraq" # todo: NEW TRANSLATION
+  royal_ordinance_focus: "Royal Ordinance Factories" # todo: NEW TRANSLATION
+  FRA_egalite_liberte_solidarite: "Egalité, Liberté, Fraternité" # todo: NEW TRANSLATION
+  HUN_expand_the_aluminum_industry: "Expand the Steel Industry" # todo: NEW TRANSLATION
+  AST_royal_australian_artillery: "Royal Australian Anti-Tank" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9989: "Sidi Barrani" # todo: NEW TRANSLATION
+  RAJ_jungle_training_effect: "Enables §HJungle Training§!\n§HSpecial Forces\n    Jungle§!\n      Attack: §G+5%§!\n      Movement: §G+10%§!\n      Defense: §G+5%§!" # todo: NEW TRANSLATION
+  RAJ_mountain_training_effect: "Enables §HMountain Training§!\n§HSpecial Forces\n    Mountains§!\n      Defense: §G+5%§!" # todo: NEW TRANSLATION
+  ALB_fascism: "Golden Square Iraq" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7011: "West Cairo" # todo: NEW TRANSLATION
+  FRA_colonial_recruitment: "Félix Éboué's Tour" # todo: NEW TRANSLATION
+  FRA_colonial_recruitment_desc: "One of our colonial administrators, Félix Éboué, is crucial to building up our image and support among the Africans in our colonies. This is crucial as we must turn to our colonies for aid and recruit our subjects to take up arms for us, lest we be relegated to irrelevancy." # todo: NEW TRANSLATION
+  ALB_fascism_DEF: "Golden Square Iraq" # todo: NEW TRANSLATION
+  SPA_facilitate_pyrenees_freight_transports_tt: "Add maximum §YInfrastructure§! in §YMadrid§!, §YAragón§!, §YCataluña§!, and §YBurgos§!." # todo: NEW TRANSLATION
+  FRA_intervention_in_north_africa: "The Gabon Campaign - Equatorial Africa" # todo: NEW TRANSLATION
+  FRA_intervention_in_north_africa_desc: "Turning Equatorial Africa to our side is vital for our campaign of liberation." # todo: NEW TRANSLATION
+  FRA_intervention_in_west_africa: "Operation Menace" # todo: NEW TRANSLATION
+  FRA_intervention_in_west_africa_desc: "De Gaulle believes that we could persuade the French forces in Dakar to join the Allied cause. Much would be gained by this. Another Vichy French colony changing sides would have great political impact. Also the gold reserves of the Banque de France and the Polish government in exile are stored in Dakar; and the port of Dakar is far superior as a naval base to Freetown, Sierra Leone, which is the only Allied port in the area. We should send a taskforce to negotiate a peaceful occupation and if unsuccessful, take the city by force." # todo: NEW TRANSLATION
+  FRA_intervention_in_syria: "Operation Exporter" # todo: NEW TRANSLATION
+  FRA_intervention_in_syria_desc: "The Vichy French possess a vigorous defence in Syria, but a sudden and surprise strike can shot the defenders before they can react." # todo: NEW TRANSLATION
+  FRA_intervention_in_madagascar: "Operation Ironclad" # todo: NEW TRANSLATION
+  FRA_intervention_in_madagascar_desc: "Madagascar possesses a security risk to our shipping, should it fall to the Japanese. By seizing the island we can secure the South Atlantic and South Pacific trade routes." # todo: NEW TRANSLATION
+  FRA_intervention_in_north_africa: "The Gabon Campaign - Equatorial Africa" # todo: NEW TRANSLATION
+  FRA_intervention_in_central_africa: "The Gabon Campaign - Middle Congo" # todo: NEW TRANSLATION
+  lar_spain.53.t: "Spanish Gold Reserves" # todo: NEW TRANSLATION
+  lar_spain.53.desc: "It has been some time since the Spanish gold reserves arrived in our country, and we have sent ample aid to Spain, without payment. Members of the government are beginning to comment on the farcical state of these affairs, especially given the Nationalist victory over the Republicans." # todo: NEW TRANSLATION
+  lar_spain.53.a: "We will seize the gold reserves as 'payment'." # todo: NEW TRANSLATION
+  joint_training_exercise: "Joint British-French Training Exercise" # todo: NEW TRANSLATION
+  joint_training_exercise_desc: "By land, sea and air, our combined forces will smash the tyrannical aggressors who drove our French allies from their homes and threatened the future of world civilisation! We will launch a training exercise to learn better methods of waging war against our shared belligerents." # todo: NEW TRANSLATION
+  ALB_fascism_party_long: "Golden Square Coup" # todo: NEW TRANSLATION
+  USA_invest_in_state_infrastructure: "Railroad [USA_congress_investment_state.GetName]" # todo: NEW TRANSLATION
+  USA_build_infrastructure_tt: "You will be expected to railroad [USA_congress_investment_state.GetName]" # todo: NEW TRANSLATION
+  PRODUCTION_CONSUMER_GOODS_DESC: "With our current Economic Policy, the people expect $PERCENTAGE|H1%$ of our number of Civilian and Military Factories to produce Consumer Goods. This need is filled by Civilian Factories only, leaving us with $OPERATIONAL|H$ factories where $TRADE_USABLE|H$ can be used for trade." # todo: NEW TRANSLATION
+  GOVERNMENT_IN_EXILE_LEGITIMACY: "" # todo: NEW TRANSLATION
+  STRATEGICREGION_165: "Gibraltar" # todo: NEW TRANSLATION
+  STRATEGICREGION_124: "Neutral South America" # todo: NEW TRANSLATION
+  STRATEGICREGION_129: "Turkey" # todo: NEW TRANSLATION
+  STRATEGICREGION_126: "Libya" # todo: NEW TRANSLATION
+  STRATEGICREGION_127: "Algiers" # todo: NEW TRANSLATION
+  BECAME_EXILE_DESC: "We have capitulated.\n\nWe continue the fight as a §HGovernment in Exile§! hosted by $HOSTNAMEDEF|H$." # todo: NEW TRANSLATION
+  COUNTRY_VIEW_LEGITIMACY_HEADER: "" # todo: NEW TRANSLATION
+  SURRENDER_GIE_LEGITIMACY: "" # todo: NEW TRANSLATION
+  COUNTRY_VIEW_LEGITIMACY_AMOUNT: "" # todo: NEW TRANSLATION
+  BUL_CAS_equipment_3_short: "KB-11A" # todo: NEW TRANSLATION
+  MAN_mamc: "Manchuria Aircraft Manufacturing Company" # todo: NEW TRANSLATION
+  VICTORY_POINTS_6807: "Anglesey" # todo: NEW TRANSLATION
+  EFR_communism_party: "Parti Communiste Francais" # todo: NEW TRANSLATION
+  EFR_democratic_party: "Parti Radical" # todo: NEW TRANSLATION
+  infrastructure_desc: "This building provides the state with improvement of infrastructure. It increases your supply power in strategic regions, increases your divisions' speed, and increases natural resources extracted from a state." # todo: NEW TRANSLATION
+  EFR_fascism_party: "Mouvement Franciste" # todo: NEW TRANSLATION
+  GRE_four_year_plan: "Metaxas' Four Year Plan" # todo: NEW TRANSLATION
+  GRE_four_year_plan_desc: "Desperate times require desperate measures, our homeland seemingly will be attacked and heavy economic reforms are necessary if we want to defend our land in any kind of way. Metaxas has designed a corporatist economic model, which seems to revitalize our small economy." # todo: NEW TRANSLATION
+  expert_improviser_movement_bonus_on_land: "Movement Bonus On Land: §G+10.0%§!" # todo: NEW TRANSLATION
+  armored_car_recon: "Armored Car Recon Company" # todo: NEW TRANSLATION
+  GER_rocketry_focus: "Vengeance Weapons" # todo: NEW TRANSLATION
+  OPERATIVE_FORCED_INTO_HIDING: "§RForced into hiding§!" # todo: NEW TRANSLATION
+  firebrigades: "Fire Brigades" # todo: NEW TRANSLATION
+  HUN_light_infantry_tech: "Shock Divisions Doctrine" # todo: NEW TRANSLATION
+  HUN_light_infantry_tech_desc: "Equipping our divisions with flamethrowers gives them an edge in combat in restricted terrain like Cities and forests." # todo: NEW TRANSLATION
+  HUN_light_infantry_divisions_doctrine: "Shock Divisions Doctrine" # todo: NEW TRANSLATION
+  HUN_light_infantry_divisions_doctrine_tech_tt: "Enables §HShock Divisions Doctrine§!\n§HArmy\n    Forest§!\n      Attack: §G+3%§!\n      Movement: §G+5%§!\n    §HUrban§!\n      Attack: §G+3%§!\n      Movement: §G+5%§!\n" # todo: NEW TRANSLATION
+  HUN_light_infantry_divisions_doctrine_desc: "We must make do with the limited manpower at our disposal by improving the quality of our divisions. We must provide the maximum amount of firepower for our small military." # todo: NEW TRANSLATION
+  ROM_neutrality: "Kingdom of Romania" # todo: NEW TRANSLATION
+  ROM_neutrality_DEF: "the Kingdom of Romania" # todo: NEW TRANSLATION
+  SPR_neutrality: "Nationalist Spain" # todo: NEW TRANSLATION
+  SPR_neutrality_DEF: "Nationalist Spain" # todo: NEW TRANSLATION
+  CHI_neutrality: "United Front" # todo: NEW TRANSLATION
+  CHI_neutrality_DEF: "United Front" # todo: NEW TRANSLATION
+  LAT_neutrality: "The Baltic States" # todo: NEW TRANSLATION
+  LAT_neutrality_DEF: "Baltic States" # todo: NEW TRANSLATION
+  HUN_fascism: "Kingdom of Hungary" # todo: NEW TRANSLATION
+  HUN_fascism_DEF: "Kingdom of Hungary" # todo: NEW TRANSLATION
+  ITA_fascism: "Kingdom of Italy" # todo: NEW TRANSLATION
+  ITA_fascism_DEF: "Kingdom of Italy" # todo: NEW TRANSLATION
+  ETH_neutrality: "Abysinnia" # todo: NEW TRANSLATION
+  ETH_neutrality_def: "Abysinnia" # todo: NEW TRANSLATION
+  ETH_fascism: "Italian East Africa" # todo: NEW TRANSLATION
+  ETH_fascism_def: "Italian East Africa" # todo: NEW TRANSLATION
+  CHI_communism: "People's Republic of China" # todo: NEW TRANSLATION
+  CHI_communism_DEF: "PRC" # todo: NEW TRANSLATION
+  ALB_fascism_party: "Golden Square" # todo: NEW TRANSLATION
+  GER_ostwall_forts: "Places §YLevel 5 Land Forts§! along the Dnieper river to the Baltic, in each of the following states that are fully controlled by your faction:\n" # todo: NEW TRANSLATION
+  GER_west_wall_forts: "Adds §YLevel 5 Land Forts§! on the French border.\n" # todo: NEW TRANSLATION
+  GER_communism_party: "KPD" # todo: NEW TRANSLATION
+  GER_communism_party_long: "Kommunistische Partei Deutschlands" # todo: NEW TRANSLATION
+  GER_fascism_party: "NSDAP" # todo: NEW TRANSLATION
+  GER_fascism_party_long: "Nationalsozialistische Deutsche Arbeiterpartei" # todo: NEW TRANSLATION
+  GER_democratic_party: "Zentrum" # todo: NEW TRANSLATION
+  GER_democratic_party_long: "Deutsche Zentrumspartei" # todo: NEW TRANSLATION
+  GER_neutrality_party: "DNVP" # todo: NEW TRANSLATION
+  GER_neutrality_party_long: "Deutschnationale Volkspartei" # todo: NEW TRANSLATION
+  GER_neutrality_party_kaiserreich: "DNVP" # todo: NEW TRANSLATION
+  GER_neutrality_party_kaiserreich_long: "Deutschnationale Volkspartei" # todo: NEW TRANSLATION
+  WGR_communism_party: "KPD" # todo: NEW TRANSLATION
+  WGR_communism_party_long: "Kommunistische Partei Deutschlands" # todo: NEW TRANSLATION
+  WGR_fascism_party: "DKP-DRP" # todo: NEW TRANSLATION
+  WGR_fascism_party_long: "Deutsche Konservative Partei – Deutsche Rechtspartei" # todo: NEW TRANSLATION
+  WGR_democratic_party: "CDU/CSU" # todo: NEW TRANSLATION
+  WGR_democratic_party_long: "Christlich Demokratische Union Deutschlands/Christlich-Soziale Union in Bayern" # todo: NEW TRANSLATION
+  WGR_neutrality_party: "DP" # todo: NEW TRANSLATION
+  WGR_neutrality_party_long: "Deutsche Partei" # todo: NEW TRANSLATION
+  DDR_communism_party: "SED" # todo: NEW TRANSLATION
+  DDR_communism_party_long: "Sozialistische Einheitspartei Deutschlands" # todo: NEW TRANSLATION
+  DDR_fascism_party: "NDPD" # todo: NEW TRANSLATION
+  DDR_fascism_party_long: "National-Demokratische Partei Deutschlands" # todo: NEW TRANSLATION
+  DDR_democratic_party: "CDU" # todo: NEW TRANSLATION
+  DDR_democratic_party_long: "Christlich-Demokratische Union Deutschlands" # todo: NEW TRANSLATION
+  DDR_neutrality_party: "LDPD" # todo: NEW TRANSLATION
+  DDR_neutrality_party_long: "Liberal-Demokratische Partei Deutschlands" # todo: NEW TRANSLATION
+  POL_communism_party: "KPP" # todo: NEW TRANSLATION
+  POL_communism_party_long: "Komunistyczna Partia Polski" # todo: NEW TRANSLATION
+  POL_fascism_party: "RNR-Falanga" # todo: NEW TRANSLATION
+  POL_fascism_party_long: "Ruch Narodowo Radykalny-Falanga" # todo: NEW TRANSLATION
+  POL_democratic_party: "SL" # todo: NEW TRANSLATION
+  POL_democratic_party_long: "Stronnictwo Ludowe" # todo: NEW TRANSLATION
+  POL_neutrality_party: "Sanacja" # todo: NEW TRANSLATION
+  POL_neutrality_party_long: "Sanacja" # todo: NEW TRANSLATION
+  SOV_communism_party: "AUCP(b)" # todo: NEW TRANSLATION
+  SOV_communism_party_long: "All-Union Communist Party (Bolsheviks)" # todo: NEW TRANSLATION
+  SOV_fascism_party: "RFP" # todo: NEW TRANSLATION
+  SOV_fascism_party_long: "Russian Fascist Party" # todo: NEW TRANSLATION
+  SOV_democratic_party: "PB" # todo: NEW TRANSLATION
+  SOV_democratic_party_long: "Progressive Bloc" # todo: NEW TRANSLATION
+  SOV_neutrality_party: "RLM" # todo: NEW TRANSLATION
+  RESEARCH_TECH_UNUSED: "§GClick to research§!\nWithin 10 days, you can choose a new area to research without loss of research time." # todo: NEW TRANSLATION
+  SOV_neutrality_party_long: "Russian Liberation Movement" # todo: NEW TRANSLATION
+  FRA_communism_party: "PCF" # todo: NEW TRANSLATION
+  FRA_communism_party_long: "Parti communiste français" # todo: NEW TRANSLATION
+  FRA_fascism_party: "Révolution nationale" # todo: NEW TRANSLATION
+  FRA_fascism_party_long: "Révolution nationale" # todo: NEW TRANSLATION
+  FRA_democratic_party: "PR" # todo: NEW TRANSLATION
+  FRA_democratic_party_long: "Parti radical" # todo: NEW TRANSLATION
+  FRA_neutrality_party: "Légitimistes" # todo: NEW TRANSLATION
+  FRA_neutrality_party_long: "Légitimistes" # todo: NEW TRANSLATION
+  JAP_communism_party: "JCP" # todo: NEW TRANSLATION
+  JAP_communism_party_long: "Japanese Communist Party" # todo: NEW TRANSLATION
+  JAP_fascism_party: "Tōseiha" # todo: NEW TRANSLATION
+  JAP_fascism_party_long: "Control Faction [Tōseiha]" # todo: NEW TRANSLATION
+  JAP_democratic_party: "SDP" # todo: NEW TRANSLATION
+  JAP_democratic_party_long: "Social Democratic Party" # todo: NEW TRANSLATION
+  JAP_neutrality_party: "Kōdōha" # todo: NEW TRANSLATION
+  JAP_neutrality_party_long: "Imperial Way Faction [Kōdōha]" # todo: NEW TRANSLATION
+  JAP_neutrality_party_kodoha: "Kódóha" # todo: NEW TRANSLATION
+  JAP_neutrality_party_kodoha_long: "Frakce císařské cesty [Kōdōha]" # todo: NEW TRANSLATION
+  USA_communism_party: "CPUSA" # todo: NEW TRANSLATION
+  USA_communism_party_long: "Communist Party of the United States of America" # todo: NEW TRANSLATION
+  USA_fascism_party: "Silver Legion of America" # todo: NEW TRANSLATION
+  USA_fascism_party_long: "Silver Legion of America" # todo: NEW TRANSLATION
+  USA_democratic_party: "Democratic Party" # todo: NEW TRANSLATION
+  USA_democratic_party_long: "Democratic Party" # todo: NEW TRANSLATION
+  USA_republican_party: "Republican Party" # todo: NEW TRANSLATION
+  USA_republican_party_long: "Republican Party" # todo: NEW TRANSLATION
+  USA_neutrality_party: "U.S. Armed Forces" # todo: NEW TRANSLATION
+  USA_neutrality_party_long: "United States Armed Forces" # todo: NEW TRANSLATION
+  USB_communism_party: "CPUSA" # todo: NEW TRANSLATION
+  USB_communism_party_long: "Communist Party of the United States of America" # todo: NEW TRANSLATION
+  USB_fascism_party: "Silver Legion of America" # todo: NEW TRANSLATION
+  USB_fascism_party_long: "Silver Legion of America" # todo: NEW TRANSLATION
+  USB_democratic_party: "Democratic Party" # todo: NEW TRANSLATION
+  USB_democratic_party_long: "Democratic Party" # todo: NEW TRANSLATION
+  USB_neutrality_party: "Autonomous Council of Chicago" # todo: NEW TRANSLATION
+  USB_neutrality_party_long: "Autonomous Council of Chicago" # todo: NEW TRANSLATION
+  CSA_communism_party: "CPUSA" # todo: NEW TRANSLATION
+  CSA_communism_party_long: "Communist Party of the United States of America" # todo: NEW TRANSLATION
+  CSA_fascism_party: "Silver Legion of America" # todo: NEW TRANSLATION
+  CSA_fascism_party_long: "Silver Legion of America" # todo: NEW TRANSLATION
+  CSA_democratic_party: "Republican Party" # todo: NEW TRANSLATION
+  CSA_democratic_party_long: "Republican Party" # todo: NEW TRANSLATION
+  CSA_neutrality_party: "Confederate States Army" # todo: NEW TRANSLATION
+  CSA_neutrality_party_long: "Confederate States Army" # todo: NEW TRANSLATION
+  ENG_communism_party: "CPGB" # todo: NEW TRANSLATION
+  ENG_communism_party_long: "Communist Party of Great Britain" # todo: NEW TRANSLATION
+  ENG_fascism_party: "BUF" # todo: NEW TRANSLATION
+  ENG_fascism_party_long: "British Union of Fascists" # todo: NEW TRANSLATION
+  ENG_democratic_party: "Conservative Party" # todo: NEW TRANSLATION
+  ENG_democratic_party_long: "Conservative and Unionist Party" # todo: NEW TRANSLATION
+  ENG_neutrality_party: "House of Windsor" # todo: NEW TRANSLATION
+  ENG_neutrality_party_long: "House of Windsor" # todo: NEW TRANSLATION
+  ENG_neutrality_party_kings_party: "King's Party" # todo: NEW TRANSLATION
+  ENG_neutrality_party_kings_party_long: "The King's Party" # todo: NEW TRANSLATION
+  ENG_neutrality_party_queens_party: "Queen's Party" # todo: NEW TRANSLATION
+  ENG_neutrality_party_queens_party_long: "The Queen's Party" # todo: NEW TRANSLATION
+  ITA_communism_party: "PCI" # todo: NEW TRANSLATION
+  ITA_communism_party_long: "Partito Comunista Italiano" # todo: NEW TRANSLATION
+  ITA_fascism_party: "PNF" # todo: NEW TRANSLATION
+  ITA_fascism_party_long: "Partito Nazionale Fascista" # todo: NEW TRANSLATION
+  ITA_democratic_party: "PdA" # todo: NEW TRANSLATION
+  ITA_democratic_party_long: "Partito d'Azione" # todo: NEW TRANSLATION
+  ITA_neutrality_party: "Casa Savoia" # todo: NEW TRANSLATION
+  ITA_neutrality_party_long: "Casa Savoia" # todo: NEW TRANSLATION
+  CHI_communism_party: "CCP (Zhang)" # todo: NEW TRANSLATION
+  CHI_communism_party_long: "Chinese Communist Party - Zhang Guotao's faction" # todo: NEW TRANSLATION
+  CHI_fascism_party: "KMT (Wang)" # todo: NEW TRANSLATION
+  CHI_fascism_party_long: "Kuomintang - Wang Jingwei's faction" # todo: NEW TRANSLATION
+  CHI_democratic_party: "KMT (Weng)" # todo: NEW TRANSLATION
+  CHI_democratic_party_long: "Kuomintang - Weng Wenhao's faction" # todo: NEW TRANSLATION
+  CHI_neutrality_party: "KMT (Chiang)" # todo: NEW TRANSLATION
+  CHI_neutrality_party_long: "Kuomintang - Chiang Kai-Shek's faction" # todo: NEW TRANSLATION
+  PRC_communism_party: "CCP" # todo: NEW TRANSLATION
+  PRC_communism_party_long: "Chinese Communist Party" # todo: NEW TRANSLATION
+  PRC_fascism_party: "YCP" # todo: NEW TRANSLATION
+  PRC_fascism_party_long: "Chinese Youth Party" # todo: NEW TRANSLATION
+  PRC_democratic_party: "CNSP" # todo: NEW TRANSLATION
+  PRC_democratic_party_long: "Chinese National Socialist Party" # todo: NEW TRANSLATION
+  PRC_neutrality_party: "Chinese ACNL" # todo: NEW TRANSLATION
+  PRC_neutrality_party_long: "Chinese Action Committee for National Liberation" # todo: NEW TRANSLATION
+  SHX_communism_party: "CCP (Yan)" # todo: NEW TRANSLATION
+  SHX_communism_party_long: "Chinese Communist Party - Yan Xishan's faction" # todo: NEW TRANSLATION
+  SHX_fascism_party: "Shanxi Clique" # todo: NEW TRANSLATION
+  SHX_fascism_party_long: "Shanxi Clique" # todo: NEW TRANSLATION
+  SHX_democratic_party: "KMT (Yan)" # todo: NEW TRANSLATION
+  SHX_democratic_party_long: "Kuomintang - Yan Xishan's faction" # todo: NEW TRANSLATION
+  SHX_neutrality_party: "KMT (Yan)" # todo: NEW TRANSLATION
+  SHX_neutrality_party_long: "Kuomintang - Yan Xishan's faction" # todo: NEW TRANSLATION
+  MAN_communism_party: "CPM" # todo: NEW TRANSLATION
+  MAN_communism_party_long: "Communist Party of Manchuria" # todo: NEW TRANSLATION
+  MAN_fascism_party: "Concordia Association" # todo: NEW TRANSLATION
+  MAN_fascism_party_long: "Concordia Association" # todo: NEW TRANSLATION
+  MAN_democratic_party: "Northeast Administrative Committee" # todo: NEW TRANSLATION
+  MAN_democratic_party_long: "Northeast Administrative Committee" # todo: NEW TRANSLATION
+  MAN_neutrality_party: "Qing Dynasty" # todo: NEW TRANSLATION
+  MAN_neutrality_party_long: "Qing Dynasty" # todo: NEW TRANSLATION
+  MEN_communism_party: "IMPP" # todo: NEW TRANSLATION
+  MEN_communism_party_long: "Inner Mongolian People's Party" # todo: NEW TRANSLATION
+  MEN_fascism_party: "MMG/MUAG" # todo: NEW TRANSLATION
+  MEN_fascism_party_long: "Mongol Military Government/Mongol United Autonomous Government" # todo: NEW TRANSLATION
+  MEN_democratic_party: "MAF" # todo: NEW TRANSLATION
+  MEN_democratic_party_long: "Mongolian Autonomous Federation" # todo: NEW TRANSLATION
+  MEN_neutrality_party: "Borjigin Imperial Clan" # todo: NEW TRANSLATION
+  MEN_neutrality_party_long: "Borjigin Imperial Clan" # todo: NEW TRANSLATION
+  XSM_communism_party: "CCP (Ma)" # todo: NEW TRANSLATION
+  XSM_communism_party_long: "Chinese Communist Party - Ma Bufang's faction" # todo: NEW TRANSLATION
+  XSM_fascism_party: "Ma Clique" # todo: NEW TRANSLATION
+  XSM_fascism_party_long: "Ma Clique" # todo: NEW TRANSLATION
+  XSM_democratic_party: "KMT (Ma)" # todo: NEW TRANSLATION
+  XSM_democratic_party_long: "Kuomintang - Ma Bufang's faction" # todo: NEW TRANSLATION
+  XSM_neutrality_party: "KMT (Ma)" # todo: NEW TRANSLATION
+  XSM_neutrality_party_long: "Kuomintang - Ma Bufang's faction" # todo: NEW TRANSLATION
+  GXC_communism_party: "CCP (Li)" # todo: NEW TRANSLATION
+  GXC_communism_party_long: "Chinese Communist Party - Li Zongren's faction" # todo: NEW TRANSLATION
+  GXC_fascism_party: "New Guanxi Clique" # todo: NEW TRANSLATION
+  GXC_fascism_party_long: "New Guanxi Clique" # todo: NEW TRANSLATION
+  GXC_democratic_party: "KMT (Li)" # todo: NEW TRANSLATION
+  GXC_democratic_party_long: "Kuomintang - Li Zongren's faction" # todo: NEW TRANSLATION
+  GXC_neutrality_party: "KMT (Li)" # todo: NEW TRANSLATION
+  GXC_neutrality_party_long: "Kuomintang - Li Zongren's faction" # todo: NEW TRANSLATION
+  YUN_communism_party: "CCP (Long)" # todo: NEW TRANSLATION
+  YUN_communism_party_long: "Chinese Communist Party - Long Yun's faction" # todo: NEW TRANSLATION
+  YUN_fascism_party: "Yunnan Clique" # todo: NEW TRANSLATION
+  YUN_fascism_party_long: "Yunnan Clique" # todo: NEW TRANSLATION
+  YUN_democratic_party: "KMT (Long)" # todo: NEW TRANSLATION
+  YUN_democratic_party_long: "Kuomintang - Long Yun's faction" # todo: NEW TRANSLATION
+  YUN_neutrality_party: "KMT (Long)" # todo: NEW TRANSLATION
+  YUN_neutrality_party_long: "Kuomintang - Long Yun's faction" # todo: NEW TRANSLATION
+  MON_communism_party: "MPP" # todo: NEW TRANSLATION
+  MON_communism_party_long: "Mongolian People's Party" # todo: NEW TRANSLATION
+  MON_fascism_party: "Mongol Army" # todo: NEW TRANSLATION
+  MON_fascism_party_long: "Mongol Army" # todo: NEW TRANSLATION
+  MON_democratic_party: "MDA" # todo: NEW TRANSLATION
+  MON_democratic_party_long: "Mongolian Democratic Association" # todo: NEW TRANSLATION
+  MON_neutrality_party: "Khanate" # todo: NEW TRANSLATION
+  MON_neutrality_party_long: "Khanate" # todo: NEW TRANSLATION
+  TAN_communism_party: "TPRP" # todo: NEW TRANSLATION
+  TAN_communism_party_long: "Tuvan People's Revolutionary Party" # todo: NEW TRANSLATION
+  TAN_fascism_party: "TNP" # todo: NEW TRANSLATION
+  TAN_fascism_party_long: "Tuvan National Party" # todo: NEW TRANSLATION
+  TAN_democratic_party: "TDP" # todo: NEW TRANSLATION
+  TAN_democratic_party_long: "Tuvan Democratic Party" # todo: NEW TRANSLATION
+  TAN_neutrality_party: "TRP" # todo: NEW TRANSLATION
+  TAN_neutrality_party_long: "Tuvan Royalist Party" # todo: NEW TRANSLATION
+  TIB_communism_party: "CPT" # todo: NEW TRANSLATION
+  TIB_communism_party_long: "Communist Party of Tibet" # todo: NEW TRANSLATION
+  TIB_fascism_party: "Ganden Phodrang" # todo: NEW TRANSLATION
+  TIB_fascism_party_long: "Ganden Phodrang" # todo: NEW TRANSLATION
+  TIB_democratic_party: "Kashag" # todo: NEW TRANSLATION
+  TIB_democratic_party_long: "Kashag" # todo: NEW TRANSLATION
+  TIB_neutrality_party: "Reting Rinpoche" # todo: NEW TRANSLATION
+  TIB_neutrality_party_long: "Reting Rinpoche" # todo: NEW TRANSLATION
+  SIK_communism_party: "People's Anti-Imperialist Association" # todo: NEW TRANSLATION
+  SIK_communism_party_long: "People's Anti-Imperialist Association" # todo: NEW TRANSLATION
+  SIK_fascism_party: "Xinjiang Clique" # todo: NEW TRANSLATION
+  SIK_fascism_party_long: "Xinjiang Clique" # todo: NEW TRANSLATION
+  SIK_democratic_party: "KMT (Sheng)" # todo: NEW TRANSLATION
+  SIK_democratic_party_long: "Kuomintang - Sheng Shicai's faction" # todo: NEW TRANSLATION
+  SIK_neutrality_party: "KMT (Sheng)" # todo: NEW TRANSLATION
+  SIK_neutrality_party_long: "Kuomintang - Sheng Shicai's faction" # todo: NEW TRANSLATION
+  BHU_communism_party: "CPB" # todo: NEW TRANSLATION
+  BHU_communism_party_long: "Communist Party of Bhutan" # todo: NEW TRANSLATION
+  BHU_fascism_party: "RBA" # todo: NEW TRANSLATION
+  BHU_fascism_party_long: "Royal Bhutan Army" # todo: NEW TRANSLATION
+  BHU_democratic_party: "BPPP" # todo: NEW TRANSLATION
+  BHU_democratic_party_long: "Bhutan Peace and Prosperity Party" # todo: NEW TRANSLATION
+  BHU_neutrality_party: "Wangchuk Dynasty" # todo: NEW TRANSLATION
+  BHU_neutrality_party_long: "Wangchuk Dynasty" # todo: NEW TRANSLATION
+  NEP_communism_party: "CPN" # todo: NEW TRANSLATION
+  NEP_communism_party_long: "Communist Party of Nepal" # todo: NEW TRANSLATION
+  NEP_fascism_party: "NPP" # todo: NEW TRANSLATION
+  NEP_fascism_party_long: "National People's Party" # todo: NEW TRANSLATION
+  NEP_democratic_party: "NC" # todo: NEW TRANSLATION
+  NEP_democratic_party_long: "Nepali Congress" # todo: NEW TRANSLATION
+  NEP_neutrality_party: "Rana Dynasty" # todo: NEW TRANSLATION
+  NEP_neutrality_party_long: "Rana Dynasty" # todo: NEW TRANSLATION
+  HUN_communism_party: "KMP" # todo: NEW TRANSLATION
+  HUN_communism_party_long: "Kommunisták Magyarországi Pártja" # todo: NEW TRANSLATION
+  HUN_fascism_party: "NEP" # todo: NEW TRANSLATION
+  HUN_fascism_party_long: "Nemzeti Egység Pártja" # todo: NEW TRANSLATION
+  HUN_arrow_cross_party: "NYKP" # todo: NEW TRANSLATION
+  HUN_arrow_cross_party_long: "Nyilaskeresztes Párt – Hungarista Mozgalom" # todo: NEW TRANSLATION
+  HUN_democratic_party: "MSZDP" # todo: NEW TRANSLATION
+  HUN_democratic_party_long: "Magyarországi Szociáldemokrata Párt" # todo: NEW TRANSLATION
+  HUN_neutrality_party: "Regency" # todo: NEW TRANSLATION
+  HUN_neutrality_party_long: "Regency" # todo: NEW TRANSLATION
+  HUN_legitimists_party: "Királypártiak" # todo: NEW TRANSLATION
+  HUN_legitimists_party_long: "Királypártiak" # todo: NEW TRANSLATION
+  CZE_communism_party: "KSČ" # todo: NEW TRANSLATION
+  CZE_communism_party_long: "Komunistická strana Československa" # todo: NEW TRANSLATION
+  CZE_democratic_party: "ČSNS" # todo: NEW TRANSLATION
+  CZE_democratic_party_long: "Česká strana národně sociální" # todo: NEW TRANSLATION
+  CZE_fascism_party: "SNJ" # todo: NEW TRANSLATION
+  CZE_fascism_party_long: "Strana národní jednoty" # todo: NEW TRANSLATION
+  CZE_neutrality_party: "RSZML" # todo: NEW TRANSLATION
+  CZE_neutrality_party_long: "Republikánská strana zemědělského a malorolnického lidu" # todo: NEW TRANSLATION
+  SLO_communism_party: "KSS" # todo: NEW TRANSLATION
+  SLO_communism_party_long: "Komunistická strana Slovenska" # todo: NEW TRANSLATION
+  SLO_fascism_party: "HSĽS-SSNJ" # todo: NEW TRANSLATION
+  SLO_fascism_party_long: "Hlinkova slovenská ľudová strana – Strana slovenskej národnej jednoty" # todo: NEW TRANSLATION
+  SLO_democratic_party: "SNS" # todo: NEW TRANSLATION
+  SLO_democratic_party_long: "Slovenská národná strana" # todo: NEW TRANSLATION
+  SLO_neutrality_party: "RSZML" # todo: NEW TRANSLATION
+  SLO_neutrality_party_long: "Republikánská strana zemědělského a malorolnického lidu" # todo: NEW TRANSLATION
+  AUS_fascism_party: "DNSAP" # todo: NEW TRANSLATION
+  AUS_fascism_party_long: "Deutsche Nationalsozialistische Arbeiterpartei" # todo: NEW TRANSLATION
+  CAN_fascism_party: "NSCP" # todo: NEW TRANSLATION
+  CAN_fascism_party_long: "National Social Christian Party" # todo: NEW TRANSLATION
+  YUG_communism_party: "KPJ" # todo: NEW TRANSLATION
+  YUG_communism_party_long: "Komunistička partija Jugoslavije" # todo: NEW TRANSLATION
+  YUG_democratic_party: "Demokratska stranka" # todo: NEW TRANSLATION
+  YUG_democratic_party_long: "Jugoslovenska demokratska stranka" # todo: NEW TRANSLATION
+  YUG_fascism_party: "JRZ" # todo: NEW TRANSLATION
+  YUG_fascism_party_long: "Jugoslovenska radikalna zajednica" # todo: NEW TRANSLATION
+  YUG_neutrality_party: "Regency Council" # todo: NEW TRANSLATION
+  YUG_neutrality_party_long: "Regency Council" # todo: NEW TRANSLATION
+  SER_communism_party: "KPS" # todo: NEW TRANSLATION
+  SER_communism_party_long: "Komunistička partija Srbije" # todo: NEW TRANSLATION
+  SER_fascism_party: "VNS" # todo: NEW TRANSLATION
+  SER_fascism_party_long: "Vlada narodnog spasa" # todo: NEW TRANSLATION
+  SER_democratic_party: "Chetniks" # todo: NEW TRANSLATION
+  SER_democratic_party_long: "Chetnik Detachments of the Yugoslav Army" # todo: NEW TRANSLATION
+  SER_neutrality_party: "Karađorđević Dynasty" # todo: NEW TRANSLATION
+  SER_neutrality_party_long: "Karađorđević Dynasty" # todo: NEW TRANSLATION
+  BEL_neutrality_party: "House of Belgium" # todo: NEW TRANSLATION
+  BEL_neutrality_party_long: "House of Belgium" # todo: NEW TRANSLATION
+  SAF_communism_party: "CPSA" # todo: NEW TRANSLATION
+  SAF_communism_party_long: "Communist Party of South Africa" # todo: NEW TRANSLATION
+  ETH_communism_party: "Military Junta" # todo: NEW TRANSLATION
+  ETH_communism_party_long: "Military Junta" # todo: NEW TRANSLATION
+  ETH_fascism_party: "Viceroyalty Administration" # todo: NEW TRANSLATION
+  ETH_fascism_party_long: "Viceroyalty Administration" # todo: NEW TRANSLATION
+  SPR_fascism_party: "CEDA" # todo: NEW TRANSLATION
+  SPR_fascism_party_long: "Confederación Española de Derechas Autónomas" # todo: NEW TRANSLATION
+  SPR_democratic_party: "PSOE" # todo: NEW TRANSLATION
+  SPR_democratic_party_long: "Partido Socialista Obrero Español" # todo: NEW TRANSLATION
+  SPR_communism_party: "PCE" # todo: NEW TRANSLATION
+  SPR_communism_party_long: "Partido Comunista de España" # todo: NEW TRANSLATION
+  SPR_neutrality_party: "CT" # todo: NEW TRANSLATION
+  SPR_neutrality_party_long: "Comunión Tradicionalista" # todo: NEW TRANSLATION
+  SPR_fascism_falange_party: "FE de las JONS" # todo: NEW TRANSLATION
+  SPR_fascism_falange_party_long: "Falange Española de las Juntas de Ofensiva Nacional Sindicalista" # todo: NEW TRANSLATION
+  SPR_fascism_francoist_party: "FET de las JONS" # todo: NEW TRANSLATION
+  SPR_fascism_francoist_party_long: "Falange Española Tradicionalista de las Juntas de Ofensiva Nacional Sindicalista" # todo: NEW TRANSLATION
+  SPR_communism_independent_party: "POUM" # todo: NEW TRANSLATION
+  SPR_communism_independent_party_long: "Partido Obrero de Unificación Marxista" # todo: NEW TRANSLATION
+  SPR_neutrality_anarchism_party: "CNT/FAI" # todo: NEW TRANSLATION
+  SPR_neutrality_anarchism_party_long: "Confederación Nacional del Trabajo/Federación Anarquista Ibérica" # todo: NEW TRANSLATION
+  SPR_neutrality_military_junta_party: "Junta Militar" # todo: NEW TRANSLATION
+  SPR_neutrality_military_junta_party_long: "Junta Militar" # todo: NEW TRANSLATION
+  POR_neutrality_party: "União Nacional" # todo: NEW TRANSLATION
+  POR_neutrality_party_long: "União Nacional" # todo: NEW TRANSLATION
+  POR_monarchy_party: "Causa Monárquica" # todo: NEW TRANSLATION
+  POR_monarchy_party_long: "Causa Monárquica" # todo: NEW TRANSLATION
+  POR_communism_party: "PCP" # todo: NEW TRANSLATION
+  POR_communism_party_long: "Partido Comunista Português" # todo: NEW TRANSLATION
+  POR_communism2_party: "PCP" # todo: NEW TRANSLATION
+  POR_communism2_party_long: "Partido Comunista Português" # todo: NEW TRANSLATION
+  POR_democratic_party: "ARS" # todo: NEW TRANSLATION
+  POR_democratic_party_long: "Aliança Republicana e Socialista" # todo: NEW TRANSLATION
+  POR_fascism_party: "MNS" # todo: NEW TRANSLATION
+  POR_fascism_party_long: "Movimento Nacional-Sindicalista" # todo: NEW TRANSLATION
+  ETH_the_second_italo-ethiopian_war: "The East African Campaign" # todo: NEW TRANSLATION
+  GER_light_tank_equipment_3: "Panzer II Ausf. L 'Luchs'" # todo: NEW TRANSLATION
+  GER_light_tank_equipment_3_short: "Panzer II Ausf. L" # todo: NEW TRANSLATION
+  ETH_falling_back_tt: "Allied units throughout Italian East Africa will have 15% less attack bonus and 25% less movement speed" # todo: NEW TRANSLATION

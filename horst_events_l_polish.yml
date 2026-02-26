@@ -1,0 +1,459 @@
+﻿l_polish:
+  NSB_soviet_five_year_plan.4643.t: "Systém spojenecké velké strategie" # todo: NEW TRANSLATION
+  NSB_soviet_five_year_plan.4643.desc: "Systém rovnováhy sil 'Spojenecká velká strategie' může masivně upravit vaše válečné úsilí proti Ose a Větší asijsko‑tichomořské sféře soužití. Můžete získat bonusy a penalizace na základě toho, jak moc se přikláníte k buď §BJapan First!§! nebo §BGermany First!§!. Čím více se přikloníte k jedné z těchto možností, tím silnější je vaše frakce v boji proti danému národu, a tím relevantnější to je pro Spojeneckou velkou strategii. Jako Spojenci je kritické, abyste se nacházeli někde na spektru Germany First! před zahájením vylodění v Normandii, operace Husky nebo jiného boje proti Ose. Musíte zamezit Japonsku obsadit historické cíle, které se jim v realitě nepodařilo dobýt, jako §BArunchal Pradesh§!, §BPapua New Guinea§!, §BWake Island§!, a §BCeylon§!. Japonsko také donutí Spojence přiklonit se k Japan First! poté, co obsadí Singapur. Čím více cílů Japonsko obsadí, tím rychleji se Spojenci posouvají směrem k Japan First!. Naopak, obsazení určitých cílů proti Japonsku vás posune směrem k Germany First!, konkrétně §BMarcus Island§!, §BTaiwan§!, §BOkinawa§!, §BBangkok§!, a §BIwo Jima§!." # todo: NEW TRANSLATION
+  NSB_soviet_five_year_plan.4643.a: "Rozumím." # todo: NEW TRANSLATION
+  romania.7: "Shromáždění Železné gardy" # todo: NEW TRANSLATION
+  romania.7.t: "Shromáždění Železné gardy" # todo: NEW TRANSLATION
+  romania.7.desc: "Železná garda se shromáždila na místním náměstí; takové shromáždění je z mnoha důvodů nebezpečné. Jsou známi tím, že organizují hanobení místních památek, obtěžují místní menšiny, protestují proti vládním aktivitám a začínají potyčky s místními orgány." # todo: NEW TRANSLATION
+  romania.7.a: "Nechte je si uspořádat jejich malé shromáždění..." # todo: NEW TRANSLATION
+  romania.7.b: "Pokud se shromáždí, bude snazší je uvěznit." # todo: NEW TRANSLATION
+  romania.8: "Obtěžování menšinových občanů" # todo: NEW TRANSLATION
+  romania.8.t: "Železná garda obtěžuje menšiny" # todo: NEW TRANSLATION
+  romania.8.desc: "Železná garda je proslulá svými xenofobními ideály a s potěšením je demonstruje vůči těm v Rumunsku, kteří nejsou považováni za 'Rumuny'. Nezasazení se za tyto menšiny povede k mezinárodnímu pobouření bez ohledu na naše současné postoje k těmto otázkám." # todo: NEW TRANSLATION
+  romania.8.a: "Koho to zajímá?" # todo: NEW TRANSLATION
+  romania.8.b: "To nestrpíme" # todo: NEW TRANSLATION
+  romania.9: "Infiltrace prvků armády" # todo: NEW TRANSLATION
+  romania.9.t: "Železná garda infiltrovaná do armády" # todo: NEW TRANSLATION
+  romania.9.desc: "Naše špionážní síť hlásí, že Železná garda infiltrovala armádu, aby získala větší politickou moc v zemi. Pokud bude Železná garda pomalu nabývat podpory v armádě, nebude v případě ozbrojeného povstání nikdo, kdo by je zastavil." # todo: NEW TRANSLATION
+  romania.9.a: "Armáda je dost silná na to, aby si s tím poradila sama." # todo: NEW TRANSLATION
+  romania.9.b: "Spustit rozsáhlé vyšetřování" # todo: NEW TRANSLATION
+  romania.10.t: "Politický atentát" # todo: NEW TRANSLATION
+  romania.10.desc: "Byl zavražděn nižší politik; vrah byl dopaden a tvrdí, že dotyčný politik byl obviňován z navazování aktivit s osobami ne‑rumunského původu. Policie ho nyní drží ve vězení." # todo: NEW TRANSLATION
+  romania.10.a: "Ten politik byl příliš upřímný." # todo: NEW TRANSLATION
+  romania.10.b: "Nechť spravedlnost udeří, dokud je železo žhavé" # todo: NEW TRANSLATION
+  romania.11.t: "Teroristické bombardování" # todo: NEW TRANSLATION
+  romania.11.desc: "V Rumunsku došlo k několika velkým teroristickým bombovým útokům; Železná garda tvrdí, že ničí majetek nerumunských obyvatel. Veřejnost je pobouřená, bojí se o své životy a ptá se, jak a proč mohla vláda něco takového připustit..." # todo: NEW TRANSLATION
+  romania.11.a: "Vše to jsou nešťastné nehody..." # todo: NEW TRANSLATION
+  romania.11.b: "Všem bude vyplacena náhrada a pachatelé budou dopadeni." # todo: NEW TRANSLATION
+  romania.12.t: "Rumunské volby 1937" # todo: NEW TRANSLATION
+  romania.12.desc: "Ve volbách v prosinci 1937 získala vládnoucí Národní liberální strana premiéra Gheorghe Tătărescu nejvíce křesel, avšak méně, než by bylo třeba k vytvoření většinové vlády v parlamentu. Strana 'All for Fatherland' získala ve volbách 1937 16 % hlasů, což znamenalo vrchol volebního úspěchu Železné gardy. Přesto však král Carol II. jmenoval radical‑ně antisemitického básníka Octaviana Gogu premiérem." # todo: NEW TRANSLATION
+  romania.12.a: "Takhle umírá demokracie?" # todo: NEW TRANSLATION
+  romania.13.t: "Rumunské volby 1938" # todo: NEW TRANSLATION
+  romania.13.desc: "Carol vyhověl Gogově žádosti o rozpuštění parlamentu pro nové volby dne 18. ledna 1938. Volby 1938 byly jedněmi z nejnásilnějších v rumunské historii, když Železná garda a polovojenské křídlo Národní křesťanské strany Lăncieri bojovaly o kontrolu ulic Bukurešti a snažily se upevnit své antisemitské postavení útoky na židovské obyvatele. To bylo samozřejmě součástí plánu Cara, který toužil po moci, aby mohl převzít vládu v Rumunsku. Rumunsko nyní stojí na křižovatce: buď podlehneme polovojenským křídlům, která se stávají čím dál agresivnějšími, nebo důvěřujeme našemu králi, že ochrání zemi a její zájmy." # todo: NEW TRANSLATION
+  romania.13.a: "Takhle umírá demokracie..." # todo: NEW TRANSLATION
+  Manhattan.1.a: "Budeme to bedlivě sledovat." # todo: NEW TRANSLATION
+  countrystartup.129.t: "Operace Compass v Horst §0(ČTĚTE NEBO PROHRAJTE)§!" # todo: NEW TRANSLATION
+  countrystartup.129.desc: "Co je Operace Compass? Byla to britská invaze do Libye v pozdním roce 1940. V Horst je Operace Compass stavem války mezi Itálií a Spojenci současně s bitvou o Francii. Itálie vstupuje do války ve stejnou dobu, kdy Německo deklaruje válku.\n\nCo je dobré vědět, pokud hrajete osu:\n- Mějte tankového menšího člena v Libyi; vyrábějte tanky jako Itálie\n- Mějte v Libyi připravené some stíhače a CAS jako Itálie nebo Německo\n- Celá Osa obdrží bonusy k penalizaci za obklíčení, rychlosti zákopnění, rychlosti plánování, ztrátě organizace při nízké org, HP, dosahu zásobování a spotřebě zásob pro každý stát v Libyi ztracený Spojencům, aby se vyrovnaly potíže při znovudobývání Libye.\n\nCo je dobré vědět, pokud hrajete Spojence:\n- Připravíte 1 zásilku konvojů za každý libyjský stát, který ovládáte, za měsíc" # todo: NEW TRANSLATION
+  fincon.11.t: "Bitva o Británii" # todo: NEW TRANSLATION
+  fincon.11.d: "Jak bitva o Francii končí, němečtí bombardéři a stíhačky se připravují střetnout s RAF nad britským nebem. Letecká kampaň nad Británií může znamenat přípravy na nadcházející amfibní operaci." # todo: NEW TRANSLATION
+  fincon.11.a: "Svět sleduje..." # todo: NEW TRANSLATION
+  britain.193.t: "Německo přivlastňuje zdroje v severním Švédsku" # todo: NEW TRANSLATION
+  britain.193.d: "Po požadavcích německého ministra zahraničí Joachima von Ribbentropa Švédsko převedlo práva na ložiska a doly v Laponsku Třetí říši. Ministr hospodářství říše Walter Funk minulý týden vypracoval 'obchodní dohodu', nazývajíc ji milníkem v zajištění 'mira a přátelství' mezi oběma národy." # todo: NEW TRANSLATION
+  britain.193.a: "Svolat mimořádné zasedání Dolní sněmovny" # todo: NEW TRANSLATION
+  finland.12.t: "105 dní sněhu a krve" # todo: NEW TRANSLATION
+  finland.12.d: "Poslední tři měsíce nasákly bílé a zelené finské lesy krví sovětských útočníků. Dosáhli jsme nemyslitelného — bráníme každý metr finské půdy proti národu padesátkrát většímu!" # todo: NEW TRANSLATION
+  finland.12.a: "Finsko je v bezpečí, prozatím." # todo: NEW TRANSLATION
+  finland.11.t: "Katastrofa ve Finsku" # todo: NEW TRANSLATION
+  finland.11.d: "Červená armáda předvedla ponížené vystoupení, prohrávajíc bitvu za bitvou s Finy. Tato posměška nemůže zůstat bez následků a někdo musí zaplatit za tuto neschopnost!" # todo: NEW TRANSLATION
+  finland.11.a: "Do gulagu!" # todo: NEW TRANSLATION
+  finland.20.t: "Osvobození Finska" # todo: NEW TRANSLATION
+  finland.20.d: "Finský proletariát spolu s našimi komunistickými soudruhy trpěl ve Finsku od doby, kdy Rudí prohráli občanskou válku. Mezitím se Německo čím dál více militarizovalo a jingoizovalo, což představuje existenční hrozbu pro Unii. Požadovali jsme, aby Finsko postoupilo hraniční území, která potřebujeme k zabezpečení sebe samých, ale předvídatelně to odmítli. Nyní je čas připravit invazi do Finska a osvobodit je od kapitalistického útlaku." # todo: NEW TRANSLATION
+  finland.20.a: "Pošleme jim ‚chlebové koše‘." # todo: NEW TRANSLATION
+  finland.21.t: "Sovětský svaz se připravuje na válku" # todo: NEW TRANSLATION
+  Winter_War_Threat: "Zimní válka" # todo: NEW TRANSLATION
+  poland.1148.d: "Německá říše vybudovala zeď pobřežních pevností od jižní Francie až po západní pobřeží Norska.\n\n§Tato řada opevnění představuje vážné nebezpečí pro námořní invaze, pokud nebude bombardována.§!" # todo: NEW TRANSLATION
+  finland.21.d: "Od našeho úspěšného odtržení od sovětského impéria a vítězství v občanské válce proti Rudým byl Sovětský svaz antagonizujícím a nebezpečným nepřítelem, jen tlumeným časem. Naše rozvědka nyní informuje, že se připravují na válku a vpadnou přibližně za dva měsíce." # todo: NEW TRANSLATION
+  news.9990.t: "Německo zahajuje Case Blue!" # todo: NEW TRANSLATION
+  zit_failed: "Operace Citadel selhala" # todo: NEW TRANSLATION
+  zit_launched: "Operace Citadel byla zahájena" # todo: NEW TRANSLATION
+  news.9990.d: "Německá říše zahájila letní operaci proti Sovětskému svazu, krycí název 'Case Blue', s cílem vyřadit jej z války po nezdarech během operace Barbarossa. Bez zimy a bláta, které Němce zpomalují, jsou Sověti znovu tlačeni na ústup." # todo: NEW TRANSLATION
+  news.9990.a: "Ještě pět měsíců pekla..." # todo: NEW TRANSLATION
+  news.9990.b: "Na Moskvu!" # todo: NEW TRANSLATION
+  britain.4254.t: "Admirál Jamamoto mrtvý!" # todo: NEW TRANSLATION
+  britain.4254.desc: "Hrozné zprávy! Admirál Jamamoto byl sestřelen nad Pacifikem americkými stíhači! Jak věděli, že to byl jeho letoun?" # todo: NEW TRANSLATION
+  britain.4254.a: "Museli mít štěstí..." # todo: NEW TRANSLATION
+  britain.1315.t: "Spojenci se připravují na operaci Torch" # todo: NEW TRANSLATION
+  britain.1315.d: "Vojenská rozvědka naznačuje, že spojenci chystají invazi do Vichystické francouzské severní Afriky. Můžeme očekávat, že tato invaze proběhne za zhruba měsíc." # todo: NEW TRANSLATION
+  britain.1315.a: "Znepokojivé" # todo: NEW TRANSLATION
+  nsb_news.6131.t: "USA rozšiřují lend‑lease pro Sovětský svaz" # todo: NEW TRANSLATION
+  nsb_news.6131.a: "Dobře." # todo: NEW TRANSLATION
+  nsb_news.6131.desc: "Západní spojenci sledují s obavami, jak Operace Barbarossa proniká stále hlouběji do Sovětského svazu. Spojené státy a Spojené království se společně dohodly materiálně podpořit Sovětský svaz v jejich válce proti Ose.\n\nSPOJENCI NYNÍ MOHOU ZAČÍT POSKYTOVAT LEND‑LEASE SOVĚTSKÉMU SVAZU" # todo: NEW TRANSLATION
+  countrystartup.29.t: "Námořnictvo a Sea Lion v Horst §0(ČTĚTE NEBO PROHRAJTE)§!" # todo: NEW TRANSLATION
+  countrystartup.29.desc: "1) Měli byste mít více flotil, žádná flotila by neměla překročit limit velení 100.\n2) Flotily určené k střetu s jinými flotilami by vždy měly mít 2 letadlové lodě a ne více než 2 letadlové lodě\n3) Flotily by měly mít vysoké hodnoty krytí pro bitevní lodě a letadlové lodě\n4) Pokud se boj jeví špatně, odstupte\n5) Ostřelování pobřeží je důležité! Námořnictvo může také blokovat námořní vylodění s 40% námořní převahy\n6) Stavte obrazovky, kapitální lodě a letadlové lodě\n7) Brnění může být potenciálně užitečné.\n\n§BLimit velení flotily§!\n\nKaždá třída lodí má hodnotu 'limit velení'. Flotila (všechny úkolové síly pod jedním admirálem) může podporovat maximálně 100 'limit velení'. Dokud jste na nebo pod tímto limitem pro každou flotilu s admirálem, nebudou se na vašeho admirála a zemi aplikovat speciální penalizace. Jakýkoli admirál, který vede flotilu obsahující kapitální lodě nebo lehké křižníky, se zobrazí v seznamu vpravo od portrétů admirálů. Tento seznam obsahuje užitečné informace o vašich flotilách, abyste se jím mohli snadno řídit.\n\nDestruktory/Ponorky - 1 limit velení\nLehké křižníky/Těžké křižníky - 2 limit velení\nBitevní lodě a bitevní křižníky - 4 limit velení\nLetadlové lodě/Super těžké bitevní lodě - 6 limit velení.\n\n§RON SEA LION§!: Pouze jihozápadní Anglie a Sussex jsou invadovatelné pro evropskou Ose. Evropská Osa bude teleportována, pokud se pokusí vylodit na jakékoli jiné části Spojeného království nebo Irska! SEA LION JE POVOLEN!" # todo: NEW TRANSLATION
+  mtg_netherlands.344.a: "Musíme se okamžitě dozvědět víc!\n§GOdblokujeme nový národní fokus!§!" # todo: NEW TRANSLATION
+  mtg_netherlands.345.d: "Tým archeologů z Athén dorazil na ostrov a musel k němu veslovat menší lodí kvůli absenci vhodného přístavu. Ostrov je zarostlý vegetací, která spolu s hustou mlhou pokrývající ostrov skryla něco opravdu ohromujícího. Byly nalezeny dokonale zachovalé ruiny připomínající architekturu jak mykénského, tak helénského období naší historie. Průzkum pokračuje a nachází se množství historických artefaktů v lokalitě, která se zdá být velikostí srovnatelná s moderním řeckým městem!" # todo: NEW TRANSLATION
+  mtg_netherlands.344.d: "Archeologové objevili izolovaný ostrov v bouřlivé části Atlantiku. Ostrov dosud nebyl zakreslen a neobjevil se na mapách z posledních pěti století. Návrhy, že vznikl nedávno vulkanickou činností, jsou nemožné — prvotní průzkum neukázal žádnou sopečnou aktivitu. Ostrov je pokryt hustou mlhou, což je pro tuto oblast Atlantiku anomálie. Vědci nenašli vhodné místo k přistání či zavázání lodi. Skrz mlhu byl spatřen jakýsi věžovitý útvar, ale nebylo jasné, z jaké národní provenience či epochy pochází. Byl zorganizován nový expediční výjezd, aby odhalil, co je na tomto zvláštním ostrově skryto..." # todo: NEW TRANSLATION
+  mtg_news.791.d: "Od začátku operace Barbarossa Trhací a sedlářská Rudá armáda čelí častému ústupu, což nechává mnoho sovětských průmyslových a městských center blízko hranic pod kontrolou Osy. Josef Stalin reagoval příkazem všem velitelům Rudé armády, aby zamezili neoprávněným ústupům a zřídili speciální oddíly pro práci s dezertéry." # todo: NEW TRANSLATION
+  mtg_news.792.d: "Po dlouhém a vyčerpávajícím procesu zotavování se z hrůz Velkého teroru prokázala Rudá armáda v ohni a plamenech války jako taktičtě schopná jako Wehrmacht, navzdory ústupům. Josef Stalin nařídil konec ústupům: 'Ani krok zpět.'" # todo: NEW TRANSLATION
+  italy.668.d: "Vítejte v Horstorical Multiplayer stromu národních fokusů pro Slovensko! Horst výrazně upravil strom fokusů Slovenska od mumiago z modu Hearts of Oak 2 pro použití v Horstorical Multiplayer. Děkujeme mumiago!" # todo: NEW TRANSLATION
+  italy.968.d: "Vítejte v Horstorical Multiplayer stromu národních fokusů pro Mongolsko! Horst výrazně upravil strom fokusů Mongolska od Fantom#8759 z modu Road to 56 pro použití v Horstorical Multiplayer. Děkujeme Fantom#8759!" # todo: NEW TRANSLATION
+  italy.969.d: "Vítejte v Horstorical Multiplayer stromu národních fokusů pro Rumunsko! Horst výrazně upravil strom fokusů Rumunska od mumiago z modu Hearts of Oak 2 pro použití v Horstorical Multiplayer. Děkujeme Mumiago!" # todo: NEW TRANSLATION
+  italy.970.d: "Vítejte v Horstorical Multiplayer stromu národních fokusů pro Nový Zéland! Horst výrazně upravil strom fokusů Nového Zélandu od featherus z modu Road to 56 pro použití v Horstorical Multiplayer. Děkujeme featherus!" # todo: NEW TRANSLATION
+  italy.971.d: "Vítejte v Horstorical Multiplayer stromu národních fokusů pro Siam! Horst výrazně upravil strom fokusů Siamu od simpyslav z modu Road to 56 pro použití v Horstorical Multiplayer. Děkujeme simpyslav!" # todo: NEW TRANSLATION
+  italy.972.d: "Vítejte v Horstorical Multiplayer stromu národních fokusů pro British Raj! Horst výrazně upravil strom fokusů British Raj od asfinag z modu Road to 56 pro použití v Horstorical Multiplayer. Děkujeme asfinag!" # todo: NEW TRANSLATION
+  italy.973.d: "Vítejte v Horstorical Multiplayer stromu národních fokusů pro Jižní Afriku! Horst výrazně upravil strom fokusů Jižní Afriky od Sarge z modu South Africa Reworked pro použití v Horstorical Multiplayer. Děkujeme Sarge!" # todo: NEW TRANSLATION
+  italy.663.d: "Pokud toto vidíte, váš hostitel nemá nové DLC 'Battle for the Bosphorus' od Paradox. Místo toho Horst výrazně upravil strom fokusů 'Mila Rodino Bulgaria' od Caon pro použití v Horstorical Multiplayer modu. Děkujeme Caonovi za dovoleni použít prostředky modu, včetně bulharských velitelů jednotek, ikon fokusů a dalších." # todo: NEW TRANSLATION
+  mtg_news.777.d: "Ruské blátoznění, známé také jako Rasputitsa, je nepříjemný čas, který ničí hlavně motorová vozidla. Sezona bláta skončí za šedesát dní.\n\n§VK všechny divize na sovětském jádrovém území budou mít o 15 % menší útok divize, utrpí 10 % attrition a budou mít -20% penalizaci rychlosti (-35% pro obrněné divize).§!" # todo: NEW TRANSLATION
+  mtg_news.778.desc: "Ruská zima, vojáky přátelsky nazývaná generál Mráz, vytváří masivní logistické problémy pro vedení válek." # todo: NEW TRANSLATION
+  news.484.t: "Královská diktatura" # todo: NEW TRANSLATION
+  news.484.d: "Mezinárodní pozorovatelé rumunských voleb oznámili, že král Carol II. suspendoval ústavu a převzal výjimečné pravomoci. Carol poté vyhlásil výjimečný stav a pozastavil veškeré občanské svobody s odůvodněním, že násilná volební kampaň hrozí zatáhnout národ do občanské války.\nPo sesazení staré vlády, kterou sám jmenoval pod antisemitickým Gogou, Carol kodifikoval svou novou moc ratifikací ústavy a proměnil vládu v de facto legální diktaturu. Veškeré vládní pravomoci v Rumunsku byly v jeho rukou, měníce Rumunsko z demokracie v absolutní monarchii." # todo: NEW TRANSLATION
+  news.484.a: "Balkán nikdy nezklame" # todo: NEW TRANSLATION
+  news.485.t: "Železná cena" # todo: NEW TRANSLATION
+  news.485.d: "Corneliu Zelea Codreanu, 'kapitán', který hlásal krutě xenofobní ultranacionalismus, intenzivní ortodoxní mysticismus, extrémně násilný antisemitismus, populistické pohrdání elitami a oslavu smrti ve službách věci jako nejkrásnější, nejvelkolepější, nejsvatosvatější a erotický zážitek, byl dnes jmenován premiérem Rumunska. S násilím voleb a jmenováním kabinetu Octaviana Gogy neviděl král jinou možnost než předat Codreanovi moc, kterou si žádal; a ačkoli byl Codreanu zpočátku zdrženlivý, nakonec přesvědčil Carla, aby mu skutečně svěřil absolutní a totalitní moc nad státem, čímž proměnil dříve demokratickou zemi ve totalitní diktaturu." # todo: NEW TRANSLATION
+  news.485.a: "Balkán nikdy nezklame" # todo: NEW TRANSLATION
+  news.486.t: "Nástup Antonescua k moci" # todo: NEW TRANSLATION
+  news.486.d: "Německý diplomat Fabricius v Rumunsku zavolal Carolu II. s jednoduchou žádostí: postavit Antonesca do čela Rumunska. S pádem Francie francofilní elita Rumunska téměř přes noc ztratila většinu vlivu. Antonescu částečně vyhověl požadavku, ale také požádal Carla, aby mu udělil rezervní pravomoci rumunských hlav států. Carol ustoupil a 5. září 1940 se generál stal premiérem; Carol mu pak převedl většinu svých diktátorských pravomocí. Jeho prvním krokem bylo omezit potenciální odpor v armádě odvoláním velitele garsony v Bukurešti Gheorghe Argeșanu a jmenováním Dumitru Coroama na jeho místo." # todo: NEW TRANSLATION
+  news.486.a: "Balkán nikdy nezklame" # todo: NEW TRANSLATION
+  news.487.t: "Pochod na Bukurešť" # todo: NEW TRANSLATION
+  news.487.d: "Po vykonání Codreanua zůstala Železná garda dlouho zticha, ale nebyla mrtvá, jen spící a čekající na nejlepší příležitost udeřit. Byla znovu oživena pod vedením Horie Simy a organizovala převrat; nyní s Antonescovým uvězněním přišla ideální příležitost, protože generál byl plný rozhořčení nad současnou vládou a chtěl ukončit královskou diktaturu, která Rumunsko vedla na pokraj zkázy. S rozsáhlým vlivem a kontrolou nad rumunskou armádou, zvláště třetí armádou rozmístěnou ve východních provinciích, vojáci Antonesca a Železná garda vykročili na hlavní město v události známé jako 'Pochod na Bukurešť'. Vojáci, kteří měli chránit hlavní město před 'povstáním', jak ho Carol označil, jednoduše položili zbraně nebo se k pochodu přidali. Carol se dokázal na poslední chvíli dostat na vlak a uprchnout, zatímco pronásledovali jej prvky rumunské armády a Železná garda." # todo: NEW TRANSLATION
+  news.487.a: "Balkán nikdy nezklame" # todo: NEW TRANSLATION
+  news.488.t: "Smrt Codreanu" # todo: NEW TRANSLATION
+  news.488.d: "Loajalističtí generálové krále Carla II. využili loajálních armádních jednotek k odstranění rumunského premiéra Corneliu Zelea Codreanu během jeho cesty zpět do hlavního města. Když to považovali za povstání v armádě, Antonescu rychle převzal kontrolu a nařídil generálům stáhnout vojáky obviněné ze vzpoury a předat pachatele úřadům. Poté, co armádu restrukturalizoval, Antonescu rychle vyměnil další generály za své loajály a efektivně převzal plnou kontrolu nad zbraněmi Rumunska, čímž se de facto ujal moci v zemi. Po tom, co byl považován za hrdinu za pomstu za smrt populárního Codreanu, Antonescu se postavil do čela země jako spoluvůdce, který měl řídit existující vedení Železné gardy." # todo: NEW TRANSLATION
+  news.488.a: "Balkán nikdy nezklame" # todo: NEW TRANSLATION
+  Manhattan.1.t: "Projekt Manhattan" # todo: NEW TRANSLATION
+  Manhattan.1.d: "V maximálním utajení Spojené státy zahájily 'Projekt Manhattan', monumentální výzkumné dílo zahrnující největší vědecké mozky světa. Cílem projektu je využít ničivé potenciály atomové energie. Šeptání v komunitě zpravodajských služeb naznačuje, že se usiluje o vytvoření superzbraně, která by dokázala rychle ukončit války. Hlavní mocnosti projekt bedlivě sledují, neboť jeho výsledek může přehodit globální mocenský poměr. Úspěch či neúspěch projektu rozhodne o budoucnosti světové geopolitiky." # todo: NEW TRANSLATION
+  Trinity.1.t: "Projekt Trinity" # todo: NEW TRANSLATION
+  Trinity.1.d: "Brzy ráno dnes, v nejvyšším utajení, spojení některých z nejbystřejších myslí světa přinesli ovoce ve slepém záblesku světla a monumentálním houbovém oblaku na poušti Nového Mexika. Kódové označení 'Trinity' — zkouška první atomové bomby na světě — zásadně změnila běh válčení a světové politiky." # todo: NEW TRANSLATION
+  news.9991.t: "Německo zahajuje operaci Citadel!" # todo: NEW TRANSLATION
+  news.9991.d: "Německá říše zahájila další letní operaci proti Sovětskému svazu, krycí název 'Operace Citadel', cílem zničit sovětskou armádu a vynutit mír. Bez zimy a bláta, které Němce zpomalují, jsou Sověti znovu tlačeni na ústup, ale tentokrát s zkušenostmi ze dvou předchozích kampaní." # todo: NEW TRANSLATION
+  news.9991.a: "Jak dlouho ještě musí Sověti vydržet?" # todo: NEW TRANSLATION
+  news.9991.b: "Začátek konce." # todo: NEW TRANSLATION
+  news.9992.t: "Německo zahajuje operaci Solstice!" # todo: NEW TRANSLATION
+  news.9992.d: "Německá říše zahájila další letní operaci proti Sovětskému svazu, krycí název 'Operace Solstice', cílem zničit sovětskou armádu a vynutit mír. Bez zimy a bláta, které Němce zpomalují, jsou Sověti znovu tlačeni na ústup, ale tentokrát s zkušenostmi ze dvou předchozích kampaní." # todo: NEW TRANSLATION
+  news.9992.a: "Může Sovětský svaz vyhrát válku?" # todo: NEW TRANSLATION
+  news.9992.b: "Podaří se Říši konečně uspět?" # todo: NEW TRANSLATION
+  ger_heavy.1.t: "Německo zahajuje výrobu těžké vody" # todo: NEW TRANSLATION
+  ger_heavy.1.d: "Agenti MI6 informovali, že Německá říše zahájila výrobu těžké vody pro použití v experimentech jaderného štěpení. Je nemožné vědět, zda a kdy se Německu podaří vyrobit jadernou bombu, ale je jisté, že pokud tak učiní před námi, způsobí to nepředstavitelný chaos a útrapy pro svobodné národy. Musíme ovládnout Norsko, abychom tomu zabránili!" # todo: NEW TRANSLATION
+  ger_heavy.1.a: "§RNěmecko odemkne jaderné reaktory a bonus 350 % k jaderným bombám za 1000 dnů§!" # todo: NEW TRANSLATION
+  finland.21.a: "Dosáhli jsme bodu zlomu!" # todo: NEW TRANSLATION
+  italy.152.t: "Athény dobyty" # todo: NEW TRANSLATION
+  countrystartup.28.desc: "1. Divize musí mít šířku boje 39,2 až 40,0 \n\n2. Divize nesmí mít žádné cw obrněných praporů nebo musí mít 20–26 cw obrněných praporů, všechny stejné třídy, zbytek tvoří mobilní pěchota (ne mech/moto dělostřelectvo, mech/moto AT nebo mech/moto protiletadlové) \n\n3. Žádné kombinování pěších praporů s obrněnými či mobilními prapory \n\n3. Nesmí mazat/konsolidovat/upravovat/ měnit šablony, když: divize jsou zachyceny, divize se nacházejí 1–5 polí od fronty nebo pokud hrozí obklíčení (očekávána námořní vylodění) \n\n4. Žádné zahájení námořního vylodění nebo výsadku s méně než 90 % vybavenými divizemi (pokud nejsou sestřeleny protivzdušnou obranou) \n\n5. [ALLIES] Žádné ne‑francouzské/holandské/polské/řecké/norské divize ve francouzské Severní Africe před kapitulací Francie \n\n6. Nad mořskou zónou nesmí být více než 200 letadlových letadel na AS \n\n7. Je zakázáno mít více než jednu úkolovou sílu přidělenou do jedné námořní zóny nebo držet jednotlivou námořní zónu (pohyby jsou výjimkou) \n\n9. Přístavy ve Španělsku jsou povoleny pouze během španělské občanské války." # todo: NEW TRANSLATION
+  mtg_news.788.desc: "Po pádu Kujbyševu se sovětské vedení přesunulo hluboko za Uraly a přijalo německé volání po příměří. Kuibyshevské příměří fakticky ukončilo válku na východě." # todo: NEW TRANSLATION
+  britain.1115.d: "Sovětský svaz je stejně vražedný a zlý politický režim, který redukuje jedince na kolečko ve stroji. Aby svobodná Evropa existovala, musí být sovětský stát zničen." # todo: NEW TRANSLATION
+  britain.1116.d: "S porážkou německého nebezpečí ohrožujícího rovnováhu sil v kontinentální Evropě jsme se zabezpečili proti jednomu tyranovi, ale jiný existuje na východě. Můžeme znovu vyzbrojit italské a německé armády, aby doplnily naše divize, samozřejmě za podmínky, že plně přejdou na tržní demokratický systém." # todo: NEW TRANSLATION
+  japan.144.t: "Zaútočit na jih!" # todo: NEW TRANSLATION
+  japan.144.d: "S celosvětovou pozorností na válku v Evropě je Asie oslabena a zranitelná. Teď je ideální čas spustit úder na jižní oblast bohatou na suroviny!" # todo: NEW TRANSLATION
+  japan.144.a: "Do války!" # todo: NEW TRANSLATION
+  peace.1.t: "Vyhlásit válku pro reset dobrovolníků nebo bílý mír se všemi nepřáteli" # todo: NEW TRANSLATION
+  soviet.509.t: "Budoucnost Číny" # todo: NEW TRANSLATION
+  soviet.509.d: "Momentálně ovládáme část území Mandžuska, a stojí otázka, co s ním udělat. Nejvyšší členové Politbyra důrazně navrhují postoupit jej místním komunistům a vytvořit satelitní stát v Asii. Naši spojenci v Komunistické straně Číny to velmi ocení." # todo: NEW TRANSLATION
+  soviet.509.a: "Sovětský svaz a Čína se stanou dvěma pilíři komunismu v Asii." # todo: NEW TRANSLATION
+  fincon.1.t: "Pokračovací válka" # todo: NEW TRANSLATION
+  fincon.1.d: "Němci konečně zahájili svůj křížový pochod proti bolševikům a nyní můžeme získat zpět zemi, kterou jsme ztratili během Zimní války." # todo: NEW TRANSLATION
+  fincon.1.a: "Obnovit bývalé finské hranice!" # todo: NEW TRANSLATION
+  fincon.1.b: "Není to dobrý nápad, Němci pravděpodobně v té válce prohrají..." # todo: NEW TRANSLATION
+  fincon.2.t: "Začíná pokračovací válka" # todo: NEW TRANSLATION
+  fincon.2.d: "Finsko, poraženec Zimní války, opět obnovilo nepřátelství proti Sovětskému svazu v naději, že si získá zpět své území. Jelikož většina sovětských sil je vázána jihozápadně proti Němcům, situace Sovětů se ještě zhoršila, protože teď musí čelit současně Německu i Finsku." # todo: NEW TRANSLATION
+  fincon.2.a: "Konec bolševického režimu se blíží." # todo: NEW TRANSLATION
+  fincon.2.b: "Mohou do konce roku dosáhnout Leningradu..." # todo: NEW TRANSLATION
+  fincon.6.t: "Moskevské příměří" # todo: NEW TRANSLATION
+  fincon.6.d: "Dlouhá a marná pokračovací válka je nyní u konce. Finsku se nepodařilo získat území od Sovětů a navíc ztratilo kontrolu nad Petsamo a námořní základnou Porkkala. Sověti naopak nedokázali dobýt Finsko, ale nyní se mohou plně soustředit na Německo." # todo: NEW TRANSLATION
+  fincon.6.a: "Zrádci! Všichni!" # todo: NEW TRANSLATION
+  fincon.6.b: "Válka v Evropě se blíží ke svému konci." # todo: NEW TRANSLATION
+  britain.1113.t: "Norsko usiluje o vstup mezi spojence" # todo: NEW TRANSLATION
+  britain.1113.d: "Skandinávský národ Norsko byl napaden silami Osy. Pokud jako ostrovní národ chráněný kanálem před chaosem evropských záležitostí chceme tuto válku vyhrát, musíme navázat nové aliance se všemi, kteří se ocitli pod útlakem Německa a jejích spojenců." # todo: NEW TRANSLATION
+  britain.1113.a: "Budeme bojovat i na horách!" # todo: NEW TRANSLATION
+  britain.1114.t: "Británie nás vítá" # todo: NEW TRANSLATION
+  britain.1114.d: "Naši diplomaté nám zavolali z Londýna a oznámili, že jsme úspěšně vstoupili do formální vojenské aliance s Británií a jejími spojenci. Jako člen Spojenců je každý boj od Londýna po Wellington, od Osla po Káhiru nyní součástí našeho zápasu za Norsko." # todo: NEW TRANSLATION
+  britain.1114.a: "Bůh chraň naše krále!" # todo: NEW TRANSLATION
+  news.1463.t: "Neutralita Arabie porušena" # todo: NEW TRANSLATION
+  news.1463.d: "V překvapivém vývoji byla celá Arabská polopoušť napadena a vstoupila do války." # todo: NEW TRANSLATION
+  iran.4.t: "Írán kapituloval" # todo: NEW TRANSLATION
+  iran.4.d: "Po úspěchu operace Countenance vláda Persie a její šáh kapitulovali před společnými britsko‑sovětskými silami v Teheránu. Írán a jeho zdroje jsou nyní bezpečně mimo dosah Němců." # todo: NEW TRANSLATION
+  iran.4.a: "Na zdraví anglo‑sovětskému spojenectví!" # todo: NEW TRANSLATION
+  iran.2.t: "Írán ustupuje severní území" # todo: NEW TRANSLATION
+  iran.2.d: "Íránský Ázerbájdžán a Turkmenistán byly konečně znovu spojeny se svými sovětskými sourozenci. Instalace civilní správy a ideologická výchova jsou nyní v plném proudu ze strany soudruhů z obou republik." # todo: NEW TRANSLATION
+  iran.2.a: "Vítejte v Unii!" # todo: NEW TRANSLATION
+  iran.3.t: "Írán ustupuje ropná pole" # todo: NEW TRANSLATION
+  iran.3.d: "Po íránské kapitulaci v Teheránu předal Írán kontrolu nad jižním Íránem Spojenému království, což umožňuje Spojencům kontrolovat strategická ropná pole, využít strategický perský koridor a trans‑íránskou železnici." # todo: NEW TRANSLATION
+  iran.3.a: "Skvělé!" # todo: NEW TRANSLATION
+  italy.142.t: "Addis Abeba dobyta" # todo: NEW TRANSLATION
+  italy.142.d: "S pádem Addis Abeby máme téměř plnou kontrolu nad Etiopií. Nyní, když je naše dlouho očekávané koloniální rameno impéria naše, zůstává rozhodnout, jak budeme území spravovat." # todo: NEW TRANSLATION
+  italy.142.a: "Bene! Teď rozhodnout, co dělat s Etiopií..." # todo: NEW TRANSLATION
+  italy.143.t: "Osud Etiopie" # todo: NEW TRANSLATION
+  italy.143.d: "Etiopie byla dlouho trnem v oku italského národního cítění od porážky v předchozí italsko‑etiopské válce. Nyní svět může spatřit vzestup Itálie jako pánů Středomoří. Král Viktor Emanuel III. udělil maršálovi Pietru Badogliovi titul 'vévoda Addis Abeby' za jeho zásluhy. Etiopie může být buď spravována přímo Itálií, nebo jako koloniální loutkový stát spravovaný koloniálním viceroyem." # todo: NEW TRANSLATION
+  italy.143.b: "Vytvořit koloniální protektorát z Etiopie, Somálska a Eritreje" # todo: NEW TRANSLATION
+  italy.143.a: "Přímo anektovat Etiopii do Itálie" # todo: NEW TRANSLATION
+  italy.144.t: "Osud Etiopie" # todo: NEW TRANSLATION
+  italy.144.d: "Etiopie byla dlouho trnem v oku italského národního cítění od porážky v předchozí italsko‑etiopské válce. Nyní svět může spatřit vzestup Itálie jako pánů Středomoří. Král Viktor Emanuel III. udělil maršálovi Pietru Badogliovi titul 'vévoda Addis Abeby' za jeho zásluhy. Etiopie může být buď spravována přímo Itálií, nebo jako koloniální loutkový stát spravovaný koloniálním viceroyem." # todo: NEW TRANSLATION
+  italy.144.a: "Vytvořit koloniální protektorát z Etiopie, Somálska a Eritreje" # todo: NEW TRANSLATION
+  iran.1.t: "Írán kapituloval" # todo: NEW TRANSLATION
+  spain.29.t: "Britové se nedívají" # todo: NEW TRANSLATION
+  spain.29.d: "Po německé intervenci v Polsku Spojenci zaútočili na Říši a hledají válku. Jako neutrální pozorovatel této konfrontace můžeme z toho mít obrovský prospěch. Německo je velmi bohaté na ocel, ale chudé na vzácné kovy jako wolfram, kterého je hojný v sousedním Portugalsku. Britové jsou příliš zaneprázdněni ve Francii, než aby zabránili náhlé invazi na portugalské pevniny. Můžeme pak enormně profitovat z obchodu s hladovou válečnou mašinou Osy." # todo: NEW TRANSLATION
+  spain.29.a: "Je čas znovu učinit Španělsko velikým." # todo: NEW TRANSLATION
+  italy.146.t: "Mussolini zatčen" # todo: NEW TRANSLATION
+  italy.146.d: "Po našich neúspěších v severní Africe a následné spojenecké invazi na jižní Itálii podpora pro Il Duce dramaticky poklesla. S válkou zuřící na naší půdě, chronickým nedostatkem potravin a zhoršujícími se stávkami se Velká rada Itálie obrátila proti Mussolinimu v hlasování o nedůvěře. Král Viktor Emanuel I. jej odvolal a nařídil jeho zatčení, nahrazujíc ho maršálem Pietrem Badogliem. Mussolini byl převážen po celé Itálii, než byl nakonec uvězněn v Campo Imperatore, horském středisku v Abruzzu." # todo: NEW TRANSLATION
+  italy.146.a: "Kdo teď zajistí, že vlaky pojedou včas?" # todo: NEW TRANSLATION
+  italy.147.t: "Monarchistický převrat v Itálii" # todo: NEW TRANSLATION
+  italy.147.d: "Po italské neschopnosti v severní Africe a následné spojenecké invazi na jižní Itálii byl Il Duce zrazen svými krajany a nyní je zatčen někde v Itálii. To je pro Říši velmi nebezpečné, neboť bez Mussoliniho nemůžeme očekávat, že Itálie zůstane ve válce po naší straně. Musíme pečlivě zvážit naše další kroky." # todo: NEW TRANSLATION
+  italy.147.a: "Kontaktujte Abwehr - musíme okamžitě najít, kde je Mussolini vězněn" # todo: NEW TRANSLATION
+  italy.147.b: "To je italská neschopnost v tom nejlepším - můžeme válku vyhrát i bez jejich pomoci" # todo: NEW TRANSLATION
+  italy.148.t: "Benito Mussolini nalezen" # todo: NEW TRANSLATION
+  italy.148.d: "Díky odposlechu Abwehru jsme lokalizovali Mussoliniho v horském středisku v Abruzzu poblíž hory Gran Sasso. Vrchní velení již připravilo několik plánů na jeho záchranu; nejlepší plán předložil jeden z našich nejlepších generálů, Kurt Student. Navrhl odvážný výsadek pomocí kluzáku." # todo: NEW TRANSLATION
+  italy.148.a: "Student se již mnohokrát osvědčil - udělejte to." # todo: NEW TRANSLATION
+  italy.148.b: "Nestojí to za námahu - zrušte všechny plány na zásah." # todo: NEW TRANSLATION
+  italy.149.t: "Mussolini osvobozen" # todo: NEW TRANSLATION
+  italy.149.d: "Dnes ve 14:00 německé SS a faldšármské jednotky provedly odvážný útok na hotel Campo Imperatore a osvobodily Benita Mussoliniho. Hotel byl dobyt bez jediného výstřelu a málo obránců se okamžitě vzdalo. Mussolini bude nyní dopraven do Mnichova na setkání s führerem. Očekáváme, že bude úzce spolupracovat s Říší a pod naším dohledem." # todo: NEW TRANSLATION
+  italy.149.a: "Nechte Němce zachránit Itálii." # todo: NEW TRANSLATION
+  italy.150.t: "Banda Koch" # todo: NEW TRANSLATION
+  italy.150.d: "Od vyhlášení Italské sociální republiky antifašistické prvky z pravice, středu i levice zahajují nájezdy a útoky proti naší armádě. Tyto nepatriotické elementy nám škodí, ale na to Pietro Koch, pošpiněný Ital německého původu, vytvořil protipartyzánskou jednotku zvanou 'Banda Koch', aby tyto teroristy potlačil. Jejich metody jsou však nadměrné." # todo: NEW TRANSLATION
+  italy.150.a: "Každopádně je to dočasné." # todo: NEW TRANSLATION
+  italy.151.t: "Il Duce se vrací!" # todo: NEW TRANSLATION
+  italy.151.d: "Díky německé odvaze a šikovnosti byl Mussolini osvobozen z vězení a vrátil se k moci. Italský stát má být přetvořen na republiku; jak Mussolini sám řekl: 'Není to režim, kdo zradil monarchii, to je monarchie, která zradila režim.' Nový stát se bude jmenovat 'Italská sociální republika'." # todo: NEW TRANSLATION
+  italy.151.a: "Avanti!" # todo: NEW TRANSLATION
+  france.350.t: "Boj pokračuje!" # todo: NEW TRANSLATION
+  france.350.desc: "Po evakuaci francouzské armády z Francie generál De Gaulle oznámil, že boj za Francii bude pokračovat v koloniální říši Francie. De facto hlavní město bylo přesunuto do Casablancy, protože francouzská armáda přesunula své velení a zásobovací střediska tam, v přípravě na africkou kampaň." # todo: NEW TRANSLATION
+  france.351.t: "Neúspěchy v Africe" # todo: NEW TRANSLATION
+  france.351.desc: "" # todo: NEW TRANSLATION
+  france.352.t: "Admirál Emile Henry Muselier přebírá velení" # todo: NEW TRANSLATION
+  france.352.desc: "" # todo: NEW TRANSLATION
+  france.353.t: "Admirál rezignuje; ministr hospodářství přebírá a přesunuje civilní administrativu na Novou Kaledonii" # todo: NEW TRANSLATION
+  britain.193.a: "Svolat mimořádné zasedání Dolní sněmovny" # todo: NEW TRANSLATION
+  tfv_south_africa.133.t: "Hertzog rezignuje" # todo: NEW TRANSLATION
+  tfv_south_africa.133.d: "Dnes se premiér J. B. M. Hertzog pokusil vyhlásit neutralitu vůči nacistické agresi v Evropě a stáhnout Jižní Afriku z války, jak to dovoluje Zákon Westminsteru. Nicméně návrh byl v Pretorii odmítnut parlamentem vedeným Janem Smutsem poměrem hlasů 80 ku 67. Hertzog se pokusil rozpustit parlament a vyhlásit všeobecné volby, doufaje, že zákon projde, ale guvernér‑generál Sir Patrick Duncan to odmítl. Výsledkem byla Hertzogova rezignace a jmenování Smutsa novým premiérem." # todo: NEW TRANSLATION
+  tfv_south_africa.133.a: "Tak tedy do války!" # todo: NEW TRANSLATION
+  afghanistan.1.t: "Afghánistán kapituloval" # todo: NEW TRANSLATION
+  wtt_manchukou.100.t: "Rozšíření železnice v Liaoningu" # todo: NEW TRANSLATION
+  wtt_manchukou.100.desc: "V rámci pětiletého plánu císaře Puyiho je nezbytné rozšířit železniční sítě po Mandžusku, aby se industrializovalo a drželo kroku s výrobními cíli. Provincie Liaoning je středem naší velké ekonomické transformace. Odtud zindustrializujeme zbytek Mandžuska za pomoci japonských investic." # todo: NEW TRANSLATION
+  wtt_manchukou.100.a: "Okamžitě pracovat na trati do Mukdenu" # todo: NEW TRANSLATION
+  wtt_manchukou.120.t: "Rozšíření železnice v Liaodongu" # todo: NEW TRANSLATION
+  wtt_manchukou.120.desc: "S modernizovanou a rozšířenou železniční sítí v Liaodongu máme nyní přístup k ideálním lokalitám pro těžbu oceli. Hliníkové doly v Kirinu by mohly těžit z rozšíření, stejně jako současná málo rozvinutá ropná pole v Heilungkiangu. Velká část naší země zůstává podrozvinutá." # todo: NEW TRANSLATION
+  wtt_manchukou.101.t: "Je třeba určit směr rozšíření železnice" # todo: NEW TRANSLATION
+  wtt_manchukou.101.desc: "S nedávno dokončenou železniční prací můžeme pokračovat v rozšiřování i do jiných částí naší země. Kam bychom měli položit koleje dál?" # todo: NEW TRANSLATION
+  wtt_manchukou.101.a: "Do Jeholu, k rozvoji doků a loděnic" # todo: NEW TRANSLATION
+  wtt_manchukou.101.b: "Do Kirinu, k rozvoji hliníkového průmyslu a rozšíření našeho hlavního města" # todo: NEW TRANSLATION
+  wtt_manchukou.101.c: "Do Heilungkiangu, k rozvoji petrochemického průmyslu" # todo: NEW TRANSLATION
+  wtt_manchukou.101.z: "Do Chaharu, k rozvoji průmyslu malých zbraní a dělostřelectva" # todo: NEW TRANSLATION
+  wtt_manchukou.101.e: "Do jižního Chaharu, k rozvoji našeho 'tabákového' průmyslu" # todo: NEW TRANSLATION
+  wtt_manchukou.101.f: "Do Sungkiangu, k rozvoji našeho leteckého průmyslu" # todo: NEW TRANSLATION
+  wtt_manchukou.101.g: "Do Hulunbuiru, k rozvoji našeho obrněného průmyslu" # todo: NEW TRANSLATION
+  wtt_manchukou.101.h: "Dokončili jsme program rozšíření železnice!" # todo: NEW TRANSLATION
+  wtt_manchukou.121.t: "Rozšíření železnice v Jeholu" # todo: NEW TRANSLATION
+  wtt_manchukou.121.d: "" # todo: NEW TRANSLATION
+  wtt_manchukou.121.a: "Výborně!" # todo: NEW TRANSLATION
+  wtt_manchukou.122.t: "Rozšíření železnice v Kirinu" # todo: NEW TRANSLATION
+  wtt_manchukou.122.d: "" # todo: NEW TRANSLATION
+  wtt_manchukou.122.a: "Výborně!" # todo: NEW TRANSLATION
+  wtt_manchukou.123.t: "Rozšíření železnice v Chaharu" # todo: NEW TRANSLATION
+  wtt_manchukou.123.d: "" # todo: NEW TRANSLATION
+  wtt_manchukou.123.a: "Výborně!" # todo: NEW TRANSLATION
+  wtt_manchukou.124.t: "Rozšíření železnice v jižním Chaharu" # todo: NEW TRANSLATION
+  wtt_manchukou.124.d: "" # todo: NEW TRANSLATION
+  wtt_manchukou.124.a: "Výborně!" # todo: NEW TRANSLATION
+  wtt_manchukou.125.t: "Rozšíření železnice v Sungkiangu" # todo: NEW TRANSLATION
+  wtt_manchukou.125.d: "" # todo: NEW TRANSLATION
+  wtt_manchukou.125.a: "Výborně!" # todo: NEW TRANSLATION
+  wtt_manchukou.126.t: "Rozšíření železnice v Hulunbuiru" # todo: NEW TRANSLATION
+  wtt_manchukou.126.d: "" # todo: NEW TRANSLATION
+  wtt_manchukou.126.a: "Výborně!" # todo: NEW TRANSLATION
+  wtt_manchukou.128.t: "Rozšíření železnice v Heilungkiangu" # todo: NEW TRANSLATION
+  wtt_manchukou.128.d: "" # todo: NEW TRANSLATION
+  wtt_manchukou.128.a: "Výborně!" # todo: NEW TRANSLATION
+  wtt_manchukou.127.t: "Dokončení pětiletého plánu" # todo: NEW TRANSLATION
+  wtt_manchukou.127.d: "Po letech tvrdé práce a centrálního plánování jsme konečně propojili každý kout impéria. Náš průmysl značně vzrostl, stejně jako náš přístup k přírodnímu minerálnímu a petrochemickému bohatství. Pětiletý plán byl dokončen už za čtyři roky, díky pomoci našich japonských bratrů a vůli mandžuského lidu." # todo: NEW TRANSLATION
+  wtt_manchukou.127.a: "Pan‑asijský projekt bude brzy uskutečněn!" # todo: NEW TRANSLATION
+  wtt_denmark.2.t: "Operace Fork" # todo: NEW TRANSLATION
+  wtt_denmark.2.d: "Za úsvitu dnes připlula britská válečná loď s kontingentem 750 královských mariňáků na pobřeží Islandu. Ostrovní národ nekladl žádný odpor kromě diplomatické protestu. Islandská neutralita je irelevantní, pokud jde o ztrátu drahocenných materiálů a válečných lodí." # todo: NEW TRANSLATION
+  wtt_denmark.2.a: "Raději my než Němci" # todo: NEW TRANSLATION
+  unitednations.0.t: "Deklarace Spojených národů" # todo: NEW TRANSLATION
+  unitednations.0.d: "Vládnoucí státy podepsané níže, [...] přesvědčeny, že úplné vítězství nad jejich nepřáteli je zásadní pro obranu života, svobody, nezávislosti a náboženské svobody, a pro zachování lidských práv a spravedlnosti doma i v jiných zemích, a že nyní jsou zapojeny do společného boje proti surovým a brutálním silám usilujícím o podrobení světa, prohlašují: (1) [...] využít své plné zdroje, vojenské i ekonomické, proti členům Paktu tří a jejich stoupencům, s nimiž daná vláda vede válku. (2) [...] spolupracovat s vládami podepsanými níže a neuzavřít se s nepřáteli samostatné příměří nebo mír. Předchozí deklaraci mohou přijmout i jiné národy, které jsou nebo které mohou poskytovat materiální pomoc a příspěvky v boji za vítězství nad hitlerismem." # todo: NEW TRANSLATION
+  unitednations.0.a: "Prázdná slova..." # todo: NEW TRANSLATION
+  unitednations.0.b: "Nyní začíná opravdová válka proti Ose!" # todo: NEW TRANSLATION
+  HORST_FUELSYS_TT: "Otevřít §GSystém řízení paliva frakce§!" # todo: NEW TRANSLATION
+  HORST_FUELSYS_TT_DELAYED: "§WKliknutí tohoto tlačítka otevře menu, které vám umožní spravovat palivové zásoby celé vaší frakce. Tato volba je dostupná pouze vůdcům frakcí (Spojené království, Německo, Japonsko)§!" # todo: NEW TRANSLATION
+  horsthelp.1.t: "Nápověda ke správci paliva" # todo: NEW TRANSLATION
+  horsthelp.1.d: "Správce paliva je navržen tak, aby vůdce frakce mohl spravovat veškeré palivo ve frakci.\n\nMůžete přiřadit procentuální podíl požadovaných zásob paliva, které by měla země mít. Správce paliva se bude snažit udržet přiřazené procento tím, že bude odebírat palivo z Spojeného království, Německa nebo Japonska. Můžete také přiřadit prioritu založenou na pozici dané země v systému. Pro změnu priority země klikněte na šipky." # todo: NEW TRANSLATION
+  horsthelp.1.a: "Díky, Horste, moc fajn!" # todo: NEW TRANSLATION
+  vichy.1.desc: "Průlom tankového výsadku Commonwealthu a Svobodných Francouzů prorazil italské linie u Bardii a vtrhl hluboko do Cyrénajiky v Libyi. Spojenecká podpůrná letadla bombardují prchající osské tanky přes poušť směrem k Tripolisu, jen několik set kilometrů od francouzského Alžírska. Vztahy s [ENG.GetFactionName] byly v lep bestě antagonistické. S kolapsem italské Afriky je spravedlivé předpokládat, že [ENG.GetFactionName] využije příležitost postoupit do Alžíru. Máme jen několik dní na přípravu obrany v Africe." # todo: NEW TRANSLATION
+  italy.600.t: "Itálie kapitulovala" # todo: NEW TRANSLATION
+  italy.600.d: "Vyvrcholení let italské neschopnosti dospělo ke svému konečnému závěru — kapitulaci Itálie. Co zbylo z Regio Esercito je nyní pod velením Heer, kde bude dobře využito." # todo: NEW TRANSLATION
+  italy.600.a: "Alter!" # todo: NEW TRANSLATION
+  romania.12.t: "Rumunské volby 1937" # todo: NEW TRANSLATION
+  romania.12.desc: "Ve volbách v prosinci 1937 získala vládnoucí Národní liberální strana premiéra Gheorghe Tătărescu nejvíce křesel, avšak méně, než by bylo třeba k vytvoření většinové vlády v parlamentu. Strana 'All for Fatherland' získala ve volbách 1937 16 % hlasů, což znamenalo vrchol volebního úspěchu Železné gardy. Přesto však král Carol II. jmenoval radical‑ně antisemitického básníka Octaviana Gogu premiérem." # todo: NEW TRANSLATION
+  romania.12.a: "Takhle umírá demokracie?" # todo: NEW TRANSLATION
+  yugoslavia.101.t: "Nymphenburský galavečer" # todo: NEW TRANSLATION
+  yugoslavia.101.d: "Otázka sňatku a nástupnictví v Království Srbů byla dlouho na rtech politické třídy. Doba, kterou jsme strávili bez legitimního krále na trůnu, vedla některé k pochybnostem o legitimitě vedení Karađorđevićů. Nicméně na nedávném galavečeru v Bavorsku si mladý král Petr zamiloval šlechtickou dívku. Již členové královského kabinetu diskutují o svatebních plánech, aby zajistili královu romantickou pozornost. Není pochyb, že manželství bude mít trvalý diplomatický dopad na náš stát." # todo: NEW TRANSLATION
+  yugoslavia.101.a: "Vévoda Anastasia z Mecklenburg‑Schwerinu" # todo: NEW TRANSLATION
+  yugoslavia.101.b: "Princezna Maria Antonia z Hohenzollernu" # todo: NEW TRANSLATION
+  yugoslavia.101.c: "Princezna Marie Louise z Bulharska" # todo: NEW TRANSLATION
+  yugoslavia.101.e: "Princezna Marie Françoise z Bourbon‑Parmy" # todo: NEW TRANSLATION
+  yugoslavia.101.g: "Princezna Cecilie z Pruska" # todo: NEW TRANSLATION
+  hungarian_princess_name: "Vévodkyně Anastasie" # todo: NEW TRANSLATION
+  romanian_princess_name: "Princezna Maria Antonia" # todo: NEW TRANSLATION
+  bulgarian_princess_name: "Princezna Marie Louise" # todo: NEW TRANSLATION
+  spanish_princess_name: "Princezna Marie‑Françoise" # todo: NEW TRANSLATION
+  german_princess_name: "Princezna Cecilie" # todo: NEW TRANSLATION
+  yugoslavia.102.t: "Srbsko hledá královnu" # todo: NEW TRANSLATION
+  yugoslavia.102.d: "Karađorđevićové Srbska usilují o udržení své královské linie i národa skrze královskou svatbu. Zdá se, že mladý král Petr II. je zamilovaný do [Root.GetPrincessName] a veřejně vyznal svou lásku a oddanost skrze svazek manželství v ceremoniálu v Bělehradě před jásajícími davy, svědící pohádkovému románu dvou milenců svedených dohromady v době krize." # todo: NEW TRANSLATION
+  yugoslavia.102.a: "Jak romantické!" # todo: NEW TRANSLATION
+  yugoslavia.103.t: "Srbsko hledá královnu" # todo: NEW TRANSLATION
+  yugoslavia.103.d: "Karađorđevićové Srbska usilují o udržení své královské linie i národa skrze královskou svatbu. Zdá se, že mladý král Petr II. je zamilovaný do [Root.GetPrincessName] a veřejně vyznal svou lásku a oddanost skrze svazek manželství v ceremoniálu v Bělehradě před jásajícími davy, svědící pohádkovému románu dvou milenců svedených dohromady v době krize." # todo: NEW TRANSLATION
+  yugoslavia.103.a: "Jak romantické!" # todo: NEW TRANSLATION
+  countrystartup.100.t: "Menší spojenecké státy v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.100.d: "Spojenecký menší postup krok za krokem \n\n1. Zeptejte se hráče Spojeného království, jaké stavby máte dělat \n\n2. Zeptejte se hráče Spojeného království, jestli vás chtějí v Africe/Asii/DDAY atd. \n\n3. Poslouchejte vše, co hráč Spojeného království řekne \n\n4. Budujte do 31. 8. 1939 nebo 1. 1. 1941 v závislosti na tom, který front vám Spojené království přidělilo \n\nNEZAPOMEŇTE: VĚNUJTE POZORNOST HRÁČI SPOJENÉHO KRÁLOVSTVÍ, POSLOUCHEJTE HO, PROSÍME A ZBOHOUŘTE HRÁČE SPOJENÉHO KRÁLOVSTVÍ O MILOST" # todo: NEW TRANSLATION
+  countrystartup.100.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.101.t: "Menší státy Osy v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.101.d: "Axis minor krok za krokem \n\n1. Zeptejte se hráče Německa, jaké stavby máte dělat \n\n2. Zeptejte se hráče Německa, jestli vás chtějí v Africe/Asii/DDAY atd. \n\n3. Poslouchejte vše, co hráč Německa řekne \n\n4. Budujte do 31. 8. 1939 nebo 1. 1. 1941 v závislosti na tom, který front vám Německo přidělilo \n\nNEZAPOMEŇTE: VĚNUJTE POZORNOST HRÁČI NĚMECKA, POSLOUCHEJTE HO, PROSÍME A ZBOHOUŘTE HRÁČE NĚMECKA O MILOST" # todo: NEW TRANSLATION
+  countrystartup.101.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.102.t: "Spojené království v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.102.d: "Spojené království krok za krokem \n\n1. Vyrábějte letectvo pro Spojence. \n\n2. Zajistěte námořní převahu proti Itálii a Německu \n\n3. Bojujte v Africe, abyste vykrvavili Německo před Barbarossou \n\n4. Obsazujte nebo přimějte Japonsko ke kapitulaci v Asii \n\n5. Udržujte tlak v Africe během Barbarossy \n\n6. Naplánujte konečnou hru, buď Husky nebo D‑Day a ukončete hru \n\nNEZAPOMEŇTE: Jste vůdcem frakce, ujistěte se, že dobře řídíte svůj tým! \n\nTaké pamatujte, že jihozápadní Anglie, Sussex, Velký Londýn a Východní Anglie jsou invadovatelné." # todo: NEW TRANSLATION
+  countrystartup.102.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.103.t: "Francie v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.103.d: "Francie krok za krokem \n\n1. Postavte tanky (a extra pěchotu) pro bitvu o Francii do 31. 8. 1939 \n\n2. Získáváte 1 legitimitu za den, tak vydržte alespoň do 1. listopadu \n\n3. Po vaší kapitulaci dostanete odměny podle toho, jak dobře jste drželi \n\n4. Držte Afriku s vaší frakcí \n\nNEZAPOMEŇTE: Jste nejsilnější spojenecký tankový menší stát ve hře, ujistěte se, že dobře podporujete svůj tým!" # todo: NEW TRANSLATION
+  countrystartup.103.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.104.t: "Spojené státy v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.104.d: "Spojené státy krok za krokem \n\n1. Vaše počáteční ekonomika je omezena Velkou depresí, urychlete focusy, abyste ji odstranili \n\n2. Dávejte pozor na svá místa v kongresu, budete je potřebovat pro kritické focusy \n\n3. Postavte asijskou obranu se svou frakcí a snažte se zpozdit/obsadit/kapitulovat Japonsko \n\n4. Naplánujte konečnou hru s VB, buď pomozte s Husky nebo D‑Day s vaší frakcí \n\nNEZAPOMEŇTE: Jste pozdní hlavní mocnost, od roku 1942 budete mít dost IC na to, abyste se vypořádali s každým v hře." # todo: NEW TRANSLATION
+  countrystartup.104.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.105.t: "Sovětský svaz v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.105.d: "Sovětský svaz krok za krokem \n\nTento průvodce se bude lišit od ostatních kvůli vaší jedinečné situaci. \n\n1. Připravte se na Zimní válku 1. prosince 1939 \n\n2. Připravte se na Barbarossu 22. června 1941 \n\n3. Snažte se proti Osě zasáhnout různými politickými cestami ve vašem stromu fokusů \n\n4. Můžete čelit iráckému a japonskému frontu v budoucnu, modlete se, aby vaši spojenci dělali dobře \n\n5. A pokud Spojenci neuspějí, Utáhněte hru na svých bedrech! \n\nNEZAPOMEŇTE: Vaše frontová města začínají s 10% obrany jádra a zadní města s 5% obrany jádra, takže pečlivě vybírejte, kterou linii držet." # todo: NEW TRANSLATION
+  countrystartup.105.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.106.t: "British Raj v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.106.d: "British Raj krok za krokem \n\n1. Zeptejte se VB, jestli chce, abyste kapitulovali Etiopii nebo pomohli v Africe. \n\n2. Připravte Barmu a Bengálsko proti japonské invazi k 1. 1. 1941 \n\n3. Přežijte. \n\nNEZAPOMEŇTE: Jste nejsilnější menší stát v hře; asijský front do značné míry závisí na tom, zda kapitulujete nebo ne. Takže se snažte nekapitulovat, poraďte se s Japonskem a vyhrajte hru!" # todo: NEW TRANSLATION
+  countrystartup.106.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.107.t: "Německo v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.107.d: "Německo krok za krokem \n\n1. Připravte pěchotu/tanky/letectvo do 31. 8. 1939 \n\n2. Vyhlaste válku Polsku a porazte jej \n\n3. Vyhlaste válku Dánsku a Norsku a buď je porazte sami, nebo požádejte minor spojence \n\n4. Vyhlašte válku Nizozemí a obkličte Francii \n\n5. Pojďte do Afriky a obsad'te Aswan (nebo postoupit za něj, pamatujte, čím více vysajete, tím méně budete mít na Barbarossu) \n\n6. Připravte se na Barbarossu 22. června 1941 \n\n7. Bránit D‑Day a dosáhnout kapitulace Sovětského svazu \n\nNEZAPOMEŇTE: Nezapomeňte udělat fokus 'Atlantic Wall' a pečlivě řiďte činnost vašich minor spojenců; Německo v podstatě kontroluje tok hry svými akcemi, tak jednejte iniciativně." # todo: NEW TRANSLATION
+  countrystartup.107.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.108.t: "Itálie v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.108.d: "Itálie krok za krokem \n\n1. Postavte vhodné množství armády/letectva/námořnictva do 31. 8. 1939 \n\n2. Držte Afriku, dokud Francie nekapituluje; zajistěte námořní převahu ve Středozemním moři \n\n3. Postupujte, jak moc vám Německo dovolí, zajišťujte obranné linie \n\n4. Držte Afriku/Írán/Operaci Torch, dokud vaše frakce neporazí Sovětský svaz \n\nNEZAPOMEŇTE: Jste v podstatě slabší verzí Japonska; vaší minimální povinností je držet Spojence, dokud Sovětský svaz nekapituluje. Využijte strategické průsmyky a držte Afriku co nejdéle." # todo: NEW TRANSLATION
+  countrystartup.108.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.109.t: "Japonsko v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.109.d: "Japonsko krok za krokem \n\n1. Budujte do 1. 1. 1941 \n\n2. Využijte bonusy 'Tora! Tora!' a 'Invasion Plans', trvají omezenou dobu, tak postupujte volně a obsazujte co nejvíc území \n\n3. Vaším konečným cílem v této hře je vysát spojenecký průmysl a nakonec je zcela zničit \n\nNEZAPOMEŇTE: Japonsko má některé z nejsilnějších modifikátorů v modu, využijte je dobře a nakonec vyhlaste válku Sovětskému svazu splněním podmínek ve vašem fokusu 'War against The Soviet Union'." # todo: NEW TRANSLATION
+  countrystartup.109.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.110.t: "Finsko v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.110.d: "Finsko krok za krokem \n\n1. Připravte se na krátkou válku (Zimní válka) 1. 12. 1939 a na Barbarossu 22. 6. 1941 \n\n2. Vítězství ve Zimní válce vám dá 5 civilních továren a 10 veteránů s medailemi, ale můžete se také rozhodnout proti válce \n\n3. Vaším konečným cílem je fokus 'Join the Axis', ujistěte se, že splníte podmínky a držíte Sověty na severu \n\nNEZAPOMEŇTE: Vaše MIO mají jedny z nejsilnějších vlastností ve hře, tak je využijte v boji proti Rudé hrozbě." # todo: NEW TRANSLATION
+  countrystartup.110.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.111.t: "Vichy Francie v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.111.d: "Vichy Francie krok za krokem \n\n1. Budujte do kapitulace Francie \n\n2. Pomozte Itálii s obranou Afriky \n\n3. Držte stát Constantine 30 dní, abyste se vyhnuli těžkým penalizacím, když bude vyhlášena operace Torch \n\n4. Vaším konečným cílem je fokus 'End the Occupation', tak držte Afriku pevně, dokud toho nedosáhnete." # todo: NEW TRANSLATION
+  countrystartup.111.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.112.t: "Italská Východní Afrika/Irák v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.112.d: "Italská Východní Afrika je spíše zdržovací menší stát. Nemáte žádnou speciální roli kromě zdržování do kapitulace. Podle výchozího nastavení budete hrát jako kooperující Itálie po kapitulaci, ale Itálie vás může rozhodnutím přepnout na Irák poté, co dokončí 'Stoke Iraqi Nationalism'.\n\nPokud skončíte jako Irák, vaše úloha je velmi jednoduchá — pomoci Itálii bránit Írán (a případně Arábii) proti Spojencům. Vaše výzkumy, výroba a řízení průmyslu nejsou příliš důležité, protože jako Irák se objevíte ve středu hry a nemusíte dělat nic zvláštního, abyste byli relevantní v roce 1941. Koordinujte se s Itálií, jak bránit Írán (a Arábii) a jaké doktríny získáte z focusů." # todo: NEW TRANSLATION
+  countrystartup.112.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.113.t: "Chorvatsko v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.113.d: "Chorvatsko krok za krokem \n\n1. Vystavte národ až do kapitulace Francie a obsazení vaší země Německem \n\n2. Držte Afriku pevně a pomáhejte Itálii v obraně \n\n3. Bránit se proti jakýmkoli invazím od Spojenců \n\nNEZAPOMEŇTE: Jste v podstatě Manchukuo pro vašeho italského hráče, takže nejoptimálnější výstavba pro Itálii jsou tanky. Navíc nedostáváte žádné bonusy Barbarossy proti Sovětskému svazu, takže není optimální s nimi bojovat." # todo: NEW TRANSLATION
+  countrystartup.113.a: "Díky za radu!" # todo: NEW TRANSLATION
+  countrystartup.114.t: "Manchukuo v Horstorical multiplayeru" # todo: NEW TRANSLATION
+  countrystartup.114.d: "Manchukuo krok za krokem \n\n1. Budujte do 1. 1. 1941 \n\n2. Můžete úplně zvládnout frontu speciálními silami nebo dělat tanky na podporu Japonska \n\n3. Koordinujte s Japonskem boj proti Spojencům." # todo: NEW TRANSLATION
+  countrystartup.114.a: "Díky za radu!" # todo: NEW TRANSLATION
+  HMP_tank_minor_tips: "Tipy pro tankové menší státy" # todo: NEW TRANSLATION
+  countrystartup.115.t: "Tipy pro tankové menší státy" # todo: NEW TRANSLATION
+  countrystartup.115.d: "1. Váš 4.–6. fokus by měl být fokus na bonus k výzkumu tanků, nedělte to. \n\n2. 600–900 výzkumního času (i s bonusem) je normálních, nezkoušejte přidávat více výzkumů mezi to. Váš výzkum tieru 2 tanků by měl přijít začátkem roku 1938. \n\n3. Nezapomeňte postavit pozemní zařízení kolem roku 1938. \n\n4. 70 % vaší vojenské produkce by mělo jít na tanky, 20 % na mechanizovanou a 10 % na ostatní. \n\n5. Pokud jste nováček, použijte tanky z 'doporučených' návrhů. \n\n6. Ujistěte se, že výzkumně dokončíte i 'speciální projekty' vyžadované šablonami; možná budete muset licenci něco získat od jiných hráčů. (Např. katyushy, plamenomety atd.)" # todo: NEW TRANSLATION
+  countrystartup.115.a: "Díky za radu!" # todo: NEW TRANSLATION
+  HMP_infantry_minor_tips: "Tipy pro pěší menší státy" # todo: NEW TRANSLATION
+  countrystartup.116.t: "Tipy pro pěší menší státy" # todo: NEW TRANSLATION
+  countrystartup.116.d: "1. Váš 4.–6. fokus by měl být to, co potřebujete dostat pro svůj tým, nedělejte to pozdě. Pokud nejste povinni nic urychlit, můžete to trochu odložit. \n\n2. Ve 'Hráčském panelu' jsou přednavržené šablony, můžete je upravit proti nepříteli. \n\n3. Ujistěte se, že vyrábíte 'vybavení pro speciální síly'. \n\n4. Průzkumné tanky a plamenometné tanky mohou vaše divize značně posílit, nevynechávejte je jen proto, že jsou drahé. \n\n5. MW doktrína vám dá organizační zdi, GBP dá obranné a plánovací statistiky a SF dá divize, které mohou udeřit kdykoli." # todo: NEW TRANSLATION
+  countrystartup.116.a: "Díky za radu!" # todo: NEW TRANSLATION
+  iraq_hist.1.t: "Zlatý čtverec spouští převrat!" # todo: NEW TRANSLATION
+  iraq_hist.1.desc: "Hrozby fašistické organizace důstojníků známé jako Al‑Murabbaʿ al‑Dhahabī (Zlatý čtverec) sílily od smrti našeho krále Ghaziho I. a regentství [IRQ.GetLeader]. 'Čtverec' se skládá z plukovníka Salah al‑Din al‑Sabbagha, plukovníka Kamila Shabiba, plukovníka Fahmiho Saida a plukovníka Mahmuda Salmana. Tito důstojníci prosazují nacionalistické převzetí vlády a ustanovení Rashida Ali al‑Gaylaniho jako vůdce Iráku.\n\nDnes tito muži spustili svůj plán. Militární jednotky pod velením al‑Sabbagha se pohybují k zajištění královského paláce a klíčových strategických míst v Bagdádu. Čas je proti nám, musíme převrat zmařit dříve, než uspěje." # todo: NEW TRANSLATION
+  iraq_hist.1.a: "Svobodný Irák?" # todo: NEW TRANSLATION
+  iraq_hist.2.t: "Převzetí Zlatého čtverce v Iráku!" # todo: NEW TRANSLATION
+  iraq_hist.2.desc: "Organizace nacionalistických vojenských důstojníků úspěšně spustila převrat v Iráku, svrhla regenta mladého krále Faisala II. Rashid Ali al‑Gaylani je novým předsedou vlády, pevně arabský nacionalista. Nová Zlatý čtverec Národní obranná vláda se realignovala proti Britům a údajně žádá o pomoc od [GER.GetNameDef], aby odolala pravděpodobné britské invazi.\n\nTato změna geopolitické orientace pravděpodobně přinese válku na Střední východ." # todo: NEW TRANSLATION
+  iraq_hist.2.a: "Musíme zabezpečit naši strategickou pozici!" # todo: NEW TRANSLATION
+  iraq_hist.2.b: "Tak to chodí." # todo: NEW TRANSLATION
+  iraq_hist.2.c: "Okamžitě organizujte pomoc pro naše [IRQ.GetAdjective] kolegy!" # todo: NEW TRANSLATION
+  iraq_hist.2.d: "Pošlete jim naše nejlepší přání, ale zůstaňme zdrženliví." # todo: NEW TRANSLATION
+  iraq_hist.4.t: "[GER.GetNameDefCap] posílá materiální podporu" # todo: NEW TRANSLATION
+  iraq_hist.4.desc: "V naší nadcházející potyčce s imperiálními Brity poslal [GER.GetNameDef] podporu v podobě lehkého letadlového, což není mnoho, ale je to potřebná pomoc proti agresoru!" # todo: NEW TRANSLATION
+  iraq_hist.4.a: "Naše díky [GER.GetNameDef]" # todo: NEW TRANSLATION
+  iraq_hist.5.t: "[ITA.GetNameDefCap] posílá materiální podporu" # todo: NEW TRANSLATION
+  iraq_hist.5.desc: "V naší nadcházející potyčce s imperiálními Brity poslal [ITA.GetNameDef] podporu v podobě dodávky malého množství ručních zbraní. Není to mnoho, ale je to potřebná pomoc proti agresoru!" # todo: NEW TRANSLATION
+  iraq_hist.5.a: "Naše díky [ITA.GetNameDef]" # todo: NEW TRANSLATION
+  iraq_hist.6.t: "Irácké provokace u RAF Habbaniya!" # todo: NEW TRANSLATION
+  iraq_hist.6.desc: "Zástupce [IRQ.GetNameDef] informoval velitele RAF na základně Habbaniya, že plošina v okolí byla obsazena k provedení 'cvičení'. V dopise bylo také požadováno, aby všechny lety okamžitě ustaly a žádné pohyby po zemi či ve vzduchu z areálu nevycházely. To bylo vyloženo jako přímá hrozba." # todo: NEW TRANSLATION
+  iraq_hist.6.a: "Musíme odpovědět silou!" # todo: NEW TRANSLATION
+  iraq_hist.6.b: "Stáhnout se z letecké základny, naše pozice je kompromitována." # todo: NEW TRANSLATION
+  iraq.1.t: "Zlatý čtverec spouští státní převrat" # todo: NEW TRANSLATION
+  iraq.1.d: "Převrat vede čtveřice iráckých nacionalistických generálů, známých jako 'Zlatý čtverec', kteří hodlají využít válku k prosazení úplné irácké nezávislosti po omezené nezávislosti udělené v roce 1932. MI6 zjišťuje, že koordinují s německou rozvědkou a přijali vojenskou pomoc od Německa a Itálie." # todo: NEW TRANSLATION
+  iraq.1.a: "Tohle nesmíme tolerovat!" # todo: NEW TRANSLATION
+  iraq.4.t: "Arabská revoluce" # todo: NEW TRANSLATION
+  iraq.4.d: "Naše tajné snahy podporovat arabský nacionalismus prostřednictvím velvyslance Frize Grobbby byly úspěšné: Čtyři nacionalističtí iráčtí důstojníci provedli převrat ve prospěch al‑Gaylaniho, revolučního nacionalisty opačného k britskému impériu a jeho bolševickým spojencům. Al‑Gaylani je jasná příležitost rozšířit podporu Osy v této oblasti." # todo: NEW TRANSLATION
+  iraq.4.a: "Jejich malicherná hádka se říši netýká." # todo: NEW TRANSLATION
+  iraq.4.b: "Podpoříme arabský nacionalistický boj!" # todo: NEW TRANSLATION
+  iraq.5.t: "Obléhání RAF Habbaniya" # todo: NEW TRANSLATION
+  iraq.5.d: "Mitten chaosu al‑Gaylaniho převratu obklíčily síly Zlatého čtverce naši základnu RAF Habbaniya, přetínajíc její zásobovací linky s okolním světem. Jakákoli další nepřátelská akce by byla považována za akt války." # todo: NEW TRANSLATION
+  iraq.5.a: "Požadovat, aby Zlatý čtverec ustoupil od letecké základny" # todo: NEW TRANSLATION
+  iraq.6.t: "Útok na RAF Habbaniya" # todo: NEW TRANSLATION
+  iraq.6.d: "Po úspěšném státním převratu Zlatý čtverec a jeho vůdce Rashid Ali tajně posilovali vazby s mocnostmi Osy. Po příjezdu britských posil k zajištění ropných zájmů zahájily irácké síly útok na RAF Habbaniya, jednu ze dvou zbývajících britských leteckých základen v Iráku." # todo: NEW TRANSLATION
+  iraq.6.a: "To je akt války!" # todo: NEW TRANSLATION
+  iraq.7.t: "Obléhání RAF Habbaniya bylo zrušeno" # todo: NEW TRANSLATION
+  iraq.7.d: "Spojenecké síly na RAF Habbaniya úspěšně zvedly obléhání svými prostředky, umožňujíc britským letounům tam nasazeným vyzvat irácké letectvo a systematicky je vyřadit. To nám umožnilo zahájit protiútok směrem na Bagdád a připravit cestu pro obnovení irácké monarchie pod Faisalem II." # todo: NEW TRANSLATION
+  iraq.7.a: "Vyrazíme přes poušť." # todo: NEW TRANSLATION
+  sov_great_purge_event.01.t: "Průmyslové kvóty nesplněny" # todo: NEW TRANSLATION
+  sov_great_purge_event.01.desc: "Naši poradci v měsíčních zprávách nám hlásí, že nesplňujeme průmyslové kvóty; Stalin je rozzuřený; chce odpovědi a chce je hned!" # todo: NEW TRANSLATION
+  sov_great_purge_event.01.a: "Zfalšovat zprávy" # todo: NEW TRANSLATION
+  sov_great_purge_event.01.b: "Obvinit dělníky a zdvojnásobit kvóty" # todo: NEW TRANSLATION
+  sov_great_purge_event.02.t: "Podezřelé akce ze strany armády?" # todo: NEW TRANSLATION
+  sov_great_purge_event.02.desc: "Naši špioni zaznamenali různé schůzky mezi důstojníky a podezřelé přesuny mezi kasárnami. Stalin to považuje za bezprecedentní krizi a chce, aby to bylo vyřešeno hned!" # todo: NEW TRANSLATION
+  sov_great_purge_event.02.a: "Udat naše špiony" # todo: NEW TRANSLATION
+  sov_great_purge_event.02.b: "Očistit armádu (znovu.)" # todo: NEW TRANSLATION
+  sov_great_purge_event.03.t: "Spiknutí letectva?" # todo: NEW TRANSLATION
+  sov_great_purge_event.03.desc: "Máme zprávy od našich velitelů v letectvu, že cvičení prováděná nad městy v posledních týdnech byla pro plánovaný převrat! Stalin je rozzuřený a chce okamžitou akci!" # todo: NEW TRANSLATION
+  sov_great_purge_event.03.a: "Ujistit ho o cvičeních" # todo: NEW TRANSLATION
+  sov_great_purge_event.03.b: "Očistit letectvo (znovu.)" # todo: NEW TRANSLATION
+  sov_great_purge_event.04.t: "Námořnictvo hlásí..." # todo: NEW TRANSLATION
+  sov_great_purge_event.04.desc: "Naši informátoři na lodích hlásí, že někteří kapitáni a některé kvartermastery šíří antikomunistické sentimenty; soudruh Stalin to rozhodně nepřijme." # todo: NEW TRANSLATION
+  sov_great_purge_event.04.a: "Důkladně zkontrolovat naše informátory" # todo: NEW TRANSLATION
+  sov_great_purge_event.04.b: "Očistit naše admirály" # todo: NEW TRANSLATION
+  sov_great_purge_event.05.t: "První moskevský proces" # todo: NEW TRANSLATION
+  sov_great_purge_event.05.desc: "Vyšetřování vraždy soudruha Kirova v roce 1934 odhalilo mnoho stop nasvědčujících spiknutí mezi Zinovievem a Trockým. Po sérii zatčení a výslechů důkazy jen rostou.\n\nPo schůzce s [Root.GetLeader] Zinoviev a Kamenev konečně přiznali, že spolupracovali s Trockým na svržení vlády, zavraždění sovětských vůdců a konečném obnovení kapitalismu v SSSR. Nyní jsou postaveni před soud spolu s 14 jejich spolukonspirátory. Obvinění jsou těžká — odsouzení by znamenalo jistou smrt." # todo: NEW TRANSLATION
+  sov_great_purge_event.05.a: "Další skupina zrádců přivedená před spravedlnost." # todo: NEW TRANSLATION
+  sov_great_purge_event.06.t: "Druhý moskevský proces" # todo: NEW TRANSLATION
+  sov_great_purge_event.06.desc: "Po procesu první skupiny trockistů a teroristů pokračovala NKVD ve vyšetřování a odhalila více důkazů. Karl Radek byl zatčen a při výslechu prolomil. Prozradil existenci široké sítě osob spolupracujících s Trockým v skoro všech oblastech vlády, včetně armády. Hlavní organizátoři byli zatčeni a přiznali se pod výslechem.\n\nTito vůdci, včetně Radeka, jsou nyní souděni. Jejich zločiny jsou méně závažné než v předchozím procesu — ale trest smrti je stále možný." # todo: NEW TRANSLATION
+  sov_great_purge_event.06.a: "Další skupina zrádců přivedená před spravedlnost." # todo: NEW TRANSLATION
+  sov_great_purge_event.07.t: "Proces s generály" # todo: NEW TRANSLATION
+  sov_great_purge_event.07.desc: "Vyšetřování před druhým moskevským procesem odhalilo velkou síť trockistů v armádě a ve vedení strany vedenou Bukharinem. Tito lidé byli zatčeni a vyslýcháni, kde se přiznali k těm nejzávažnějším zločinům — od plánovaného sabotáže po pokus o atentát, včetně spiknutí s cizími mocnostmi a dokonce vkládání hřebíků do másla, aby ublížili nebo zabili běžné sovětské občany.\n\nPokud budou usvědčeni, trest za tyto zločiny bude téměř jistě střelba." # todo: NEW TRANSLATION
+  sov_great_purge_event.07.a: "Všichni zrádci musí zaplatit nejvyšší cenu." # todo: NEW TRANSLATION
+  sov_great_purge_event.08.t: "Třetí moskevský proces" # todo: NEW TRANSLATION
+  sov_great_purge_event.08.desc: "Agentům NKVD se podařilo odhalit znepokojivé nové spiknutí zahrnující několik členů naší strany. Ještě zneklidňující je, že po několika zatčeních a vyčerpávajících výsleších vypadly jména několika bývalých bolševiků. Další vyšetřování odhalilo důkazy, že řada těchto údajných spiklenců skutečně byla zapojena do sabotáže, frakcionářství a antisovětského chování. Tito muži byli postaveni před soud a nyní čekají na rozsudek. Podle obvinění bude jejich odsouzení téměř jistě znamenat velmi tvrdý trest." # todo: NEW TRANSLATION
+  sov_great_purge_event.08.a: "Další skupina zrádců přivedená před spravedlnost." # todo: NEW TRANSLATION
+  sov_great_purge_event.01.b_tt: "§RVelká čistka§! získává; \n$modifier_production_speed_industrial_complex_factor$: §R-1%§! \n$modifier_production_speed_arms_factory_factor$: §R-1%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §R-1%§! \n\n" # todo: NEW TRANSLATION
+  sov_great_purge_event.02.b_tt: "§RVelká čistka§! získává; \n$MODIFIER_XP_GAIN_ARMY_FACTOR$: §R-2.5%§! \n\n" # todo: NEW TRANSLATION
+  sov_great_purge_event.03.b_tt: "§RVelká čistka§! získává; \n$MODIFIER_XP_GAIN_AIR_FACTOR$: §R-2.5%§! \n\n" # todo: NEW TRANSLATION
+  sov_great_purge_event.04.b_tt: "§RVelká čistka§! získává; \n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §R-5%§! \n\n" # todo: NEW TRANSLATION
+  poland.26.t: "Polská exilová armáda" # todo: NEW TRANSLATION
+  poland.26.d: "Naše armády byly poraženy a jsme kompletně vyhnáni z vlastní země, avšak naše exilová vláda se dokázala dostat do Londýna přes Rumunsko. Můžeme organizovat ozbrojený odpor s pomocí našich přátel!" # todo: NEW TRANSLATION
+  poland.26.a: "Organizovat naše komanda do námořních jednotek." # todo: NEW TRANSLATION
+  poland.26.b: "Organizovat naši armádu do velbloudích jednotek." # todo: NEW TRANSLATION
+  poland.26.c: "Organizovat naše tankové posádky do obrněných jednotek." # todo: NEW TRANSLATION
+  POL_first_corps_tt: "Zorganizujeme 10 mariňáků v Londýně." # todo: NEW TRANSLATION
+  POL_second_corps_tt: "Zorganizujeme 20 velbloudích jednotek v Londýně." # todo: NEW TRANSLATION
+  POL_exiled_tt: "Zorganizujeme 6 jednotek lehkých tanků/4 jednotky středních tanků/2 jednotky těžkých tanků v Londýně." # todo: NEW TRANSLATION
+  SAF_open_engineering_schools_tt: "Hofmeyrovy reformy vám dají 2 civilní továrny. \n\nDebata a uspokojení vám dají 2× bonusy k průmyslovému výzkumu." # todo: NEW TRANSLATION
+  japan.999.t: "Americké námořnictvo na Havaji" # todo: NEW TRANSLATION
+  japan.999.d: ":Dostali jsme zprávu, že Americká tichomořská flotila sídlí v Pearl Harboru. Máme bezprecedentní šanci udělat něco opravdu zábavného." # todo: NEW TRANSLATION
+  japan.999.a: "Admirál Jamamoto... udělej to" # todo: NEW TRANSLATION
+  JAP_pearl_harbor_strike: "Útok na Pearl Harbor" # todo: NEW TRANSLATION
+  HMP_delete_event.1.t: "Nástroj hostitele - volba smazat/převést zapnuta" # todo: NEW TRANSLATION
+  HMP_delete_event.1.desc: "Každý v lobby může mazat/převádět své divize." # todo: NEW TRANSLATION
+  HMP_delete_event.1.a: "GG." # todo: NEW TRANSLATION
+  HMP_delete_event.2.t: "Nástroj hostitele - volba smazat/převést vypnuta" # todo: NEW TRANSLATION
+  HMP_delete_event.2.desc: "Nikdo v lobby nemůže mazat/převádět své divize." # todo: NEW TRANSLATION
+  HMP_delete_event.2.a: "GG." # todo: NEW TRANSLATION
+  buildfixer_event.0.t: "Hlavní SSSR použil rozhodnutí Build Fixer" # todo: NEW TRANSLATION
+  buildfixer_event.0.desc: "Hlavní SSSR použil rozhodnutí Build Fixer k vygenerování jednotek!" # todo: NEW TRANSLATION
+  buildfixer_event.0.a: "Sakra, to je joever." # todo: NEW TRANSLATION
+  mtg_britain.3131.t: "Inskipovy ceny" # todo: NEW TRANSLATION
+  mtg_britain.3131.d: "Máme přebytek v rozpočtu k investici do jedné z větví armády, ale o situaci se vede mnoho debat." # todo: NEW TRANSLATION
+  mtg_britain.3131.a: "Naše ozbrojené síly jsou důležitější." # todo: NEW TRANSLATION
+  mtg_britain.3131.b: "Nebesa musí být naše." # todo: NEW TRANSLATION
+  mtg_britain.3131.c: "Moře bude pod naší kontrolou." # todo: NEW TRANSLATION
+  mtg_britain.313131.t: "Imperiální obrněné divize" # todo: NEW TRANSLATION
+  mtg_britain.313131.d: "Musíme rozhodnout, který dominion zajistí potřeby impéria na obrněné divize." # todo: NEW TRANSLATION
+  mtg_britain.313131.a: "Kanada se postaví." # todo: NEW TRANSLATION
+  mtg_britain.313131.b: "Jižní Afrika se postaví." # todo: NEW TRANSLATION
+  mtg_britain.313131.c: "British Raj se postaví." # todo: NEW TRANSLATION
+  mtg_britain.313131option.d: "Austrálie se postaví." # todo: NEW TRANSLATION
+  mtg_britain.31313131.t: "Imperiální pěší armáda" # todo: NEW TRANSLATION
+  mtg_britain.31313131.d: "Musíme rozhodnout, který dominion zajistí potřeby impéria na pěší divize." # todo: NEW TRANSLATION
+  mtg_britain.31313131.a: "Kanada se postaví." # todo: NEW TRANSLATION
+  mtg_britain.31313131.b: "Jižní Afrika se postaví." # todo: NEW TRANSLATION
+  mtg_britain.31313131.c: "British Raj se postaví." # todo: NEW TRANSLATION
+  mtg_britain.31313131option.d: "Austrálie se postaví." # todo: NEW TRANSLATION
+  mtg_britain.00031000.t: "Rozhodování o složení sil" # todo: NEW TRANSLATION
+  mtg_britain.00031000.d: "Musíme rozhodnout, z čeho se budou síly ve Francii skládat. Máme tyto možnosti." # todo: NEW TRANSLATION
+  mtg_britain.00031000.a: "Lehké tanky" # todo: NEW TRANSLATION
+  mtg_britain.00031000.b: "Střední tanky" # todo: NEW TRANSLATION
+  mtg_britain.00031000.c: "Těžké tanky" # todo: NEW TRANSLATION
+  mtg_britain.00031000_option.d: "Pěchota" # todo: NEW TRANSLATION
+  mtg_britain.3100031.t: "Rozhodování o složení sil" # todo: NEW TRANSLATION
+  mtg_britain.3100031.d: "Musíme rozhodnout, z čeho se budou síly v Africe skládat. Máme tyto možnosti." # todo: NEW TRANSLATION
+  mtg_britain.3100031.a: "Lehké tanky" # todo: NEW TRANSLATION
+  mtg_britain.3100031.b: "Střední tanky" # todo: NEW TRANSLATION
+  mtg_britain.3100031.c: "Těžké tanky" # todo: NEW TRANSLATION
+  mtg_britain.3100031_option.d: "Pěchota" # todo: NEW TRANSLATION
+  ENG_subtract_funds_4_tt: "Tento fokus odečte §R4 prostředků.§!" # todo: NEW TRANSLATION
+  GER_himmler_surrender_operation_name: "Připravit okupační vládu" # todo: NEW TRANSLATION
+  GER_himmler_surrender_operation_desc: "Připravíme základy pro novou okupační vládu na územích, která v budoucnu obsadíme." # todo: NEW TRANSLATION
+  GER_himmler_mil_output_operation_name: "Sabotovat vojenské továrny" # todo: NEW TRANSLATION
+  GER_himmler_mil_output_operation_desc: "Budeme sabotovat síť vojenského průmyslu země a získáme materiální výhodu." # todo: NEW TRANSLATION
+  GER_himmler_dockyard_output_operation_name: "Sabotovat loděnice" # todo: NEW TRANSLATION
+  GER_himmler_dockyard_output_operation_desc: "Sabotujeme loděnice této země a získáme námořní převahu." # todo: NEW TRANSLATION

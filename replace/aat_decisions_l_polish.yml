@@ -1,0 +1,677 @@
+﻿l_polish:
+  ICE_drilling_for_oil_off_shore: "Těžit ropu a zemní plyn u pobřeží" # todo: NEW TRANSLATION
+  ICE_drilling_for_oil_off_shore_repeat_tt: "Toto rozhodnutí lze znovu učinit až po §Y180§! dnech" # todo: NEW TRANSLATION
+  no_more_oil_tt: "§RVíce nelze najít žádnou ropu§!" # todo: NEW TRANSLATION
+  no_more_oil_flag: "Pole ropy jsou vyčerpána" # todo: NEW TRANSLATION
+  ICE_improve_the_viking_spirit: "Uctívání našich předků" # todo: NEW TRANSLATION
+  ICE_already_improving_the_viking_spirit_flag: "Již zlepšujeme vikingského ducha" # todo: NEW TRANSLATION
+  ICE_a_new_yggdrasill: "Moderní Yggdrasil" # todo: NEW TRANSLATION
+  ICE_a_new_yggdrasill_desc: "Teď, když lidé znají svůj velký rodokmen, bychom se měli snažit postavit velké projekty a vylepšit ostrov Island, aby mohl dorovnat Miðgarður a Yggdrasil z legend!" # todo: NEW TRANSLATION
+  ICE_has_best_spirit_idea: "Plně jsme uctili naše předky" # todo: NEW TRANSLATION
+  ICE_the_wisdom_of_odin: "Moudrost Óðinna" # todo: NEW TRANSLATION
+  ICE_the_wisdom_of_odin_desc: "Óðinn je bůh spojený se vším od moudrosti, léčení, smrti, královské moci, šibenice, poznání, války, boje, vítězství, čarodějnictví, poezie a šílenství až po runovou abecedu. Získal obrovskou moudrost, když obětoval své oko a napil se z Mímisbrunnru, což mu propůjčilo schopnost nekonečného poznání přítomnosti, budoucnosti i minulosti. Měli bychom se snažit ztělesnit jeho ducha a nést jeho odkaz do budoucna!" # todo: NEW TRANSLATION
+  ICE_the_might_of_thor: "Síla Þóra" # todo: NEW TRANSLATION
+  ICE_the_might_of_thor_desc: "Þór je bůh hromu, síly a ochránce lidstva. Svojí kladivem Mjölnirem udeřil do mraků, aby rozpoutal bouři, a naše armáda musí vnést stejný hrom a strach do protivníků!" # todo: NEW TRANSLATION
+  ICE_the_guidance_of_aegir_and_ran: "Vedení Ægira a Rán" # todo: NEW TRANSLATION
+  ICE_the_guidance_of_aegir_and_ran_desc: "Pod vedením Rán a Ægira, personifikace moře a jejího jötunn manžela, naše lodě dosáhnou nadvlády nad severními moři." # todo: NEW TRANSLATION
+  ICE_the_ferocity_of_the_fenrir: "Zuřivost Fenrisúlfa" # todo: NEW TRANSLATION
+  ICE_the_ferocity_of_the_fenrir_desc: "Fenrisúlfr je spolu s Hel a Světovým hadem dítětem Lokího a obří Arnbody (Angrboða). Během Ragnaröku měl zabít Óðinna, avšak selhal, navzdory své veliké síle a zuřivosti. Naši vojáci musí na bojišti ztělesnit jeho podstatu, aby porazili nepřítele jak na poli, tak v mysli." # todo: NEW TRANSLATION
+  ICE_the_fertility_of_freya: "Plodnost Freyji" # todo: NEW TRANSLATION
+  ICE_the_fertility_of_freya_desc: "Freyja je mimo jiné bohyní lásky, krásy a plodnosti. Měli bychom vzývat její jméno, aby náš lid měl děti, které se jednou mohou stát velkými bojovníky." # todo: NEW TRANSLATION
+  ICE_a_monument_to_leif: "Vztyčit památník Leifuru Eiríkssonovi" # todo: NEW TRANSLATION
+  ICE_a_monument_to_leif_desc: "Navzdory rozšířenému mýtu od jižanů, že Kryštof Kolumbus byl prvním Evropanem, který objevil Ameriku, náš velký předek Leifur Eiríksson byl nepochybně skutečně prvním, kdo tak učinil. Na jeho počest bychom měli vystavět památník věnovaný jemu ve Vinlandu, jak dobýváme tyto země pro sebe." # todo: NEW TRANSLATION
+  ICE_infiltrate_the_british_isles_category: "Infiltrace Britských ostrovů" # todo: NEW TRANSLATION
+  ICE_infiltrate_the_british_isles_category_desc: "Revoluce dělníků se musí rozšířit. Ideálním výchozím bodem jsou utlačovaní dělníci na Britských ostrovech. Antikoloniální a antikapitalistické nálady by měly být využity naplno." # todo: NEW TRANSLATION
+  ICE_incite_communist_uprising_scotland: "Podnítit povstání ve Skotsku" # todo: NEW TRANSLATION
+  ICE_incite_communist_uprising_scotland_desc: "S malou pomocí bychom měli být schopni přimět skotské dělníky povstat v [121.GetCapitalVictoryPointName] a vyhlásit nezávislost na vládě v [121.owner.capital.GetCapitalVictoryPointName]." # todo: NEW TRANSLATION
+  ICE_uprising_scotland_tt: "§Y[121.owner.GetName]§!: Více než [?ICE.communism_support_needed|%Y0] podpory pro [121.owner.GetCommunistParty]" # todo: NEW TRANSLATION
+  ICE_incite_communist_uprising_scotland_tt: "§Y[SCO.GetName]§! zahajuje Válku za nezávislost proti §Y[121.owner.GetName]§! v [121.GetName]" # todo: NEW TRANSLATION
+  ICE_incite_communist_uprising_wales: "Podnítit povstání v Walesu" # todo: NEW TRANSLATION
+  ICE_incite_communist_uprising_wales_desc: "S malou pomocí bychom měli být schopni přimět waleské dělníky povstat v [122.GetCapitalVictoryPointName] a vyhlásit nezávislost na vládě v [122.owner.capital.GetCapitalVictoryPointName]." # todo: NEW TRANSLATION
+  ICE_uprising_wales_tt: "§Y[122.owner.GetName]§!: Více než [?ICE.communism_support_needed|%Y0] podpory pro [122.owner.GetCommunistParty]" # todo: NEW TRANSLATION
+  ICE_incite_communist_uprising_wales_tt: "§Y[WLS.GetName]§! zahajuje Válku za nezávislost proti §Y[122.owner.GetName]§! v [122.GetName]" # todo: NEW TRANSLATION
+  ICE_incite_communist_uprising_ni: "Podnítit povstání v Severním Irsku" # todo: NEW TRANSLATION
+  ICE_incite_communist_uprising_ni_desc: "S malou pomocí bychom měli být schopni přimět dělníky Severního Irska povstat v [119.GetCapitalVictoryPointName] a vyhlásit nezávislost na vládě v [119.owner.capital.GetCapitalVictoryPointName]." # todo: NEW TRANSLATION
+  ICE_uprising_ni_tt: "§Y[119.owner.GetName]§!: Více než [?ICE.communism_support_needed|%Y0] podpory pro [119.owner.GetCommunistParty]" # todo: NEW TRANSLATION
+  ICE_incite_communist_uprising_ni_tt: "§Y[WLS.GetName]§! zahajuje Válku za nezávislost proti §Y[119.owner.GetName]§! v [119.GetName]" # todo: NEW TRANSLATION
+  NOR_democratic_preparation_decisions_category: "Budování naší země" # todo: NEW TRANSLATION
+  NOR_democratic_preparation_decisions_category_desc: "Naše mladá země má hodně co dohánět, pokud chceme konkurovat zbytku světa. Desítky let zanedbávání a roky Velké deprese zanechaly náš průmysl v žalostném stavu, který vyžaduje soustředěné úsilí k nápravě.\n\nBohužel to bude na úkor naší vojenské připravenosti a obranných schopností, ale spoléháme se na naši politiku absolutní a neozbrojené neutrality, že prokáže naši dobrou vůli a případní nepřátelé bezpečně přehlédnou naše území. \n\n\n[NOR.GetName]'s Total Development: [?NOR.NOR_country_preparedness]/30" # todo: NEW TRANSLATION
+  NOR_historical_deploy_prep_decisions_category: "Připravujeme se na bouři" # todo: NEW TRANSLATION
+  NOR_historical_deploy_prep_decisions_category_desc: "Navzdory našemu nejlepšímu úsilí dorazila válka na naše pobřeží. Doposud jsme soustředili energii na rozvoj průmyslu, ekonomiky a infrastruktury naší země, ale nyní je nezbytné najít způsoby, jak toho využít pro obranu [NOR.GetNameDef].\n\n\n[NOR.GetName]'s Potential Preparedness: [?NOR.NOR_country_preparedness]/30" # todo: NEW TRANSLATION
+  NOR_allied_democratic_preparation_decisions_category: "Připravujeme Norsko na válku" # todo: NEW TRANSLATION
+  NOR_allied_democratic_preparation_decisions_category_desc: "Tato vláda je přesvědčena, že naši nepřátelé udeří každou chvíli. Musíme být odhodlaní vyzbrojit obyvatelstvo [NOR.GetName], abychom zabránili invazi. I kdyby to znamenalo útok preventivní. Svolejme naši zemi a vezměme si moc, kterou potřebujeme k rozhodnému vítězství nad nepřáteli.\n\nNárodní připravenost: [?NOR.NOR_country_preparedness]/30" # todo: NEW TRANSLATION
+  NOR_allied_democratic_deploy_prep_decisions_category: "Nasazení našich válečných příprav" # todo: NEW TRANSLATION
+  NOR_allied_democratic_deploy_prep_decisions_category_desc: "Jak jsme očekávali, válka je konečně tady, ale není čeho se bát. Posledních několik let jsme věnovali všechny úsilí tomu, aby byl [ROOT.GetName] připraven na cokoliv, co nám nepřátelé přinesou. Ukážeme jim, z čeho jsme ušiti.\n\nNárodní připravenost: [?NOR.NOR_country_preparedness]/30" # todo: NEW TRANSLATION
+  NOR_prepare_state_alt_dem: "Připravit [FROM.GetName] na válku" # todo: NEW TRANSLATION
+  NOR_prepare_state_alt_dem_desc: "Jsme zoufale nepřipraveni na to, co přijde. Musíme podniknout vhodná opatření, aby [FROM.GetName] mohl přispět k válečnému úsilí, jakmile vypukne válka. Někteří lidé tomu neporozumí, ale rozhodli jsme se. Není cesty zpět." # todo: NEW TRANSLATION
+  NOR_alt_dem_naval_expansion: "Rozšíření námořnictva" # todo: NEW TRANSLATION
+  NOR_alt_dem_naval_expansion_desc: "Rozvoj námořnictva je zásadní, nejen proto, že budeme bránit naše rozsáhlé pobřeží proti vetřelcům, ale protože může sloužit jako odrazový můstek k tomu, abychom boj přenesli na jejich domovské břehy." # todo: NEW TRANSLATION
+  NOR_alt_dem_military_industry_expansion: "Rozšířit vojenský průmysl" # todo: NEW TRANSLATION
+  NOR_alt_dem_military_industry_expansion_desc: "Nemůžeme spoléhat na jiné země, že nám budou dodávat vybavení; vojenští obchodníci dneška mohou být zítra naši nepřátelé. Musíme rozšířit průmyslovou kapacitu k výrobě materiálu, který potřebujeme k boji." # todo: NEW TRANSLATION
+  NOR_alt_dem_economic_relief_measures: "Hospodářská úleva" # todo: NEW TRANSLATION
+  NOR_alt_dem_economic_relief_measures_desc: "Populace je unavena naší vojenskou mobilizací. Nemusejí vidět to, co my, a nemusí chápat, že jejich oběť je nutná, aby náš válečný stroj pokračoval v tažení za vítězstvím. To nic, teď je uklidníme." # todo: NEW TRANSLATION
+  NOR_alt_dem_expedite_training: "Urychlit výcvik" # todo: NEW TRANSLATION
+  NOR_alt_dem_expedite_training_desc: "Ocitáme se v kritické situaci. Pokud brzy nezačneme vycvičovat nové vojáky, můžeme být všichni ztraceni." # todo: NEW TRANSLATION
+  NOR_alt_dem_prioritize_production: "Upřednostnit výrobu" # todo: NEW TRANSLATION
+  NOR_alt_dem_prioritize_production_desc: "Náš válečný stroj potřebuje vybavení a potřebuje ho teď! Nechme továrny běžet nepřetržitě, aby naši stateční vojáci měli prostředky k poražení nepřátel, ať to stojí, co to stojí." # todo: NEW TRANSLATION
+  NOR_alt_dem_offensive_push: "Ofenzivní nápor" # todo: NEW TRANSLATION
+  NOR_alt_dem_offensive_push_desc: "Všechno ostatní stranou, je čas zaútočit. Postupme vpřed a rozdrťme nepřátele dřív, než poznají, co je zasáhlo." # todo: NEW TRANSLATION
+  NOR_alt_dem_focus_on_defense: "Zaměřit se na obranu" # todo: NEW TRANSLATION
+  NOR_alt_dem_focus_on_defense_desc: "Až donedávna bylo [NOR.GetName] mírumilovnou a odšťavněnou zemí, natáhli jsme se hodně. Musíme se teď zaměřit na obranu toho, co máme." # todo: NEW TRANSLATION
+  NOR_alt_dem_modernize_armed_forces_decision: "$NOR_modernize_armed_forces_decision$" # todo: NEW TRANSLATION
+  NOR_alt_dem_modernize_armed_forces_decision_desc: "$NOR_modernize_armed_forces_decision_desc$" # todo: NEW TRANSLATION
+  NOR_fascist_preparation_decisions_category: "Číhání ve stínech" # todo: NEW TRANSLATION
+  NOR_fascist_preparation_decisions_category_desc: "Strana Nasjonal Samling historicky měla v [NOR.GetAdjective] společnosti velmi omezenou podporu, proto je důležité šířit její učení po celé zemi a vybudovat základnu podpory.\n\nZasadíme semínka fašismu, až přijde vhodná příležitost sklidíme plody našeho plánování a převezmeme kontrolu nad [ROOT.GetName].\n\n\n[NOR.GetName]'s total support for Nasjonal Samling: [?NOR.NOR_country_preparedness]/30" # todo: NEW TRANSLATION
+  NOR_fascist_deploy_prep_decisions_category: "Vystoupat ze stínů" # todo: NEW TRANSLATION
+  NOR_fascist_deploy_prep_decisions_category_desc: "Čas na schovávání skončil, nasbírali jsme dost podpory k zahájení převzetí [NOR.GetName]. Nyní musíme nasadit naše přípravy v každém území našeho Otčiny.\n\nBudovali jsme podporu zdola a zasadili buňky, které jsou připraveny převzít svá území na rozkaz našeho velkého Fører a proti zbabělým silám demokracie." # todo: NEW TRANSLATION
+  NOR_communist_preparation_decisions_category: "Bouření proletariátu" # todo: NEW TRANSLATION
+  NOR_communist_preparation_decisions_category_desc: "[GetRousingProletariatDesc]" # todo: NEW TRANSLATION
+  NOR_communist_preparation_decisions_category_desc_stalinist: "Lidé z [ROOT.GetName] měli dlouho zavřené oči, je čas, aby konečně poslechli volání našich bratrů a sester v [SOU.GetNameDef].\n\nPoužijme je jako příklad toho, čeho může [ROOT.GetName] dosáhnout, když uchvátí výrobní prostředky a sjednotí se pod jednou vlajkou a jedním vůdcem, který je povede k boji proti tyranii Osla.$NOR_revolution_support_counter$" # todo: NEW TRANSLATION
+  NOR_communist_preparation_decisions_category_desc_trostkyist: "Je čas, aby lidé [NOR.GetName] vyslechli učení Marxe a Troskije a připravili se na nevyhnutelný střet, který promění naši zemi v předvoj komunismu ve Skandinávii.\n\nPřijměme oheň a síru Permanentní revoluce a sjednoťme zemi proti silám kapitalismu v Oslu.$NOR_revolution_support_counter$" # todo: NEW TRANSLATION
+  NOR_communist_preparation_decisions_category_desc_other: "Revoluce musí přijít zdola nahoru, od mas, které dřou na panského či průmyslníka.\n\nMnozí z našich proletářských bratří a sester neznají moc, kterou drží, takže musíme vyrazit a rozvášnit proletariát, aby se sjednotil proti Oslu a svrhl řetězy kapitalismu, jeden stát po druhém.$NOR_revolution_support_counter$" # todo: NEW TRANSLATION
+  NOR_revolution_support_counter: "\n\n\nCelková podpora naší revoluce:  [?NOR.NOR_country_preparedness]/[?NOR.NOR_comm_prep_max_preparedness]" # todo: NEW TRANSLATION
+  NOR_monarchist_preparation_decisions_category: "Ukažme králi Haakonovi naši podporu jeho vládě" # todo: NEW TRANSLATION
+  NOR_monarchist_preparation_decisions_category_desc: "Ještě před svým nástupem na trůn náš pokorný král Haakon VII svěřil své pravomoci Stortingu a jeho orgánům. To bylo v té době rozumné, ale musíme mu ukázat, že ho podporujeme v tom, aby převzal přímou kontrolu nad [ROOT.GetName], dřív než nebude co ovládat.\n\n\nCelková podpora monarchii:  [?NOR.NOR_country_preparedness]/30" # todo: NEW TRANSLATION
+  NOR_prepare_state_historical: "Rozvíjet [?FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_prepare_state_historical_desc: "Naše průmyslová základna je v troskách, ale jsme ochotni vynaložit potřebné úsilí, abychom zlepšili situaci pro lidi v [ROOT.GetName] a naše šance na přežití, pokud by nastalo nejhorší." # todo: NEW TRANSLATION
+  NOR_prepare_historical_unlock_TT: "Odemkne rozhodnutí §YRozvíjet stát§!, která umožňují zrychlit §GCivilní výstavbu§!, ale dávají tresty k §Rvojenské výstavbě a obraně§!." # todo: NEW TRANSLATION
+  NOR_prepare_fascist_unlock_TT: "Odemkne rozhodnutí §YBudovat podporu ve státě§!, která §GPZvyšují podporu fašismu§! a dávají §GTerritorium a výhody§! při začátku občanské války, ale dávají tresty k §Rcivilnímu průmyslu§!." # todo: NEW TRANSLATION
+  NOR_prepare_communist_unlock_TT: "Odemkne §YRozviň proletariát ve státě§!, které dávají §GTerritorium a jednotky§! při začátku komunistické revoluce, ale §Rpoškodí budovy§! ve státě." # todo: NEW TRANSLATION
+  NOR_deploy_state_preparation_historical: "[get_deploy_prep_decision_name]" # todo: NEW TRANSLATION
+  NOR_decision_defend_state_title: "Bránit [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_decision_emergency_production_title: "Nouzová výroba v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_decision_deploy_emergency_militias_title: "Nasadit milice v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_dem_his_integrate_militias: "Integrovat milice" # todo: NEW TRANSLATION
+  NOR_dem_his_integrate_militias_desc: "Teď, když muži, kteří tvořili naše milice, prokázali svou hodnotu, můžeme je lépe integrovat do armády, do běžných praporů a divizí." # todo: NEW TRANSLATION
+  NOR_alt_dem_integrate_militias: "$NOR_dem_his_integrate_militias$" # todo: NEW TRANSLATION
+  NOR_alt_dem_integrate_militias_desc: "$NOR_dem_his_integrate_militias_desc$" # todo: NEW TRANSLATION
+  NOR_prepare_exile: "Připravit exil" # todo: NEW TRANSLATION
+  NOR_prepare_exile_desc: "Realita je nepopiratelná. Naše země se neubrání nepřátelům navěky, ale můžeme bránit dost dlouho na to, abychom dostali co nejvíce z země a bojovali jindy." # todo: NEW TRANSLATION
+  NOR_focus_on_training: "Zaměřit se na výcvik" # todo: NEW TRANSLATION
+  NOR_focus_on_training_desc: "Musíme vložit veškeré úsilí do proměny našich rezerv a nováčků ve vojáky a rychle je posílat na frontu, protože fronta nemusí dlouho vydržet." # todo: NEW TRANSLATION
+  NOR_modernize_armed_forces_decision: "Modernizovat ozbrojené síly" # todo: NEW TRANSLATION
+  NOR_modernize_armed_forces_decision_desc: "Armáda [ROOT.GetAdjective] byla dlouho zanedbávána, naše ozbrojené síly vypadají spíše jako do muzea než pro bitevní pole." # todo: NEW TRANSLATION
+  NOR_move_government_headquarters_decision: "Přesunout vládu do [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_move_government_headquarters_decision_desc: "Pokud by naše vláda padla rukou nepřítele, znamenalo by to naši i královu a princovu zkázu. Jediná možnost je zůstat v pohybu a vyhýbat se nevyhnutelnému co nejdéle." # todo: NEW TRANSLATION
+  NOR_expedite_training: "Urychlit výcvik" # todo: NEW TRANSLATION
+  NOR_expedite_training_desc: "Nejlépe vycvičit naše jednotky je zásadní pro přežití, ale bude to marné, pokud dokončí výcvik a nebude již co bránit. Musíme tlačit co nejrychleji, než budeme vyhnáni z naší země." # todo: NEW TRANSLATION
+  NOR_public_investment_drive: "Veřejné investiční tažení" # todo: NEW TRANSLATION
+  NOR_public_investment_drive_desc: "V [ROOT.GetName] je mnoho práce, která se nezdaří bez přímých veřejných investic. Zaplavme zemi infrastrukturou a stavebními projekty." # todo: NEW TRANSLATION
+  NOR_naval_expanion: "Rozšíření námořnictva" # todo: NEW TRANSLATION
+  NOR_naval_expanion_desc: "Chceme-li přežít, musíme chránit naše pobřeží a k tomu potřebujeme lodě. Udělejme z každého fjordu loděnici." # todo: NEW TRANSLATION
+  NOR_prepare_state_fascist: "Budovat podporu v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_deploy_state_preparation_fascist: "[get_deploy_prep_decision_name_fascist]" # todo: NEW TRANSLATION
+  NOR_invite_fascist_to_invade: "Pozvat [GER.GetNameDef] aby vpadl do [NOR.GetNonIdeologyName]" # todo: NEW TRANSLATION
+  NOR_decision_take_over_state_title: "Převzít kontrolu v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_decision_industrial_takeover_title: "Průmyslové převzetí v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_decision_military_takeover_title: "Vojenské převzetí v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_prepare_state_communist: "Rozvášnit proletariát v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_prepare_state_communist_desc: "Lidé z [FROM.GetName] byli příliš dlouho vykořisťováni ve spánku. Zasadíme semínka bouřlivé revoluce." # todo: NEW TRANSLATION
+  NOR_communist_propaganda_campaign: "Komunistická propagandistická kampaň" # todo: NEW TRANSLATION
+  NOR_prepare_state_monarchist: "Monarchistická demonstrace v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_prepare_state_monarchist_desc: "Lidé z [FROM.GetName] potřebují připomenout volby z roku 1905 a proč do funkce zvolili svého krále. Brzy budou vyžadovat přímý zásah krále." # todo: NEW TRANSLATION
+  NOR_prop_up_the_economy: "Podpořit ekonomiku" # todo: NEW TRANSLATION
+  NOR_prop_up_the_economy_desc: "Nedosáhneme svých politických cílů, pokud budou lidé hladovět. Musíme přerušit naši monarchistickou kampaň, abychom se postarali o naše poddané a jejich potřeby." # todo: NEW TRANSLATION
+  NOR_make_assurances_to_the_people: "Ujistit lidi [NOR.GetNonIdeologyName]" # todo: NEW TRANSLATION
+  NOR_make_assurances_to_the_people_desc: "V [NOR.GetName] jsou to děsivé časy, takže musíme přes média ubezpečit, že to přečkáme, a až to skončí, náš vlídný král povede tažení za naše přežití." # todo: NEW TRANSLATION
+  NOR_promote_the_armed_defense_of_the_country: "Prosazovat ozbrojenou obranu [NOR.GetName]" # todo: NEW TRANSLATION
+  NOR_promote_the_armed_defense_of_the_country_desc: "Lidé z [NOR.GetName] si musí připomenout, co se stane, pokud nebudou bránit naši zemi. Každý musí sehrát svou roli v nastávajícím konfliktu." # todo: NEW TRANSLATION
+  NOR_exile_decisions_category: "Exilová vláda [ROOT.GetName]" # todo: NEW TRANSLATION
+  NOR_exile_decisions_category_desc: "Ocitli jsme se v nejhorší situaci. Po ztrátě našeho území nepříteli nemáme jinou možnost než žít v exilu. Můžeme být alespoň vděčni našemu velkorysému hostiteli a doufat, že jednoho dne s jejich pomocí budeme opět ve své milované [NOR.GetNonIdeologyName]." # todo: NEW TRANSLATION
+  NOR_request_reinstatement: "Žádat [FROM.GetNameDef] o obnovení vlády" # todo: NEW TRANSLATION
+  NOR_request_reinstatement_desc: "Náš nepřítel ztrácí půdu v [NOR.GetName] a myslíme, že je čas obnovit naši vládu na jejím právoplatném místě." # todo: NEW TRANSLATION
+  NOR_lobby_for_parliamentary_support: "Lobovat za podporu v [FROM.GetAdjective] vládě" # todo: NEW TRANSLATION
+  NOR_lobby_for_parliamentary_support_desc: "Naši hostitelé byli zatím velmi štědří, ale možná je třeba jim připomenout, čím naši lidé procházejí, aby nikdy nezapomněli, o co pro nás jde." # todo: NEW TRANSLATION
+  NOR_bring_soldiers_from_norway: "Dovézt vojáky z [NOR.GetNonIdeologyName]" # todo: NEW TRANSLATION
+  NOR_bring_soldiers_from_norway_desc: "Mnozí, kteří bojovali za obranu naší země, zůstali uvězněni v domovině. Můžeme se snažit přivézt některé z nich a další, kteří možná ještě nebojovali, ale chtějí se vrátit a dobýt svou zemi zpět." # todo: NEW TRANSLATION
+  NOR_weapons_for_the_resistance: "Získat a rozdělit zbraně" # todo: NEW TRANSLATION
+  NOR_weapons_for_the_resistance_desc: "Můžeme využít naše obrovské obchodní loďstvo k získávání zbraní jak pro naše úsilí zde, tak pro odboj v naší vlasti. Zbraně tam oslabí úchop nepřítele nad [NOR.GetNonIdeologyName] a zbraně zde zasadí rozhodující úder tyranii." # todo: NEW TRANSLATION
+  NOR_unity_parade: "Jednotný průvod v [FROM.Capital.GetCapitalVictoryPointName]" # todo: NEW TRANSLATION
+  NOR_unity_parade_desc: "Zaplníme ulice [FROM.Capital.GetCapitalVictoryPointName] našimi hlasy, abychom připomněli lidem tohoto velkého města, že náš boj a jejich boj jsou jedno a totéž." # todo: NEW TRANSLATION
+  NOR_joint_training_exercise: "Společné cvičení s [FROM.GetNameDef]" # todo: NEW TRANSLATION
+  NOR_joint_training_exercise_desc: "Pokud doufáme v vítězství, naše síly musí být s [FROM.GetNameDef] jednotné. To lze dosáhnout jen cvičením a hlubokou spoluprací s našimi spojenci." # todo: NEW TRANSLATION
+  NOR_expand_industrial_capacity: "Investovat do průmyslové kapacity" # todo: NEW TRANSLATION
+  NOR_expand_industrial_capacity_desc: "I když jsme v exilu, nejsme bezmocní. Máme jedno z největších obchodních loďstev na světě k dispozici a můžeme ho využít k získání průmyslové kapacity potřebné k financování našeho úsilí o návrat domů." # todo: NEW TRANSLATION
+  NOR_foment_resistance_in_state: "Podněcovat odpor v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_foment_resistance_in_state_desc: "Lidé v [FROM.GetName] mají ducha odporu a bojují proti našemu nepříteli! Potřebují jen malý impuls, aby to bylo rozhodující." # todo: NEW TRANSLATION
+  NOR_support_rebellion: "Podpořit povstání v [FROM.GetName]" # todo: NEW TRANSLATION
+  NOR_support_rebellion_desc: "Naše snahy o odboj v [FROM.GetName] se vyplatily. Lidé jsou připraveni vystoupit proti svým utlačovatelům. Nechme je zahájit boj a jakmile začnou, budeme připraveni vrátit se a bojovat." # todo: NEW TRANSLATION
+  SWE_hygenic_housing_mission: "Šíření hygienické bytové politiky" # todo: NEW TRANSLATION
+  SWE_hygenic_housing_mission_tt: "Náhodný stát sousedící se státem s existujícím §YHygienickým bydlením§! obdrží modifier §YHygienické bydlení§!.\nToto poslání se opakuje, dokud každý státní jádrový stát nebude mít §YHygienický modifier§!" # todo: NEW TRANSLATION
+  SWE_work_projects_for_the_unemployed_decision: "Pracovní projekty pro nezaměstnané" # todo: NEW TRANSLATION
+  SWE_work_projects_for_the_unemployed_rapid_implementation: "Rychlá implementace pracovních projektů pro nezaměstnané" # todo: NEW TRANSLATION
+  improve_radiotjanst: "Vylepšit Radiotjänst" # todo: NEW TRANSLATION
+  pervert_radiotjanst_parent: "Srovnat Radiotjänst s " # todo: NEW TRANSLATION
+  pervert_radiotjanst_communism: "$pervert_radiotjanst_parent$ [SWE.GetCommunistParty]" # todo: NEW TRANSLATION
+  pervert_radiotjanst_fascism: "$pervert_radiotjanst_parent$ [SWE.GetFascistParty]" # todo: NEW TRANSLATION
+  pervert_radiotjanst_unaligned: "$pervert_radiotjanst_parent$ [SWE.GetNeutralParty]" # todo: NEW TRANSLATION
+  restore_radiotjanst_to_democratic: "$pervert_radiotjanst_parent$ [SWE.GetDemocraticParty]" # todo: NEW TRANSLATION
+  SWE_repair_the_mines: "Opravit doly" # todo: NEW TRANSLATION
+  SWE_mines: "$SWE_blow_up_the_mines$" # todo: NEW TRANSLATION
+  SWE_blow_up_the_mines: "Podminovat doly" # todo: NEW TRANSLATION
+  deeper_swedish_mines: "Hlubší doly" # todo: NEW TRANSLATION
+  SWE_form_rfsu: "Založit RFSU" # todo: NEW TRANSLATION
+  SWE_form_rfsu_desc: "Jako náš hlavní cíl zlepšení zdravotní péče pro občany vytvoříme organizaci zabývající se sexuálním a reprodukčním zdravím. To sníží nemoci a posílí populaci." # todo: NEW TRANSLATION
+  SWE_concessions_for_defense_spending: "Ústupky za obranné výdaje" # todo: NEW TRANSLATION
+  SWE_poverty_reduction: "Snižování chudoby" # todo: NEW TRANSLATION
+  SWE_swap_herman_eriksson: "Jmenovat Hermana Erikssona ministrem zásob" # todo: NEW TRANSLATION
+  SWE_ebba_palmstierna_cat: "Ebba Palmstiernová válka proti nerovnosti" # todo: NEW TRANSLATION
+  SWE_ebba_add_research: "Povzbudit ženy k vstupu do vědeckých oborů" # todo: NEW TRANSLATION
+  SWE_ebba_add_production: "Snížit rozdíl v odměňování" # todo: NEW TRANSLATION
+  SWE_ebba_political_clout: "Snížit bariéry politického vstupu pro ženy" # todo: NEW TRANSLATION
+  SWE_landsverk_is_siezed: "Továrny Landsverk zabrány sabotáží" # todo: NEW TRANSLATION
+  SWE_politics: "Švédská politika" # todo: NEW TRANSLATION
+  SWE_urbanization_decision: "Podpořit urbanizaci" # todo: NEW TRANSLATION
+  SWE_hygenic_housing_output_bonus: "Hygienická bytová politika" # todo: NEW TRANSLATION
+  SWE_hygenic_housing_resource_bonus: "Hygienická bytová politika" # todo: NEW TRANSLATION
+  SWE_paid_holidays_policy: "Politika placených dovolených" # todo: NEW TRANSLATION
+  SWE_paid_holidays_policy_on_leave: "Dělníci na dovolené" # todo: NEW TRANSLATION
+  SWE_move_the_bus: "Přesunout autobus" # todo: NEW TRANSLATION
+  SWE_move_the_bus_tt: "Přesune mobilní velitelství [?SWE.GetLeader] do tohoto státu.\n§YPokud bude stát dobyt, zatímco se velitelství nachází v tomto státě, zemře vůdce země§!" # todo: NEW TRANSLATION
+  SWE_election_active: "Zahájeno volební období" # todo: NEW TRANSLATION
+  SWE_elections_suspended: "Volby pozastaveny" # todo: NEW TRANSLATION
+  SWE_seize_civilian_tires: "[SWE_civilian_tire_loc]" # todo: NEW TRANSLATION
+  SWE_seize_civilian_tires_activate: "Zabavit civilní pneumatiky" # todo: NEW TRANSLATION
+  SWE_seize_civilian_tires_revoke: "Zrušit $SWE_seize_civilian_tires_activate$" # todo: NEW TRANSLATION
+  SWE_gengas: "[SWE_gengas_loc]" # todo: NEW TRANSLATION
+  SWE_gengas_activate: "Gen-Gas automobily" # todo: NEW TRANSLATION
+  SWE_gengas_revoke: "Zrušit $SWE_gengas_activate$" # todo: NEW TRANSLATION
+  SWE_gengas_effect: "Základní získání paliva: §G+30%§!" # todo: NEW TRANSLATION
+  SWE_food_stamps: "[SWE_food_stamps_loc]" # todo: NEW TRANSLATION
+  SWE_food_stamps_activate: "Potravinové lístky" # todo: NEW TRANSLATION
+  SWE_food_stamps_revoke: "Zrušit $SWE_food_stamps_activate$" # todo: NEW TRANSLATION
+  SWE_air_raid_shelters: "[SWE_air_raid_shelters_loc]" # todo: NEW TRANSLATION
+  SWE_air_raid_shelters_activate: "Protiplynové kryty" # todo: NEW TRANSLATION
+  SWE_air_raid_shelters_revoke: "Zrušit $SWE_air_raid_shelters_activate$" # todo: NEW TRANSLATION
+  SWE_rationing_cooldown: "§YBude možné změnit tuto politiku až za 180 dní.§!" # todo: NEW TRANSLATION
+  SWE_time_until_can_pick_gengas: "Čas do změny politiky GenGas" # todo: NEW TRANSLATION
+  SWE_time_until_can_pick_food_stamps: "Čas do změny politiky potravinových lístků" # todo: NEW TRANSLATION
+  SWE_time_until_can_pick_civilian_tires: "Čas do změny politiky zabavování civilních pneumatik" # todo: NEW TRANSLATION
+  SWE_time_until_can_pick_air_shelters: "Čas do změny politiky protiplynových krytů" # todo: NEW TRANSLATION
+  SWE_train_the_sheltered_decision: "$SWE_train_the_sheltered$" # todo: NEW TRANSLATION
+  SWE_train_the_sheltered_manpower_max: "Aktuální mobilizace: [?var:SWE.SWE_train_the_sheltered_manpower_current_manpower]\nKapacita personálu: [?var:SWE.SWE_train_the_sheltered_manpower_current_cap]" # todo: NEW TRANSLATION
+  SWE_train_the_sheltered_short_desc: "Pravě cvičíme nordické vojáky přestrojené za policejní sbory. V případě války budou povoláni, aby sloužili v armádě a přidali se do rezervního fondu.\nMůžeme rozšířit naše zařízení a trénovat jich více, pokud to bude potřeba." # todo: NEW TRANSLATION
+  SWE_train_the_sheltered_cat: "Cvičit ukryté" # todo: NEW TRANSLATION
+  SWE_train_the_sheltered_cat_add_cap_tt: "Přidává §G[?SWE.SWE_train_the_sheltered_manpower_cap_increase]§! ke kapacitě mobilizace" # todo: NEW TRANSLATION
+  SWE_train_the_sheltered_tt: "Odemkne rozhodnutí k výcviku exilových nordických vojáků. Tato síla je přidána do samostatné zásoby mobilizace, která bude časem růst až do kapacity. Pokud budeme napadeni, tato zásoba se přidá k naší vlastní mobilizaci.\nMůžeme utratit zdroje pro další zvýšení této kapacity.\nPo vypuknutí války tento fond přestane růst" # todo: NEW TRANSLATION
+  SWE_train_the_sheltered_cost: "[SWE_train_the_sheltered_cost]" # todo: NEW TRANSLATION
+  decision_cost_CP_40_cp: "£command_power  §Y40§!" # todo: NEW TRANSLATION
+  SWE_train_the_sheltered_cost_blocked: "[SWE_train_the_sheltered_cost]" # todo: NEW TRANSLATION
+  decision_cost_15_army_xp: "£army_experience  §Y15§!" # todo: NEW TRANSLATION
+  SWE_military_matters: "Vojenské záležitosti" # todo: NEW TRANSLATION
+  SWE_rangers: "Jägartrupper" # todo: NEW TRANSLATION
+  SWE_rangers_sabotage: "Sabotovat klíčovou nepřátelskou infrastrukturu" # todo: NEW TRANSLATION
+  SWE_rangers_sent_out: "Jägartrupper se vracejí z mise" # todo: NEW TRANSLATION
+  SWE_rangers_tt: "Manpower (náhodná ztráta mezi): §Y0§! až §R-1300§!" # todo: NEW TRANSLATION
+  SWE_set_up_home_guard_forces: "Zřídit jednotky domobrany" # todo: NEW TRANSLATION
+  SWE_set_up_home_guard_forces_tt: "Zřizuje buňku jednotek Hemvärn, které lze aktivovat jako nouzové divize v případě války.\nTo lze provést třikrát na stát, čímž se v případě války zvýší počet divizí.\nÚroveň domobrany: §Y[?FROM.SWE_has_added_home_guard]/3§!" # todo: NEW TRANSLATION
+  SWE_activate_home_guard: "Aktivovat Hemvärn" # todo: NEW TRANSLATION
+  SWE_activate_home_guard_tt: "Aktivuje divize Domobrany v tomto státě" # todo: NEW TRANSLATION
+  SWE_activate_all_home_guard: "Aktivovat všechny divize Hemvärn" # todo: NEW TRANSLATION
+  SWE_activate_all_home_guard_tt: "Aktivuje všechny divize Hemvärn v celé zemi současně" # todo: NEW TRANSLATION
+  SWE_bop_suspend_riksdag: "Pozastavit Riksdag" # todo: NEW TRANSLATION
+  SWE_bop_suspend_riksdag_desc: "S pevnou rukou moci můžeme konečně zahodit zastaralou instituci Riksdagu a její spojené volby." # todo: NEW TRANSLATION
+  SWE_ball_bearings_cat: "Obchod s kuličkovými ložisky" # todo: NEW TRANSLATION
+  SWE_trade_ball_bearings: "Obchodovat s kuličkovými ložisky s [FROM.FROM.GetNameDef]" # todo: NEW TRANSLATION
+  SWE_revoke_food_trade: "Odebrat obchod s kuličkovými ložisky s [SWE.GetNameDefCap]" # todo: NEW TRANSLATION
+  SWE_revoke_research_exchange: "$SWE_revoke_food_trade$" # todo: NEW TRANSLATION
+  SWE_waiting_for_ball_bearing_response: "Čeká se na zahraniční odpověď" # todo: NEW TRANSLATION
+  SWE_ball_bearing_trade_tt: "Umožňuje obchodovat kuličková ložiska se zahraničními zeměmi, což zvyšuje jejich výrobu §YTanků§! a §YLetadel§!.\nPokud přijmou obchod, dostaneme možnost být zásobeni buď\n  §YArmádou§!, §YVzduchem§! a §YNámořnictvem§! zkušenostmi: §G+20§!\n  Stabilita: §G+2%§!, §G+15§! týdenní mobilizace (stohuje se za každý další obchod)\n  §G+25%§! výzkumný bonus pro §YLodě§!, §YRadar§!, §YSyntetické zdroje§! nebo §YPodpůrné technologie§!" # todo: NEW TRANSLATION
+  SWE_fascism_buildup: "Národní socialistické hnutí [ROOT.GetAdjective]" # todo: NEW TRANSLATION
+  SWE_stormtrupper_recruitment: "Nábor Stormtrupper v [FROM.GetName]" # todo: NEW TRANSLATION
+  SWE_fascist_march: "March Stormtrupper v [FROM.GetName]" # todo: NEW TRANSLATION
+  SWE_integrate_fin: "Integrovat [FIN.GetName]" # todo: NEW TRANSLATION
+  SWE_integrate_den: "Integrovat [DEN.GetName]" # todo: NEW TRANSLATION
+  SWE_integrate_nor: "Integrovat [NOR.GetName]" # todo: NEW TRANSLATION
+  SWE_integrate_ice: "Integrovat [ICE.GetName]" # todo: NEW TRANSLATION
+  SWE_proclaim_big_power_sweden: "Vyhlásit obnovu Švédské říše " # todo: NEW TRANSLATION
+  SWE_proclaim_big_power_sweden_tt: "Každý jádrový stát na začátku hry:\n     Je plně kontrolován: §Y[?ROOT.GetName]§!" # todo: NEW TRANSLATION
+  SWE_proclaim_eternal_sweden_tt: "Každý jádrový stát na začátku hry pro §Y[DEN.GetName]§!, §Y[NOR.GetName]§!, §Y[FIN.GetName]§!, §Y[ICE.GetName]§!, §Y[EST.GetName]§! a §Y[LAT.GetName]§! je plně kontrolován: §Y[?ROOT.GetName]§!" # todo: NEW TRANSLATION
+  SWE_proclaim_eternal_sweden: "Vyhlásit Věčnou nordickou říši" # todo: NEW TRANSLATION
+  SWE_proclaim_eternal_sweden_tt_name: "[SWE.GetName] bude znám jako [ENE.GetName]" # todo: NEW TRANSLATION
+  SWE_appeal_for_support_cat: "Žádat o podporu" # todo: NEW TRANSLATION
+  SWE_appeal_to_aristocracy: "Obrátit se na aristokracii" # todo: NEW TRANSLATION
+  SWE_appeal_to_industrialists: "Setkat se s průmyslníky" # todo: NEW TRANSLATION
+  SWE_appeal_to_military: "Setkat se s armádou" # todo: NEW TRANSLATION
+  SWE_appeal_to_rural_people: "Svolat venkovské obyvatelstvo" # todo: NEW TRANSLATION
+  SWE_implement_aristocracy_reforms_countdown: "Aristokracie očekává politické reformy" # todo: NEW TRANSLATION
+  SWE_implement_industrialist_reforms_countdown: "Průmyslníci očekávají pracovní reformy" # todo: NEW TRANSLATION
+  SWE_implement_military_reforms_countdown: "Armáda očekává zvýšení rozpočtu" # todo: NEW TRANSLATION
+  SWE_implement_rural_reforms_countdown: "Venkov očekává investice" # todo: NEW TRANSLATION
+  SWE_implement_aristocracy_reforms: "Obnovit aristokratická privilegia" # todo: NEW TRANSLATION
+  SWE_implement_industrialist_reforms: "Zákaz Landsorganisationen" # todo: NEW TRANSLATION
+  SWE_implemented_rural_reforms: "Realizované venkovské reformy" # todo: NEW TRANSLATION
+  SWE_implemented_military_reforms: "Realizované vojenské reformy" # todo: NEW TRANSLATION
+  SWE_implemented_industrialist_reforms: "Realizované průmyslnické reformy" # todo: NEW TRANSLATION
+  SWE_implemented_artistocratic_reforms: "Realizované aristokratické reformy" # todo: NEW TRANSLATION
+  SWE_implement_military_reforms: "Zvýšit vojenský rozpočet" # todo: NEW TRANSLATION
+  SWE_implement_rural_reforms: "Investovat do venkovských regionů" # todo: NEW TRANSLATION
+  SWE_implemented_rural_reforms_tt: "§Y3 státy§! s kategoriemi nižšími než 'Město' obdrží §Y1 infrastrukturu§!." # todo: NEW TRANSLATION
+  SWE_appeal_for_support_dec_tt: "§RStoupenci budou očekávat odměnu v budoucnu a stabilita bude drasticky ovlivněna, pokud závazky nebudou splněny!§!" # todo: NEW TRANSLATION
+  SWE_royalist_buildup: "Návrat krále" # todo: NEW TRANSLATION
+  SWE_royal_visit: "Organizovat královskou návštěvu do [FROM.GetName]" # todo: NEW TRANSLATION
+  SWE_socialists_reforms_decision_stability: "Politika práv dělníků" # todo: NEW TRANSLATION
+  SWE_socialists_reforms_decision_research: "Financování daněmi pro všeobecné vzdělávání" # todo: NEW TRANSLATION
+  SWE_socialists_reforms_decision_efficiency_gain: "Dlouhé směny, dobré platy" # todo: NEW TRANSLATION
+  SWE_socialists_reforms_decision_efficiency_civ_to_mil: "Civilní ekonomika na vojenskou ekonomiku" # todo: NEW TRANSLATION
+  SWE_socialists_reforms_decision_efficiency_mil_to_civ: "Vojenská ekonomika na civilní ekonomiku" # todo: NEW TRANSLATION
+  SWE_socialists_reforms_decision_mio: "Přesměrovat daně na soukromé vojenské kontrakty" # todo: NEW TRANSLATION
+  SWE_pull_the_trigger_nor: "Stisknout spoušť" # todo: NEW TRANSLATION
+  SWE_pull_the_trigger_den: "$SWE_pull_the_trigger_nor$" # todo: NEW TRANSLATION
+  SWE_communist_foreign_influence: "Zahraniční socialistický vliv" # todo: NEW TRANSLATION
+  SWE_pull_the_trigger_tt: "Velikost občanské války bude záviset na rozsahu jejich komunistické podpory" # todo: NEW TRANSLATION
+  SWE_coalition_war_cabinet_cat: "Demokratická válečná kancelář" # todo: NEW TRANSLATION
+  SWE_upgrade_current_trait: "Vylepšit současnou vlastnost vůdce" # todo: NEW TRANSLATION
+  SWE_upgrade_close_ties_to_the_military: "Těsné vazby s armádou" # todo: NEW TRANSLATION
+  SWE_upgrade_landsfader: "Landsfader" # todo: NEW TRANSLATION
+  SWE_upgrade_respectful_occupier: "Respektující okupant" # todo: NEW TRANSLATION
+  SWE_upgrade_education_for_all: "Vzdělání pro všechny" # todo: NEW TRANSLATION
+  SWE_upgrade_every_barrel_counts: "Každý sud se počítá" # todo: NEW TRANSLATION
+  SWE_has_picked_war_cabinet_trait: "Vybrána vlastnost válečné kanceláře" # todo: NEW TRANSLATION
+  SWE_has_picked_war_cabinet_trait_tt: "§YMůžeme vybrat pouze jednu vlastnost pro našeho vůdce§!" # todo: NEW TRANSLATION
+  SWE_hungershield_cat: "Krize Hungershield" # todo: NEW TRANSLATION
+  SWE_hungershield_dummy: "Krize stávky" # todo: NEW TRANSLATION
+  SWE_hungershield_worse_dummy: "Krize nepokojů" # todo: NEW TRANSLATION
+  SWE_hungershield_mission: "Veřejné nepokoje" # todo: NEW TRANSLATION
+  SWE_coax_nordic_defense_council_cat: "Přemluvit nordické země k připojení k Nordické obranné radě" # todo: NEW TRANSLATION
+  SWE_coax_countries_that_rejected: "Přemluvit [FROM.GetName] k připojení k Nordické obranné radě" # todo: NEW TRANSLATION
+  NORDIC_cooperation_decisions_category: "Nordická spolupráce" # todo: NEW TRANSLATION
+  NORDIC_cooperation_decisions_category_desc: " #TODO_NORDIC \n\nMíra konfliktu: §Y[?GLOBAL.NORDIC_conflict_scale|1]§!/[?GLOBAL.NORDIC_conflict_scale_max] - [NORDIC_get_war_scale]\n\n - [NORDIC_get_current_participation_level]" # todo: NEW TRANSLATION
+  NORDIC_promote_nordic_unity: "Podporovat nordickou jednotu" # todo: NEW TRANSLATION
+  NORDIC_promote_nordic_unity_desc: "Měli bychom připomenout našim sousedům naši společnou historii a tradici vzájemné pomoci, i když byla poněkud nesourodá." # todo: NEW TRANSLATION
+  NORDIC_strenghten_ties_decision: "Posílit vazby s [FROM.GetName]" # todo: NEW TRANSLATION
+  NORDIC_strenghten_ties_decision_desc: "Ať chceme nebo ne, historie svázala [ROOT.GetName] a [FROM.GetName]. Můžeme se navzájem učit tím, že posílíme tyto vazby." # todo: NEW TRANSLATION
+  NORDIC_strenghtening_ties_flag: "Posilujeme naše vazby s jinou nordickou zemí." # todo: NEW TRANSLATION
+  NORDIC_strengthen_ties_TT: "Odemkne rozhodnutí: §YPosílit vazby s Nordickem§!, které přiblíží jinou nordickou zemi diplomacii a politicky k [ROOT.GetName]." # todo: NEW TRANSLATION
+  NORDIC_invest_in_nordic: "Investovat do [FROM.GetName]" # todo: NEW TRANSLATION
+  NORDIC_invest_in_nordic_desc: "Pokud investujeme do [FROM.GetName], můžeme sklízet výhody souseda a zároveň mu dát slušnou dohodu." # todo: NEW TRANSLATION
+  NORDIC_ask_for_investment_to_nordic: "Požádat [FROM.GetName] o investice do nás" # todo: NEW TRANSLATION
+  NORDIC_ask_for_investment_to_nordic_desc: "Je jasné, že nám chybí kapitál potřebný k investicím pro náš rozvoj a vzestup. Můžeme požádat našeho nordického souseda, [FROM.GetName], aby do nás vložil část svého kapitálu. Samozřejmě za jejich podporu budou odměněni." # todo: NEW TRANSLATION
+  NORDIC_ongoing_investment: "Již investuje do ekonomiky nordické země." # todo: NEW TRANSLATION
+  NORDIC_economic_cooperation_decisions: "Usilovat o ekonomickou spolupráci s [FROM.GetName]" # todo: NEW TRANSLATION
+  NORDIC_economic_cooperation_decisions_desc: "[ROOT.GetName] a [FROM.GetName] sdílejí století historie. Někdy jako nepřátelé, jindy jako spojenci a přátelští sousedé. V těchto nejistých časech bychom se jako Nordici měli držet spolu a spolupracovat vzájemně výhodným způsobem, jako rovný s rovným." # todo: NEW TRANSLATION
+  NORDIC_ongoing_negotiations: "Probíhající jednání" # todo: NEW TRANSLATION
+  NORDIC_court_foreign_power: "Ulanit [FROM.GetNameDef]" # todo: NEW TRANSLATION
+  NORDIC_court_foreign_power_desc: "Chceme-li dosáhnout dominance, potřebujeme podporu zahraniční moci jako [FROM.GetName]. Připojení k jejich alianci nám dá výhodu, kterou potřebujeme, abychom přinesli změnu na sever." # todo: NEW TRANSLATION
+  NORDIC_send_weapons: "Poslat zbraně do [FROM.GetName]" # todo: NEW TRANSLATION
+  NORDIC_send_weapons_desc: " TODO_NORDIC" # todo: NEW TRANSLATION
+  NORDIC_send_volunteers: "Poslat dobrovolníky na frontu [FROM.GetAdjective]" # todo: NEW TRANSLATION
+  NORDIC_send_volunteers_desc: "TODO_NORDIC" # todo: NEW TRANSLATION
+  NORDIC_expand_volunteer_program: "Podporovat dobrovolnictví pro frontu [FROM.GetAdjective]" # todo: NEW TRANSLATION
+  NORDIC_expand_volunteer_program_desc: " TODO_NORDIC " # todo: NEW TRANSLATION
+  NORDIC_defend_nordic_country: "Připojit se k válce za obranu [FROM.GetName]" # todo: NEW TRANSLATION
+  NORDIC_defend_nordic_country_desc: "TODO_NORDIC" # todo: NEW TRANSLATION
+  NORDIC_decision_no_war_participation: "$NORDIC_no_war_participation$" # todo: NEW TRANSLATION
+  NORDIC_decision_no_war_participation_desc: " TODO_NORDIC" # todo: NEW TRANSLATION
+  NORDIC_decision_limited_war_participation: "$NORDIC_limited_war_participation$" # todo: NEW TRANSLATION
+  NORDIC_decision_limited_war_participation_desc: " TODO_NORDIC" # todo: NEW TRANSLATION
+  NORDIC_decision_risky_war_participation: "$NORDIC_risky_war_contribution$" # todo: NEW TRANSLATION
+  NORDIC_decision_risky_war_participation_desc: "TODO_NORDIC" # todo: NEW TRANSLATION
+  NORDIC_decision_dangerous_war_participation: "$NORDIC_dangerous_war_participation$" # todo: NEW TRANSLATION
+  NORDIC_decision_dangerous_war_participation_desc: "TODO_NORDIC" # todo: NEW TRANSLATION
+  DEN_balance_of_power_category: "$DEN_balance_of_power$" # todo: NEW TRANSLATION
+  DEN_short_reset_time_tt: "Tuto akci lze opakovat za §Y[?DEN_short_reset_time]§! dní" # todo: NEW TRANSLATION
+  DEN_medium_reset_time_tt: "Tuto akci lze opakovat za §Y[?DEN_medium_reset_time]§! dní" # todo: NEW TRANSLATION
+  DEN_long_reset_time_tt: "Tuto akci lze opakovat za §Y[?DEN_long_reset_time]§! dní" # todo: NEW TRANSLATION
+  DEN_very_long_reset_time_tt: "Tuto akci lze opakovat za §Y[?DEN_very_long_reset_time]§! dní" # todo: NEW TRANSLATION
+  DEN_bop_defend_our_chosen_path: "Bránit naši zvolenou cestu" # todo: NEW TRANSLATION
+  DEN_hurt_military_ability_tt: "Tato akce uškodí vojenské schopnosti o" # todo: NEW TRANSLATION
+  DEN_bop_exile_royal_family: "Vysídlit královskou rodinu" # todo: NEW TRANSLATION
+  DEN_bop_ban_elections: "Zákaz voleb" # todo: NEW TRANSLATION
+  DEN_bop_motion_of_no_confidence: "Návrh na vyslovení nedůvěry" # todo: NEW TRANSLATION
+  DEN_bop_motion_of_no_confidence_desc: "Současná vláda se zdá být neschopná jakéhokoli rozumného kroku k záchraně [DEN.GetNameDef] a jeho lidí. Je potřeba nové rozhodné vedení! Rigsdagen musí podat „hlasování o nedůvěře“ vůči vedení [DEN.GetLeader]." # todo: NEW TRANSLATION
+  DEN_bop_criticize_the_country_leader: "Kritizovat [DEN.GetLeader]" # todo: NEW TRANSLATION
+  DEN_bop_criticize_the_country_leader_desc: "Členové Rigsdagen zpochybňují vedení [ROOT.GetLeader] za zavřenými dveřmi, ale nikdo se neodváží to udělat navenek. Někdo musí otevřeně kritizovat a svolat většinu Rigsdagen, aby připravil cestu pro návrh na nedůvěru!" # todo: NEW TRANSLATION
+  DEN_has_criticized_country_leader_flag: "Kritika [DEN.GetLeader] proběhla" # todo: NEW TRANSLATION
+  DEN_bop_defend_our_chosen_path_neutrality: "£BoP_left_texticon Bránit naši zvolenou cestu" # todo: NEW TRANSLATION
+  DEN_bop_defend_our_chosen_path_neutrality_desc: "Dobře či špatně, vydali jsme se na cestu, od které by bylo velmi nerozumné odbočit. Musíme věřit rozhodnutím, která nás sem přivedla, a doufat, že je to správná cesta." # todo: NEW TRANSLATION
+  DEN_bop_ban_all_political_uniforms: "£BoP_left_texticon Zákaz všech politických uniforem" # todo: NEW TRANSLATION
+  DEN_bop_ban_all_political_uniforms_desc: "Po celé Evropě pochodují politické uniformy v řadách, jako by to byla vojenská přehlídka. A po celé Evropě kráčí politické nepokoje a nestabilita, vnášející kontinent do chaosu. Musíme zabránit tomu, aby tento vývoj zasáhl [ROOT.GetNameDef] dřív, než bude pozdě." # todo: NEW TRANSLATION
+  DEN_bop_unban_oppositions_uniforms: "£BoP_left_texticon Povolit opozici nosit politické uniformy" # todo: NEW TRANSLATION
+  DEN_bop_unban_oppositions_uniforms_desc: "Nemůžeme zakazovat používání politických uniforem jiné strany, pokud naši stoupenci pochodují ulicemi jako účastníci vojenské přehlídky. Musíme toto cenzurní opatření zrušit." # todo: NEW TRANSLATION
+  DEN_bop_defend_the_policy_of_neutrality: "£BoP_left_texticon Bránit politiku neutrality" # todo: NEW TRANSLATION
+  DEN_bop_defend_the_policy_of_neutrality_desc: "Neutralita nám sloužila dobře, zejména během Velké války, kdy boje zuřily po celé Evropě. Ale ne zde, ne v Dánsku. Byli jsme ušetřeni. Neutralita nám skutečně dobře sloužila." # todo: NEW TRANSLATION
+  DEN_bop_speak_out_in_favor_of_disarmament: "£BoP_left_texticon Vyjádřit se ve prospěch odzbrojení" # todo: NEW TRANSLATION
+  DEN_bop_speak_out_in_favor_of_disarmament_desc: "Jako malý národ obklopený velmocemi nemáme naději odrazit invazi, tak proč utrácet peníze za obranu, která nám nikdy nepomůže, ale mohla by potenciálně rozhněvat naše mnohem větší sousedy?" # todo: NEW TRANSLATION
+  DEN_bop_speak_out_against_warfare: "£BoP_left_texticon Mluvit proti zbrojení" # todo: NEW TRANSLATION
+  DEN_bop_speak_out_against_warfare_desc: "Přezbrojení nyní by mohlo být vnímáno jako provokace ze strany okolních velmocí. Nemůžeme riskovat rozhněvání většího souseda, protože nemáme prostředky, jak se bránit proti silnější armádě." # todo: NEW TRANSLATION
+  DEN_bop_expand_the_welfare: "£BoP_left_texticon Rozšířit systém sociální péče" # todo: NEW TRANSLATION
+  DEN_bop_expand_the_welfare_desc: "Místo válečného šílenství a plýtvání penězi na obranu, která nemůže odolat útoku žádné z velmocí v okolí, bychom měli zvýšit výdaje na náš rozvíjející se sociální systém!" # todo: NEW TRANSLATION
+  DEN_bop_unban_all_political_uniforms: "£BoP_right_texticon Povolit všechny politické uniformy" # todo: NEW TRANSLATION
+  DEN_bop_unban_all_political_uniforms_desc: "Nemůžeme nechat zákaz politických uniforem v platnosti, protože omezuje práva lidu!" # todo: NEW TRANSLATION
+  DEN_bop_ban_oppositions_uniforms: "£BoP_right_texticon Zákaz politických uniforem opozice" # todo: NEW TRANSLATION
+  DEN_bop_ban_oppositions_uniforms_desc: "Nemůžeme dovolit, aby naši političtí oponenti pochodovali ve svých uniformách a předváděli se. To jen šíří nespokojenost a rozkol. Měli bychom zakázat všechny politické uniformy - kromě těch u moci samozřejmě." # todo: NEW TRANSLATION
+  DEN_bop_defend_our_chosen_path_rearmament: "£BoP_right_texticon Bránit naši zvolenou cestu" # todo: NEW TRANSLATION
+  DEN_bop_defend_our_chosen_path_rearmament_desc: "$DEN_bop_defend_our_chosen_path_neutrality_desc$" # todo: NEW TRANSLATION
+  DEN_bop_criticize_our_preparedness: "£BoP_right_texticon Kritizovat naši připravenost" # todo: NEW TRANSLATION
+  DEN_bop_criticize_our_preparedness_desc: "Nad Evropou se opět stahují tmavé mraky a my nejsme připraveni na příchozí bouři! Musíme začít s přípravami co nejdříve, chceme-li tuto bouři přečkat." # todo: NEW TRANSLATION
+  DEN_bop_question_our_defenses: "£BoP_right_texticon Zpochybnit naše obrany" # todo: NEW TRANSLATION
+  DEN_bop_question_our_defenses_desc: "Dlouho udržovaná politika neutrality nás zbavila obrany! Kdyby nás napadl cizí moc, nic by je nezastavilo v postupu přímo do Kodaně. Musíme zajistit obranu, chceme-li přežít jako národ!" # todo: NEW TRANSLATION
+  DEN_bop_speak_out_against_welfare: "£BoP_right_texticon Mluvit proti systému sociální péče" # todo: NEW TRANSLATION
+  DEN_bop_speak_out_against_welfare_desc: "Nejdřív je třeba zajistit obranu a nezávislost, teprve potom můžeme utrácet na cokoli jiného. Bez dánského národa nejsou Dánové, na které by se dávky utrácely." # todo: NEW TRANSLATION
+  DEN_bop_speak_out_in_favor_of_rearmament: "£BoP_right_texticon Mluvit ve prospěch přezbrojení" # todo: NEW TRANSLATION
+  DEN_bop_speak_out_in_favor_of_rearmament_desc: "Nemůžeme sedět se založenýma rukama, když Evropa vstupuje do závodu ve zbrojení a nejisté časy nás čekají. Musíme připravit obranu a zahájit přezbrojení co nejdříve, ideálně včera!" # todo: NEW TRANSLATION
+  DEN_bop_landstorm: "£BoP_right_texticon Obnovit Landstorm" # todo: NEW TRANSLATION
+  DEN_bop_landstorm_desc: "S narůstajícím nepokojem je nejvyšší čas znovu zavést Landstorm k obraně našeho území. I když nejsou vysoce kvalitní, tyto jednotky mohou být poslední linií obrany." # todo: NEW TRANSLATION
+  DEN_bop_hold_a_military_parade: "£BoP_right_texticon Uspořádat vojenskou přehlídku" # todo: NEW TRANSLATION
+  DEN_bop_hold_a_military_parade_desc: "Uspořádáním vojenské přehlídky posílíme víru lidu v naši schopnost bránit [ROOT.GetNameDef]. Určitě to posílí morálku a odhodlání vidět nasazení našich jednotek." # todo: NEW TRANSLATION
+  DEN_bop_occupation_criticize_collaboration: "£BoP_right_texticon Kritizovat kolaborační politiku" # todo: NEW TRANSLATION
+  DEN_bop_occupation_criticize_collaboration_desc: "Tato hanebná kapitulace a nečistá kolaborace mezi [ROOT.GetNameDef] a [?DEN.DEN_overlord_nation.GetNameDef] nestojí za papír, na kterém je podepsána!" # todo: NEW TRANSLATION
+  DEN_bop_occupation_strikes: "£BoP_right_texticon Tajně koordinovat stávky" # todo: NEW TRANSLATION
+  DEN_bop_occupation_strikes_decs: "Nejlepší, co můžeme nyní udělat, je pasivně protestovat proti [?DEN.DEN_overlord_nation.GetAdjective] okupaci koordinováním celonárodních stávek." # todo: NEW TRANSLATION
+  DEN_bop_occupation_resistance_coordination: "£BoP_right_texticon Koordinovat odboj" # todo: NEW TRANSLATION
+  DEN_bop_occupation_resistance_coordination_desc: "Chceme-li získat svobodu zpět, musíme se sjednotit do společného odbojového hnutí a bojovat za osvobození [ROOT.GetNameDef]." # todo: NEW TRANSLATION
+  DEN_bop_occupation_underground_factories: "£BoP_right_texticon Podzemní zbrojní továrny" # todo: NEW TRANSLATION
+  DEN_bop_occupation_underground_factories_desc: "Abychom měli větší šanci na znovuvybudování svrchovanosti, potřebujeme zásoby zbraní. Musíme postavit tajné zbrojní továrny, aby se lid mohl ozbrojit, až přijde den, kdy budeme muset bojovat o svobodu." # todo: NEW TRANSLATION
+  DEN_bop_occupation_raid_depots: "£BoP_right_texticon Přepadnout zásobníky zbraní" # todo: NEW TRANSLATION
+  DEN_bop_occupation_raid_depots_desc: "Naše domácí zbrojní továrny vyrábějí a napomáhají [?DEN.DEN_overlord_nation.GetNameDef] se zbraněmi používanými v jejich válkách. Přepadení zásobníků zbraní sníží jejich zásoby a posílí náš odboj zároveň." # todo: NEW TRANSLATION
+  DEN_bop_occupation_sabotage_civ_industry: "£BoP_right_texticon Sabotovat civilní průmysl" # todo: NEW TRANSLATION
+  DEN_bop_occupation_sabotage_civ_industry_desc: "Naše domácí továrny jsou nuceny vyrábět a pomáhat [?DEN.DEN_overlord_nation.GetNameDef] s materiálem pro jejich válečné úsilí. Sabotáž těchto továren sníží zásoby materiálu, což poškodí německé válečné úsilí." # todo: NEW TRANSLATION
+  DEN_bop_occupation_sabotage_mil_industry: "£BoP_right_texticon Sabotovat vojenský průmysl" # todo: NEW TRANSLATION
+  DEN_bop_occupation_sabotage_mil_industry_desc: "Naše domácí zbrojní továrny pomáhají [?DEN.DEN_overlord_nation.GetNameDef] s výrobou zbraní. Sabotáž těchto továren sníží zásoby zbraní, poškodí německé válečné úsilí a pomůže našim potenciálním spojencům." # todo: NEW TRANSLATION
+  DEN_bop_occupation_funnel_resources_danish_brigade: "£BoP_right_texticon Přesměrovat zdroje na dánské brigády" # todo: NEW TRANSLATION
+  DEN_bop_occupation_funnel_resources_danish_brigade_desc: "[?DEN.hosts_danish_brigades.GetNameDefCap] laskavě přijala a trénuje dánské jednotky, které mohou pomoci osvobodit [ROOT.GetNameDef], až nastane čas. Aby měly co nejlepší šanci na úspěch, musíme je podpořit penězi a materiálem." # todo: NEW TRANSLATION
+  DEN_bop_occupation_switch_ideology: "Přijmout [?DEN.DEN_overlord_nation.GetRulingIdeologyNoun]" # todo: NEW TRANSLATION
+  DEN_bop_occupation_switch_ideology_desc: "Chceme-li se skutečně sblížit s [?DEN.DEN_overlord_nation.GetNameDef] a získat jejich podporu, musíme přijmout jejich ideologii a přesvědčení." # todo: NEW TRANSLATION
+  DEN_bop_occupation_ban_elections: "£BoP_left_texticon Zákaz voleb" # todo: NEW TRANSLATION
+  DEN_bop_occupation_ban_elections_desc: "Musíme uspokojit naše [?DEN.DEN_overlord_nation.GetAdjective] pány zákazem svobodných voleb" # todo: NEW TRANSLATION
+  DEN_bop_occupation_defend_collaboration: "£BoP_left_texticon Bránit kolaborační politiku" # todo: NEW TRANSLATION
+  DEN_bop_occupation_defend_collaboration_desc: "Kapitulace a kolaborace s [?DEN.DEN_overlord_nation.GetNameDef] byla jediné správné rozhodnutí! Ušetřila nám hrůzy a zkázu, kterou si ani nedokážeme představit." # todo: NEW TRANSLATION
+  DEN_bop_occupation_censor_the_media: "£BoP_left_texticon Cenzurovat média" # todo: NEW TRANSLATION
+  DEN_bop_occupation_censor_the_media_desc: "V této prekérní situaci nemůžeme dovolit médiím otevřeně kritizovat [?DEN.DEN_overlord_nation.GetAdjective] okupaci. Musíme je omezit v tom, co mohou publikovat, aby se nezatížily naše poslední zbytky svobody." # todo: NEW TRANSLATION
+  DEN_bop_occupation_remove_political_agitator: "£BoP_left_texticon Odstranit politické agitátory" # todo: NEW TRANSLATION
+  DEN_bop_occupation_remove_political_agitator_desc: "Někteří prominentní politici se neostýchají kritizovat naše [?DEN.DEN_overlord_nation.GetAdjective] pány, což zvyšuje napětí mezi našimi zeměmi. Musíme tyto troublemakery odstranit z jejich postů dřív, než nás [?DEN.DEN_overlord_nation.GetNameDef] donutí." # todo: NEW TRANSLATION
+  DEN_bop_occupation_ban_communism: "£BoP_left_texticon Zákaz komunismu" # todo: NEW TRANSLATION
+  DEN_bop_occupation_ban_communism_desc: "Naši [?DEN.DEN_overlord_nation.GetAdjective] pánové vidí sami sebe ve válce s komunistickou ideologií a ocenili by naši spolupráci, kdybychom zakázali všechny komunistické organizace v naší zemi." # todo: NEW TRANSLATION
+  DEN_bop_occupation_allow_communism: "£BoP_left_texticon Povolit komunismus" # todo: NEW TRANSLATION
+  DEN_bop_occupation_allow_communism_desc: "Naši komunističtí páni nemají rádi, že jsme jejich ideologii zakázali v [ROOT.GetNameDef]. Bylo by v našem nejlepším zájmu znovu povolit komunismus." # todo: NEW TRANSLATION
+  DEN_bop_occupation_ban_fascism: "£BoP_left_texticon Zákaz fašismu" # todo: NEW TRANSLATION
+  DEN_bop_occupation_ban_fascism_desc: "Naši [?DEN.DEN_overlord_nation.GetAdjective] pánové vidí fašismus jako nepřítele a ocenili by naši spolupráci, kdybychom zakázali všechny fašistické organizace v zemi." # todo: NEW TRANSLATION
+  DEN_bop_occupation_allow_fascism: "£BoP_left_texticon Povolit fašismus" # todo: NEW TRANSLATION
+  DEN_bop_occupation_allow_fascism_desc: "Naši fašističtí pánové nejsou nadšeni tím, že jsme jejich ideologii zakázali v [ROOT.GetNameDef]. Bylo by v našem nejlepším zájmu povolit fašismus znovu." # todo: NEW TRANSLATION
+  DEN_bop_occupation_allow_democratism: "£BoP_left_texticon Povolit demokratické strany" # todo: NEW TRANSLATION
+  DEN_bop_occupation_allow_democratism_desc: "Opakované volby jsou znakem vzájemné důvěry mezi občany a silou státu. Neumožnit demokratické volby je ostuda pro náš národ." # todo: NEW TRANSLATION
+  DEN_resistance_category: "Dánské odbojové hnutí" # todo: NEW TRANSLATION
+  DEN_resistance_category_desc: "Musíme se postavit okupující mocnosti a znovu získat naši svobodu! To lze dosáhnout pouze společným úsilím a vytrvalou prací směrem ke společnému cíli osvobozeného [ROOT.GetNameDef]." # todo: NEW TRANSLATION
+  DEN_seek_foreign_support_decision: "Žádat o podporu od [FROM.GetNameDef]" # todo: NEW TRANSLATION
+  DEN_ask_for_weapons_decision: "Žádat o dodávky zbraní" # todo: NEW TRANSLATION
+  DEN_buy_allied_weapons_decision: "Nákup spojeneckých zbraní" # todo: NEW TRANSLATION
+  DEN_seek_danish_brigades_host: "Hledat hostitelskou zemi pro dánské brigády" # todo: NEW TRANSLATION
+  DEN_buy_foreign_destroyers: "Koupit zahraniční torpédoborce" # todo: NEW TRANSLATION
+  DEN_overlord_category: "Protektorát Dánska" # todo: NEW TRANSLATION
+  DEN_overlord_category_desc: "Dovolili jsme Dánsku udržet určitou autonomii jako zvláštní protektorát. Musíme je však mít pod dohledem, protože naše ochrana nese i určité povinnosti." # todo: NEW TRANSLATION
+  DEN_annex_denmark: "Anexovat [DEN.GetNameDef]" # todo: NEW TRANSLATION
+  DEN_seize_jylland: "Obsadit celé Jutsko" # todo: NEW TRANSLATION
+  DEN_reclaim_sonderjylland: "Znovu získat Jižní Jutsko" # todo: NEW TRANSLATION
+  DEN_demand_country_leader_resignation: "Trvat na rezignaci [DEN.GetLeader]" # todo: NEW TRANSLATION
+  DEN_install_plenipotentiary: "Instalovat příznivého plenipotenciáře" # todo: NEW TRANSLATION
+  DEN_demand_government_change: "Požadovat změnu vlády" # todo: NEW TRANSLATION
+  DEN_demand_communist_ban: "Požadovat zákaz komunismu" # todo: NEW TRANSLATION
+  DEN_demand_fascist_ban: "Požadovat zákaz fašismu" # todo: NEW TRANSLATION
+  DEN_demand_weapon_deliveries: "Žádat o dodávky zbraní" # todo: NEW TRANSLATION
+  DEN_demand_troops: "Žádat dánské jednotky" # todo: NEW TRANSLATION
+  DEN_overlord_requests_the_return_of_the_faroes: "$DEN_request_the_return_of_the_faroes$" # todo: NEW TRANSLATION
+  DEN_overlord_requests_greenland_back: "$DEN_request_greenland_back$" # todo: NEW TRANSLATION
+  DEN_trade_deal_category: "Dánské obchodní dohody" # todo: NEW TRANSLATION
+  DEN_increase_trade_with_denmark: "Zvýšit obchod s [DEN.GetName]" # todo: NEW TRANSLATION
+  DEN_increase_trade_with_denmark_desc: "Získali bychom mnoho výhod, kdybychom rozšířili existující obchodní dohodu s [DEN.GetName]." # todo: NEW TRANSLATION
+  DEN_cancel_trade_with_denmark: "Zrušit obchodní dohodu s [DEN.GetName]" # todo: NEW TRANSLATION
+  DEN_cancel_trade_with_denmark_desc: "Obchodní dohoda s Dány splnila své, už nám nepřináší užitek." # todo: NEW TRANSLATION
+  DEN_cancel_trade_with_country: "Zrušit obchodní dohodu" # todo: NEW TRANSLATION
+  DEN_cancel_trade_with_country_desc: "Už nevidíme žádný smysl v této obchodní dohodě a zrušíme ji." # todo: NEW TRANSLATION
+  DEN_military_category: "Vojenské akce" # todo: NEW TRANSLATION
+  DEN_deploy_the_home_guard: "Nasadit Hemvärn v [FROM.GetName]" # todo: NEW TRANSLATION
+  DEN_remove_the_home_guard: "Odvolat Hemvärn v [FROM.GetName]" # todo: NEW TRANSLATION
+  DEN_deploy_landstormen: "Nasadit Landstormen v [FROM.GetName]" # todo: NEW TRANSLATION
+  DEN_recall_landstormen: "Odvolat všechny milice Landstormen" # todo: NEW TRANSLATION
+  DEN_army_drills: "Pozemní cvičení" # todo: NEW TRANSLATION
+  DEN_navy_drills: "Námořní cvičení" # todo: NEW TRANSLATION
+  DEN_air_drills: "Cvičení letectva" # todo: NEW TRANSLATION
+  DEN_fortification_category: "Opevňovací snahy" # todo: NEW TRANSLATION
+  DEN_fortification_category_desc: "Abychom zajistili budoucnost [ROOT.GetNameDef], musíme se připravit na nejhorší a posílit naši obranu. Jen pevné a neproniknutelné opevnění nás ochrání." # todo: NEW TRANSLATION
+  DEN_forts_in_sjaelland: "Vybudovat pevnosti v $STATE_37$" # todo: NEW TRANSLATION
+  DEN_forts_in_fyn: "Vybudovat pevnosti v $STATE_911$" # todo: NEW TRANSLATION
+  DEN_forts_in_norrejylland: "Vybudovat pevnosti v $STATE_99$" # todo: NEW TRANSLATION
+  DEN_forts_in_sonderjylland: "Vybudovat pevnosti v $STATE_912$" # todo: NEW TRANSLATION
+  DEN_coastal_forts_in_sjaelland: "Vybudovat pobřežní pevnosti v $STATE_37$" # todo: NEW TRANSLATION
+  DEN_coastal_forts_in_fyn: "Vybudovat pobřežní pevnosti v $STATE_911$" # todo: NEW TRANSLATION
+  DEN_coastal_forts_in_norrejylland: "Vybudovat pobřežní pevnosti v $STATE_99$" # todo: NEW TRANSLATION
+  DEN_coastal_forts_in_sonderjylland: "Vybudovat pobřežní pevnosti v $STATE_912$" # todo: NEW TRANSLATION
+  DEN_development_category: "Rozvíjet regiony" # todo: NEW TRANSLATION
+  DEN_development_category_desc: "Abychom překonali budoucí finanční a zemědělské krize, musíme investovat a diverzifikovat naše regiony, aby byly odolné a produktivní." # todo: NEW TRANSLATION
+  DEN_develop_state_greenland: "Rozvíjet $STATE_101$" # todo: NEW TRANSLATION
+  DEN_develop_state_bornholm: "Rozvíjet $STATE_910$" # todo: NEW TRANSLATION
+  DEN_develop_state_faroes: "Rozvíjet $STATE_337$" # todo: NEW TRANSLATION
+  DEN_develop_state_gotland: "Rozvíjet $STATE_124$" # todo: NEW TRANSLATION
+  DEN_develop_state_iceland: "Rozvíjet $STATE_100$" # todo: NEW TRANSLATION
+  DEN_develop_state_norrejylland: "Rozvíjet $STATE_99$" # todo: NEW TRANSLATION
+  DEN_develop_state_sonderjylland: "Rozvíjet $STATE_912$" # todo: NEW TRANSLATION
+  DEN_develop_state_sjaelland: "Rozvíjet $STATE_37$" # todo: NEW TRANSLATION
+  DEN_develop_state_fyn: "Rozvíjet $STATE_911$" # todo: NEW TRANSLATION
+  DEN_repeatable_three_times_tt: "Tuto akci bylo zopakováno §Y0§! z §Y3§! krát" # todo: NEW TRANSLATION
+  DEN_times_state_has_been_developed_tt: "Tuto akci bylo zopakováno §Y[?DEN_times_state_was_developed]§! z §Y3§! krát" # todo: NEW TRANSLATION
+  expand_greenlands_mines: "Rozšířit grónské doly" # todo: NEW TRANSLATION
+  last_repeatable_decision_tt: "Tato akce již §Ynení§! opakovatelná" # todo: NEW TRANSLATION
+  DEN_danish_security_category: "Dánská bezpečnost" # todo: NEW TRANSLATION
+  DEN_danish_security_category_desc: "Musíme hledat ochranu a obrátit se na jiné země, abychom zajistili naši svrchovanost." # todo: NEW TRANSLATION
+  DEN_seek_guarantor: "Hledat ochranu [FROM.GetAdjective]" # todo: NEW TRANSLATION
+  DEN_seek_an_alliance: "Hledat alianci" # todo: NEW TRANSLATION
+  DEN_nordic_security_category: "Zajistit severní frontu" # todo: NEW TRANSLATION
+  DEN_nordic_security_category_desc: "Musíme chránit naše nordické bratry a zajistit severní frontu, abychom se mohli věnovat naléhavějším záležitostem." # todo: NEW TRANSLATION
+  DEN_invite_nordic_countries: "Pozvat [FROM.GetNameDef] do naší frakce" # todo: NEW TRANSLATION
+  DEN_invade_nordic_countries: "Ochraňovat [FROM.GetAdjective] lidi" # todo: NEW TRANSLATION
+  DEN_integration_puppets_category: "Integrovat nordické subjekty" # todo: NEW TRANSLATION
+  DEN_integrate_iceland: "Integrovat [ICE.GetFlag][Ice.GetNameDefCap]" # todo: NEW TRANSLATION
+  DEN_integrate_sweden: "Integrovat [SWE.GetFlag][SWE.GetNameDefCap]" # todo: NEW TRANSLATION
+  DEN_integrate_finland: "Integrovat [FIN.GetFlag][FIN.GetNameDefCap]" # todo: NEW TRANSLATION
+  DEN_integrate_norway: "Integrovat [NOR.GetFlag][NOR.GetNameDefCap]" # todo: NEW TRANSLATION
+  DEN_demand_territory_category: "Požadovat nordické území" # todo: NEW TRANSLATION
+  DEN_demand_territory_category_desc: "Nordická oblast patří pod dánskou hegemonii, abychom mohli chránit naše bratry. Máme plné právo požadovat převod jakéhokoli nordického území, které není pod naší jurisdikcí, do naší ochrany." # todo: NEW TRANSLATION
+  DEN_demand_icelandic_territory: "Požadovat [ICE.GetFlag][Ice.GetAdjective] území" # todo: NEW TRANSLATION
+  DEN_demand_swedish_territory: "Požadovat [SWE.GetFlag][SWE.GetAdjective] území" # todo: NEW TRANSLATION
+  DEN_demand_finnish_territory: "Požadovat [FIN.GetFlag][FIN.GetAdjective] území" # todo: NEW TRANSLATION
+  DEN_demand_norwegian_territory: "Požadovat [NOR.GetFlag][NOR.GetAdjective] území" # todo: NEW TRANSLATION
+  DEN_pan_scandinavianism_decisions_category: "Podnítit panskandinávské hnutí" # todo: NEW TRANSLATION
+  DEN_rally_the_icelanders: "Svolat [ICE.GetFlag] Islanďany" # todo: NEW TRANSLATION
+  DEN_rally_the_swedes: "Svolat [SWE.GetFlag] Švédy" # todo: NEW TRANSLATION
+  DEN_rally_the_finnish: "Svolat [FIN.GetFlag] Finy" # todo: NEW TRANSLATION
+  DEN_rally_the_norwegians: "Svolat [NOR.GetFlag] Nory" # todo: NEW TRANSLATION
+  DEN_swedish_steel_production_category: "Nabídnout švédskou ocel za ochranu" # todo: NEW TRANSLATION
+  DEN_swedish_steel_for_security: "Nabídnout [FROM.GetNameDef] práva k využívání zdrojů" # todo: NEW TRANSLATION
+  DEN_danish_faction_category: "Dánská bezpečnost a spolupráce" # todo: NEW TRANSLATION
+  DEN_northern_national_front_invitation: "Pozvat [FROM.GetNameDef] do §Y$DEN_northern_national_front$§!" # todo: NEW TRANSLATION
+  DEN_northern_security_pact_invitation: "Pozvat [FROM.GetNameDef] do §Y$DEN_northern_security_pact$§!" # todo: NEW TRANSLATION
+  DEN_northern_technological_advancements_group_invite: "Pozvat [FROM.GetNameDef] do §Y$DEN_northern_technological_advancements_group$§!" # todo: NEW TRANSLATION
+  DEN_influence_countries_category: "Rozšiřovat dánský vliv" # todo: NEW TRANSLATION
+  DEN_influence_countries_decision: "Ovlivnit veřejné mínění [FROM.GetAdjective]" # todo: NEW TRANSLATION
+  DEN_offer_protection_category: "Nabídnout dánskou ochranu" # todo: NEW TRANSLATION
+  DEN_offer_protection_decision: "Nabídnout [FROM.GetNameDef] dánskou ochranu" # todo: NEW TRANSLATION
+  DEN_return_occupied_territory_category: "Vrácení okupovaného území" # todo: NEW TRANSLATION
+  DEN_return_occupied_territory_category_desc: "Cizí mocnosti tvrdí, že chrání naše území před vojenskými hrůzami, dokud nebudeme 'osvobozeni od hnusného poutu', do kterého nás vrhla nepřátelská agrese. Dobře, je čas vrátit ostrovy." # todo: NEW TRANSLATION
+  DEN_request_the_return_of_the_faroes: "Požádat o vrácení Faerských ostrovů" # todo: NEW TRANSLATION
+  DEN_request_greenland_back: "Požádat o odstoupení Grónska" # todo: NEW TRANSLATION
+  FIN_balance_of_power_category: "$FIN_power_balance$" # todo: NEW TRANSLATION
+  FIN_motti_tactics_category: "Motti taktiky" # todo: NEW TRANSLATION
+  FIN_motti_tactics_category_desc: "Strategie motti zahrnuje obklíčení a izolaci nepřátelských jednotek, aby se paralyzovaly jejich logistické a komunikační linky. Implementace tohoto přístupu vyžaduje pečlivé plánování a výcvik obranných sil, aby byl efektivní na bojišti, ale umožní přehrát nepřítele a udeřit tam, kde to nejméně čeká." # todo: NEW TRANSLATION
+  FIN_prepare_motti_tactics_in_state: "Připravit motti taktiky v [FROM.GetName]" # todo: NEW TRANSLATION
+  FIN_prepare_motti_tactics_in_state_desc: "Budou provedeny přípravy pro implementaci motti taktik v [FROM.GetName]." # todo: NEW TRANSLATION
+  FIN_cancel_motti_tactics_in_state: "Zastavit motti taktiky v [FROM.GetName]" # todo: NEW TRANSLATION
+  FIN_cancel_motti_tactics_in_state_desc: "Naše jednotky v [FROM.GetName] již nebudou využívat motti taktiky, takže vojenské zdroje lze přesunout jinam." # todo: NEW TRANSLATION
+  FIN_motti_tactics_cost_increase_tt: "Náklady na rozhodnutí §YPřipravit motti taktiky§! budou §Rnásobeny§! číslem §Y[?FIN_motti_decision_cost_increase]§!.\n" # todo: NEW TRANSLATION
+  FIN_motti_tactics_cost_decrease_tt: "\nNáklady na rozhodnutí §YPřipravit motti taktiky§! budou §Rděleny§! číslem §Y[?FIN_motti_decision_cost_increase]§!." # todo: NEW TRANSLATION
+  FIN_motti_tactics_decision_cost_dynamic_cp_pp: "£command_power  §Y[?FIN_motti_decision_cost]§! £pol_power  §Y[?FIN_motti_decision_cost]§!" # todo: NEW TRANSLATION
+  FIN_motti_tactics_decision_cost_dynamic_cp_pp_blocked: "£command_power  §R[?FIN_motti_decision_cost]§! £pol_power  §R[?FIN_motti_decision_cost]§!" # todo: NEW TRANSLATION
+  FIN_motti_tactics_decision_cost_dynamic_cp_pp_tooltip: "Stojí £command_power  §Y[?FIN_motti_decision_cost]§! £pol_power  §Y[?FIN_motti_decision_cost]§! rozhodnutí učinit" # todo: NEW TRANSLATION
+  FIN_national_defense_category: "Národní obrana" # todo: NEW TRANSLATION
+  FIN_national_defense_category_desc: "Obrana [ROOT.GetAdjective] území a nezávislosti je nejvyšší prioritou. Měli bychom být připraveni udělat cokoli, co bude třeba, abychom ochránili náš lid před vnějšími hrozbami." # todo: NEW TRANSLATION
+  FIN_set_up_weapon_caches_in_state: "Zřídit zbrojní skrýše v [FROM.GetName]" # todo: NEW TRANSLATION
+  FIN_set_up_weapon_caches_in_state_desc: "Jako součást tajné vojenské operace bude velké množství zbraní a vybavení [ROOT.GetAdjective] armády ukryto ve skrýších rozházených po [FROM.GetName], aby odbojové prvky mohly pokračovat v boji proti vetřelcům." # todo: NEW TRANSLATION
+  FIN_weapon_caches_cost_increase_tt: "Náklady na rozhodnutí §YZřídit zbrojní skrýše§! budou zvýšeny o §Y[?FIN_weapon_caches_decision_cost_increase]§!.\n" # todo: NEW TRANSLATION
+  FIN_weapon_caches_decision_cost_dynamic_ie_cp_pp: "£infantry_equipment_text_icon  §Y50§! £command_power  §Y[?FIN.FIN_weapon_caches_decision_cost]§! £pol_power  §Y[?FIN.FIN_weapon_caches_decision_cost]§!" # todo: NEW TRANSLATION
+  FIN_weapon_caches_decision_cost_dynamic_ie_cp_pp_blocked: "£infantry_equipment_text_icon  §R50§! £command_power  §R[?FIN.FIN_weapon_caches_decision_cost]§! £pol_power  §R[?FIN.FIN_weapon_caches_decision_cost]§!" # todo: NEW TRANSLATION
+  FIN_weapon_caches_decision_cost_dynamic_ie_cp_pp_tooltip: "Stojí £infantry_equipment_text_icon  §Y50§! £command_power  §Y[?FIN.FIN_weapon_caches_decision_cost]§!  £pol_power  §Y[?FIN.FIN_weapon_caches_decision_cost]§! rozhodnutí učinit" # todo: NEW TRANSLATION
+  FIN_surrender_to_the_soviet_union: "Kapitulovat před [SOV.GetNameDef]" # todo: NEW TRANSLATION
+  FIN_surrender_to_the_soviet_union_desc: "Je jasné, že navzdory statečným snahám našich vojáků nelze držet [SOV.GetAdjective] věčně. Je nejvyšší čas požádat o omezený mír s naším nepřítelem." # todo: NEW TRANSLATION
+  FIN_reached_out_to_soviets_to_surrender_flag: "Už se pokusili zahájit mírová jednání s [SOV.GetNameDef]" # todo: NEW TRANSLATION
+  FIN_demand_peace_negotiations: "Požadovat mírová jednání s [SOV.GetName]" # todo: NEW TRANSLATION
+  FIN_demand_peace_negotiations_desc: "Nyní, když máme opět navrch proti [SOV.GetAdjective], můžeme zkusit vynutit mír." # todo: NEW TRANSLATION
+  FIN_can_demand_territory_if_occupying_tt: "\n\nBudeme moci požadovat územní ústupky od [SOV.GetNameDef], pokud ovládáme státy §Y[213.GetName]§!, §Y[215.GetName]§! nebo §Y[216.GetName]§!." # todo: NEW TRANSLATION
+  FIN_can_demand_peace_negotiations_flag: "Dokončeno poslání §Y$FIN_hold_leningrad_mission$§! (ovládněte §Y[195.GetName]§! po dobu aspoň §Y30 dní§!) a aktuálně ovládáte §Y[195.GetName]§!" # todo: NEW TRANSLATION
+  FIN_winter_war_ongoing_flag: "[ROOT.GetFlag]§Y[ROOT.GetNameDef]§! vede Zimní válku proti §Y[SOV.GetNameDef]§!, jako obránce." # todo: NEW TRANSLATION
+  FIN_hold_leningrad_mission: "Držet [195.GetName]" # todo: NEW TRANSLATION
+  FIN_hold_leningrad_mission_desc: "[195.GetName] mohl být dobyt našimi silami, ale abychom vynutili své požadavky, musíme region držet, dokud nejsou [SOV.GetAdjective] síly dostatečně demoralizovány." # todo: NEW TRANSLATION
+  FIN_retake_leningrad_mission: "Znovu získat [195.GetName]" # todo: NEW TRANSLATION
+  FIN_retake_leningrad_mission_desc: "Síly [FIN.GetAdjective] nám vzaly [195.GetName], a pokud to brzy neobnovíme, budou moci vynutit své požadavky." # todo: NEW TRANSLATION
+  FIN_finland_can_send_peace_demands_tt: "Během ruské občanské války Finové vedli svoje heimosodaty, ve kterých zasahovali na naše území a nyní pokračují ve stejném duchu." # todo: NEW TRANSLATION
+  FIN_finnish_resistance_category: "[FIN.GetAdjective] odboj" # todo: NEW TRANSLATION
+  FIN_finnish_resistance_category_desc: "Jako součást tajné vojenské operace bylo velké množství zbraní a vybavení [ROOT.GetAdjective] armády ukryto ve skrýších po Finsku s cílem pomoci odbojovým prvkům v pokračování boje proti našim jednotkám." # todo: NEW TRANSLATION
+  FIN_search_for_weapon_caches_in_state: "Hledat zbrojní skrýše v [FROM.GetName]" # todo: NEW TRANSLATION
+  FIN_search_for_weapon_caches_in_state_desc: "Naše jednotky provedou důkladné vyšetřování případu finských zbrojních skrýší v [FROM.GetName], aby našly a zabavily všechny skrýše ve státě." # todo: NEW TRANSLATION
+  FIN_search_for_weapon_caches_decision_cost_cp: "£command_power  §Y[?FIN.FIN_search_for_weapon_caches_decision_cost]§!" # todo: NEW TRANSLATION
+  FIN_search_for_weapon_caches_decision_cost_cp_blocked: "£command_power  §R[?FIN.FIN_search_for_weapon_caches_decision_cost]§!" # todo: NEW TRANSLATION
+  FIN_search_for_weapon_caches_decision_cost_cp_tooltip: "Stojí £command_power  §Y[?FIN.FIN_search_for_weapon_caches_decision_cost]§! rozhodnutí učinit" # todo: NEW TRANSLATION
+  FIN_motion_of_no_confidence_against_leader: "Návrh na vyslovení nedůvěry vůči [ROOT.GetLeader]" # todo: NEW TRANSLATION
+  FIN_motion_of_no_confidence_against_leader_desc: "[ROOT.GetLeader] neudělal dost pro vyřešení problémů naší země, a je jasné, že se to nezmění. Je čas hlasovat o nedůvěře a zbavit se tohoto nekompetentního vůdce." # todo: NEW TRANSLATION
+  FIN_resignation_of_kallio: "Rezignace $FIN_kyosti_kallio$" # todo: NEW TRANSLATION
+  FIN_resignation_of_kallio_desc: "$FIN_kyosti_kallio$ nebyl velkým státníkem a jeho nedávné neúspěchy ukazují, že nemůže správně vést zemi. S rostoucím napětím ve světě a jeho zdravotním stavem je lepší, když rezignuje." # todo: NEW TRANSLATION
+  FIN_form_a_military_government: "Ustanovit vojenskou vládu" # todo: NEW TRANSLATION
+  FIN_form_a_military_government_desc: "Současná civilní vláda projevila slabost tváří v tvář nepřátelství a potíží. $FIN_carl_mannerheim$ dříve sloužil naší zemi dobře a opět to učiní. Musí vytvořit vojenskou vládu, aby nás ochránila." # todo: NEW TRANSLATION
+  FIN_resignation_of_mannerheim: "Rezignace $FIN_carl_mannerheim$" # todo: NEW TRANSLATION
+  FIN_resignation_of_mannerheim_desc: "$FIN_carl_mannerheim$ necítí potřebu vládnout navěky a přání oznámit svou rezignaci z postu prezidenta, prohlašujíc, že už není potřeba, protože splnil povinnosti, které slíbil při nástupu do úřadu." # todo: NEW TRANSLATION
+  FIN_organize_the_opposition: "Organizovat opozici" # todo: NEW TRANSLATION
+  FIN_organize_the_opposition_desc: "Vláda neuspěla v naplnění slibů a musí být adekvátně potrestána. Je čas sjednotit opozici a organizovat akce k získání podpory a zdiskreditování [ROOT.GetLeader]." # todo: NEW TRANSLATION
+  FIN_appeal_to_the_finnish_spirit: "Oslovit finského ducha" # todo: NEW TRANSLATION
+  FIN_appeal_to_the_finnish_spirit_desc: "Musíme apelovat na mimořádné odhodlání, houževnatost a odolnost Finnů tváří v tvář obtížím. Finský lid musí pracovat společně, aby zvítězil. Naše sisu nás činí silnými!" # todo: NEW TRANSLATION
+  FIN_entice_the_masses: "Nalákat masy" # todo: NEW TRANSLATION
+  FIN_entice_the_masses_desc: "Masy jsou snadno ovlivnitelné. Sliby řešení drobných, blízkých problémů mohou učinit vládu přitažlivější pro průměrného Fina." # todo: NEW TRANSLATION
+  FIN_organize_the_opposition_cost_increase_tt: "\nNáklady na rozhodnutí §Y$FIN_organize_the_opposition$§! budou §Rnásobeny§! číslem §Y[?FIN_bop_decision_cost_multiplier]§!.\n" # todo: NEW TRANSLATION
+  FIN_appeal_to_the_finnish_spirit_cost_increase_tt: "\nNáklady na rozhodnutí §Y$FIN_appeal_to_the_finnish_spirit$§! budou §Rnásobeny§! číslem §Y[?FIN_bop_decision_cost_multiplier]§!.\n" # todo: NEW TRANSLATION
+  FIN_entice_the_masses_cost_increase_tt: "\nNáklady na rozhodnutí §Y$FIN_entice_the_masses$§! budou §Rnásobeny§! číslem §Y[?FIN_bop_decision_cost_multiplier]§!.\n" # todo: NEW TRANSLATION
+  FIN_the_path_to_socialism: "Cesta ke socialismu" # todo: NEW TRANSLATION
+  FIN_the_path_to_socialism_desc: "Za pár let, díky kolektivnímu úsilí lidu, dosáhneme pravého socialismu, ačkoli cesta k němu může být trnitá a obtížná. Musíme v ní pokračovat bez ohledu na náklady." # todo: NEW TRANSLATION
+  FIN_gather_popular_support: "Získat lidovou podporu" # todo: NEW TRANSLATION
+  FIN_gather_popular_support_desc: "Lid je pro každou revoluci či vládu rozhodující, a měli bychom udělat vše pro získání co nejvíce podpory." # todo: NEW TRANSLATION
+  FIN_gather_popular_support_dec_tt: "Naše strana získá §G+10%§! z celkového území a vojenských jednotek. \nBudou vytvořeny dodatečné komunistické §YMilice§! divize." # todo: NEW TRANSLATION
+  when_civil_war_starts_tt: "§YKdyž vypukne občanská válka:§!" # todo: NEW TRANSLATION
+  FIN_crack_down_on_fascists: "Zatočit s fašisty" # todo: NEW TRANSLATION
+  FIN_crack_down_on_fascists_desc: "Fašisté jsou pravým nepřítelem [FIN.GetAdjective] lidu a musí být co nejdříve potrestáni." # todo: NEW TRANSLATION
+  FIN_crack_down_on_fascists_character_tt: "Fašističtí političtí představitelé budou uvězněni a nebudou k dispozici na straně nepřítele v občanské válce:" # todo: NEW TRANSLATION
+  FIN_crack_down_on_fascists_militias_tt: "Nepřítel bude mít méně fašistických §YMilic§! divizí." # todo: NEW TRANSLATION
+  FIN_crack_down_on_the_military: "Zatočit s armádou" # todo: NEW TRANSLATION
+  FIN_crack_down_on_the_military_desc: "Armáda se v poslední době chová podezřele a je třeba ji řešit dřív, než se stane problémem." # todo: NEW TRANSLATION
+  FIN_crack_down_on_the_military_character_tt: "Někteří generálové a vojenské poradcové budou uvězněni a nebudou k dispozici na straně nepřítele v občanské válce:" # todo: NEW TRANSLATION
+  FIN_crack_down_on_the_military_divs_tt: "Několik fašistických §YPěchotních§! divizí bude rozpuštěno." # todo: NEW TRANSLATION
+  effects_applied_to_the_enemy_side_in_cw_tt: "§YEfekty aplikované na nepřátelskou stranu v občanské válce:§!" # todo: NEW TRANSLATION
+  FIN_prepare_construction_workers_actions: "Připravit akce stavebních dělníků" # todo: NEW TRANSLATION
+  FIN_prepare_construction_workers_actions_desc: "Stavební dělníci mohou koordinovanými akcemi ochromit ekonomiku za jeden den a je čas využít těchto lidí naplno." # todo: NEW TRANSLATION
+  FIN_prepare_construction_workers_actions_dec_tt: "Naše strana získá §G+5%§! z celkového území a vojenských jednotek. \nBudou vytvořeny dodatečné komunistické §YMilice§! divize." # todo: NEW TRANSLATION
+  FIN_prepare_construction_workers_actions_enemy_side_dec_tt: "Několik civilních továren a infrastruktury bude sabotováno a poškozeno." # todo: NEW TRANSLATION
+  FIN_align_the_trade_unions: "Sjednotit odbory" # todo: NEW TRANSLATION
+  FIN_align_the_trade_unions_desc: "Podpora odborů může být pro naši vládu velmi důležitá. Musíme udělat ústupky, aby zůstaly na naší straně." # todo: NEW TRANSLATION
+  FIN_align_the_trade_unions_enemy_side_dec_tt: "Několik vojenských továren a loděnic bude sabotováno a poškozeno." # todo: NEW TRANSLATION
+  FIN_purchase_soviet_equipment: "Nakoupit sovětské vybavení" # todo: NEW TRANSLATION
+  FIN_purchase_soviet_equipment_desc: "Sověti mají spoustu vybavení na skladech, které bychom mohli využít pro důležitější záležitosti." # todo: NEW TRANSLATION
+  FIN_infiltrate_soviet_commandos: "Infiltrovat sovětské komandos do Finska" # todo: NEW TRANSLATION
+  FIN_infiltrate_soviet_commandos_desc: "Sovětská komanda patří mezi nejlepší vojáky a mohou být užiteční pro naši revoluci." # todo: NEW TRANSLATION
+  FIN_infiltrate_soviet_commandos_dec_tt: "§G3 divize§! s 6 §Ypěchotními§! prapory, 2 §Ydělostřeleckými brigádami§! a 4 §Ypodpůrnými prapory§! budou vytvořeny v naší kapitále." # todo: NEW TRANSLATION
+  FIN_call_to_union_activism: "Vyzvat k aktivismu v odborech" # todo: NEW TRANSLATION
+  FIN_call_to_union_activism_desc: "Odbory mají moc tlačit vládu k přijímání politik výhodných pro dělníky; nyní je musíme postavit do akce." # todo: NEW TRANSLATION
+  FIN_push_for_cabinet_participation: "Tlačit na účast v kabinetu" # todo: NEW TRANSLATION
+  FIN_push_for_cabinet_participation_desc: "Socialisté byli vyloučeni z kabinetu od roku 1929. Je načase zatlačit na [ROOT.GetLeader], aby konečně respektoval principy parlamentarismu." # todo: NEW TRANSLATION
+  FIN_gather_funds_for_womens_shelters: "Sbírat prostředky pro azyl pro ženy" # todo: NEW TRANSLATION
+  FIN_gather_funds_for_womens_shelters_desc: "$FIN_miina_sillanpaa$ tvrdě pracovovala v posledním desetiletí, prosazujíc práva pracujících a svobodných žen a zakládajíc azylová zařízení. Mohla by dosáhnout ještě lepších výsledků s vládní podporou." # todo: NEW TRANSLATION
+  FIN_appoint_yrjo_leino_as_president: "Jmenovat Yrjö Leina prezidentem" # todo: NEW TRANSLATION
+  FIN_appoint_yrjo_leino_as_president_desc: "Yrjö Leino je ten, kdo může skutečně vést náš lid k prosperitě; udělat ho prezidentem co nejdříve by mělo být zváženo." # todo: NEW TRANSLATION
+  FIN_request_extradition_of_kullervo_manner: "Požádat o vydání Kullervo Mannera" # todo: NEW TRANSLATION
+  FIN_request_extradition_of_kullervo_manner_desc: "Stav Kullervo Mannera se den ode dne zhoršuje a potřebujeme ho dopravit zpět do [FIN.GetNameDef], než tuberkulóza zabije ho v koncentračním táboře." # todo: NEW TRANSLATION
+  FIN_prioritize_light_industry: "Dát prioritu lehkému průmyslu" # todo: NEW TRANSLATION
+  FIN_prioritize_light_industry_desc: "Naše průmyslové priority jsou špatné a musíme je okamžitě přehodnotit." # todo: NEW TRANSLATION
+  FIN_prioritize_heavy_industry: "Dát prioritu těžkému průmyslu" # todo: NEW TRANSLATION
+  FIN_prioritize_heavy_industry_desc: "Naše průmyslové priority jsou špatné a musíme je okamžitě přehodnotit." # todo: NEW TRANSLATION
+  FIN_rebalance_industrial_focus: "Přerozdělit průmyslové zaměření" # todo: NEW TRANSLATION
+  FIN_rebalance_industrial_focus_desc: "Naše průmyslové zaměření je špatné a musíme to okamžitě změnit." # todo: NEW TRANSLATION
+  FIN_prioritize_light_industry_dec_cost_tt: "Náklady na rozhodnutí §Y$FIN_prioritize_heavy_industry$§! budou §Rzdvojnásobeny§! při upřednostnění lehkého průmyslu.\n" # todo: NEW TRANSLATION
+  FIN_prioritize_heavy_industry_dec_cost_tt: "Náklady na rozhodnutí §Y$FIN_prioritize_light_industry$§! budou §Rzdvojnásobeny§! při upřednostnění těžkého průmyslu.\n" # todo: NEW TRANSLATION
+  FIN_rebalance_industrial_focus_dec_cost_tt: "Náklady na rozhodnutí §Y$FIN_prioritize_light_industry$§! a §Y$FIN_prioritize_heavy_industry$§! budou resetovány na svou původní hodnotu.\n" # todo: NEW TRANSLATION
+  FIN_kullervo_manner_extradited_flag: "§Y$FIN_kullervo_manner$§! byl vydán z [SOV.GetName] (dokončeno fokusové $FIN_approach_the_soviets$ a rozhodnutí §Y$FIN_request_extradition_of_kullervo_manner$§!) před jeho smrtí 31. ledna 1939." # todo: NEW TRANSLATION
+  FIN_coastal_garrisons: "Pobřežní posádky" # todo: NEW TRANSLATION
+  FIN_coastal_garrisons_desc: "Měli bychom vytvořit pobřežní posádky za účelem ochrany proti jakékoliv námořní invazi." # todo: NEW TRANSLATION
+  FIN_coastal_garrisons_decision_cost_pp_xp_cp: "£pol_power  §Y[?FIN.FIN_coastal_garrisons_pp_xp_cost]§! £army_experience  §Y[?FIN.FIN_coastal_garrisons_pp_xp_cost]§! £command_power  §Y[?FIN.FIN_coastal_garrisons_cp_cost]§!" # todo: NEW TRANSLATION
+  FIN_coastal_garrisons_decision_cost_pp_xp_cp_blocked: "£pol_power  §R[?FIN.FIN_coastal_garrisons_pp_xp_cost]§! £army_experience  §R[?FIN.FIN_coastal_garrisons_pp_xp_cost]§! £command_power  §R[?FIN.FIN_coastal_garrisons_cp_cost]§!" # todo: NEW TRANSLATION
+  FIN_coastal_garrisons_decision_cost_pp_xp_cp_tooltip: "Stojí £pol_power  §Y[?FIN.FIN_coastal_garrisons_pp_xp_cost]§! £army_experience  §Y[?FIN.FIN_coastal_garrisons_pp_xp_cost]§! £command_power  §Y[?FIN.FIN_coastal_garrisons_cp_cost]§! udělat toto rozhodnutí" # todo: NEW TRANSLATION
+  FIN_mining_the_sea: "Mínování moří" # todo: NEW TRANSLATION
+  FIN_mining_the_sea_desc: "Měli bychom minovat moře, aby nepřátelská doprava nemohla projít a abychom byli bezpečnější proti námořní invazi." # todo: NEW TRANSLATION
+  FIN_mining_the_sea_decision_cost_pp_xp_cp: "£pol_power  §Y[?FIN.FIN_mining_the_sea_pp_xp_cost]§! £navy_experience  §Y[?FIN.FIN_mining_the_sea_pp_xp_cost]§! £command_power  §Y[?FIN.FIN_mining_the_sea_cp_cost]§!" # todo: NEW TRANSLATION
+  FIN_mining_the_sea_decision_cost_pp_xp_cp_blocked: "£pol_power  §R[?FIN.FIN_mining_the_sea_pp_xp_cost]§! £navy_experience  §R[?FIN.FIN_mining_the_sea_pp_xp_cost]§! £command_power  §R[?FIN.FIN_mining_the_sea_cp_cost]§!" # todo: NEW TRANSLATION
+  FIN_mining_the_sea_decision_cost_pp_xp_cp_tooltip: "Stojí £pol_power  §Y[?FIN.FIN_mining_the_sea_pp_xp_cost]§! £navy_experience  §Y[?FIN.FIN_mining_the_sea_pp_xp_cost]§! £command_power  §Y[?FIN.FIN_mining_the_sea_cp_cost]§! rozhodnutí učinit" # todo: NEW TRANSLATION
+  FIN_foreign_politics_decision_category: "Zahraniční politika" # todo: NEW TRANSLATION
+  FIN_pressure_country_government_baltic: "$SOV_pressure_country_government_baltic$" # todo: NEW TRANSLATION
+  FIN_pressure_country_government_baltic_desc: "$SOV_pressure_country_government_baltic_desc$" # todo: NEW TRANSLATION
+  FIN_promote_ideology_rallies_baltic: "$SOV_promote_ideology_rallies_baltic$" # todo: NEW TRANSLATION
+  FIN_promote_ideology_rallies_baltic_desc: "$SOV_promote_ideology_rallies_baltic_desc$" # todo: NEW TRANSLATION
+  FIN_fight_alongside_country_comrades_baltic: "$SOV_fight_alongside_country_comrades_baltic$" # todo: NEW TRANSLATION
+  FIN_fight_alongside_country_comrades_baltic_desc: "$SOV_fight_alongside_country_comrades_baltic_desc$" # todo: NEW TRANSLATION
+  FIN_pressure_country_government_nordic: "$SOV_pressure_country_government_baltic$" # todo: NEW TRANSLATION
+  FIN_pressure_country_government_nordic_desc: "$SOV_pressure_country_government_baltic_desc$" # todo: NEW TRANSLATION
+  FIN_promote_ideology_rallies_nordic: "$SOV_promote_ideology_rallies_baltic$" # todo: NEW TRANSLATION
+  FIN_promote_ideology_rallies_nordic_desc: "$SOV_promote_ideology_rallies_baltic_desc$" # todo: NEW TRANSLATION
+  FIN_fight_alongside_country_comrades_nordic: "$SOV_fight_alongside_country_comrades_baltic$" # todo: NEW TRANSLATION
+  FIN_fight_alongside_country_comrades_nordic_desc: "$SOV_fight_alongside_country_comrades_baltic_desc$" # todo: NEW TRANSLATION
+  FIN_pressure_government_active_flag: "$SOV_pressure_government_active_flag$" # todo: NEW TRANSLATION
+  FIN_pressure_government_cd_tt: "\nMůžeme vyvíjet tlak na vládu jiné země pouze jednou za §Y[?FIN_pressure_government_cd]§! dní." # todo: NEW TRANSLATION
+  FIN_coup_preparations: "Přípravy převratu" # todo: NEW TRANSLATION
+  FIN_coup_preparations_desc: "Převrat nemůže uspět, pokud neuděláme vše pro jeho podporu. Příprava je rozhodujícím prvkem úspěchu." # todo: NEW TRANSLATION
+  FIN_appeal_to_the_middle_class: "Oslovit střední třídu" # todo: NEW TRANSLATION
+  FIN_appeal_to_the_middle_class_desc: "Hlavní opora finských pravicových organizací pochází ze střední třídy. Musíme oslovit bohaté farmáře, vzdělanou buržoazii, státní zaměstnance, duchovenstvo a vysokoškolské studenty, aby se připojili k našemu hnutí a šířili jeho principy." # todo: NEW TRANSLATION
+  FIN_appeal_to_the_middle_class_dec_tt: "Naše strana získá §G+10%§! z celkového území a vojenských jednotek." # todo: NEW TRANSLATION
+  FIN_secure_the_military: "Zajistit podporu armády" # todo: NEW TRANSLATION
+  FIN_secure_the_military_desc: "Armáda je vždy užitečným spojencem pro každého, kdo chystá převrat, jak ukázala historie. Je proto nezbytné zajistit jejich podporu před pokusem o převrat." # todo: NEW TRANSLATION
+  FIN_secure_the_military_dec_tt: "Naše strana získá §G+10%§! z celkového území a vojenských jednotek a udrží veškeré vojenské vůdce." # todo: NEW TRANSLATION
+  FIN_purchase_german_equipment: "Nakoupit německé vybavení" # todo: NEW TRANSLATION
+  FIN_purchase_german_equipment_desc: "Německo má spoustu vybavení ležícího ve skladech. Měli bychom požádat o jeho přidělení, protože jim můžeme být užiteční." # todo: NEW TRANSLATION
+  FIN_the_last_kinship_war: "Poslední válka příbuznosti" # todo: NEW TRANSLATION
+  FIN_the_last_kinship_war_desc: "Obnoviv ducha Heimosodat, můžeme nyní začít přípravy na osvobození našich příbuzných národů z pout cizího útlaku." # todo: NEW TRANSLATION
+  FIN_stir_anti_soviet_sentiment_in_karelia: "Podnítit antisovětské nálady v Karelii" # todo: NEW TRANSLATION
+  FIN_stir_anti_soviet_sentiment_in_karelia_desc: "V Karelii je mnoho nespokojených s politikou sovětské vlády a můžeme toho využít k vyvolání problémů v regionu." # todo: NEW TRANSLATION
+  FIN_instigate_a_new_karelian_uprising: "Vyvolat nové karelské povstání" # todo: NEW TRANSLATION
+  FIN_instigate_a_new_karelian_uprising_desc: "Obnovíme ducha Heimosodat a pokusíme se vytvořit nové karelské povstání, nechme Karelany usilovat o nezávislost, kterou chtějí." # todo: NEW TRANSLATION
+  FIN_finno_soviet_kinship_war: "Finsko-[ROOT.GetAdjective] válka příbuznosti" # todo: NEW TRANSLATION
+  FIN_finno_soviet_kinship_war_desc: "Během ruské občanské války Finové vedli heimosodaty a nyní znovu zasahují na naše území a kradou nám země." # todo: NEW TRANSLATION
+  FIN_crush_the_karelian_insurrection: "Rozdrtit karelskou vzpouru" # todo: NEW TRANSLATION
+  FIN_crush_the_karelian_insurrection_desc: "Nyní máme dostatek zbraní a vojáků, aby jsme potlačili regionální karelské povstání. Zahájit operaci!" # todo: NEW TRANSLATION
+  FIN_crush_the_karelian_insurrection_decision_cost_ie_cp_pp: "£infantry_equipment_text_icon  §Y1500§! £command_power  §Y30§! £pol_power  §Y70§!" # todo: NEW TRANSLATION
+  FIN_crush_the_karelian_insurrection_decision_cost_ie_cp_pp_blocked: "£infantry_equipment_text_icon  §R1500§! £command_power  §R30§! £pol_power  §R70§!" # todo: NEW TRANSLATION
+  FIN_crush_the_karelian_insurrection_decision_cost_ie_cp_pp_tooltip: "Stojí £infantry_equipment_text_icon  §Y1500§! £command_power  §Y30§!  £pol_power  §Y70§! udělat toto rozhodnutí" # todo: NEW TRANSLATION
+  FIN_crush_the_karelian_insurrection_tt: "\n[FIN.GetFlag]§Y[FIN.GetNameDefCap]§! §Gnebude moci znovu iniciovat karelské povstání§!.\n" # todo: NEW TRANSLATION
+  FIN_confederated_finno_russian_republics_category: "Konfederované finno-ruské republiky" # todo: NEW TRANSLATION
+  FIN_confederated_finno_russian_republics_category_desc: "Na územích bývalých ruských republik žije mnoho finských národů jako Finové, Estonci, Karelci, Vepsové, Ižorové, Voticové, Setové, Voro a Ingriánci. Měli bychom založit konfederaci států, která osloví všechny tyto národy." # todo: NEW TRANSLATION
+  FIN_integrate_karelia_puppet: "Integrovat [FROM.GetName] jako republiku" # todo: NEW TRANSLATION
+  FIN_integrate_karelia_puppet_desc: "Je načase založit Karelskou republiku, pod kterou je převezmeme pod naši ochranu." # todo: NEW TRANSLATION
+  FIN_integrate_karelia_states: "Integrovat [FROM.GetName] do Karelské republiky" # todo: NEW TRANSLATION
+  FIN_integrate_karelia_states_desc: "Karelská republika stále nezahrnuje všechny oblasti s karelským obyvatelstvem; integrací [FROM.GetName] to můžeme napravit." # todo: NEW TRANSLATION
+  FIN_integrate_karelia_additional_states: "Přidat [FROM.GetName] do Karelské republiky" # todo: NEW TRANSLATION
+  FIN_integrate_karelia_additional_states_desc: "Karelská republika stále nezahrnuje všechny oblasti s karelským obyvatelstvem; integrací [FROM.GetName] to můžeme napravit." # todo: NEW TRANSLATION
+  FIN_integrate_veps_states: "Integrovat [FROM.GetName] jako republiku" # todo: NEW TRANSLATION
+  FIN_integrate_veps_states_desc: "Vepsové nikdy neměli vlastní stát, je načase jim ho dát." # todo: NEW TRANSLATION
+  FIN_integrate_veps_additional_states: "Integrovat [FROM.GetName] jako republiku" # todo: NEW TRANSLATION
+  FIN_integrate_veps_additional_states_desc: "Existuje více regionů, které by mohly být integrovány do naší nově vzniklé Vepské republiky, a [FROM.GetName] je jedním z nich." # todo: NEW TRANSLATION
+  FIN_integrate_ingria_states: "Integrovat [FROM.GetName] jako Ingerskou republiku" # todo: NEW TRANSLATION
+  FIN_integrate_ingria_states_desc: "Existuje více regionů vhodných k integraci do naší nově vzniklé Ingerské republiky, a [FROM.GetName] je jedním z nich." # todo: NEW TRANSLATION
+  FIN_integrate_ingria_additional_states: "Přidat [FROM.GetName] do Ingerské republiky" # todo: NEW TRANSLATION
+  FIN_integrate_ingria_additional_states_desc: "Existuje více regionů, které lze přidat do naší Ingerské republiky, a [FROM.GetName] je jedním z nich." # todo: NEW TRANSLATION
+  FIN_integrate_leningrad: "Zřídit [FROM.GetName] jako hlavní město Ingerské republiky" # todo: NEW TRANSLATION
+  FIN_integrate_leningrad_desc: "[195.GetName] může být většinově ruský, ale s plány, které máme pro naši novou Ingerskou republiku, to není problém." # todo: NEW TRANSLATION
+  FIN_request_an_armistice_with_moscow: "Požádat o příměří s Moskvou" # todo: NEW TRANSLATION
+  FIN_request_to_switch_sides_in_the_war: "Nabídnout přechod na druhou stranu výměnou za mír" # todo: NEW TRANSLATION
+  ENG_narvik_crisis_cat: "Krize u Narviku" # todo: NEW TRANSLATION
+  ENG_narvik_crisis: "Spustit Plán R 4" # todo: NEW TRANSLATION
+  ENG_narvik_crisis_blow_up_mines: "Sabotovat švédské doly" # todo: NEW TRANSLATION
+  ENG_explode_the_swedish_iron_ore_mine: "Plán R 4" # todo: NEW TRANSLATION
+  ENG_explode_the_swedish_iron_ore_mine_tt: "Máme jen omezený čas na sabotáž železných dolů předtím, než mezinárodní a domácí pobouření zachytí situaci. Nedokončení by znamenalo ponižující vojenskou porážku." # todo: NEW TRANSLATION
+  form_north_sea_category: "Obnovit Severomořskou říši" # todo: NEW TRANSLATION
+  form_north_sea_category_desc: "S celým územím Cnuta Velikého pod naší vládou nadešel čas obnovit Danelaw starých časů a znovuoživit ducha Severomořské říše. Vlny opět budou naší doménou a budeme vládnout, jak uznáme za vhodné." # todo: NEW TRANSLATION
+  form_north_sea_empire: "Obnovit Severomořskou říši" # todo: NEW TRANSLATION
+  form_baltic_sea_empire_category: "Zřídit Dominium Maris Baltici" # todo: NEW TRANSLATION
+  form_baltic_sea_empire_category_desc: "Hegemonie nad Baltským mořem byla dlouho naším hlavním cílem. Vede jsme mnoho válek, především se Švédy, o kontrolu nad mořem. Když jsme konečně splnili své ambice, je čas zřídit [ROOT.GetAdjective] dominium maris baltici." # todo: NEW TRANSLATION
+  form_baltic_sea_empire: "Zřídit Dominium Maris Baltici" # todo: NEW TRANSLATION
+  USA_initiate_the_greenland_patrol: "Zřídit grónskou hlídku" # todo: NEW TRANSLATION

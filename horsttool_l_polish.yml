@@ -1,0 +1,80 @@
+﻿l_polish:
+  command_limit_on: "Zobrazit flotily: £trigger_no" # todo: NEW TRANSLATION
+  command_limit_off: "Zobrazit flotily: £trigger_yes" # todo: NEW TRANSLATION
+  annex_override_tt: "§HPřepsat požadavky na rozhodnutí o anexi§!" # todo: NEW TRANSLATION
+  annex_override_tt_delayed: "Požadavky pro rozhodnutí o anexi budou na dobu 30 dnů přepsány, což umožní jejich výběr §Rbez ohledu na to, zda se na nich momentálně nachází hráč§!. Prosím používejte opatrně!!!" # todo: NEW TRANSLATION
+  annex_manual_override: "Požadavky pro rozhodnutí o anexi přepsány pomocí Horst Tool" # todo: NEW TRANSLATION
+  ST_STATE_MARK_FOR_TRANSFER: "§HOznačit stát k převodu§!\nOznačí vybraný stát, aby mohl být převeden \n" # todo: NEW TRANSLATION
+  ST_STATE_UNMARK_FOR_TRANSFER: "§HZrušit označení státu§!\nZruší označení vybraného státu\n" # todo: NEW TRANSLATION
+  mark_state_yes: "" # todo: NEW TRANSLATION
+  mark_state_no: "\n  §ROznačeno!§!" # todo: NEW TRANSLATION
+  st_state_id_tt: "[This.GetName] ([This.Owner.GetTag])" # todo: NEW TRANSLATION
+  FIX_XP_TT: "§HPřidat 25 zkušeností armády§!" # todo: NEW TRANSLATION
+  FIX_XP_TT_DELAYED: "Kliknutím na toto tlačítko přidáte vybrané zemi 25 zkušeností armády.?" # todo: NEW TRANSLATION
+  FIX_PRODUCTION_TT: "§HOpravit výrobní problémy§! [§RWARNING: READ DESCRIPTION BEFORE USE§!]" # todo: NEW TRANSLATION
+  FIX_PRODUCTION_TT_DELAYED: "Použijte toto k opravě situací typu 'Musíme rehostovat, omylem jsem smazal svou výrobní linku stíhačů' a vyhněte se zbytečnému rehostu. \n\nCo to dělá: §YZákladní efektivita u všech současných i nových výrobních linek bude na 130 % po dobu jednoho dne. Efektivita se okamžitě sníží na jejich původní maximální strop.§!\n\nPoužívejte to pouze k opravě vážných výrobních chyb (např. omylem smazání linky stíhačů nebo přeměnění linky tanků na SPAA) v případech, kdy země, která chybu způsobila, už má na většině svých zbývajících přidělených továren plnou nebo téměř plnou efektivitu (zde učiňte vlastní úsudek). Buďte při používání velmi selektivní!" # todo: NEW TRANSLATION
+  why_use_lel_lennard_tt: "[This.Owner.GetName] ([This.Owner.GetTag])" # todo: NEW TRANSLATION
+  OBSERVER: "§HPřepnout do režimu pozorovatele§!\nPřesune hráče do režimu pozorovatele (jeho tag bude přepnut na nepoužitý tag, DDR)\n\n" # todo: NEW TRANSLATION
+  OBSERVER_DELAYED: "" # todo: NEW TRANSLATION
+  CHEAT5: "50 politické moci" # todo: NEW TRANSLATION
+  WHITEPEACE: "§HUzavřít bílý mír§!\nStát uzavře bílý mír se všemi nepřáteli\n\n" # todo: NEW TRANSLATION
+  WHITEPEACE_DELAYED: "" # todo: NEW TRANSLATION
+  CHANGE_HOST_NATION_TT: "§HZměnit hostitelskou zemi§!\nZmění hosta z vaší země na VLASTNÍKA vybraného státu." # todo: NEW TRANSLATION
+  CLEAR_ALL_MARKINGS: "§HVymazat všechna označení§!\nVšechna označení ve světě budou odstraněna\n\n" # todo: NEW TRANSLATION
+  CLEAR_ALL_MARKINGS_DELAYED: "" # todo: NEW TRANSLATION
+  TRANSFER_STATES: "§HPřevést státy§!\nPřevést označené státy do této země\n\n" # todo: NEW TRANSLATION
+  TRANSFER_STATES_DELAYED: "" # todo: NEW TRANSLATION
+  HORST_HELP: "§HPomoz mi!§!" # todo: NEW TRANSLATION
+  HOST_HELP_DELAYED: "Po kliknutí se zobrazí událost s dalšími informacemi o nástroji." # todo: NEW TRANSLATION
+  ADD_CORES: "§HPřidat nároky§!\nPřidat nároky do označených států pro tuto zemi\n\n" # todo: NEW TRANSLATION
+  ADD_CORES_DELAYED: "" # todo: NEW TRANSLATION
+  ANNEX_COUNTRY: "§HAnexovat§!\nVybraná země anektuje vlastníka označeného státu\n\n" # todo: NEW TRANSLATION
+  ANNEX_COUNTRY_DELAYED: "" # todo: NEW TRANSLATION
+  PUPPET_COUNTRY: "§HUdělat loutkovým státem§!\nVybraná země udělá z vlastníka označeného státu loutkový stát\n\n" # todo: NEW TRANSLATION
+  PUPPET_COUNTRY_DELAYED: "" # todo: NEW TRANSLATION
+  ADD_CHEAT: "§HPodvod§!\nVýběr bude udělen vybrané zemi\n\n" # todo: NEW TRANSLATION
+  ADD_CHEAT_DELAYED: "" # todo: NEW TRANSLATION
+  PINGTOOL: "§HOprava chyby konvojů§!" # todo: NEW TRANSLATION
+  PINGTOOL_DELAYED: "Co to dělá: Každé zemi je přidán 1 konvoj, což z nějakého důvodu opravuje náhodné nastavování počtu konvojů na 0." # todo: NEW TRANSLATION
+  CIVADD: "§HPřidat 1 civilní továrnu§!\nKliknutím na toto tlačítko přidáte civilní továrnu do vybraného státu.\n\n" # todo: NEW TRANSLATION
+  CIVADD_DELAYED: "" # todo: NEW TRANSLATION
+  MILADD: "§HPřidat 5 vojenských továren§!\nKliknutím na toto tlačítko přidáte pět vojenských továren do vybraného státu.\n\n" # todo: NEW TRANSLATION
+  MILADD_DELAYED: "" # todo: NEW TRANSLATION
+  CIVREMOVE: "§HOdstranit 1 civilní továrnu§!\nKliknutím na toto tlačítko odstraníte civilní továrnu z vybraného státu.\n\n" # todo: NEW TRANSLATION
+  CIVREMOVE_DELAYED: "" # todo: NEW TRANSLATION
+  ADDPP: "§HPřidat 50 politické moci§!\nKliknutím na toto tlačítko přidáte politickou moc vlastníkovi vybraného státu.\n\n" # todo: NEW TRANSLATION
+  ST_TOOLTIP_on: "§HAktivovat 'Horst Tool'§!" # todo: NEW TRANSLATION
+  ST_TOOLTIP_off: "§HDeaktivovat 'Horst Tool'§!" # todo: NEW TRANSLATION
+  transfer_states_on: "Horst Tool: £trigger_no" # todo: NEW TRANSLATION
+  transfer_states_off: "Horst Tool: £trigger_yes" # todo: NEW TRANSLATION
+  CHEAT_SELECT: "Vybrat cheat" # todo: NEW TRANSLATION
+  CHEAT1: "Obecný - 50%" # todo: NEW TRANSLATION
+  CHEAT2: "Obecný - 100%" # todo: NEW TRANSLATION
+  CHEAT3: "Obecný - 2 r." # todo: NEW TRANSLATION
+  CHEAT4: "Obecný - 99900%" # todo: NEW TRANSLATION
+  PAUSE_SELECT: "Nastavení pauzy" # todo: NEW TRANSLATION
+  PAUSE1: "Všichni" # todo: NEW TRANSLATION
+  PAUSE2: "Pouze hostitel" # todo: NEW TRANSLATION
+  PAUSE3: "Pouze velmoci" # todo: NEW TRANSLATION
+  COLOR_SELECT: "Podpora pro barvoslepé" # todo: NEW TRANSLATION
+  COLOR1: "Červená" # todo: NEW TRANSLATION
+  COLOR2: "Oranžová" # todo: NEW TRANSLATION
+  COLOR3: "Žlutá" # todo: NEW TRANSLATION
+  COLOR4: "Zelená" # todo: NEW TRANSLATION
+  COLOR5: "Modrá" # todo: NEW TRANSLATION
+  COLOR6: "Fialová" # todo: NEW TRANSLATION
+  COLOR7: "Růžová" # todo: NEW TRANSLATION
+  COLOR8: "Tyrkysová" # todo: NEW TRANSLATION
+  COLOR9: "Odstranit barvu" # todo: NEW TRANSLATION
+  ADD_COLOR: "§HPoužít změny barvy§!" # todo: NEW TRANSLATION
+  ADD_COLOR_DELAYED: "Pokud je vlevo vybrána barva, kliknutím na toto tlačítko se vybrané zemi aplikuje kosmetický tag, který ji nastaví na tuto barvu. Toto slouží k podpoře částečně barvoslepých hráčů." # todo: NEW TRANSLATION
+  pause_blocker_shield_tt: "§HFunkce blokování pauzy§!" # todo: NEW TRANSLATION
+  pause_blocker_shield_delayed_tt: "Ve výchozím nastavení může hru pozastavit kdokoli, ale pokud chcete omezit pozastavování jen na hostitele (vás) nebo velmoci, můžete zvolit nastavení 'Pouze velmoci' (první v seznamu) nebo 'Pouze hostitel' pro zabránění pozastavování většinou nebo všemi ostatními zeměmi." # todo: NEW TRANSLATION
+  mark_status_marked: "     Zrušit označení státu " # todo: NEW TRANSLATION
+  mark_status_unmarked: "      Označit stát  " # todo: NEW TRANSLATION
+  horsthelp.2.t: "Nápověda k Horst Tool" # todo: NEW TRANSLATION
+  horsthelp.2.d: "Systém Horst Tool je vytvořen pro hostitele, aby měli snadnější správu svých her a neztráceli čas s hotjoiny, a aby se hry neskončily v případě, že Německo špatně prozkoumá svoje bonusy apod. Horst Tool má několik funkcí: \n\n 1. Změna hranic \nHorst Tool může anektovat země, převádět státy a přidávat nároky (cores). Chcete-li anektovat zemi, označte jeden z jejích států, potom klikněte na zemi, do které ji chcete anektovat, a klikněte na tlačítko Anexovat. Chcete-li převést státy/přidat nároky, označte stát a pak klikněte na přijímající zemi a klikněte na Převést státy/Přidat nároky. \n\n2. Přidávání technologických bonusů.\n Pro to klikněte na cílovou zemi, klikněte na bonus, který ji chcete přidat, a klikněte na tlačítko 'Cheat' s ikonou výzkumu.\n\n3. Posílání hráčů do pozorovatele. \nPro to klikněte na zemi, kterou hráč hraje, a klikněte na tlačítko Pozorovatel. \n\n4. Whitepeace země. \nChcete-li udělat whitepeace s nějakou zemí, klikněte na cílovou zemi a klikněte na tlačítko Whitepeace." # todo: NEW TRANSLATION
+  horsthelp.2.a: "Díky Horst, fakt skvělé!" # todo: NEW TRANSLATION
+  delete_button_blocker_text: "Tlačítko smazat zablokováno" # todo: NEW TRANSLATION
+  delete_button_blocker_text_1: "Zakázat mazání" # todo: NEW TRANSLATION
+  delete_button_blocker_text_2: "Povolit mazání" # todo: NEW TRANSLATION

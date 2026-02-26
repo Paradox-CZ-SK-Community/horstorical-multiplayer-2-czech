@@ -1,0 +1,987 @@
+﻿l_polish:
+  STATE_1: "Korsika" # todo: NEW TRANSLATION
+  STATE_2: "Lazio" # todo: NEW TRANSLATION
+  STATE_3: "Švýcarská plošina" # todo: NEW TRANSLATION
+  STATE_4: "Dolní Rakousy" # todo: NEW TRANSLATION
+  STATE_5: "Ermland-Masuren" # todo: NEW TRANSLATION
+  STATE_6: "Vlaanderen" # todo: NEW TRANSLATION
+  STATE_7: "Holandsko" # todo: NEW TRANSLATION
+  STATE_8: "Luxemburg" # todo: NEW TRANSLATION
+  STATE_9: "Čechy" # todo: NEW TRANSLATION
+  STATE_10: "Warszawa" # todo: NEW TRANSLATION
+  STATE_11: "Kaunas" # todo: NEW TRANSLATION
+  STATE_12: "Vidzeme" # todo: NEW TRANSLATION
+  STATE_13: "Pärnu" # todo: NEW TRANSLATION
+  STATE_14: "Bretaň" # todo: NEW TRANSLATION
+  STATE_15: "Normandie" # todo: NEW TRANSLATION
+  STATE_16: "Ile de France" # todo: NEW TRANSLATION
+  STATE_17: "Franche-Comte" # todo: NEW TRANSLATION
+  STATE_18: "Champagne" # todo: NEW TRANSLATION
+  STATE_19: "Aquitaine" # todo: NEW TRANSLATION
+  STATE_20: "Rhone" # todo: NEW TRANSLATION
+  STATE_21: "Bouches-du-Rhône" # todo: NEW TRANSLATION
+  STATE_22: "Languedoc" # todo: NEW TRANSLATION
+  STATE_23: "Poitou" # todo: NEW TRANSLATION
+  STATE_24: "Centre" # todo: NEW TRANSLATION
+  STATE_25: "Limousin" # todo: NEW TRANSLATION
+  STATE_26: "Auvergne" # todo: NEW TRANSLATION
+  STATE_27: "Bourgogne" # todo: NEW TRANSLATION
+  STATE_28: "Alsace-Lorraine" # todo: NEW TRANSLATION
+  STATE_29: "Nord-Pas-de-Calais" # todo: NEW TRANSLATION
+  STATE_30: "Loire" # todo: NEW TRANSLATION
+  STATE_31: "Midi Pyrenees" # todo: NEW TRANSLATION
+  STATE_32: "Alpes" # todo: NEW TRANSLATION
+  STATE_33: "Centre-Sud" # todo: NEW TRANSLATION
+  STATE_34: "Wallonie" # todo: NEW TRANSLATION
+  STATE_35: "Brabant" # todo: NEW TRANSLATION
+  STATE_36: "Friesland" # todo: NEW TRANSLATION
+  STATE_37: "Sjaelland" # todo: NEW TRANSLATION
+  STATE_38: "Gävleborg" # todo: NEW TRANSLATION
+  STATE_39: "Alto Adige" # todo: NEW TRANSLATION
+  STATE_40: "Altajský kraj" # todo: NEW TRANSLATION
+  STATE_41: "Madrid" # todo: NEW TRANSLATION
+  STATE_42: "Moselland" # todo: NEW TRANSLATION
+  STATE_43: "Severní Maďarsko" # todo: NEW TRANSLATION
+  STATE_44: "Albánie" # todo: NEW TRANSLATION
+  STATE_45: "Vojvodina" # todo: NEW TRANSLATION
+  STATE_46: "Muntenia" # todo: NEW TRANSLATION
+  STATE_47: "Attica" # todo: NEW TRANSLATION
+  STATE_48: "Sofia" # todo: NEW TRANSLATION
+  STATE_49: "Ankara" # todo: NEW TRANSLATION
+  STATE_50: "Württemberg" # todo: NEW TRANSLATION
+  STATE_51: "Porýní" # todo: NEW TRANSLATION
+  STATE_52: "Oberbayern" # todo: NEW TRANSLATION
+  STATE_53: "Niederbayern" # todo: NEW TRANSLATION
+  STATE_54: "Franken" # todo: NEW TRANSLATION
+  STATE_55: "Hessen" # todo: NEW TRANSLATION
+  STATE_56: "Weser-Ems" # todo: NEW TRANSLATION
+  STATE_57: "Westfalen" # todo: NEW TRANSLATION
+  STATE_58: "Holstein" # todo: NEW TRANSLATION
+  STATE_58_DEN: "Holsten" # todo: NEW TRANSLATION
+  STATE_59: "Hannover" # todo: NEW TRANSLATION
+  STATE_60: "Thüringen" # todo: NEW TRANSLATION
+  STATE_61: "Mecklenburg" # todo: NEW TRANSLATION
+  STATE_62: "Vorpommern" # todo: NEW TRANSLATION
+  STATE_63: "Hinterpommern" # todo: NEW TRANSLATION
+  STATE_64: "Brandenburg" # todo: NEW TRANSLATION
+  STATE_65: "Sachsen" # todo: NEW TRANSLATION
+  STATE_66: "Niederschlesien" # todo: NEW TRANSLATION
+  STATE_67: "Oberschlesien" # todo: NEW TRANSLATION
+  STATE_68: "Ostmark" # todo: NEW TRANSLATION
+  STATE_69: "Sudetenland" # todo: NEW TRANSLATION
+  STATE_70: "Západní Slovensko" # todo: NEW TRANSLATION
+  STATE_71: "Východní Slovensko" # todo: NEW TRANSLATION
+  STATE_72: "Zaolzie" # todo: NEW TRANSLATION
+  STATE_73: "Podkarpatská Rus" # todo: NEW TRANSLATION
+  STATE_74: "Východní Sudety" # todo: NEW TRANSLATION
+  STATE_75: "Morava" # todo: NEW TRANSLATION
+  STATE_76: "Severní Sedmihradsko" # todo: NEW TRANSLATION
+  STATE_77: "Dobrudja" # todo: NEW TRANSLATION
+  STATE_78: "Besarabie" # todo: NEW TRANSLATION
+  STATE_79: "Moldavsko" # todo: NEW TRANSLATION
+  STATE_80: "Bucovina" # todo: NEW TRANSLATION
+  STATE_81: "Oltenia" # todo: NEW TRANSLATION
+  STATE_82: "Banat" # todo: NEW TRANSLATION
+  STATE_83: "Crisana" # todo: NEW TRANSLATION
+  STATE_84: "Sedmihradsko" # todo: NEW TRANSLATION
+  STATE_85: "Danzig" # todo: NEW TRANSLATION
+  STATE_86: "Poznan" # todo: NEW TRANSLATION
+  STATE_87: "Łódz" # todo: NEW TRANSLATION
+  STATE_88: "Kraków" # todo: NEW TRANSLATION
+  STATE_89: "Stanisławów" # todo: NEW TRANSLATION
+  STATE_90: "Kielce" # todo: NEW TRANSLATION
+  STATE_91: "Lwów" # todo: NEW TRANSLATION
+  STATE_92: "Lublin" # todo: NEW TRANSLATION
+  STATE_93: "Wołyn" # todo: NEW TRANSLATION
+  STATE_94: "Polesie" # todo: NEW TRANSLATION
+  STATE_95: "Nowogródek" # todo: NEW TRANSLATION
+  STATE_96: "Wilejka" # todo: NEW TRANSLATION
+  STATE_97: "Białystok" # todo: NEW TRANSLATION
+  STATE_98: "Płock" # todo: NEW TRANSLATION
+  STATE_99: "Jylland" # todo: NEW TRANSLATION
+  STATE_100: "Island" # todo: NEW TRANSLATION
+  STATE_101: "Grónsko" # todo: NEW TRANSLATION
+  STATE_102: "Severní Slovinsko" # todo: NEW TRANSLATION
+  STATE_103: "Dalmatia" # todo: NEW TRANSLATION
+  STATE_104: "Bosnia" # todo: NEW TRANSLATION
+  STATE_105: "Montenegro" # todo: NEW TRANSLATION
+  STATE_106: "Macedonia" # todo: NEW TRANSLATION
+  STATE_107: "Serbia" # todo: NEW TRANSLATION
+  STATE_108: "Morava" # todo: NEW TRANSLATION
+  STATE_109: "Croatia" # todo: NEW TRANSLATION
+  STATE_110: "Oslofjord" # todo: NEW TRANSLATION
+  STATE_111: "Uusimaa" # todo: NEW TRANSLATION
+  STATE_111_SWE: "Nyland" # todo: NEW TRANSLATION
+  STATE_112: "Lisabon" # todo: NEW TRANSLATION
+  STATE_113: "Leinster" # todo: NEW TRANSLATION
+  STATE_114: "Sardegna" # todo: NEW TRANSLATION
+  STATE_115: "Sicilia" # todo: NEW TRANSLATION
+  STATE_116: "Malta" # todo: NEW TRANSLATION
+  STATE_117: "Campania" # todo: NEW TRANSLATION
+  STATE_118: "Gibraltar" # todo: NEW TRANSLATION
+  STATE_119: "Severní Irsko" # todo: NEW TRANSLATION
+  STATE_120: "Skotské vysočiny" # todo: NEW TRANSLATION
+  STATE_121: "Lothian" # todo: NEW TRANSLATION
+  STATE_122: "Wales" # todo: NEW TRANSLATION
+  STATE_123: "South-West England" # todo: NEW TRANSLATION
+  STATE_124: "Gotland" # todo: NEW TRANSLATION
+  STATE_125: "East Anglia" # todo: NEW TRANSLATION
+  STATE_126: "Greater London Area" # todo: NEW TRANSLATION
+  STATE_127: "Sussex" # todo: NEW TRANSLATION
+  STATE_128: "West Midlands" # todo: NEW TRANSLATION
+  STATE_129: "East Midlands" # todo: NEW TRANSLATION
+  STATE_130: "Yorkshire" # todo: NEW TRANSLATION
+  STATE_130_DEN: "Jorvik" # todo: NEW TRANSLATION
+  STATE_131: "Northumberland" # todo: NEW TRANSLATION
+  STATE_132: "Lancashire" # todo: NEW TRANSLATION
+  STATE_133: "Lanark" # todo: NEW TRANSLATION
+  STATE_134: "Connaught" # todo: NEW TRANSLATION
+  STATE_135: "Munster" # todo: NEW TRANSLATION
+  STATE_136: "Aberdeenshire" # todo: NEW TRANSLATION
+  STATE_137: "Crimea" # todo: NEW TRANSLATION
+  STATE_138: "Skåne" # todo: NEW TRANSLATION
+  STATE_138_DEN: "Skaanelandene" # todo: NEW TRANSLATION
+  STATE_139: "Småland" # todo: NEW TRANSLATION
+  STATE_140: "Västergötland" # todo: NEW TRANSLATION
+  STATE_141: "Södermanland" # todo: NEW TRANSLATION
+  STATE_142: "Vestlandet" # todo: NEW TRANSLATION
+  STATE_143: "Trøndelag" # todo: NEW TRANSLATION
+  STATE_144: "Nordland" # todo: NEW TRANSLATION
+  STATE_145: "Åland" # todo: NEW TRANSLATION
+  STATE_146: "Karjala" # todo: NEW TRANSLATION
+  STATE_146_SWE: "Karelen" # todo: NEW TRANSLATION
+  STATE_147: "Salla" # todo: NEW TRANSLATION
+  STATE_148: "Lappi" # todo: NEW TRANSLATION
+  STATE_148_SWE: "Lappland" # todo: NEW TRANSLATION
+  STATE_149: "Vaasa" # todo: NEW TRANSLATION
+  STATE_149_SWE: "Vasa" # todo: NEW TRANSLATION
+  STATE_150: "Kuopio" # todo: NEW TRANSLATION
+  STATE_151: "Eastern Swiss Alps" # todo: NEW TRANSLATION
+  STATE_152: "Upper Austria" # todo: NEW TRANSLATION
+  STATE_153: "Tyrol" # todo: NEW TRANSLATION
+  STATE_154: "Alföld" # todo: NEW TRANSLATION
+  STATE_155: "Transdanubia" # todo: NEW TRANSLATION
+  STATE_156: "Calabria" # todo: NEW TRANSLATION
+  STATE_157: "Abruzzo" # todo: NEW TRANSLATION
+  STATE_158: "Piemonte" # todo: NEW TRANSLATION
+  STATE_159: "Lombardia" # todo: NEW TRANSLATION
+  STATE_160: "Veneto" # todo: NEW TRANSLATION
+  STATE_161: "Emilia Romagna" # todo: NEW TRANSLATION
+  STATE_162: "Toscana" # todo: NEW TRANSLATION
+  STATE_163: "Zadar" # todo: NEW TRANSLATION
+  STATE_163_ITA: "Zara" # todo: NEW TRANSLATION
+  STATE_164: "Dodecanese" # todo: NEW TRANSLATION
+  STATE_164_ITA: "Dodecaneso" # todo: NEW TRANSLATION
+  STATE_165: "Cataluña" # todo: NEW TRANSLATION
+  STATE_166: "Western Aragón" # todo: NEW TRANSLATION
+  STATE_167: "Valencia" # todo: NEW TRANSLATION
+  STATE_168: "Murcia" # todo: NEW TRANSLATION
+  STATE_169: "Sevilla" # todo: NEW TRANSLATION
+  STATE_170: "Extremadura" # todo: NEW TRANSLATION
+  STATE_171: "Galicia" # todo: NEW TRANSLATION
+  STATE_172: "Navarra" # todo: NEW TRANSLATION
+  STATE_173: "Granada" # todo: NEW TRANSLATION
+  STATE_174: "León" # todo: NEW TRANSLATION
+  STATE_175: "Ciudad Real" # todo: NEW TRANSLATION
+  STATE_176: "Burgos" # todo: NEW TRANSLATION
+  STATE_177: "Islas Baleares" # todo: NEW TRANSLATION
+  STATE_178: "Islas Canarias" # todo: NEW TRANSLATION
+  STATE_179: "Beja" # todo: NEW TRANSLATION
+  STATE_180: "Porto" # todo: NEW TRANSLATION
+  STATE_181: "Guarda" # todo: NEW TRANSLATION
+  STATE_182: "Crete" # todo: NEW TRANSLATION
+  STATE_183: "Cyprus" # todo: NEW TRANSLATION
+  STATE_184: "Thrace" # todo: NEW TRANSLATION
+  STATE_185: "Epirus" # todo: NEW TRANSLATION
+  STATE_186: "Peloponnese" # todo: NEW TRANSLATION
+  STATE_187: "Aegean Islands" # todo: NEW TRANSLATION
+  STATE_188: "Memel" # todo: NEW TRANSLATION
+  STATE_189: "Žemaitija" # todo: NEW TRANSLATION
+  STATE_190: "Kurzeme" # todo: NEW TRANSLATION
+  STATE_191: "Tartu" # todo: NEW TRANSLATION
+  STATE_192: "Odessa" # todo: NEW TRANSLATION
+  STATE_193: "Chernigov" # todo: NEW TRANSLATION
+  STATE_194: "Mozyr" # todo: NEW TRANSLATION
+  STATE_195: "Leningrad" # todo: NEW TRANSLATION
+  STATE_195_FIN: "Pietari" # todo: NEW TRANSLATION
+  STATE_196: "Kherson" # todo: NEW TRANSLATION
+  STATE_197: "Mykolaiv" # todo: NEW TRANSLATION
+  STATE_198: "Vinnytsia" # todo: NEW TRANSLATION
+  STATE_199: "Khmelnytskyi" # todo: NEW TRANSLATION
+  STATE_200: "Zaporozhe" # todo: NEW TRANSLATION
+  STATE_201: "Zhytomyr" # todo: NEW TRANSLATION
+  STATE_202: "Kiev" # todo: NEW TRANSLATION
+  STATE_203: "Cherkasy" # todo: NEW TRANSLATION
+  STATE_204: "Bobruysk" # todo: NEW TRANSLATION
+  STATE_205: "Kaluga" # todo: NEW TRANSLATION
+  STATE_206: "Minsk" # todo: NEW TRANSLATION
+  STATE_207: "Vitebsk" # todo: NEW TRANSLATION
+  STATE_208: "Luga" # todo: NEW TRANSLATION
+  STATE_209: "Pskov" # todo: NEW TRANSLATION
+  STATE_210: "Nevel" # todo: NEW TRANSLATION
+  STATE_211: "Burgas" # todo: NEW TRANSLATION
+  STATE_212: "Plovdiv" # todo: NEW TRANSLATION
+  STATE_213: "Murmansk" # todo: NEW TRANSLATION
+  STATE_213_FIN: "Kuolan Niemimaa" # todo: NEW TRANSLATION
+  STATE_214: "Arkhangelsk" # todo: NEW TRANSLATION
+  STATE_215: "Onega" # todo: NEW TRANSLATION
+  STATE_216: "Olonets" # todo: NEW TRANSLATION
+  STATE_217: "Stalingrad" # todo: NEW TRANSLATION
+  STATE_218: "Rostov" # todo: NEW TRANSLATION
+  STATE_219: "Moscow" # todo: NEW TRANSLATION
+  STATE_220: "Kursk" # todo: NEW TRANSLATION
+  STATE_221: "Kharkov" # todo: NEW TRANSLATION
+  STATE_222: "Orel" # todo: NEW TRANSLATION
+  STATE_223: "Tula" # todo: NEW TRANSLATION
+  STATE_224: "Bryansk" # todo: NEW TRANSLATION
+  STATE_225: "Sumy" # todo: NEW TRANSLATION
+  STATE_226: "Dnipropetrovsk" # todo: NEW TRANSLATION
+  STATE_227: "Stalino" # todo: NEW TRANSLATION
+  STATE_228: "Voroshilovgrad" # todo: NEW TRANSLATION
+  STATE_229: "Azerbaijan" # todo: NEW TRANSLATION
+  STATE_230: "Armenia" # todo: NEW TRANSLATION
+  STATE_231: "Georgia" # todo: NEW TRANSLATION
+  STATE_232: "Dagestan" # todo: NEW TRANSLATION
+  STATE_233: "Sochi" # todo: NEW TRANSLATION
+  STATE_234: "Krasnodar" # todo: NEW TRANSLATION
+  STATE_235: "Stavropol" # todo: NEW TRANSLATION
+  STATE_236: "Astrakhan" # todo: NEW TRANSLATION
+  STATE_237: "Kalmykia" # todo: NEW TRANSLATION
+  STATE_238: "Volgodonsk" # todo: NEW TRANSLATION
+  STATE_239: "Saratov" # todo: NEW TRANSLATION
+  STATE_240: "Belgorod" # todo: NEW TRANSLATION
+  STATE_241: "Gomel" # todo: NEW TRANSLATION
+  STATE_242: "Smolensk" # todo: NEW TRANSLATION
+  STATE_243: "Roslavl" # todo: NEW TRANSLATION
+  STATE_244: "Volkhov" # todo: NEW TRANSLATION
+  STATE_245: "Millerovo" # todo: NEW TRANSLATION
+  STATE_246: "Rzhev" # todo: NEW TRANSLATION
+  STATE_247: "Kalinin" # todo: NEW TRANSLATION
+  STATE_248: "Yaroslavl" # todo: NEW TRANSLATION
+  STATE_249: "Kazan" # todo: NEW TRANSLATION
+  STATE_250: "Ulyanovsky" # todo: NEW TRANSLATION
+  STATE_251: "Kuybyshev" # todo: NEW TRANSLATION
+  STATE_252: "Gorky" # todo: NEW TRANSLATION
+  STATE_253: "Ivanovo" # todo: NEW TRANSLATION
+  STATE_254: "Ryazan" # todo: NEW TRANSLATION
+  STATE_255: "Penza" # todo: NEW TRANSLATION
+  STATE_256: "Chuvashia" # todo: NEW TRANSLATION
+  STATE_257: "Tambov" # todo: NEW TRANSLATION
+  STATE_258: "Lipetsk" # todo: NEW TRANSLATION
+  STATE_259: "Poltava" # todo: NEW TRANSLATION
+  STATE_260: "Voronezh" # todo: NEW TRANSLATION
+  STATE_261: "Ohio" # todo: NEW TRANSLATION
+  STATE_262: "Pechora" # todo: NEW TRANSLATION
+  STATE_263: "Novgorod" # todo: NEW TRANSLATION
+  STATE_264: "Tikhvin" # todo: NEW TRANSLATION
+  STATE_265: "Mikhaylovka" # todo: NEW TRANSLATION
+  STATE_266: "Tehran" # todo: NEW TRANSLATION
+  STATE_267: "Kabul" # todo: NEW TRANSLATION
+  STATE_268: "French Somaliland" # todo: NEW TRANSLATION
+  STATE_269: "British Somaliland" # todo: NEW TRANSLATION
+  STATE_270: "Pitcairn Island" # todo: NEW TRANSLATION
+  STATE_271: "Shewa" # todo: NEW TRANSLATION
+  STATE_272: "Senegal" # todo: NEW TRANSLATION
+  STATE_273: "Libyan Desert" # todo: NEW TRANSLATION
+  STATE_274: "Ghana" # todo: NEW TRANSLATION
+  STATE_275: "Transvaal" # todo: NEW TRANSLATION
+  STATE_276: "Southern Ontario" # todo: NEW TRANSLATION
+  STATE_277: "Mexico City" # todo: NEW TRANSLATION
+  STATE_278: "Buenos Aires" # todo: NEW TRANSLATION
+  STATE_279: "Santiago" # todo: NEW TRANSLATION
+  STATE_280: "Mato Grosso" # todo: NEW TRANSLATION
+  STATE_281: "Maldives" # todo: NEW TRANSLATION
+  STATE_282: "Kanto" # todo: NEW TRANSLATION
+  STATE_283: "Gansu" # todo: NEW TRANSLATION
+  STATE_284: "North Island" # todo: NEW TRANSLATION
+  STATE_285: "New South Wales" # todo: NEW TRANSLATION
+  STATE_286: "Southern Indochina" # todo: NEW TRANSLATION
+  STATE_287: "Taklamakan" # todo: NEW TRANSLATION
+  STATE_288: "Burma" # todo: NEW TRANSLATION
+  STATE_289: "Siam" # todo: NEW TRANSLATION
+  STATE_290: "Spanish Africa" # todo: NEW TRANSLATION
+  STATE_291: "Baghdad" # todo: NEW TRANSLATION
+  STATE_292: "Nejd" # todo: NEW TRANSLATION
+  STATE_293: "Yemen" # todo: NEW TRANSLATION
+  STATE_294: "Oman" # todo: NEW TRANSLATION
+  STATE_295: "Leopoldville" # todo: NEW TRANSLATION
+  STATE_296: "Portuguese Guinea" # todo: NEW TRANSLATION
+  STATE_297: "Equatorial Guinea" # todo: NEW TRANSLATION
+  STATE_298: "Liberia" # todo: NEW TRANSLATION
+  STATE_299: "Falkland Islands" # todo: NEW TRANSLATION
+  STATE_300: "Montevideo" # todo: NEW TRANSLATION
+  STATE_301: "Paraguay" # todo: NEW TRANSLATION
+  STATE_302: "La Paz" # todo: NEW TRANSLATION
+  STATE_303: "Lima" # todo: NEW TRANSLATION
+  STATE_304: "Panamá" # todo: NEW TRANSLATION
+  STATE_305: "Ecuador" # todo: NEW TRANSLATION
+  STATE_306: "Cundinamarca" # todo: NEW TRANSLATION
+  STATE_307: "Miranda" # todo: NEW TRANSLATION
+  STATE_308: "Leeward Islands" # todo: NEW TRANSLATION
+  STATE_309: "Suriname" # todo: NEW TRANSLATION
+  STATE_310: "French Guiana" # todo: NEW TRANSLATION
+  STATE_311: "British Honduras" # todo: NEW TRANSLATION
+  STATE_312: "Honduras" # todo: NEW TRANSLATION
+  STATE_313: "Guatemala" # todo: NEW TRANSLATION
+  STATE_314: "El Salvador" # todo: NEW TRANSLATION
+  STATE_315: "Cuba" # todo: NEW TRANSLATION
+  STATE_316: "Costa Rica" # todo: NEW TRANSLATION
+  STATE_317: "Nicaragua" # todo: NEW TRANSLATION
+  STATE_318: "Haiti" # todo: NEW TRANSLATION
+  STATE_319: "Dominican Republic" # todo: NEW TRANSLATION
+  STATE_320: "French India" # todo: NEW TRANSLATION
+  STATE_321: "Goa" # todo: NEW TRANSLATION
+  STATE_322: "Nagqu" # todo: NEW TRANSLATION
+  STATE_323: "Nepal" # todo: NEW TRANSLATION
+  STATE_324: "Bhutan" # todo: NEW TRANSLATION
+  STATE_325: "Yunnan" # todo: NEW TRANSLATION
+  STATE_326: "Hong Kong" # todo: NEW TRANSLATION
+  STATE_327: "Manila" # todo: NEW TRANSLATION
+  STATE_328: "Kirin" # todo: NEW TRANSLATION
+  STATE_329: "Tannu Tuva" # todo: NEW TRANSLATION
+  STATE_330: "Ulaanbaatar" # todo: NEW TRANSLATION
+  STATE_331: "Newfoundland" # todo: NEW TRANSLATION
+  STATE_332: "Labrador" # todo: NEW TRANSLATION
+  STATE_333: "North Borneo" # todo: NEW TRANSLATION
+  STATE_334: "Kalimantan" # todo: NEW TRANSLATION
+  STATE_335: "Java" # todo: NEW TRANSLATION
+  STATE_336: "Singapore" # todo: NEW TRANSLATION
+  STATE_337: "Faroe Islands" # todo: NEW TRANSLATION
+  STATE_338: "Gloucestershire" # todo: NEW TRANSLATION
+  STATE_339: "Izmir" # todo: NEW TRANSLATION
+  STATE_340: "Bursa" # todo: NEW TRANSLATION
+  STATE_341: "Edirne" # todo: NEW TRANSLATION
+  STATE_342: "Antalya" # todo: NEW TRANSLATION
+  STATE_343: "Afyon" # todo: NEW TRANSLATION
+  STATE_344: "Malatya" # todo: NEW TRANSLATION
+  STATE_345: "Mersin" # todo: NEW TRANSLATION
+  STATE_346: "Konya" # todo: NEW TRANSLATION
+  STATE_347: "Izmit" # todo: NEW TRANSLATION
+  STATE_348: "Kayseri" # todo: NEW TRANSLATION
+  STATE_349: "Sivas" # todo: NEW TRANSLATION
+  STATE_350: "Diyarbakır" # todo: NEW TRANSLATION
+  STATE_351: "Vologda" # todo: NEW TRANSLATION
+  STATE_352: "Hakkari" # todo: NEW TRANSLATION
+  STATE_353: "Tunceli" # todo: NEW TRANSLATION
+  STATE_354: "Trabzon" # todo: NEW TRANSLATION
+  STATE_355: "Samsun" # todo: NEW TRANSLATION
+  STATE_356: "Kastamonu" # todo: NEW TRANSLATION
+  STATE_357: "New England" # todo: NEW TRANSLATION
+  STATE_358: "New York" # todo: NEW TRANSLATION
+  STATE_359: "New Jersey" # todo: NEW TRANSLATION
+  STATE_360: "Pennsylvania" # todo: NEW TRANSLATION
+  STATE_361: "Maryland" # todo: NEW TRANSLATION
+  STATE_362: "Virginia" # todo: NEW TRANSLATION
+  STATE_363: "North Carolina" # todo: NEW TRANSLATION
+  STATE_364: "South Carolina" # todo: NEW TRANSLATION
+  STATE_365: "Georgia" # todo: NEW TRANSLATION
+  STATE_366: "Florida" # todo: NEW TRANSLATION
+  STATE_367: "Alabama" # todo: NEW TRANSLATION
+  STATE_368: "Tennessee" # todo: NEW TRANSLATION
+  STATE_369: "Kentucky" # todo: NEW TRANSLATION
+  STATE_370: "Mississippi" # todo: NEW TRANSLATION
+  STATE_371: "Louisiana" # todo: NEW TRANSLATION
+  STATE_372: "Arkansas" # todo: NEW TRANSLATION
+  STATE_373: "Missouri" # todo: NEW TRANSLATION
+  STATE_374: "Oklahoma" # todo: NEW TRANSLATION
+  STATE_375: "Texas" # todo: NEW TRANSLATION
+  STATE_376: "New Mexico" # todo: NEW TRANSLATION
+  STATE_377: "Arizona" # todo: NEW TRANSLATION
+  STATE_378: "California" # todo: NEW TRANSLATION
+  STATE_379: "Nevada" # todo: NEW TRANSLATION
+  STATE_380: "Utah" # todo: NEW TRANSLATION
+  STATE_381: "Wyoming" # todo: NEW TRANSLATION
+  STATE_382: "Colorado" # todo: NEW TRANSLATION
+  STATE_383: "Kansas" # todo: NEW TRANSLATION
+  STATE_384: "Nebraska" # todo: NEW TRANSLATION
+  STATE_385: "Oregon" # todo: NEW TRANSLATION
+  STATE_386: "Washington" # todo: NEW TRANSLATION
+  STATE_387: "Idaho" # todo: NEW TRANSLATION
+  STATE_388: "Montana" # todo: NEW TRANSLATION
+  STATE_389: "North Dakota" # todo: NEW TRANSLATION
+  STATE_390: "South Dakota" # todo: NEW TRANSLATION
+  STATE_391: "Minnesota" # todo: NEW TRANSLATION
+  STATE_392: "Iowa" # todo: NEW TRANSLATION
+  STATE_393: "Michigan" # todo: NEW TRANSLATION
+  STATE_394: "Wisconsin" # todo: NEW TRANSLATION
+  STATE_395: "Illinois" # todo: NEW TRANSLATION
+  STATE_396: "Indiana" # todo: NEW TRANSLATION
+  STATE_397: "Syktyvkar" # todo: NEW TRANSLATION
+  STATE_398: "Perm" # todo: NEW TRANSLATION
+  STATE_399: "Udmurtia" # todo: NEW TRANSLATION
+  STATE_400: "Kirov" # todo: NEW TRANSLATION
+  STATE_401: "Balakovo" # todo: NEW TRANSLATION
+  STATE_402: "Akhtubinsk" # todo: NEW TRANSLATION
+  STATE_403: "Tyumen" # todo: NEW TRANSLATION
+  STATE_404: "Kyzyl Orda" # todo: NEW TRANSLATION
+  STATE_405: "Tashkent" # todo: NEW TRANSLATION
+  STATE_406: "Guryev" # todo: NEW TRANSLATION
+  STATE_407: "Ural'sk" # todo: NEW TRANSLATION
+  STATE_408: "Vladivostok" # todo: NEW TRANSLATION
+  STATE_409: "Khabarovsk" # todo: NEW TRANSLATION
+  STATE_410: "Sistan" # todo: NEW TRANSLATION
+  STATE_411: "Isfahan" # todo: NEW TRANSLATION
+  STATE_412: "Fars" # todo: NEW TRANSLATION
+  STATE_413: "Khuzestan" # todo: NEW TRANSLATION
+  STATE_414: "Kerman" # todo: NEW TRANSLATION
+  STATE_415: "Herat" # todo: NEW TRANSLATION
+  STATE_416: "Khorasan" # todo: NEW TRANSLATION
+  STATE_417: "Hamadan" # todo: NEW TRANSLATION
+  STATE_418: "Semnan" # todo: NEW TRANSLATION
+  STATE_419: "Tibriz" # todo: NEW TRANSLATION
+  STATE_420: "Gilan" # todo: NEW TRANSLATION
+  STATE_421: "Kurdistan" # todo: NEW TRANSLATION
+  STATE_422: "Ceylon" # todo: NEW TRANSLATION
+  STATE_423: "Madurai" # todo: NEW TRANSLATION
+  STATE_424: "Madras" # todo: NEW TRANSLATION
+  STATE_425: "Mysore" # todo: NEW TRANSLATION
+  STATE_426: "Orissa" # todo: NEW TRANSLATION
+  STATE_427: "Hyderabad" # todo: NEW TRANSLATION
+  STATE_428: "Gujarat" # todo: NEW TRANSLATION
+  STATE_429: "Bombay" # todo: NEW TRANSLATION
+  STATE_430: "East Bengal" # todo: NEW TRANSLATION
+  STATE_431: "West Bengal" # todo: NEW TRANSLATION
+  STATE_432: "Assam" # todo: NEW TRANSLATION
+  STATE_433: "Rajahsthan" # todo: NEW TRANSLATION
+  STATE_434: "Arunachal Pradesh" # todo: NEW TRANSLATION
+  STATE_435: "Bihar" # todo: NEW TRANSLATION
+  STATE_436: "Jabalpur" # todo: NEW TRANSLATION
+  STATE_437: "Indore" # todo: NEW TRANSLATION
+  STATE_438: "Lucknow" # todo: NEW TRANSLATION
+  STATE_439: "Delhi" # todo: NEW TRANSLATION
+  STATE_440: "Punjab" # todo: NEW TRANSLATION
+  STATE_441: "Kashmir" # todo: NEW TRANSLATION
+  STATE_442: "Peshawar" # todo: NEW TRANSLATION
+  STATE_443: "Sind" # todo: NEW TRANSLATION
+  STATE_444: "Baluchistan" # todo: NEW TRANSLATION
+  STATE_445: "Quetta" # todo: NEW TRANSLATION
+  STATE_446: "Suez" # todo: NEW TRANSLATION
+  STATE_447: "Alexandria" # todo: NEW TRANSLATION
+  STATE_448: "Tripoli" # todo: NEW TRANSLATION
+  STATE_449: "El Agheila" # todo: NEW TRANSLATION
+  STATE_450: "Benghasi" # todo: NEW TRANSLATION
+  STATE_451: "Derna" # todo: NEW TRANSLATION
+  STATE_452: "Matrouh" # todo: NEW TRANSLATION
+  STATE_453: "Sinai" # todo: NEW TRANSLATION
+  STATE_454: "Palestine" # todo: NEW TRANSLATION
+  STATE_455: "Jordan" # todo: NEW TRANSLATION
+  STATE_456: "Aswan" # todo: NEW TRANSLATION
+  STATE_457: "Eastern Desert" # todo: NEW TRANSLATION
+  STATE_458: "Tunisia" # todo: NEW TRANSLATION
+  STATE_459: "Algiers" # todo: NEW TRANSLATION
+  STATE_460: "Constantine" # todo: NEW TRANSLATION
+  STATE_461: "Casablanca" # todo: NEW TRANSLATION
+  STATE_462: "Marrakech" # todo: NEW TRANSLATION
+  STATE_463: "Alaska" # todo: NEW TRANSLATION
+  STATE_464: "Nova Scotia" # todo: NEW TRANSLATION
+  STATE_465: "New Brunswick" # todo: NEW TRANSLATION
+  STATE_466: "Nord du Quebec" # todo: NEW TRANSLATION
+  STATE_467: "Manitoba" # todo: NEW TRANSLATION
+  STATE_468: "Saint Lawrence" # todo: NEW TRANSLATION
+  STATE_469: "Saskatchewan" # todo: NEW TRANSLATION
+  STATE_470: "Alberta" # todo: NEW TRANSLATION
+  STATE_471: "Upper British Columbia" # todo: NEW TRANSLATION
+  STATE_472: "Northwest Territories" # todo: NEW TRANSLATION
+  STATE_473: "British Columbia" # todo: NEW TRANSLATION
+  STATE_474: "Yucatan" # todo: NEW TRANSLATION
+  STATE_475: "Chiapas" # todo: NEW TRANSLATION
+  STATE_476: "Oaxaca" # todo: NEW TRANSLATION
+  STATE_477: "Veracruz" # todo: NEW TRANSLATION
+  STATE_478: "Jalisco" # todo: NEW TRANSLATION
+  STATE_479: "Tamaulipas" # todo: NEW TRANSLATION
+  STATE_480: "Coahuila" # todo: NEW TRANSLATION
+  STATE_481: "Durango" # todo: NEW TRANSLATION
+  STATE_482: "Chihuahua" # todo: NEW TRANSLATION
+  STATE_483: "Sonora" # todo: NEW TRANSLATION
+  STATE_484: "Baja California" # todo: NEW TRANSLATION
+  STATE_485: "Guerrero" # todo: NEW TRANSLATION
+  STATE_486: "Meta" # todo: NEW TRANSLATION
+  STATE_487: "Santa Cruz" # todo: NEW TRANSLATION
+  STATE_488: "Bolivar" # todo: NEW TRANSLATION
+  STATE_489: "Zulia" # todo: NEW TRANSLATION
+  STATE_490: "Pastaza" # todo: NEW TRANSLATION
+  STATE_491: "Loreto" # todo: NEW TRANSLATION
+  STATE_492: "Arequipa" # todo: NEW TRANSLATION
+  STATE_493: "La Libertad" # todo: NEW TRANSLATION
+  STATE_494: "Ucayali" # todo: NEW TRANSLATION
+  STATE_495: "Amazonas" # todo: NEW TRANSLATION
+  STATE_496: "Minas Gerais" # todo: NEW TRANSLATION
+  STATE_497: "Maranhão" # todo: NEW TRANSLATION
+  STATE_498: "Rio Grande do Norte" # todo: NEW TRANSLATION
+  STATE_499: "Bahia" # todo: NEW TRANSLATION
+  STATE_500: "Rio de Janeiro" # todo: NEW TRANSLATION
+  STATE_501: "São Paulo" # todo: NEW TRANSLATION
+  STATE_502: "Rio Grande do Sul" # todo: NEW TRANSLATION
+  STATE_503: "Santa Catarina" # todo: NEW TRANSLATION
+  STATE_504: "Punta Porá" # todo: NEW TRANSLATION
+  STATE_505: "Goiás" # todo: NEW TRANSLATION
+  STATE_506: "Antofagasta" # todo: NEW TRANSLATION
+  STATE_507: "Magallanes" # todo: NEW TRANSLATION
+  STATE_508: "Tucumán" # todo: NEW TRANSLATION
+  STATE_509: "Chaco Austral" # todo: NEW TRANSLATION
+  STATE_510: "Región Mesopotámica" # todo: NEW TRANSLATION
+  STATE_511: "Mendoza" # todo: NEW TRANSLATION
+  STATE_512: "Río Negro" # todo: NEW TRANSLATION
+  STATE_513: "Tlemcen" # todo: NEW TRANSLATION
+  STATE_514: "Algerian Desert" # todo: NEW TRANSLATION
+  STATE_515: "Southern Sahara" # todo: NEW TRANSLATION
+  STATE_516: "Dudinka" # todo: NEW TRANSLATION
+  STATE_517: "Victoria" # todo: NEW TRANSLATION
+  STATE_518: "Tasmania" # todo: NEW TRANSLATION
+  STATE_519: "South Australia" # todo: NEW TRANSLATION
+  STATE_520: "Northern Territory" # todo: NEW TRANSLATION
+  STATE_521: "Queensland" # todo: NEW TRANSLATION
+  STATE_522: "Western Australia" # todo: NEW TRANSLATION
+  STATE_523: "Papua" # todo: NEW TRANSLATION
+  STATE_524: "Taiwan" # todo: NEW TRANSLATION
+  STATE_525: "South Korea" # todo: NEW TRANSLATION
+  STATE_526: "Okinawa" # todo: NEW TRANSLATION
+  STATE_527: "North Korea" # todo: NEW TRANSLATION
+  STATE_528: "Kyushu" # todo: NEW TRANSLATION
+  STATE_529: "Chugoku" # todo: NEW TRANSLATION
+  STATE_530: "Shikoku" # todo: NEW TRANSLATION
+  STATE_531: "Kansai" # todo: NEW TRANSLATION
+  STATE_532: "Tokai" # todo: NEW TRANSLATION
+  STATE_533: "Tohoku" # todo: NEW TRANSLATION
+  STATE_534: "Hokuriku" # todo: NEW TRANSLATION
+  STATE_535: "Koshinetsu" # todo: NEW TRANSLATION
+  STATE_536: "Hokkaido" # todo: NEW TRANSLATION
+  STATE_537: "South Sakhalin" # todo: NEW TRANSLATION
+  STATE_538: "Coquilhatville" # todo: NEW TRANSLATION
+  STATE_539: "Gabon" # todo: NEW TRANSLATION
+  STATE_540: "Luanda" # todo: NEW TRANSLATION
+  STATE_541: "Khomas" # todo: NEW TRANSLATION
+  STATE_542: "Bechuanaland" # todo: NEW TRANSLATION
+  STATE_543: "Madagascar" # todo: NEW TRANSLATION
+  STATE_544: "Lourenço Marques" # todo: NEW TRANSLATION
+  STATE_545: "Rhodesia" # todo: NEW TRANSLATION
+  STATE_546: "Tanganyika" # todo: NEW TRANSLATION
+  STATE_547: "Nairobi" # todo: NEW TRANSLATION
+  STATE_548: "Uganda" # todo: NEW TRANSLATION
+  STATE_549: "Kurdufan" # todo: NEW TRANSLATION
+  STATE_550: "Eritrea" # todo: NEW TRANSLATION
+  STATE_551: "Khartoum" # todo: NEW TRANSLATION
+  STATE_552: "Western Desert" # todo: NEW TRANSLATION
+  STATE_553: "Lebanon" # todo: NEW TRANSLATION
+  STATE_554: "Damascus" # todo: NEW TRANSLATION
+  STATE_555: "Kuril Islands" # todo: NEW TRANSLATION
+  STATE_556: "Bamako" # todo: NEW TRANSLATION
+  STATE_557: "Mauritania" # todo: NEW TRANSLATION
+  STATE_558: "Lagos" # todo: NEW TRANSLATION
+  STATE_559: "Somaliland" # todo: NEW TRANSLATION
+  STATE_560: "Nikolayevsk" # todo: NEW TRANSLATION
+  STATE_561: "Amur" # todo: NEW TRANSLATION
+  STATE_562: "Okhotsk" # todo: NEW TRANSLATION
+  STATE_563: "Chita" # todo: NEW TRANSLATION
+  STATE_564: "Buryatia" # todo: NEW TRANSLATION
+  STATE_565: "Bodaybo" # todo: NEW TRANSLATION
+  STATE_566: "Irkutsk" # todo: NEW TRANSLATION
+  STATE_567: "Bratsk" # todo: NEW TRANSLATION
+  STATE_568: "Krasnoyarsk" # todo: NEW TRANSLATION
+  STATE_569: "Khakassia" # todo: NEW TRANSLATION
+  STATE_570: "Novosibirsk" # todo: NEW TRANSLATION
+  STATE_571: "Omsk" # todo: NEW TRANSLATION
+  STATE_572: "Chelyabinsk" # todo: NEW TRANSLATION
+  STATE_573: "Zlatoust" # todo: NEW TRANSLATION
+  STATE_574: "Yakutsk" # todo: NEW TRANSLATION
+  STATE_575: "Kirensk" # todo: NEW TRANSLATION
+  STATE_576: "Yeniseisk" # todo: NEW TRANSLATION
+  STATE_577: "Surgut" # todo: NEW TRANSLATION
+  STATE_578: "Tomsk" # todo: NEW TRANSLATION
+  STATE_579: "Salekhard" # todo: NEW TRANSLATION
+  STATE_580: "Tobolsk" # todo: NEW TRANSLATION
+  STATE_581: "Northern Urals" # todo: NEW TRANSLATION
+  STATE_582: "Magnitogorsk" # todo: NEW TRANSLATION
+  STATE_583: "Kostanay" # todo: NEW TRANSLATION
+  STATE_584: "Ashkhabad" # todo: NEW TRANSLATION
+  STATE_585: "Navoi" # todo: NEW TRANSLATION
+  STATE_586: "Alma-Ata" # todo: NEW TRANSLATION
+  STATE_587: "Ust Urt" # todo: NEW TRANSLATION
+  STATE_588: "Semipalatinsk" # todo: NEW TRANSLATION
+  STATE_589: "Ayaguz" # todo: NEW TRANSLATION
+  STATE_590: "Akmolinsk" # todo: NEW TRANSLATION
+  STATE_591: "Hainan" # todo: NEW TRANSLATION
+  STATE_592: "Guangzhou" # todo: NEW TRANSLATION
+  STATE_593: "Guangdong" # todo: NEW TRANSLATION
+  STATE_594: "Nanning" # todo: NEW TRANSLATION
+  STATE_595: "Fujian" # todo: NEW TRANSLATION
+  STATE_596: "Zhejiang" # todo: NEW TRANSLATION
+  STATE_597: "Shandong" # todo: NEW TRANSLATION
+  STATE_598: "Jiangsu" # todo: NEW TRANSLATION
+  STATE_599: "Guangxi" # todo: NEW TRANSLATION
+  STATE_600: "Jiangxi" # todo: NEW TRANSLATION
+  STATE_601: "Xikang" # todo: NEW TRANSLATION
+  STATE_602: "Hunan" # todo: NEW TRANSLATION
+  STATE_603: "Guizhou" # todo: NEW TRANSLATION
+  STATE_604: "Qinghai" # todo: NEW TRANSLATION
+  STATE_605: "Sichuan" # todo: NEW TRANSLATION
+  STATE_606: "Anhui" # todo: NEW TRANSLATION
+  STATE_607: "Henan" # todo: NEW TRANSLATION
+  STATE_608: "Beijing" # todo: NEW TRANSLATION
+  STATE_609: "East Hebei" # todo: NEW TRANSLATION
+  STATE_610: "Jehol" # todo: NEW TRANSLATION
+  STATE_611: "South Chahar" # todo: NEW TRANSLATION
+  STATE_612: "Chahar" # todo: NEW TRANSLATION
+  STATE_613: "Shanghai" # todo: NEW TRANSLATION
+  STATE_614: "Hebei" # todo: NEW TRANSLATION
+  STATE_615: "Shanxi" # todo: NEW TRANSLATION
+  STATE_616: "Ningxia" # todo: NEW TRANSLATION
+  STATE_617: "Urumqi" # todo: NEW TRANSLATION
+  STATE_618: "Dzungaria" # todo: NEW TRANSLATION
+  STATE_619: "Yarkand" # todo: NEW TRANSLATION
+  STATE_620: "Hubei" # todo: NEW TRANSLATION
+  STATE_621: "Suiyuan" # todo: NEW TRANSLATION
+  STATE_622: "Shaanxi" # todo: NEW TRANSLATION
+  STATE_623: "Luzon" # todo: NEW TRANSLATION
+  STATE_624: "Central islands" # todo: NEW TRANSLATION
+  STATE_625: "Samar" # todo: NEW TRANSLATION
+  STATE_626: "Palawan" # todo: NEW TRANSLATION
+  STATE_627: "Mindanao" # todo: NEW TRANSLATION
+  STATE_628: "Cebu" # todo: NEW TRANSLATION
+  STATE_629: "Hawaii" # todo: NEW TRANSLATION
+  STATE_630: "Johnston Atoll" # todo: NEW TRANSLATION
+  STATE_631: "Midway Island" # todo: NEW TRANSLATION
+  STATE_632: "Wake Island" # todo: NEW TRANSLATION
+  STATE_633: "Marshall Islands" # todo: NEW TRANSLATION
+  STATE_634: "Solomon Islands" # todo: NEW TRANSLATION
+  STATE_635: "New Caledonia" # todo: NEW TRANSLATION
+  STATE_636: "Fiji" # todo: NEW TRANSLATION
+  STATE_637: "Kamchatka" # todo: NEW TRANSLATION
+  STATE_638: "Guam" # todo: NEW TRANSLATION
+  STATE_639: "Gilbert Islands" # todo: NEW TRANSLATION
+  STATE_640: "Mandalay" # todo: NEW TRANSLATION
+  STATE_641: "Tahiti" # todo: NEW TRANSLATION
+  STATE_642: "Phoenix Island" # todo: NEW TRANSLATION
+  STATE_643: "Ellice Islands" # todo: NEW TRANSLATION
+  STATE_644: "Kolyma" # todo: NEW TRANSLATION
+  STATE_645: "Iwo Jima" # todo: NEW TRANSLATION
+  STATE_646: "Saipan" # todo: NEW TRANSLATION
+  STATE_647: "Palau" # todo: NEW TRANSLATION
+  STATE_648: "Marcus Island" # todo: NEW TRANSLATION
+  STATE_649: "Galapagos Islands" # todo: NEW TRANSLATION
+  STATE_650: "Attu Island" # todo: NEW TRANSLATION
+  STATE_651: "Ufa" # todo: NEW TRANSLATION
+  STATE_652: "Orenburg" # todo: NEW TRANSLATION
+  STATE_653: "Sverdlovsk" # todo: NEW TRANSLATION
+  STATE_654: "Oyrot Region" # todo: NEW TRANSLATION
+  STATE_655: "North Sakhalin" # todo: NEW TRANSLATION
+  STATE_656: "Kuwait" # todo: NEW TRANSLATION
+  STATE_657: "Birobidzhan" # todo: NEW TRANSLATION
+  STATE_658: "Abu Dhabi" # todo: NEW TRANSLATION
+  STATE_659: "Aden" # todo: NEW TRANSLATION
+  STATE_660: "Equatorial Africa" # todo: NEW TRANSLATION
+  STATE_661: "Tripolitania" # todo: NEW TRANSLATION
+  STATE_662: "Sirte" # todo: NEW TRANSLATION
+  STATE_663: "Cyrenaica" # todo: NEW TRANSLATION
+  STATE_664: "Southern Slovakia" # todo: NEW TRANSLATION
+  STATE_665: "Gabès" # todo: NEW TRANSLATION
+  STATE_666: "Norrbotten" # todo: NEW TRANSLATION
+  STATE_667: "Lesser Sunda Islands" # todo: NEW TRANSLATION
+  STATE_668: "The Moluccas" # todo: NEW TRANSLATION
+  STATE_669: "West Papua" # todo: NEW TRANSLATION
+  STATE_670: "Laos" # todo: NEW TRANSLATION
+  STATE_671: "Tonkin" # todo: NEW TRANSLATION
+  STATE_672: "Sumatra" # todo: NEW TRANSLATION
+  STATE_673: "Western Macedonia" # todo: NEW TRANSLATION
+  STATE_674: "Kosovo" # todo: NEW TRANSLATION
+  STATE_675: "Srem" # todo: NEW TRANSLATION
+  STATE_676: "Rijeka" # todo: NEW TRANSLATION
+  STATE_677: "Aleppo" # todo: NEW TRANSLATION
+  STATE_678: "Rub al Khali" # todo: NEW TRANSLATION
+  STATE_679: "Madinah" # todo: NEW TRANSLATION
+  STATE_680: "Deir-az-Zur" # todo: NEW TRANSLATION
+  STATE_681: "Cape" # todo: NEW TRANSLATION
+  STATE_682: "Northern Ontario" # todo: NEW TRANSLATION
+  STATE_683: "Nunavut" # todo: NEW TRANSLATION
+  STATE_684: "Caroline Islands" # todo: NEW TRANSLATION
+  STATE_685: "Panamá Canal" # todo: NEW TRANSLATION
+  STATE_686: "Puerto Rico" # todo: NEW TRANSLATION
+  STATE_687: "British Guyana" # todo: NEW TRANSLATION
+  STATE_688: "Chaco Boreal" # todo: NEW TRANSLATION
+  STATE_689: "Jamaica" # todo: NEW TRANSLATION
+  STATE_690: "Northern Bahamas" # todo: NEW TRANSLATION
+  STATE_691: "Trinidad" # todo: NEW TRANSLATION
+  STATE_692: "Windward Islands" # todo: NEW TRANSLATION
+  STATE_693: "Southern Bahamas" # todo: NEW TRANSLATION
+  STATE_694: "French Caribbean" # todo: NEW TRANSLATION
+  STATE_695: "Curaçao" # todo: NEW TRANSLATION
+  STATE_696: "Bermuda" # todo: NEW TRANSLATION
+  STATE_697: "Madeira" # todo: NEW TRANSLATION
+  STATE_698: "Azores" # todo: NEW TRANSLATION
+  STATE_699: "Rio de Oro" # todo: NEW TRANSLATION
+  STATE_700: "Sierra Leone" # todo: NEW TRANSLATION
+  STATE_701: "Gambia" # todo: NEW TRANSLATION
+  STATE_702: "Cape Verde" # todo: NEW TRANSLATION
+  STATE_703: "Ascension" # todo: NEW TRANSLATION
+  STATE_704: "Saint Helena" # todo: NEW TRANSLATION
+  STATE_705: "Sao Tome" # todo: NEW TRANSLATION
+  STATE_706: "Reunion" # todo: NEW TRANSLATION
+  STATE_707: "Mauritius" # todo: NEW TRANSLATION
+  STATE_708: "Comoro Islands" # todo: NEW TRANSLATION
+  STATE_709: "Seychelles" # todo: NEW TRANSLATION
+  STATE_710: "Diego Garcia" # todo: NEW TRANSLATION
+  STATE_711: "Christmas Island" # todo: NEW TRANSLATION
+  STATE_712: "Cocos Islands" # todo: NEW TRANSLATION
+  STATE_713: "Kerguelen" # todo: NEW TRANSLATION
+  STATE_714: "Heilungkiang" # todo: NEW TRANSLATION
+  STATE_715: "Liaoning" # todo: NEW TRANSLATION
+  STATE_716: "Liaotung" # todo: NEW TRANSLATION
+  STATE_717: "Sungkiang" # todo: NEW TRANSLATION
+  STATE_718: "Stanleyville" # todo: NEW TRANSLATION
+  STATE_719: "Natal" # todo: NEW TRANSLATION
+  STATE_720: "South Georgia" # todo: NEW TRANSLATION
+  STATE_721: "Portuguese Timor" # todo: NEW TRANSLATION
+  STATE_722: "Petsamo" # todo: NEW TRANSLATION
+  STATE_723: "South Island" # todo: NEW TRANSLATION
+  STATE_724: "Northern Malay" # todo: NEW TRANSLATION
+  STATE_725: "Nauru" # todo: NEW TRANSLATION
+  STATE_726: "Samoa" # todo: NEW TRANSLATION
+  STATE_727: "Line Islands" # todo: NEW TRANSLATION
+  STATE_728: "Guangzhouwan" # todo: NEW TRANSLATION
+  STATE_729: "Macau" # todo: NEW TRANSLATION
+  STATE_730: "St Pierre and Miquelon" # todo: NEW TRANSLATION
+  STATE_731: "Central Macedonia" # todo: NEW TRANSLATION
+  STATE_732: "Pamir" # todo: NEW TRANSLATION
+  STATE_733: "Andaman" # todo: NEW TRANSLATION
+  STATE_734: "Nendo" # todo: NEW TRANSLATION
+  STATE_735: "Savoy" # todo: NEW TRANSLATION
+  STATE_736: "Litorale" # todo: NEW TRANSLATION
+  STATE_737: "Bismarck" # todo: NEW TRANSLATION
+  STATE_738: "Aru Islands" # todo: NEW TRANSLATION
+  STATE_739: "Haida Gwaii" # todo: NEW TRANSLATION
+  STATE_740: "Vancouver Island" # todo: NEW TRANSLATION
+  STATE_741: "Cambodia" # todo: NEW TRANSLATION
+  STATE_742: "Stalinabad" # todo: NEW TRANSLATION
+  STATE_743: "Qingdao" # todo: NEW TRANSLATION
+  STATE_744: "Xian" # todo: NEW TRANSLATION
+  STATE_745: "Dalian" # todo: NEW TRANSLATION
+  STATE_746: "Ordos" # todo: NEW TRANSLATION
+  STATE_747: "Dali" # todo: NEW TRANSLATION
+  STATE_748: "Zunyi" # todo: NEW TRANSLATION
+  STATE_749: "Huangshan" # todo: NEW TRANSLATION
+  STATE_750: "Changde" # todo: NEW TRANSLATION
+  STATE_751: "Liangshan" # todo: NEW TRANSLATION
+  STATE_752: "Ganzi" # todo: NEW TRANSLATION
+  STATE_753: "Gannan" # todo: NEW TRANSLATION
+  STATE_754: "Golog" # todo: NEW TRANSLATION
+  STATE_755: "Haixi" # todo: NEW TRANSLATION
+  STATE_756: "Jiuquan" # todo: NEW TRANSLATION
+  STATE_757: "Shigatse" # todo: NEW TRANSLATION
+  STATE_758: "Ngari" # todo: NEW TRANSLATION
+  STATE_759: "Kunlun Shan" # todo: NEW TRANSLATION
+  STATE_760: "Dabancheng" # todo: NEW TRANSLATION
+  STATE_761: "Hulunbuir" # todo: NEW TRANSLATION
+  STATE_762: "Katowice" # todo: NEW TRANSLATION
+  STATE_763: "Königsberg" # todo: NEW TRANSLATION
+  STATE_764: "West Banat" # todo: NEW TRANSLATION
+  STATE_765: "Qatar" # todo: NEW TRANSLATION
+  STATE_766: "Southern Bessarabia" # todo: NEW TRANSLATION
+  STATE_767: "North Darfur" # todo: NEW TRANSLATION
+  STATE_768: "Rwanda" # todo: NEW TRANSLATION
+  STATE_769: "Burundi" # todo: NEW TRANSLATION
+  STATE_770: "Malawi" # todo: NEW TRANSLATION
+  STATE_771: "Zambia" # todo: NEW TRANSLATION
+  STATE_772: "Middle Congo" # todo: NEW TRANSLATION
+  STATE_773: "Cameroon" # todo: NEW TRANSLATION
+  STATE_774: "Chad" # todo: NEW TRANSLATION
+  STATE_775: "B.E.T." # todo: NEW TRANSLATION
+  STATE_776: "Dahomey" # todo: NEW TRANSLATION
+  STATE_777: "Togo" # todo: NEW TRANSLATION
+  STATE_778: "Upper Volta" # todo: NEW TRANSLATION
+  STATE_779: "Ivory Coast" # todo: NEW TRANSLATION
+  STATE_780: "Guinea" # todo: NEW TRANSLATION
+  STATE_781: "Niger" # todo: NEW TRANSLATION
+  STATE_782: "Tombouctou" # todo: NEW TRANSLATION
+  STATE_783: "Sidi Ifni" # todo: NEW TRANSLATION
+  STATE_784: "Wilno" # todo: NEW TRANSLATION
+  STATE_785: "Picardy" # todo: NEW TRANSLATION
+  STATE_786: "Mauritanian Desert" # todo: NEW TRANSLATION
+  STATE_787: "Northern Kashmir" # todo: NEW TRANSLATION
+  STATE_788: "Salamanca" # todo: NEW TRANSLATION
+  STATE_789: "Córdoba" # todo: NEW TRANSLATION
+  STATE_790: "Asturias" # todo: NEW TRANSLATION
+  STATE_791: "Valladolid" # todo: NEW TRANSLATION
+  STATE_792: "País Vasco" # todo: NEW TRANSLATION
+  STATE_793: "Guadalajara" # todo: NEW TRANSLATION
+  STATE_794: "Eastern Aragón" # todo: NEW TRANSLATION
+  STATE_795: "Santarém" # todo: NEW TRANSLATION
+  STATE_796: "North Angola" # todo: NEW TRANSLATION
+  STATE_797: "Istanbul" # todo: NEW TRANSLATION
+  STATE_798: "Amasya" # todo: NEW TRANSLATION
+  STATE_799: "Hatay" # todo: NEW TRANSLATION
+  STATE_800: "Van" # todo: NEW TRANSLATION
+  STATE_801: "Moesia" # todo: NEW TRANSLATION
+  STATE_802: "Kosovo" # todo: NEW TRANSLATION
+  STATE_803: "Southern Serbia" # todo: NEW TRANSLATION
+  STATE_804: "Herzegovina" # todo: NEW TRANSLATION
+  STATE_805: "Northern Epirus" # todo: NEW TRANSLATION
+  STATE_806: "Pyrénées-Atlantiques" # todo: NEW TRANSLATION
+  STATE_807: "Gdynia" # todo: NEW TRANSLATION
+  STATE_808: "Rīga" # todo: NEW TRANSLATION
+  STATE_809: "Zemgale" # todo: NEW TRANSLATION
+  STATE_810: "Latgale" # todo: NEW TRANSLATION
+  STATE_811: "Saaremaa" # todo: NEW TRANSLATION
+  STATE_812: "Harju" # todo: NEW TRANSLATION
+  STATE_813: "Virumaa" # todo: NEW TRANSLATION
+  STATE_814: "Sūduva" # todo: NEW TRANSLATION
+  STATE_815: "Aukštaitija" # todo: NEW TRANSLATION
+  STATE_816: "West Virginia" # todo: NEW TRANSLATION
+  STATE_817: "Gobi" # todo: NEW TRANSLATION
+  STATE_818: "Khovd" # todo: NEW TRANSLATION
+  STATE_819: "Dornod" # todo: NEW TRANSLATION
+  STATE_820: "Khövsgöl" # todo: NEW TRANSLATION
+  STATE_821: "Chechnya-Ingushetia" # todo: NEW TRANSLATION
+  STATE_822: "Chukotka" # todo: NEW TRANSLATION
+  STATE_823: "Karakalpakstan" # todo: NEW TRANSLATION
+  STATE_824: "Yamalia" # todo: NEW TRANSLATION
+  STATE_825: "Nenets" # todo: NEW TRANSLATION
+  STATE_826: "Abkhazia" # todo: NEW TRANSLATION
+  STATE_827: "Kabardino-Balkaria" # todo: NEW TRANSLATION
+  STATE_828: "North Ossetia" # todo: NEW TRANSLATION
+  STATE_829: "Engels-Marxstadt" # todo: NEW TRANSLATION
+  STATE_830: "Bukhara" # todo: NEW TRANSLATION
+  STATE_831: "Khiva" # todo: NEW TRANSLATION
+  STATE_832: "Tashauz" # todo: NEW TRANSLATION
+  STATE_833: "Mari El" # todo: NEW TRANSLATION
+  STATE_834: "Balta-Tiraspol" # todo: NEW TRANSLATION
+  STATE_835: "Hararghe" # todo: NEW TRANSLATION
+  STATE_836: "Bale" # todo: NEW TRANSLATION
+  STATE_837: "Sidamo" # todo: NEW TRANSLATION
+  STATE_838: "Illubabor-Kaffa" # todo: NEW TRANSLATION
+  STATE_839: "Welega" # todo: NEW TRANSLATION
+  STATE_840: "Gojjam" # todo: NEW TRANSLATION
+  STATE_841: "Begemder" # todo: NEW TRANSLATION
+  STATE_842: "Tigray" # todo: NEW TRANSLATION
+  STATE_843: "Wello" # todo: NEW TRANSLATION
+  STATE_844: "Jubaland" # todo: NEW TRANSLATION
+  STATE_845: "Jura Mountains" # todo: NEW TRANSLATION
+  STATE_846: "Ticino" # todo: NEW TRANSLATION
+  STATE_847: "Western Swiss Alps" # todo: NEW TRANSLATION
+  STATE_848: "Vorarlberg" # todo: NEW TRANSLATION
+  STATE_849: "Puglia" # todo: NEW TRANSLATION
+  STATE_850: "Trentino" # todo: NEW TRANSLATION
+  STATE_851: "Var" # todo: NEW TRANSLATION
+  STATE_852: "Istria" # todo: NEW TRANSLATION
+  STATE_853: "Ljubljana" # todo: NEW TRANSLATION
+  STATE_854: "Jawf" # todo: NEW TRANSLATION
+  STATE_855: "Tabuk" # todo: NEW TRANSLATION
+  STATE_856: "Asir-Makkah" # todo: NEW TRANSLATION
+  STATE_857: "Al-Qassim" # todo: NEW TRANSLATION
+  STATE_858: "Najiran" # todo: NEW TRANSLATION
+  STATE_859: "Dammam" # todo: NEW TRANSLATION
+  STATE_860: "Cote-Nord" # todo: NEW TRANSLATION
+  STATE_861: "Saguenay" # todo: NEW TRANSLATION
+  STATE_862: "Ouest du Quebec" # todo: NEW TRANSLATION
+  STATE_863: "Maurice" # todo: NEW TRANSLATION
+  STATE_864: "Yukon Territory" # todo: NEW TRANSLATION
+  STATE_865: "Northern Saskatchewan" # todo: NEW TRANSLATION
+  STATE_866: "Districts of Ontario" # todo: NEW TRANSLATION
+  STATE_867: "Northern Manitoba" # todo: NEW TRANSLATION
+  STATE_868: "Isan" # todo: NEW TRANSLATION
+  STATE_869: "Lanna" # todo: NEW TRANSLATION
+  STATE_870: "North West Australia" # todo: NEW TRANSLATION
+  STATE_871: "South West Australia" # todo: NEW TRANSLATION
+  STATE_872: "North Queensland" # todo: NEW TRANSLATION
+  STATE_873: "South West Queensland" # todo: NEW TRANSLATION
+  STATE_874: "Magadan" # todo: NEW TRANSLATION
+  STATE_875: "Chukchi Peninsula" # todo: NEW TRANSLATION
+  STATE_876: "Udachny" # todo: NEW TRANSLATION
+  STATE_877: "Verkhoyansk" # todo: NEW TRANSLATION
+  STATE_878: "Khatangsky" # todo: NEW TRANSLATION
+  STATE_879: "Kargopol" # todo: NEW TRANSLATION
+  STATE_880: "Kotlas" # todo: NEW TRANSLATION
+  STATE_881: "Karagandy" # todo: NEW TRANSLATION
+  STATE_882: "Pavlodar" # todo: NEW TRANSLATION
+  STATE_883: "Kassala" # todo: NEW TRANSLATION
+  STATE_884: "Upper Nile" # todo: NEW TRANSLATION
+  STATE_885: "Bahr al Ghazal" # todo: NEW TRANSLATION
+  STATE_886: "Blue Nile" # todo: NEW TRANSLATION
+  STATE_887: "South Darfur" # todo: NEW TRANSLATION
+  STATE_888: "Lusambo" # todo: NEW TRANSLATION
+  STATE_889: "Elisabethville" # todo: NEW TRANSLATION
+  STATE_890: "Costermansville" # todo: NEW TRANSLATION
+  STATE_891: "Zambesi" # todo: NEW TRANSLATION
+  STATE_892: "South West Angola" # todo: NEW TRANSLATION
+  STATE_893: "Karas" # todo: NEW TRANSLATION
+  STATE_894: "Kunene" # todo: NEW TRANSLATION
+  STATE_895: "Otjozondjupa" # todo: NEW TRANSLATION
+  STATE_896: "Manica e Sofala" # todo: NEW TRANSLATION
+  STATE_897: "Zambezia-Moçambique" # todo: NEW TRANSLATION
+  STATE_898: "Gao" # todo: NEW TRANSLATION
+  STATE_899: "Kayes-Koulikoro" # todo: NEW TRANSLATION
+  STATE_900: "Benue" # todo: NEW TRANSLATION
+  STATE_901: "Borno" # todo: NEW TRANSLATION
+  STATE_902: "Sokoto" # todo: NEW TRANSLATION
+  STATE_903: "Garissa" # todo: NEW TRANSLATION
+  STATE_904: "Nyanza-Rift Valley" # todo: NEW TRANSLATION
+  STATE_905: "Mombasa" # todo: NEW TRANSLATION
+  STATE_906: "Socotra" # todo: NEW TRANSLATION
+  STATE_907: "Cairo" # todo: NEW TRANSLATION
+  STATE_908: "Afar" # todo: NEW TRANSLATION
+  STATE_909: "Schleswig" # todo: NEW TRANSLATION
+  STATE_909_DEN: "Sydslesvig" # todo: NEW TRANSLATION
+  STATE_910: "Bornholm" # todo: NEW TRANSLATION
+  STATE_911: "Fyn" # todo: NEW TRANSLATION
+  STATE_912: "Sønderjylland" # todo: NEW TRANSLATION
+  STATE_913: "Östergötland" # todo: NEW TRANSLATION
+  STATE_914: "Jan Mayen" # todo: NEW TRANSLATION
+  STATE_915: "Bohuslän" # todo: NEW TRANSLATION
+  STATE_916: "Dalarna" # todo: NEW TRANSLATION
+  STATE_917: "Jämtland" # todo: NEW TRANSLATION
+  STATE_918: "Västerbotten" # todo: NEW TRANSLATION
+  STATE_919: "Värmland" # todo: NEW TRANSLATION
+  STATE_920: "Opplandene" # todo: NEW TRANSLATION
+  STATE_921: "Telemark" # todo: NEW TRANSLATION
+  STATE_922: "Agder" # todo: NEW TRANSLATION
+  STATE_923: "Helgeland" # todo: NEW TRANSLATION
+  STATE_924: "Troms" # todo: NEW TRANSLATION
+  STATE_925: "Finnmark" # todo: NEW TRANSLATION
+  STATE_926: "Turku" # todo: NEW TRANSLATION
+  STATE_926_SWE: "Åbo" # todo: NEW TRANSLATION
+  STATE_927: "Häme" # todo: NEW TRANSLATION
+  STATE_927_SWE: "Tammerfors" # todo: NEW TRANSLATION
+  STATE_928: "Kymi" # todo: NEW TRANSLATION
+  STATE_928_SWE: "Villmanstrand" # todo: NEW TRANSLATION
+  STATE_929: "Oulu" # todo: NEW TRANSLATION
+  STATE_929_SWE: "Uleåborg" # todo: NEW TRANSLATION
+  STATE_930: "Mikkeli" # todo: NEW TRANSLATION
+  STATE_930_SWE: "St Michel" # todo: NEW TRANSLATION
+  STATE_931: "Cumbria" # todo: NEW TRANSLATION
+  STATE_932: "Isle of Man" # todo: NEW TRANSLATION
+  STATE_933: "Shetland Islands" # todo: NEW TRANSLATION
+  STATE_934: "Shkodër" # todo: NEW TRANSLATION
+  STATE_935: "Ceará" # todo: NEW TRANSLATION
+  STATE_936: "Pernambuco" # todo: NEW TRANSLATION
+  STATE_937: "Piauí" # todo: NEW TRANSLATION
+  STATE_938: "Pará" # todo: NEW TRANSLATION
+  STATE_939: "Amapá" # todo: NEW TRANSLATION
+  STATE_940: "Acre" # todo: NEW TRANSLATION
+  STATE_941: "Tocantins" # todo: NEW TRANSLATION
+  STATE_942: "Guaporé" # todo: NEW TRANSLATION
+  STATE_943: "Espírito Santo" # todo: NEW TRANSLATION
+  STATE_944: "Paraná" # todo: NEW TRANSLATION
+  STATE_945: "Cerro Largo" # todo: NEW TRANSLATION
+  STATE_946: "Paysandú" # todo: NEW TRANSLATION
+  STATE_947: "Tacna-Moquegua" # todo: NEW TRANSLATION
+  STATE_948: "Easter Island" # todo: NEW TRANSLATION
+  STATE_949: "Aysén" # todo: NEW TRANSLATION
+  STATE_950: "Araucanía" # todo: NEW TRANSLATION
+  STATE_951: "Arica y Tarapacá" # todo: NEW TRANSLATION
+  STATE_952: "Atacama" # todo: NEW TRANSLATION
+  STATE_953: "Tierra del Fuego" # todo: NEW TRANSLATION
+  STATE_954: "Santa Cruz" # todo: NEW TRANSLATION
+  STATE_955: "Chubut" # todo: NEW TRANSLATION
+  STATE_956: "Santa Fe" # todo: NEW TRANSLATION
+  STATE_957: "Formosa" # todo: NEW TRANSLATION
+  STATE_958: "San Luis y La Pampa" # todo: NEW TRANSLATION
+  STATE_959: "Los Andes" # todo: NEW TRANSLATION
+  STATE_960: "San Juan y La Rioja" # todo: NEW TRANSLATION
+  STATE_961: "Amazon" # todo: NEW TRANSLATION
+  STATE_962: "Amazon" # todo: NEW TRANSLATION
+  STATE_963: "Amazon" # todo: NEW TRANSLATION
+  STATE_964: "Amazon" # todo: NEW TRANSLATION
+  STATE_965: "Amazon" # todo: NEW TRANSLATION
+  STATE_966: "Amazon" # todo: NEW TRANSLATION
+  STATE_967: "Amazon" # todo: NEW TRANSLATION
+  STATE_968: "Amazon" # todo: NEW TRANSLATION
+  STATE_969: "Rio Branco" # todo: NEW TRANSLATION

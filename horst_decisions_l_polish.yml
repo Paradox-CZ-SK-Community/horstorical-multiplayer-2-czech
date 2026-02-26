@@ -1,0 +1,1269 @@
+﻿l_polish:
+  USA_bop_states_info: "Jak funguje 'Velká strategie spojenců'" # todo: NEW TRANSLATION
+  USA_power_balance: "Velká strategie spojenců" # todo: NEW TRANSLATION
+  USA_focus_on_europe_side: "Německo především!" # todo: NEW TRANSLATION
+  USA_focus_on_europe_side_low_range: "Mírně Německo především" # todo: NEW TRANSLATION
+  USA_focus_on_europe_side_medium_range: "Středně Německo především" # todo: NEW TRANSLATION
+  USA_focus_on_europe_side_high_range: "Silně Německo především" # todo: NEW TRANSLATION
+  USA_focus_on_europe_side_total_range: "Zcela Německo především" # todo: NEW TRANSLATION
+  USA_balance_range: "Vyvážená velká strategie" # todo: NEW TRANSLATION
+  USA_focus_on_asia_side_low_range: "Mírně Japonsko především" # todo: NEW TRANSLATION
+  USA_focus_on_asia_side_medium_range: "Středně Japonsko především" # todo: NEW TRANSLATION
+  USA_focus_on_asia_side_high_range: "Silně Japonsko především" # todo: NEW TRANSLATION
+  USA_focus_on_asia_side_total_range: "Zcela Japonsko především" # todo: NEW TRANSLATION
+  USA_focus_on_asia_side: "Japonsko především!" # todo: NEW TRANSLATION
+  r56_generic_investment_unlocked: "Byly povoleny zahraniční investice" # todo: NEW TRANSLATION
+  r56_generic_investments: "Přilákat britské investory" # todo: NEW TRANSLATION
+  r56_generic_investments_tt: "Odemkne rozhodnutí k přilákání §YZahraničních investic§!" # todo: NEW TRANSLATION
+  r56_generic_investment_running: "Aktuálně přitahujeme investice" # todo: NEW TRANSLATION
+  RAJ_BUY_CHEAP: "Bohatství Rádžu" # todo: NEW TRANSLATION
+  SOV_ural_industry: "Průmysl Uralu" # todo: NEW TRANSLATION
+  HUN_modify_academy_of_sciences_ns_intro: "Upravit §Y$HUN_academy_of_sciences$§! o" # todo: NEW TRANSLATION
+  research_speed_factor_tt: " $MODIFIER_RESEARCH_SPEED_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
+  decision_cost_CP_25_pp_25: "£command_power  §Y25§! £pol_power  §Y25§!" # todo: NEW TRANSLATION
+  congress_super_high_support_trigger_tt: "Vyžaduje podporu alespoň §Y[?USA.quorum_high] senátorů§! (aktuálně: [?USA.senators_support]) a §Y305 zástupců§! (aktuálně: [?USA.representatives_support])\n" # todo: NEW TRANSLATION
+  TORCH_IS_IN_PROGRESS_OR_HAPPENED: "Operace Torch proběhla nebo probíhá." # todo: NEW TRANSLATION
+  FRA_defensive_focus_decision: "Nasazení strategických rezerv" # todo: NEW TRANSLATION
+  FRA_aggressive_focus_decision: "Operační průlom" # todo: NEW TRANSLATION
+  level_assigned_mio_only: "[GetAssignedMio]" # todo: NEW TRANSLATION
+  GetAssignedMioOff: "§HALL§! MIOs mohou získat volné prostředky" # todo: NEW TRANSLATION
+  GetAssignedMioOn: "§HONLY ASSIGNED§! MIOs mohou získat volné prostředky" # todo: NEW TRANSLATION
+  hide_tank_mio: "[GetTankMioFunding]" # todo: NEW TRANSLATION
+  GetTankMioFundingOn: "Financování Tankových MIO: §GENABLED§!" # todo: NEW TRANSLATION
+  GetTankMioFundingOff: "Financování Tankových MIO: §RDISABLED§!" # todo: NEW TRANSLATION
+  hide_plane_mio: "[GetPlaneMioFunding]" # todo: NEW TRANSLATION
+  GetPlaneMioFundingOn: "Financování MIO pro letectvo: §GENABLED§!" # todo: NEW TRANSLATION
+  GetPlaneMioFundingOff: "Financování MIO pro letectvo: §RDISABLED§!" # todo: NEW TRANSLATION
+  hide_navy_mio: "[GetNavyMioFunding]" # todo: NEW TRANSLATION
+  GetNavyMioFundingOn: "Financování námořních MIO: §GENABLED§!" # todo: NEW TRANSLATION
+  GetNavyMioFundingOff: "Financování námořních MIO: §RDISABLED§!" # todo: NEW TRANSLATION
+  ITA_GRE_GAR: "Nasadit řeckou posádku" # todo: NEW TRANSLATION
+  ITA_SOU_GAR: "Nasadit posádku jižní Itálie" # todo: NEW TRANSLATION
+  ITA_NOR_GAR: "Nasadit posádku severní Itálie" # todo: NEW TRANSLATION
+  USA_annex_mexico: "Anexovat Mexiko" # todo: NEW TRANSLATION
+  r56_generic_investments: "Přilákat britské investory" # todo: NEW TRANSLATION
+  r56_generic_investments_tt: "Odemkne rozhodnutí k přilákání §YZahraničních investic§!" # todo: NEW TRANSLATION
+  axis_boost_minor: "Rozvoj Osy" # todo: NEW TRANSLATION
+  commonwealth_boost_minor: "Rozvoj Společenství národů" # todo: NEW TRANSLATION
+  PACIFIC_WAR_CATEGORY_GUI_CATEGORY: "Stav tichomořské války" # todo: NEW TRANSLATION
+  PACIFIC_WAR_CATEGORY_GUI_CATEGORY_desc: "Kontrola námořních strategických oblastí v Tichomoří může umožnit nebo omezit schopnost císařského japonského námořnictva projektovat sílu zámořsky a může potenciálně umožnit [ENG.GetFactionName] uspět v Operaci Overlord." # todo: NEW TRANSLATION
+  HMP_compass: "Operace Compass v Horst §0(PŘEČTĚTE SI NEBO PROHRAJETE)§!" # todo: NEW TRANSLATION
+  ITA_annex_yug: "Anexovat Chorvatsko" # todo: NEW TRANSLATION
+  OT_rails: "Zřídit vojenské zásobovací linky" # todo: NEW TRANSLATION
+  GER_org_todt_category: "Organizace Todt" # todo: NEW TRANSLATION
+  OT_rockets: "Stavba základen pro rakety V-2" # todo: NEW TRANSLATION
+  OT_fort: "Vybudovat východní obrany" # todo: NEW TRANSLATION
+  OT_coastal_fort: "Posílit Atlantickou zeď" # todo: NEW TRANSLATION
+  OT_roads: "Rozšíření Autobahnu" # todo: NEW TRANSLATION
+  OT_mills: "Zázrak zbrojení" # todo: NEW TRANSLATION
+  OT_steel: "Zajistit dělníky pro železné doly" # todo: NEW TRANSLATION
+  SOV_stalin_leader: "Stalin" # todo: NEW TRANSLATION
+  SOV_bukharin_leader: "Bukharin" # todo: NEW TRANSLATION
+  SOV_trotsky_leader: "Trockij" # todo: NEW TRANSLATION
+  ROM_oil_production: "Ropný průmysl" # todo: NEW TRANSLATION
+  ROM_more_oil: "Rozšířit pole pro těžbu ropy" # todo: NEW TRANSLATION
+  ROM_more_oil_2: "Investice Osy pro rozšíření těžby ropy" # todo: NEW TRANSLATION
+  USA_landon_ll_to_eng: "Financovat [ENG.GetFlag] britský obranný průmysl" # todo: NEW TRANSLATION
+  USA_landon_ll_category: "Půjčka pro [ENG.GetFactionName]" # todo: NEW TRANSLATION
+  USA_landon_ll_to_target_army: "Financovat [FROM.GetAdjective] výrobce zbraní" # todo: NEW TRANSLATION
+  USA_landon_ll_to_target_navy: "Financovat [FROM.GetAdjective] stavitele lodí" # todo: NEW TRANSLATION
+  USA_roosevelt_ll_category: "Lend-Lease pro [ENG.GetFactionName]" # todo: NEW TRANSLATION
+  USA_roosevelt_ll_to_target_inf: "Vybavit [FROM.GetAdjective] pěší sbor" # todo: NEW TRANSLATION
+  USA_roosevelt_ll_to_target_armor: "Vybavit [FROM.GetAdjective] tankovou divizi" # todo: NEW TRANSLATION
+  USA_manhattan_project_category: "Projekt Manhattan" # todo: NEW TRANSLATION
+  CAN_annex_saf: "Anexovat Jižní Afriku" # todo: NEW TRANSLATION
+  ENG_annex_greece: "Anexovat Řecko" # todo: NEW TRANSLATION
+  SOV_penal_labor_in_defense_state_modifier_tt: "\n§Y$SOV_penal_labor_in_defense$§! modifikátor státu:\n    $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+40.00%§! \n" # todo: NEW TRANSLATION
+  SOV_penal_labor_in_defense: "Nasazen batalion trestanecké práce" # todo: NEW TRANSLATION
+  GER_raise_penal_units: "Zformovat trestanecké jednotky" # todo: NEW TRANSLATION
+  ITA_subjugate_GRE: "Italská kampaň v Řecku" # todo: NEW TRANSLATION
+  pfu.volkssturm_focus.tt: "Odemkne rozhodnutí §YVolkssturm§!" # todo: NEW TRANSLATION
+  glory_army_offensive_sov_tt: "Odemkne rozhodnutí §YVojenské ofenzívy§!" # todo: NEW TRANSLATION
+  pfu.volkssturm.tt: "Nasazuje divize Volkssturm v Berlíně a jeho okolí." # todo: NEW TRANSLATION
+  pfu.kriegsmarine_infantry.tt: "Nasazuje divize v Hamburku." # todo: NEW TRANSLATION
+  pfu.luftwaffe_infantry.tt: "Nasazuje divize ve Stuttgartu." # todo: NEW TRANSLATION
+  pfu.ssberlin.tt: "Nasazuje divizi v Berlíně." # todo: NEW TRANSLATION
+  pfu.sslatvia.tt: "Nasazuje tyto divize v Lotyšsku." # todo: NEW TRANSLATION
+  pfu.ssreichs.tt: "Nasazuje tyto divize ve Vídni." # todo: NEW TRANSLATION
+  decision_cost_100_ArmXP: "£army_experience  §Y100§!" # todo: NEW TRANSLATION
+  decision_cost_100_ArmXP_blocked: "£army_experience  §R100§!" # todo: NEW TRANSLATION
+  SS_panzers: "Vytvořena SS panzer-divize" # todo: NEW TRANSLATION
+  SS_mechanized: "Vytvořena SS panzer-grenadýr divize" # todo: NEW TRANSLATION
+  SS_mountain: "Vytvořena SS Gebirgsjäger divize" # todo: NEW TRANSLATION
+  SS_recruitment_pfu: "Naverbovat divize Waffen-SS" # todo: NEW TRANSLATION
+  SS_recruitment_pfu_desc: "Himmler žádá, abychom rozšířili naše Waffen-SS na plnohodnotné bojové divize, které by bojovaly po boku Wehrmachtu. To by bylo velkým přínosem pro naše válečné úsilí, umožňovalo by to mnoha možným dobrovolníkům z okupovaných i neutrálních zemí připojit se k našemu boji proti komunismu." # todo: NEW TRANSLATION
+  SS_recruitment_leibstandarte: "1. SS pancéřová divize LSSAH" # todo: NEW TRANSLATION
+  SS_recruitment_leibstandarte_desc: "1. SS-Leibstandarte Adolf Hitler byla elitní jednotka Waffen-SS, která bojovala na východním i západním frontě během druhé světové války. LSSAH byla považována za jednu z nejefektivnějších a nejlépe vybavených německých jednotek války." # todo: NEW TRANSLATION
+  SS_recruitment_dasreich: "2. SS pancéřová divize Das Reich" # todo: NEW TRANSLATION
+  SS_recruitment_dasreich_desc: "Divize SS Das Reich byla elitní jednotka Waffen-SS, která bojovala na východním i západním frontě během druhé světové války. Das Reich byla také známá svou statečností v boji, zejména během bitvy u Kurska a později během Ardennské ofenzívy." # todo: NEW TRANSLATION
+  SS_recruitment_totenkopf: "3. SS pancéřová divize Totenkopf" # todo: NEW TRANSLATION
+  SS_recruitment_totenkopf_desc: "Divize SS Totenkopf byla elitní jednotka Waffen-SS, která bojovala na východním i západním frontě během druhé světové války. Vznikla z vězeňských strážců a vybraných vojáků SS; Totenkopf byla známá jako Divize Smrtihlav pro svůj charakteristický znak lebky a kříž." # todo: NEW TRANSLATION
+  SS_recruitment_polizei: "4. SS Panzer-Grenadier-divize Polizei" # todo: NEW TRANSLATION
+  SS_recruitment_polizei_desc: "Divize SS Polizei byla původně policejní brigádou v rámci SS, ale později přeskupena na plnohodnotnou panzer-grenadýrskou divizi. Jednotka se podílela na invazi do Francie, Řecka a později do Sovětského svazu." # todo: NEW TRANSLATION
+  SS_recruitment_wiking: "5. SS pancéřová divize Wiking" # todo: NEW TRANSLATION
+  SS_recruitment_wiking_desc: "Divize SS Wiking byla elitní zahraniční jednotkou Waffen-SS, která bojovala na východním frontě během druhé světové války. Divize byla složena z ideologických dobrovolníků z Dánska, Norska, Švédska, Finska, Estonska, Nizozemska a Belgie pod velením veteránských německých důstojníků." # todo: NEW TRANSLATION
+  SS_recruitment_nord: "6. SS Nord Gebirgsjäger-divize" # todo: NEW TRANSLATION
+  SS_recruitment_nord_desc: "Divize SS Nord byla elitní horská divize, která bojovala na východním frontě v arktickém kruhu. Teploty v tomto klimatu byly trvale pod bodem mrazu; vojáci byli často zraněni omrzlinami uprostřed bojů." # todo: NEW TRANSLATION
+  SS_recruitment_prinz: "7. SS Prinz Eugen Gebirgsjäger-divize" # todo: NEW TRANSLATION
+  SS_recruitment_prinz_desc: "SS Prinz Eugen byla Gebirgsjäger-divize složená převážně z etnických Němců z Balkánu a jižní Evropy. Divize bojovala převážně proti komunistickým jugoslávským partyzánům v protipartyzánské roli, ale později ve válce se ocitla v boji proti postupující Rudé armádě." # todo: NEW TRANSLATION
+  SS_recruitment_hohenstaufen: "9. SS pancéřová divize Hohenstaufen" # todo: NEW TRANSLATION
+  SS_recruitment_hohenstaufen_desc: "SS Hohenstaufen byla pancéřovaná divize Waffen-SS, která bojovala na východních i západních frontách během druhé světové války. Složena z mladých německých branců s ostříleným poddůstojnickým personálem z divize Leibstandarte, byla to velmi schopná jednotka." # todo: NEW TRANSLATION
+  SS_recruitment_frundsberg: "10. SS pancéřová divize Frundsberg" # todo: NEW TRANSLATION
+  SS_recruitment_frundsberg_desc: "SS Frundsberg byla pancéřovaná divize Waffen-SS, která bojovala na východních i západních frontách během druhé světové války. Složena z mladých německých a maďarských branců s ostříleným poddůstojnickým personálem z divize Leibstandarte, byla to velmi schopná jednotka." # todo: NEW TRANSLATION
+  SS_recruitment_nordland: "11. SS Panzer-Grenadier-divize Nordland" # todo: NEW TRANSLATION
+  SS_recruitment_nordland_desc: "Divize SS Nordland byla další zcela zahraničně naverbovaná jednotka Waffen-SS, která bojovala na východním frontě během druhé světové války. Složena z dobrovolníků napříč Skandinávií, statečně bojovala v obléhání Leningradu a později v bitvě na linii Tannenberg." # todo: NEW TRANSLATION
+  SS_recruitment_hitlerjugend: "12. SS pancéřová divize Hitlerjugend" # todo: NEW TRANSLATION
+  SS_recruitment_hitlerjugend_desc: "SS Hitlerjugend byla pancéřovaná divize Waffen-SS, která bojovala na západním frontě během druhé světové války. Složena zcela z Hitlerjugend a elitního poddůstojnického sboru z jiných divizí Waffen-SS, byla to velmi schopná jednotka, která bojovala v zadních osahách v Normandii, ale nejvíce se proslavila v Ardennské ofenzívě." # todo: NEW TRANSLATION
+  SS_recruitment_latvian_ss: "15., 19., 20. pobaltské SS panzer-grenadýrské divize" # todo: NEW TRANSLATION
+  SS_recruitment_latvian_ss_desc: "Složeny z lotyšských a estonských dobrovolníků, tyto divize vytvořily velké panzer-grenadýrské divize, které bojovaly proti Sovětskému svazu v letech 1943–1945. Nejvíce proslulé svou bojovou efektivitou v bitvě na linii Tannenberg, jednotky těchto divizí odrazily sovětskou armádu osmkrát větší, způsobily jí poměr obětí přes 10:1 s malou nebo žádnou podpůrnou pancéřovou silou." # todo: NEW TRANSLATION
+  SS_recruitment_reichsfuhrer_ss: "16., 17., 18. německé SS panzer-grenadýrské divize" # todo: NEW TRANSLATION
+  SS_recruitment_reichsfuhrer_ss_desc: "Složeny převážně z etnicky německých dobrovolníků z Maďarska a dalších okupovaných území, tyto divize vytvořily panzer-grenadýrské divize, které bojovaly proti Sovětskému svazu na Ukrajině a ve střední Evropě, a také ve Francii proti spojeneckým invazím." # todo: NEW TRANSLATION
+  SS_recruitment_handschar: "13., 21., 23. balkánské Gebirgsjäger-divize" # todo: NEW TRANSLATION
+  SS_recruitment_handschar_desc: "Složeny z Albánců, Bosňáků a Chorvatů, tyto divize byly převážně protipartyzánské divize SS Gebirgsjäger, které bojovaly na Balkáně proti partyzánům a později proti postupující sovětské armádě." # todo: NEW TRANSLATION
+  SS_recruitment_charlemagne: "33. SS panzer-grenadýrská divize Charlemagne" # todo: NEW TRANSLATION
+  SS_recruitment_charlemagne_desc: "Divize Charlemagne byla vytvořena z pozůstalých francouzských dobrovolníků ve Wehrmachtu a bojovala proti sovětským silám postupujícím do Německa. Proslavila se jako jedna z posledních divizí v Berlíně; kladla zuřivý odpor v Říšském sněmu a mnozí odmítli kapitulovat ze strachu z odvetných kroků svých vlád." # todo: NEW TRANSLATION
+  ger_wehrmacht_pfu: "Heer" # todo: NEW TRANSLATION
+  ger_wehrmacht_pfu_desc: "Hřbet německých ozbrojených sil. Pokud má Vaterland přežít nadcházející bouři, OKH musí být připraven následovat vůdcovy příkazy bez ohledu na jejich drastickou povahu, abychom nezapomněli na naši přísahu." # todo: NEW TRANSLATION
+  ger_luftwaffe_pfu: "Luftwaffe" # todo: NEW TRANSLATION
+  ger_luftwaffe_pfu_desc: "Göring pověřil Luftwaffe, aby uštědřila Británii rozhodující úder rozsáhlou bombardovací kampaní, která by měla přesvědčit Brity k uvažování o míru, ale pokud toho rychle nedosáhneme, OKW může zvážit přesměrování našich zdrojů jinam." # todo: NEW TRANSLATION
+  ger_kriegsmarine_pfu: "Kriegsmarine" # todo: NEW TRANSLATION
+  ger_kriegsmarine_pfu_desc: "Vzhledem ke stavu Kriegsmarine Oberkommando der Marine nařídilo, abychom uplatnili doktrínu obchodního nájezdování v pokusu ochudit spojence o životně důležité zdroje ze zahraničí a zásobovat frontu." # todo: NEW TRANSLATION
+  ger_wehrmacht_grossdeutschland: "Panzer-Division Großdeutschland" # todo: NEW TRANSLATION
+  ger_wehrmacht_grossdeutschland_desc: "Divize Großdeutschland byla elitní bojovou jednotkou německé armády, která bojovala na východním frontě během druhé světové války. Původně vznikla z ceremoniální gardové jednotky v 30. letech; její činy na východním frontě v bitvách u Moskvy, Rževu a později u Kurska jí získaly reputaci." # todo: NEW TRANSLATION
+  ger_schwere_panzer: "Schwere Panzer-Division 502" # todo: NEW TRANSLATION
+  ger_schwere_panzer_desc: "Schwere Panzer-Division 502 byla formací těžkých tanků po zahájení operace Barbarossa a zavedení výkonných sovětských tanků T-34 a KV-1. Bojující na východním frontě byla jednou z nejúspěšnějších německých těžkých tankových divizí; hlásila zničení 1 400 tanků a 2 000 samohybných děl." # todo: NEW TRANSLATION
+  ger_volksturm: "Zformovat Volkssturm" # todo: NEW TRANSLATION
+  ger_volksturm_desc: "Volkssturm byla národní milice zřízená nacistickou stranou v posledních měsících druhé světové války. Byla tvořena muži a dětmi považovanými za neschopné služby nebo jinak nesloužícími v pravidelných ozbrojených silách." # todo: NEW TRANSLATION
+  ger_battle_of_britain: "Bitva o Británii" # todo: NEW TRANSLATION
+  ger_battle_of_britain_desc: " " # todo: NEW TRANSLATION
+  ger_luftwaffe_goring_division: "Panzer Division Hermann Göring" # todo: NEW TRANSLATION
+  ger_luftwaffe_goring_division_desc: "Hermann Göring byla elitní německá pancéřovaná divize Luftwaffe. HG zasáhla v bojích v severní Africe, na Sicílii, v Itálii a později na východním frontě." # todo: NEW TRANSLATION
+  ger_luftwaffe_infantry: "Luftwaffen Feld-Divisionen" # todo: NEW TRANSLATION
+  ger_luftwaffe_infantry_desc: "Luftwaffen polní divize byly vytvořeny z 200 000–250 000 pozemního, podpůrného a jiného přebytečného personálu Luftwaffe. Toto rozhodnutí bylo původně autorizováno v říjnu 1942 na základě návrhů, že německou armádu lze posílit převedením personálu z jiných služeb." # todo: NEW TRANSLATION
+  ger_battle_of_atlantic: "Bitva o Atlantik" # todo: NEW TRANSLATION
+  ger_battle_of_atlantic_desc: " " # todo: NEW TRANSLATION
+  ger_submarine_bases: "Vybudovat kryty pro ponorky" # todo: NEW TRANSLATION
+  ger_submarine_bases_desc: "Vybudování základen pro ponorky a ochranných krytů ve Francii by nám pomohlo provozovat naše ponorkové síly v Atlantiku, aniž bychom museli překračovat nebezpečný Lamanš pro opravy a servis v Německu." # todo: NEW TRANSLATION
+  ger_kriegsmarine_infantry: "Marine Infanterie-Divisionen" # todo: NEW TRANSLATION
+  ger_kriegsmarine_infantry_desc: "Marine Infanterie-divize byly aktivovány z personálu Kriegsmarine, který již nebyl potřebný k obsluze lodí nebo pro pobřežní zařízení. Po sovětských a spojeneckých invazích do Německa byly divize nasazeny do obranných operací v severozápadním Německu." # todo: NEW TRANSLATION
+  USA_pay_farm_subsidiesx: "Vyplatit zemědělské dotace" # todo: NEW TRANSLATION
+  USA_prepare_people_for_war: "Připravit lidi na válku" # todo: NEW TRANSLATION
+  scw_ticker: "Španělská občanská válka" # todo: NEW TRANSLATION
+  anti_neutrality_raids: "Protimonarchistické razie" # todo: NEW TRANSLATION
+  anti_neutrality_raids_desc: "Musíme tvrdě zakročit proti monarchistickým a autoritářským elementům v naší zemi kvůli dlouhodobé stabilitě. Jejich vliv je příliš velký a může se stát problémem pro stát." # todo: NEW TRANSLATION
+  expand_spy_agency_tt: "Přidělíme dodatečné financování na naši zpravodajskou agenturu.\n\n£slot_texticon  Operační sloty: §G+1§!" # todo: NEW TRANSLATION
+  HUN_margit_line: "Postavit Margitovu linii" # todo: NEW TRANSLATION
+  HUN_margit_line_tt: "Postaví §Y3 pozemní pevnosti§! ve provinciích od Transdanubie po Magyarország směrem na jih.\n" # todo: NEW TRANSLATION
+  HUN_margit_line_2_tt: "Vylepší pozemní pevnosti ve provinciích od Transdanubie po Magyarország z úrovně 3 na úroveň 5.\n" # todo: NEW TRANSLATION
+  HUN_margit_line_3_tt: "Vylepší pozemní pevnosti ve provinciích od Transdanubie po Magyarország z úrovně 5 na úroveň 6" # todo: NEW TRANSLATION
+  HUN_szent_laezlo_allas_line: "Postavit linii Szent Laezlo Allas" # todo: NEW TRANSLATION
+  HUN_szent_laezlo_allas_line_tt: "Postaví §Y3 pozemní pevnosti§! v každé provincii podél karpatské hranice.\n" # todo: NEW TRANSLATION
+  HUN_szent_laezlo_allas_2_line_tt: "Vylepší pozemní pevnosti v provinciích podél karpatské hranice z úrovně 3 na úroveň 5.\n" # todo: NEW TRANSLATION
+  HUN_szent_laezlo_allas_3_line_tt: "Vylepší pozemní pevnosti v provinciích podél karpatské hranice z úrovně 5 na úroveň 6.\n" # todo: NEW TRANSLATION
+  SOV_subjugate_finland: "Osvobodit Finsko" # todo: NEW TRANSLATION
+  GetAdmiralPortrait_tt: "[GetAdmiralPortrait]" # todo: NEW TRANSLATION
+  prca_newspaper_lvl2_idea: "Oddělení novin" # todo: NEW TRANSLATION
+  prca_radio_lvl2_idea: "Rozhlasové oddělení" # todo: NEW TRANSLATION
+  prca_movie_lvl1_idea: "Oddělení filmu" # todo: NEW TRANSLATION
+  prca_hostile_leaflet: "£decision_icon_small Nepřátelské letáky" # todo: NEW TRANSLATION
+  police_action_on_leaflets: "Policejní zásah proti letákům" # todo: NEW TRANSLATION
+  police_action_on_leaflets_tt: "Účinnost nepřátelských letáků: §G-20%§!" # todo: NEW TRANSLATION
+  raid_on_leaflet_bombers: "Nálet na letadla roznášející letáky" # todo: NEW TRANSLATION
+  raid_on_leaflet_bombers_tt: "Účinnost nepřátelských letáků: §G-50%§!" # todo: NEW TRANSLATION
+  BRA_corruption_gui: "Klientelismus" # todo: NEW TRANSLATION
+  BRA_corruption_gui_desc: "Klientelismus, forma korupce, se stal nevyhnutelným prostředkem udržení státního pořádku, ale zároveň paralyzuje naši ekonomiku; měli bychom se pokusit tuto formu korupce ve státě snížit. Bude to prospěšné dlouhodobě! §CKorupce se přičte +3 týdně! §!" # todo: NEW TRANSLATION
+  BRA_corruption_gui2: "Klientelismus" # todo: NEW TRANSLATION
+  BRA_corruption_gui2_desc: "Klientelismus, forma korupce, se stal nevyhnutelným prostředkem udržení státního pořádku, ale zároveň paralyzuje naši ekonomiku; měli bychom se pokusit tuto formu korupce ve státě snížit. Bude to prospěšné dlouhodobě! §CKorupce se přičte +3 týdně! §!" # todo: NEW TRANSLATION
+  BRAdiscount: "Brazílie si vybrala krátkou vojenskou cestu" # todo: NEW TRANSLATION
+  prca_tokens: "[?ROOT.prca_tokens|0]" # todo: NEW TRANSLATION
+  prca_tokens_tt: "§RKORUPCE§!\nAktuální korupce: [?ROOT.prca_tokens|Y]\n" # todo: NEW TRANSLATION
+  prca_tokens_tt_desc: "§RKORUPCE§! paralyzuje ekonomiku naší země. Množství korupce můžeme dočasně snížit následujícími politickými volbami. Můžeme mít §GNízkou 0-20§!, §YStřední 20-50§!, §OVysokou 50-80§! a §RExtremní 80-100§! korupci! Podle úrovně korupce získáme národní duch; čím vyšší korupce, tím horší duch." # todo: NEW TRANSLATION
+  prca_department_locked: "§Y(£prca_lock_ico!) §!" # todo: NEW TRANSLATION
+  prca_newspaper_lvl2_modifiers: "\n  Obrana proti posunu ideologie: §G+5.00%§!" # todo: NEW TRANSLATION
+  prca_radio_lvl2_modifiers: "\n  §YRadarová stanice§! - rychlost výstavby: §G+10.00%§!" # todo: NEW TRANSLATION
+  prca_movie_lvl1_modifiers: "\n  Faktor rekrutovatelné populace: §R-5%§!" # todo: NEW TRANSLATION
+  prca_tokens_tt_add_2: "Korupce: §G-3§!\n" # todo: NEW TRANSLATION
+  prca_tokens_tt_add_9: "Korupce: §G-9§!\n" # todo: NEW TRANSLATION
+  prca_tokens_tt_add_18: "Korupce: §G-18§!\n" # todo: NEW TRANSLATION
+  prca_tokens_tt_add_15v2: "Korupce: §G-15§!\n" # todo: NEW TRANSLATION
+  prca_tokens_tt_add_3: "Korupce: §G-3§!\n" # todo: NEW TRANSLATION
+  prca_tokens_tt_add_6: "Korupce: §G-6§!\n" # todo: NEW TRANSLATION
+  prca_latest_version: "0.8.2" # todo: NEW TRANSLATION
+  prca_vUNKNOWN: "NEZNÁMO" # todo: NEW TRANSLATION
+  prca_v0.8.1: "0.8.1" # todo: NEW TRANSLATION
+  prca_v0.8.2: "0.8.2" # todo: NEW TRANSLATION
+  prca_station_default: "[From.GetAdjectiveCap] Rádio" # todo: NEW TRANSLATION
+  prca_station_communist: "[From.GetAdjectiveCap] Lidové rádio" # todo: NEW TRANSLATION
+  prca_station_fascist: "[From.GetAdjectiveCap] Vlastenecké rádio" # todo: NEW TRANSLATION
+  prca_station_democratic: "[From.GetAdjectiveCap] Svobodné rádio" # todo: NEW TRANSLATION
+  prca_germany_calling: "Německo volá" # todo: NEW TRANSLATION
+  prca_home_sweet_home: "Domov, milý domov" # todo: NEW TRANSLATION
+  prca_the_zero_hour: "Hodina nula" # todo: NEW TRANSLATION
+  prca_HOL_consumer: "Svobodné Nizozemsko pro svobodné Nizozemce" # todo: NEW TRANSLATION
+  prca_HOL_research: "Vítejte ve Svobodném Nizozemsku!" # todo: NEW TRANSLATION
+  prca_HOL_stability: "Nizozemsko a Východní Indie, Jedno" # todo: NEW TRANSLATION
+  prca_HOL_construction: "Jednota dělá sílu" # todo: NEW TRANSLATION
+  prca_HOL_army: "Ven!" # todo: NEW TRANSLATION
+  prca_HOL_navy: "Útočím... Následujte mě" # todo: NEW TRANSLATION
+  prca_HOL_airforce: "Časová ztráta zde je ztráta krve tam" # todo: NEW TRANSLATION
+  prca_HOL_conscription: "Posilte naše řady!" # todo: NEW TRANSLATION
+  prca_HOL_war_support: "Bez kapitulace!" # todo: NEW TRANSLATION
+  prca_HOL_production: "Boikotueme německé zboží? Ano!" # todo: NEW TRANSLATION
+  prca_HOL_hostile_leaflet_1: "HOLand - První do boje 11!" # todo: NEW TRANSLATION
+  prca_HOL_hostile_leaflet_2: "HOLand - První do boje 12!" # todo: NEW TRANSLATION
+  prca_HOL_hostile_leaflet_3: "HOLand - První do boje 13!" # todo: NEW TRANSLATION
+  prca_HOL_hostile_leaflet_1_desc: "[prca_hostile_leaflet_desc]" # todo: NEW TRANSLATION
+  prca_HOL_hostile_leaflet_2_desc: "[prca_hostile_leaflet_desc]" # todo: NEW TRANSLATION
+  prca_HOL_hostile_leaflet_3_desc: "[prca_hostile_leaflet_desc]" # todo: NEW TRANSLATION
+  HOL_propaganda_campaings: "Nizozemská válečná propaganda" # todo: NEW TRANSLATION
+  HOL_propaganda_campaings_desc: "To nám dává možnost vytvářet válečné propagandistické kampaně. [propaganda_campaings_desc]" # todo: NEW TRANSLATION
+  propaganda_campaings_default_desc: "S válkou na obzoru si nemůžeme dovolit, aby byl náš lid ovlivněn nepřátelskými myšlenkami a nakonec se obrátil proti naší vládě. Pouze aktivními propagandistickými kampaněmi můžeme přežít příští desetiletí!" # todo: NEW TRANSLATION
+  propaganda_campaings_democratic_desc: "Náš národ je poražen. Němci obsadili naši vlast, náš lid se cítí poražený a sklíčený. Potřebujeme znovu vzkřísit nizozemského bojového ducha, pokud se chceme bránit proti rostoucí hrozbě na východě." # todo: NEW TRANSLATION
+  propaganda_available_tt: "Méně než §Y3§! aktivní propagandistické kampaně" # todo: NEW TRANSLATION
+  prca_button_preparation: "Příprava" # todo: NEW TRANSLATION
+  prca_button_campaigns: "Kampaně" # todo: NEW TRANSLATION
+  prca_tokens_tt2: "§YPropagační tokeny§!\nAktuální propagační tokeny: [?ROOT.prca_tokens|Y]\nTýdenní zisk: [?ROOT.prca_tokens_weekly|=+]\n  Národní oddělení: [?ROOT.prca_departments_tokens_weekly|=+]\n Týdenní propagační tokeny: [?ROOT.prca_newspaper_tokens_weekly|=+] [prca_newspaper_modifiers]\n Týdenní propagační tokeny: [?ROOT.prca_movie_tokens_weekly|=+] [prca_movie_modifiers]\n \nAktuální maximum: §Y100§!" # todo: NEW TRANSLATION
+  prca_tokens_tt2_desc: "§YPropagační tokeny§! se používají k zahájení propagačních kampaní, které poskytují důležité výhody proti nepříteli. Lze je získat prostřednictvím různých §YPříprav§! nebo vytvořením §YOddělení§!." # todo: NEW TRANSLATION
+  prca_tokens_tt_has_30: "£prca_token_ico  §Y30§!" # todo: NEW TRANSLATION
+  prca_tokens_tt_has_30_blocked: "£prca_token_ico  §R30§!" # todo: NEW TRANSLATION
+  prca_tokens_tt_has_15: "£prca_token_ico  §Y15§!" # todo: NEW TRANSLATION
+  prca_tokens_tt_has_15_blocked: "£prca_token_ico  §R15§!" # todo: NEW TRANSLATION
+  prca_tokens_tt_20_pt_and_30_pp: "£pol_power  §Y30§! £prca_token_ico  §Y20§!" # todo: NEW TRANSLATION
+  prca_tokens_tt_20_pt_and_30_pp_blocked: "£pol_power  §R30§! £prca_token_ico  §R20§!" # todo: NEW TRANSLATION
+  prca_tokens_tt_add_15: "Propagační tokeny: §G+15§!\n" # todo: NEW TRANSLATION
+  prca_tokens_tt_add_30: "Propagační tokeny: §G+30§!\n" # todo: NEW TRANSLATION
+  prca_tokens_not_maxed_out_tt: "Méně než §Y500§! propagačních tokenů" # todo: NEW TRANSLATION
+  prca_increase_poster_production2: "Zvýšit produkci plakátů" # todo: NEW TRANSLATION
+  prca_increase_poster_production2_desc: "Plakáty jsou nejjednodušší způsob, jak komunikovat naše cíle a ideály masám. Abychom zajistili, že můžeme tento nástroj nadále efektivně používat, musíme zvýšit výrobu nových plakátů." # todo: NEW TRANSLATION
+  prca_publish_a_special_issue2: "Vydat speciální vydání" # todo: NEW TRANSLATION
+  prca_publish_a_special_issue2_desc: "Poslední zprávy nechaly některé naše lidi nejisté a kritické. I když nemůžeme veřejnosti zcela zatajit aktuální události, můžeme jejich pozornost odklonit prostřednictvím speciálního vydání novin." # todo: NEW TRANSLATION
+  prca_run_a_speech_of_leader2: "Rozhlasový projev Oranje od [Root.GetLeader]" # todo: NEW TRANSLATION
+  prca_run_a_speech_of_leader2_desc: "[Root.GetLeader] je hlas, který drží náš národ pohromadě i v těžkých časech. Jeho poslední projev již inspiroval mnoho lidí a je velmi důležité, aby ho všichni slyšeli." # todo: NEW TRANSLATION
+  prca_produce_a_war_movie2: "Produkce válečného filmu" # todo: NEW TRANSLATION
+  prca_produce_a_war_movie2_desc: "Ať už drama, akce nebo animovaný film, hrdinské činy našich vojáků musí být náležitě zobrazeny. Tímto způsobem můžeme nadále inspirovat armádu i domácí frontu pro naši věc." # todo: NEW TRANSLATION
+  prca_form_newspaper_department2: "Založit oddělení novin" # todo: NEW TRANSLATION
+  prca_form_newspaper_department2_desc: "Noviny, které lze rychle a ve velkém množství vyrábět, nabízejí ideální prostředek k manipulaci veřejného mínění ve prospěch nás. S válkou na obzoru je velmi důležité, abychom měli úplnou kontrolu nad tímto mocným nástrojem." # todo: NEW TRANSLATION
+  prca_form_newspaper_department_tt: "Umožňuje §YNovinové oddělení§!, které poskytuje (Týdenní propagační tokeny: §G+1.00§!).\n" # todo: NEW TRANSLATION
+  prca_form_radio_department2: "Založit rozhlasové oddělení" # todo: NEW TRANSLATION
+  prca_form_radio_department2_desc: "Vynález rozhlasu otevřel nespočet nových možností pro šíření propagandy. Kontrolou vysílaných programů můžeme zajistit, že mocný hlas naší země bude slyšet nejen mezi našimi lidmi, ale i po celém světě." # todo: NEW TRANSLATION
+  prca_form_radio_department_tt: "Umožňuje §YRozhlasové oddělení§!, které poskytuje (Týdenní propagační tokeny: §G+2.00§!).\n" # todo: NEW TRANSLATION
+  prca_form_movie_department2: "Založit filmové oddělení" # todo: NEW TRANSLATION
+  prca_form_movie_department_desc2: "Neexistuje žádné jiné médium jako filmy, které může během minut ovlivnit mínění celých mas. Naši nepřátelé již rychle produkují válečné filmy a je zásadní, abychom i my používali toto zbraň ke kontrole veřejného mínění." # todo: NEW TRANSLATION
+  prca_form_movie_department_tt: "Umožňuje §YFilmové oddělení§!, které poskytuje (Týdenní propagační tokeny: §G+3.00§!).\n" # todo: NEW TRANSLATION
+  prca_antispyware: "[prca_antispyware]" # todo: NEW TRANSLATION
+  prca_research: "[prca_research]" # todo: NEW TRANSLATION
+  prca_stability: "[prca_stability]" # todo: NEW TRANSLATION
+  prca_construction: "[prca_construction]" # todo: NEW TRANSLATION
+  prca_army: "[prca_army]" # todo: NEW TRANSLATION
+  prca_navy: "[prca_navy]" # todo: NEW TRANSLATION
+  prca_airforce: "[prca_airforce]" # todo: NEW TRANSLATION
+  prca_conscription: "[prca_conscription]" # todo: NEW TRANSLATION
+  prca_war_support: "[prca_war_support]" # todo: NEW TRANSLATION
+  prca_production: "[prca_production]" # todo: NEW TRANSLATION
+  impose_martial_law: "§ROznést výjimečný stav§!" # todo: NEW TRANSLATION
+  impose_martial_law_desc: "Jediný způsob, jak udržet pořádek, je krví a železem." # todo: NEW TRANSLATION
+  prca_increase_poster_production_discount: "Využít DOPS" # todo: NEW TRANSLATION
+  prca_increase_poster_production: "Využít DOPS" # todo: NEW TRANSLATION
+  prca_increase_poster_production_desc: "Využití naší tajné služby je rychlý způsob, jak se zbavit části korupce, ale nebude mít tak velký efekt." # todo: NEW TRANSLATION
+  prca_increase_poster_production_discount_desc: "Využití naší tajné služby je rychlý způsob, jak se zbavit části korupce, ale nebude mít tak velký efekt." # todo: NEW TRANSLATION
+  prca_form_newspaper_department: "Estado Novo Propaganda" # todo: NEW TRANSLATION
+  prca_form_newspaper_department_desc: "Pokud budou lidé více věřit našemu milostivému vůdci a jeho plánům pro Nový stát, bude korupce na krátkou dobu eliminována." # todo: NEW TRANSLATION
+  prca_form_newspaper_department_discount: "Estado Novo Propaganda" # todo: NEW TRANSLATION
+  prca_form_newspaper_department_discount_desc: "Pokud budou lidé více věřit našemu milostivému vůdci a jeho plánům pro Nový stát, bude korupce na krátkou dobu eliminována." # todo: NEW TRANSLATION
+  prca_form_radio_department: "Samba do Brasil" # todo: NEW TRANSLATION
+  prca_form_radio_department_desc: "Měli bychom organizovat slavnosti, podporovat sambové školy a pořádat každoroční karneval na náklady státu. Pokud lidé dostanou šanci bavit se na účet vlády, více lidí bude spokojených s současnou vládou, což by mohlo krátkodobě vést k menší korupci!" # todo: NEW TRANSLATION
+  prca_form_radio_department_discount_desc: "Měli bychom organizovat slavnosti, podporovat sambové školy a pořádat každoroční karneval na náklady státu. Pokud lidé dostanou šanci bavit se na účet vlády, více lidí bude spokojených s současnou vládou, což by mohlo krátkodobě vést k menší korupci!" # todo: NEW TRANSLATION
+  prca_form_radio_department_discount: "Samba do Brasil" # todo: NEW TRANSLATION
+  prca_form_movie_department: "Propagovat Cristo Redentor" # todo: NEW TRANSLATION
+  prca_form_movie_department_desc: "Přilákáním více turistů do naší krásné země získá naše vláda více peněz. Více peněz nám dává možnost bojovat proti klientelismu!" # todo: NEW TRANSLATION
+  prca_form_movie_department_discount: "Propagovat Cristo Redentor" # todo: NEW TRANSLATION
+  prca_form_movie_department_discount_desc: "Přilákáním více turistů do naší krásné země získá naše vláda více peněz. Více peněz nám dává možnost bojovat proti klientelismu!" # todo: NEW TRANSLATION
+  HMP_supply_route: "£convoy_texticon Kapacita trasy Lend-Lease" # todo: NEW TRANSLATION
+  SOV_IRAN_SPEED: "Sovětská penalizace rychlosti přesunu v Íránu" # todo: NEW TRANSLATION
+  HMP_monthly_shipments: "£convoy_texticon Měsíční zásilky Lend-Lease" # todo: NEW TRANSLATION
+  emergency_shipbuilding_program: "Nouzový program stavby lodí" # todo: NEW TRANSLATION
+  supply_route_convoy_value: "Kontrola §GLend-Lease koridorů§! nám umožňuje připravit §C[ENG.lend_lease_tokens]§! £convoy_texticon Zásilek za měsíc." # todo: NEW TRANSLATION
+  HMP_attack_against_germany: "£attack_texticon Útok divize proti [GER.GetFlag]Německo" # todo: NEW TRANSLATION
+  HMP_attack_against_japan: "£attack_texticon Útok divize proti [JAP.GetFlag]Japonsko" # todo: NEW TRANSLATION
+  HMP_attack_against_italy: "£attack_texticon Útok divize proti [ITA.GetFlag]Itálie" # todo: NEW TRANSLATION
+  GetSovSingaporeGreen: "§G[336.CONTROLLER.GetFlag]Singapur§!" # todo: NEW TRANSLATION
+  GetSovSingaporegray: "§g[336.CONTROLLER.GetFlag]Singapur§!" # todo: NEW TRANSLATION
+  GetSovSingaporeRed: "§R[336.CONTROLLER.GetFlag]Singapur§!" # todo: NEW TRANSLATION
+  GetSovHKGreen: "§G[326.CONTROLLER.GetFlag]Hong Kong§!" # todo: NEW TRANSLATION
+  GetSovHKgray: "§g[326.CONTROLLER.GetFlag]Hong Kong§!" # todo: NEW TRANSLATION
+  GetSovHKRed: "§R[326.CONTROLLER.GetFlag]Hong Kong§!" # todo: NEW TRANSLATION
+  GetSovPalauGreen: "§G[488.CONTROLLER.GetFlag]Palau§!" # todo: NEW TRANSLATION
+  GetSovPalaugray: "§g[488.CONTROLLER.GetFlag]Palau§!" # todo: NEW TRANSLATION
+  GetSovPalauRed: "§R[488.CONTROLLER.GetFlag]Palau§!" # todo: NEW TRANSLATION
+  GetSovOkinawaGreen: "§G[526.CONTROLLER.GetFlag]Okinawa§!" # todo: NEW TRANSLATION
+  GetSovOkinawagray: "§g[526.CONTROLLER.GetFlag]Okinawa§!" # todo: NEW TRANSLATION
+  GetSovOkinawaRed: "§R[526.CONTROLLER.GetFlag]Okinawa§!" # todo: NEW TRANSLATION
+  GetSovIwoJimaGreen: "§G[560.CONTROLLER.GetFlag]Iwo Jima§!" # todo: NEW TRANSLATION
+  GetSovIwoJimagray: "§g[560.CONTROLLER.GetFlag]Iwo Jima§!" # todo: NEW TRANSLATION
+  GetSovIwoJimaRed: "§R[560.CONTROLLER.GetFlag]Iwo Jima§!" # todo: NEW TRANSLATION
+  GetSovSaipanGreen: "§G[409.CONTROLLER.GetFlag]Saipan§!" # todo: NEW TRANSLATION
+  GetSovSaipangray: "§g[409.CONTROLLER.GetFlag]Saipan§!" # todo: NEW TRANSLATION
+  GetSovSaipanRed: "§R[409.CONTROLLER.GetFlag]Saipan§!" # todo: NEW TRANSLATION
+  GetSovMarcusGreen: "§G[180.CONTROLLER.GetFlag]Marcus§!" # todo: NEW TRANSLATION
+  GetSovMarcusgray: "§g[180.CONTROLLER.GetFlag]Marcus§!" # todo: NEW TRANSLATION
+  GetSovMarcusRed: "§R[180.CONTROLLER.GetFlag]Marcus§!" # todo: NEW TRANSLATION
+  HMP_navy_tips: "§CTipy pro námořnictvo§! a §HOperace Sea Lion§! (PŘEČTĚTE SI)" # todo: NEW TRANSLATION
+  ENG_surrender_france: "Kapitulovat Francii" # todo: NEW TRANSLATION
+  GER_second_vienna_focus_tt: "Tento fokus je automaticky dokončen událostí, která se spustí v srpnu 1940.\n\n" # todo: NEW TRANSLATION
+  GER_anschluss_focus_tt: "Tento fokus je automaticky dokončen událostí, která se spustí v březnu 1938.\n\n" # todo: NEW TRANSLATION
+  GER_decision_focus_tt: "Tento fokus je dokončen výběrem odpovídajícího £decision_icon_small §Yrozhodnutí§! v §YZahraniční politice§!.\n\n" # todo: NEW TRANSLATION
+  HMP_navy_tips_desc: "Klikněte na toto rozhodnutí pro základní námořní radu." # todo: NEW TRANSLATION
+  SOV_reloc_tt: "§Přesuneme celkem dvě civilní a vojenské továrny ze státu hraničícího s Osy do Sibiře.§!" # todo: NEW TRANSLATION
+  Get_HMP_supply_routesSecure: "§LKoridory Lend-Lease:§! §GOtevřeno§!" # todo: NEW TRANSLATION
+  Get_HMP_supply_routesInsecure: "§LKoridory Lend-Lease:§! §RUzavřeno§!" # todo: NEW TRANSLATION
+  Get_HMP_supply_routesUNUSED: "§LKoridory Lend-Lease:§! §gNepotřebné§!" # todo: NEW TRANSLATION
+  HMP_supply_route_info: "Pokud není kontrolován žádný §LKoridor Lend-Lease§!, budeme zcela neschopni posílat lend-lease Sovětskému svazu. To může být katastrofální.\n\nNemůžeme posílat žádné lend-lease před zimou 1941–1942. §CZásilky§! mohou trvat až celý měsíc, než dorazí." # todo: NEW TRANSLATION
+  HMP_objectives_tt: "§CStrategické cíle§! (§G+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_objectives_info: "Čím více cílů ovládáme, tím více lend-lease můžeme poslat Sovětům, což zlepší jejich schopnost bojovat proti Ose." # todo: NEW TRANSLATION
+  GetPersianCorridorNameColorGreen: "§GPerský koridor§!" # todo: NEW TRANSLATION
+  GetPersianCorridorNameColorgray: "§gPerský koridor§!" # todo: NEW TRANSLATION
+  GetPersianCorridorNameColorRed: "§RPerský koridor§!" # todo: NEW TRANSLATION
+  GetPacificCorridorNameColorRed: "§RPacifická trasa§!" # todo: NEW TRANSLATION
+  GetPacificCorridorNameColorGreen: "§GPacifická trasa§!" # todo: NEW TRANSLATION
+  GetPacificCorridorNameColorgray: "§gPacifická trasa§!" # todo: NEW TRANSLATION
+  GetMedCorridorNameColorRed: "§RStředozemní trasa§!" # todo: NEW TRANSLATION
+  HOL_request_allied_favors2_tt: "\nOdemkneme rozhodnutí, která umožní Walravenu van Hallovi oklamat Němce a podpořit odboj, čímž získáme §H1 offmap civilní továrnu§!." # todo: NEW TRANSLATION
+  GetMedCorridorNameColorGreen: "§GStředozemní trasa§!" # todo: NEW TRANSLATION
+  GetMedCorridorNameColorgray: "§gStředozemní trasa§!" # todo: NEW TRANSLATION
+  GetArcticCorridorNameColorRed: "§RArktické konvoje§!" # todo: NEW TRANSLATION
+  GetArcticCorridorNameColorGreen: "§GArktické konvoje§!" # todo: NEW TRANSLATION
+  GetArcticCorridorNameColorgray: "§gArktické konvoje§!" # todo: NEW TRANSLATION
+  route_capacity_display_tt: "Odeslali jsme [?ENG.SOV_ll_this_month|+0] £convoy_texticon  z [?ENG.SOV_ll_monthly_cap|+0] £convoy_texticon  §CZásilek§!, které nám může tento měsíc dovolit naše §GKapacita dodací trasy§." # todo: NEW TRANSLATION
+  TotalConvoysSent: "Celkem odesláno: [?ENG.SOV_barb_ll_token2|+0] £convoy_texticon" # todo: NEW TRANSLATION
+  arctic_corridor_history: "§G+3 Kapacita trasy Lend-Lease§!\n\nArktické konvoje byly trasou lend-lease, která vedla přes Norský a Barentsův průliv do sovětského přístavu Murmansk. Trasa byla plná mlhy, nepříznivého počasí (zejména v zimě), trvalé noci a plovoucího ledu, což z ní činilo jednu z nejnebezpečnějších tras." # todo: NEW TRANSLATION
+  med_corridor_history: "§G+5 Kapacita trasy Lend-Lease§!\n\nStředozemní trasa byla trasou lend-lease, která dodávala britské a americké zásoby prostřednictvím Bosporu do sovětských přístavů na Černém moři." # todo: NEW TRANSLATION
+  pacific_corridor_history: "§G+5 Kapacita trasy Lend-Lease§!\n\nPacifická trasa vedla podél americko-sovětského pobřeží přes Beringův průliv, po které byly přenášeny americké zásoby lend-lease. Pacifická trasa byla považována za nebezpečnou kvůli hrozbě japonských ponorek, ale málo lodí bylo Japonci potopeno ze strachu z rozhořčení sovětů." # todo: NEW TRANSLATION
+  persian_corridor_history: "§G+25 Kapacita trasy Lend-Lease§!\n\nPerský koridor byl trasou lend-lease přes Írán do sovětského Ázerbájdžánu, kterou byly přenášeny britská pomoc a americké zásoby lend-lease do Sovětského svazu. Tento perský koridor se stal jedinou životaschopnou, celoroční trasou vyvinutou k zásobování sovětských potřeb." # todo: NEW TRANSLATION
+  HMP_soviet_lend_lease_system_desc: "Můžeme posílat £convoy_texticon §CZásilky§! v hodnotě £production_cost §G2000 výroby§! materiálů Sovětskému svazu za každý §LKoridor Lend-Lease§! nebo §GStrategický cíl§! (viz Balance of Power), který ovládáme během operace Barbarossa. Každý §LKoridor Lend-Lease§! také dává §GKapacitu trasy Lend-Lease§!, která zvyšuje limit £convoy_texticon §CZásilek§! které můžeme připravit v kterémkoli měsíci. Přijetí našich lend-lease zásilek je podmíněno kontrolou alespoň jednoho §LKoridoru Lend-Lease§! do Sovětského svazu. Každé kliknutí níže spotřebuje pět našich £convoy_texticon §CZásilek§! stejně jako pět §HKonvojů§!. Budeme moci posílat §CZásilky§! od listopadu 1941." # todo: NEW TRANSLATION
+  HMP_soviet_lend_lease_system: "Posílat lend-lease Sovětskému svazu" # todo: NEW TRANSLATION
+  HMP_eq_log_button_tt: "§HCELKOVÉ ODESLANÉ VYBAVENÍ§!\n\n[?ENG.SOV_GunsSent|+0] Odeslané pušky\n[?ENG.SOV_ArtySent|+0] Odeslané dělostřelecké kusy\n[?ENG.SOV_RartySent|+0] Odeslané raketové dělostřelectvo\n[?ENG.SOV_ATSent|+0] Odeslané protitankové děla\n[?ENG.SOV_AASent|+0] Odeslané protiletadlové děla\n[?ENG.SOV_SupSent|+0] Odeslané podpůrné vybavení\n[?ENG.SOV_MotSent|+0] Odeslané nákladní automobily\n[?ENG.SOV_MechSent|+0] Odeslané mechanizované\n[?ENG.SOV_MedSent|+0] Odeslané střední tanky\n[?ENG.SOV_LightSent|+0] Odeslané lehké tanky\n[?ENG.SOV_FighterSent|+0] Odeslaní stíhači\n[?ENG.SOV_CASSent|+0] Odeslané CAS\n\n§HCELKOVĚ ODESLANÝ IC§!: [?ENG.SOV_total_IC_sent|+0]" # todo: NEW TRANSLATION
+  ENG_annex_menace: "Operace Menace" # todo: NEW TRANSLATION
+  ENG_annex_exporter: "Operace Exporter" # todo: NEW TRANSLATION
+  ENG_annex_congo: "Kampaň v Gabonu - Střední Kongo" # todo: NEW TRANSLATION
+  ENG_annex_gabon: "Kampaň v Gabonu - Rovníková Afrika" # todo: NEW TRANSLATION
+  ENG_annex_ironclad: "Operace Ironclad" # todo: NEW TRANSLATION
+  support_the_uk: "Poslat dobrovolníky do Spojeného království" # todo: NEW TRANSLATION
+  SAF_secure: "Zajistit zájmy v Africe" # todo: NEW TRANSLATION
+  SAF_secure_desc: "Unie Jižní Afriky sousedí s řadou britských kolonií, které by mohly zůstat naší správě. Měli bychom také udělat, co můžeme, abychom trvale zajistili náš mandát nad Jihozápadní Afrikou." # todo: NEW TRANSLATION
+  SAF_rhodesia: "Zajistit rhodéská území" # todo: NEW TRANSLATION
+  SAF_zambia: "Zajistit zambijská území" # todo: NEW TRANSLATION
+  SAF_east_africa: "Zajistit východoafrická území" # todo: NEW TRANSLATION
+  op_fork: "Operace Fork" # todo: NEW TRANSLATION
+  recruitment_campaign: "Náborová kampaň" # todo: NEW TRANSLATION
+  GER_failed_africa: "Nouzové rafinování syntetického paliva" # todo: NEW TRANSLATION
+  GER_dday_inf: "D-Day pěchota" # todo: NEW TRANSLATION
+  operation_oil: "Zajistit arabská ropná pole" # todo: NEW TRANSLATION
+  support_italy: "Poslat dobrovolníky do Itálie" # todo: NEW TRANSLATION
+  war_bonds_cancel: "Zrušit válečné dluhopisy" # todo: NEW TRANSLATION
+  NO_MORE_FASCISM: "Fašismus byl poražen" # todo: NEW TRANSLATION
+  ENG_violate_spanish_sov: "Operace Pilgrim" # todo: NEW TRANSLATION
+  ENG_violate_spanish_sov_desc: "Naše invaze do francouzské severozápadní Afriky potřebuje pozemní zásobovací trasu. Musíme proti Španělsku podniknout agresivní akci, aby toho bylo dosaženo, bude to však nepopulární vzhledem k španělské neutralitě." # todo: NEW TRANSLATION
+  GER_annex_slovakia: "Unternehmen Margarethe (Slovensko)" # todo: NEW TRANSLATION
+  barb_failed: "Operace Barbarossa selhala" # todo: NEW TRANSLATION
+  ENG_annex_netherlands: "Anexovat Svobodné Nizozemsko" # todo: NEW TRANSLATION
+  ENG_canary_tt: "§4Vypálíme invazi na Kanárské ostrovy s mariňáky a obsadíme užitečnou leteckou základnu. Budeme schopni se přesunout do pevninské Španělské Západní Afriky.§!" # todo: NEW TRANSLATION
+  man_china: "[GetMANChina]" # todo: NEW TRANSLATION
+  colonial_responsibilities: "Koloniální povinnosti" # todo: NEW TRANSLATION
+  ITA_end_iraq: "Ukončit irácký experiment" # todo: NEW TRANSLATION
+  deploy_pacific: "Nasazení pacifické divize" # todo: NEW TRANSLATION
+  sov_spawn_tt: "Toto rozhodnutí jsme nepoužili více než dvakrát" # todo: NEW TRANSLATION
+  commonwealth_guns: "Poslat 5000 pěchotního vybavení do [FROM.GetName]" # todo: NEW TRANSLATION
+  commonwealth_supp: "Poslat 800 podpůrného vybavení do [FROM.GetName]" # todo: NEW TRANSLATION
+  commonwealth_aa: "Poslat 400 protiletadlového vybavení do [FROM.GetName]" # todo: NEW TRANSLATION
+  commonwealth_at: "Poslat 1000 protitankového vybavení do [FROM.GetName]" # todo: NEW TRANSLATION
+  commonwealth_moto: "Poslat 500 motorového vybavení do [FROM.GetName]" # todo: NEW TRANSLATION
+  commonwealth_arty: "Poslat 750 dělostřeleckého vybavení do [FROM.GetName]" # todo: NEW TRANSLATION
+  commonwealth_rarty: "Poslat 150 raketového dělostřelectva do [FROM.GetName]" # todo: NEW TRANSLATION
+  commonwealth_guns_visible: "[GetCWGuns]" # todo: NEW TRANSLATION
+  commonwealth_supp_visible: "[GetCWSupp]" # todo: NEW TRANSLATION
+  commonwealth_aa_visible: "[GetCWAA]" # todo: NEW TRANSLATION
+  commonwealth_arty_visible: "[GetCWArty]" # todo: NEW TRANSLATION
+  commonwealth_at_visible: "[GetCWAT]" # todo: NEW TRANSLATION
+  commonwealth_rarty_visible: "[GetCWRarty]" # todo: NEW TRANSLATION
+  commonwealth_moto_visible: "[GetCWMoto]" # todo: NEW TRANSLATION
+  GetCWGunsVisible: "§YSkrýt rozhodnutí o lend-lease pěchotního vybavení§!" # todo: NEW TRANSLATION
+  GetCWGunsNotVisible: "§YZobrazit rozhodnutí o lend-lease pěchotního vybavení§!" # todo: NEW TRANSLATION
+  GetCWSuppVisible: "§YSkrýt rozhodnutí o lend-lease podpůrného vybavení§!" # todo: NEW TRANSLATION
+  GetCWSuppNotVisible: "§YZobrazit rozhodnutí o lend-lease podpůrného vybavení§!" # todo: NEW TRANSLATION
+  GetCWArtyVisible: "§YSkrýt rozhodnutí o lend-lease dělostřelectvu§!" # todo: NEW TRANSLATION
+  GetCWArtyNotVisible: "§YZobrazit rozhodnutí o lend-lease dělostřelectvu§!" # todo: NEW TRANSLATION
+  GetCWRartyVisible: "§YSkrýt rozhodnutí o lend-lease raketovém dělostřelectvu§!" # todo: NEW TRANSLATION
+  GetCWRartyNotVisible: "§YZobrazit rozhodnutí o lend-lease raketovém dělostřelectvu§!" # todo: NEW TRANSLATION
+  GetCWAAVisible: "§YSkrýt rozhodnutí o lend-lease protiletadlovém vybavení§!" # todo: NEW TRANSLATION
+  GetCWAANotVisible: "§YZobrazit rozhodnutí o lend-lease protiletadlovém vybavení§!" # todo: NEW TRANSLATION
+  GetCWATVisible: "§YSkrýt rozhodnutí o lend-lease protitankovém vybavení§!" # todo: NEW TRANSLATION
+  GetCWATNotVisible: "§YZobrazit rozhodnutí o lend-lease protitankovém vybavení§!" # todo: NEW TRANSLATION
+  GetCWMotoVisible: "§YSkrýt rozhodnutí o lend-lease motorového vybavení§!" # todo: NEW TRANSLATION
+  NOR_sudoku: "Kapitulovat Německu (pro dřívější předběžné nasazení v Africe)" # todo: NEW TRANSLATION
+  GetCWMotoNotVisible: "§YZobrazit rozhodnutí o lend-lease motorového vybavení§!" # todo: NEW TRANSLATION
+  support_commonwealth: "Spojenecký Lend-Lease" # todo: NEW TRANSLATION
+  war_propaganda_cancel: "Zrušit válečnou propagandu" # todo: NEW TRANSLATION
+  GER_desert_flower_mission1: "Zlepšit metody rafinace paliva" # todo: NEW TRANSLATION
+  horstsmalledition: "§GHorst malé vydání§! je povoleno" # todo: NEW TRANSLATION
+  HMP_spec_ops: "Šablony pro speciální jednotky" # todo: NEW TRANSLATION
+  HMP_spec_ops_desc: "Použijte Rangers nebo Marines místo horalů pro jejich příslušný terén. Šablona soft-attack je lepší proti pěchotě, univerzální pro tanky i pěchotu a hard-attack proti tankům/mechanizovaným. Pokud si nejste jisti, vyberte tu, která vám nejlépe vyhovuje. Použijte doporučené konstrukce tanků pro průzkum a plamenometné tanky." # todo: NEW TRANSLATION
+  GER_desert_flower_mission2: "Zlepšit metody rafinace paliva" # todo: NEW TRANSLATION
+  SOV_spawn: "Nastavení obrany v hloubce (Stalinská linie)" # todo: NEW TRANSLATION
+  SOV_spawn2: "Nastavení obrany v hloubce (Molotovova linie)" # todo: NEW TRANSLATION
+  USA_1938_oil_discovery: "Objev ropy v roce 1938" # todo: NEW TRANSLATION
+  HMP_ll_soviets_fighters2: "[GetLLVisibility]" # todo: NEW TRANSLATION
+  GetLLVisibilityOn: "Viditelnost lend-lease pro Sovětský svaz: §VŠtí spojenci§!" # todo: NEW TRANSLATION
+  GetLLVisibilityOff: "Viditelnost lend-lease pro Sovětský svaz: §YTylko USA/UK§!" # todo: NEW TRANSLATION
+  HMP_soviet_ll_visible_to_all_allies_tt: "Kliknutím přepnete viditelnost tohoto skriptovaného GUI pro spojenecké menší státy a Francii." # todo: NEW TRANSLATION
+  GER_plane_to_ita: "Poslat stíhačky do Itálie" # todo: NEW TRANSLATION
+  ENG_plane_to_usa: "Poslat stíhačky do Spojených států" # todo: NEW TRANSLATION
+  GER_plane_to_ita2: "Poslat CAS do Itálie" # todo: NEW TRANSLATION
+  ENG_plane_to_usa2: "Poslat CAS do Spojených států" # todo: NEW TRANSLATION
+  CIC_1: "§HTovárna CIC§!: §7Vanilla§!" # todo: NEW TRANSLATION
+  CIC_2: "§HTovárna CIC§!: §R-2%§!" # todo: NEW TRANSLATION
+  CIC_3: "§HTovárna CIC§!: §R-4%§!" # todo: NEW TRANSLATION
+  CIC_4: "§HTovárna CIC§!: §R-6%§!" # todo: NEW TRANSLATION
+  CIC_5: "§HTovárna CIC§!: §R-8%§!" # todo: NEW TRANSLATION
+  CIC_6: "§HTovárna CIC§!: §R-10%§!" # todo: NEW TRANSLATION
+  modifier_production_cost_infrastructure_factor: "Náklady na stavbu §YInfrastruktury§!" # todo: NEW TRANSLATION
+  modifier_production_cost_infrastructure_factor_desc: "Mění náklady na výstavbu infrastruktury." # todo: NEW TRANSLATION
+  modifier_production_cost_industrial_complex_factor: "Náklady na stavbu §YCivilní továrny§!" # todo: NEW TRANSLATION
+  modifier_production_cost_industrial_complex_factor_desc: "Mění náklady na výstavbu civilních továren." # todo: NEW TRANSLATION
+  modifier_production_cost_arms_factory_factor: "Náklady na stavbu §YVojenské továrny§!" # todo: NEW TRANSLATION
+  modifier_production_cost_arms_factory_factor_desc: "Mění náklady na výstavbu vojenských továren." # todo: NEW TRANSLATION
+  modifier_production_cost_dockyard_factor: "Náklady na stavbu §YNámořní loděnice§!" # todo: NEW TRANSLATION
+  modifier_production_cost_dockyard_factor_desc: "Mění náklady na výstavbu loděnic." # todo: NEW TRANSLATION
+  SEALION_ON: "§HSealion§!: §7Povoleno§!" # todo: NEW TRANSLATION
+  SEALION_OFF: "§HSealion§!: §RZakázáno§!" # todo: NEW TRANSLATION
+  MANCHU_VANILLA: "§HManchukuo§!: Výchozí strom fokusu" # todo: NEW TRANSLATION
+  MANCHU_MODDED: "§HManchukuo§!: §7Upravený strom fokusu§!" # todo: NEW TRANSLATION
+  ARABIA_FRONT_OFF: "§HArabské fronty§!: §ROdloženo do Fall Blau§!" # todo: NEW TRANSLATION
+  ARABIA_FRONT_ON: "§HArabské fronty§!: §7Povoleno od června 1940§!" # todo: NEW TRANSLATION
+  GRE_declare_for_eng: "§YHráč Řecko§!: Bude hrát jako §YUK kooperace§! po §!kapitulaci§! §O(kliknutím změnit)§!" # todo: NEW TRANSLATION
+  GRE_declare_for_gre: "§YHráč Řecko§!: Bude hrát jako §YŘecko§! po §!kapitulaci§! §O(kliknutím změnit)§!" # todo: NEW TRANSLATION
+  ETH_declare_for_alb: "§YHráč IEA§!: Bude hrát jako §YItálie kooperace§! po §!kapitulaci§! §O(kliknutím změnit)§!" # todo: NEW TRANSLATION
+  ETH_declare_for_ITA: "§YHráč IEA§!: Bude hrát jako §YIrák§! po §Y'Stoke Iraqi Nationalism'§! §O(kliknutím změnit)§!" # todo: NEW TRANSLATION
+  HMP_fra_noob: "Francie v Horstorical Multiplayer" # todo: NEW TRANSLATION
+  blau_failed: "Případ Blue selhal" # todo: NEW TRANSLATION
+  GER_fall_weiss: "§tFall Weiss (Polsko)§!" # todo: NEW TRANSLATION
+  GER_fall_rot: "§gFall§! §RRot (Francie)§!" # todo: NEW TRANSLATION
+  fall_schwarz_golt: "§gFall§! §bSchwarz§! §YGolt§!" # todo: NEW TRANSLATION
+  horst_arabia: "Pravidla Arabské fronty" # todo: NEW TRANSLATION
+  HORST_YES_ARABIA: "Arabská fronta povolena" # todo: NEW TRANSLATION
+  HORST_NO_ARABIA: "Arabská fronta zakázána" # todo: NEW TRANSLATION
+  HMP_rules: "Standardní pravidla Horstorical Multiplayer" # todo: NEW TRANSLATION
+  HMP_rules_desc: "Událost popisuje pravidla pro oba startovní daty v Horstorical Multiplayer. Vezměte na vědomí, že váš server může mít další pravidla, která je třeba dodržovat, nebo může měnit pravidla uvedená v této události." # todo: NEW TRANSLATION
+  GER_fall_rot: "§gFall§! §RRot (Francie)§!" # todo: NEW TRANSLATION
+  GER_plane_hun2: "Vypnout/Zapnout letadlový LL" # todo: NEW TRANSLATION
+  GER_barbarossa_mission_moscow: "Führerova směrnice 21 (Moskva)" # todo: NEW TRANSLATION
+  GER_barbarossa_mission_moscow_desc: ""Německé ozbrojené síly musí být připraveny rozdrtit sovětské Rusko v rychlé kampani. Hlavní část ruské armády bude zničena odvážnými operacemi vedenými obrněnými hroty."" # todo: NEW TRANSLATION
+  GER_barbarossa_mission_leningrad: "Führerova směrnice 21 (Leningrad)" # todo: NEW TRANSLATION
+  GER_barbarossa_mission_leningrad_desc: ""Německé ozbrojené síly musí být připraveny rozdrtit sovětské Rusko v rychlé kampani. Hlavní část ruské armády bude zničena odvážnými operacemi vedenými obrněnými hroty."" # todo: NEW TRANSLATION
+  GER_barbarossa_mission_stalingrad: "Führerova směrnice 21 ([217.GetName])" # todo: NEW TRANSLATION
+  GER_barbarossa_mission_stalingrad_desc: ""Německé ozbrojené síly musí být připraveny rozdrtit sovětské Rusko v rychlé kampani. Hlavní část ruské armády bude zničena odvážnými operacemi vedenými obrněnými hroty."" # todo: NEW TRANSLATION
+  barbarossa_mission_horst_tt: "Přiblížit §RSověty§! k prahu zhroucení značně posílí naši morálku v boji proti mezinárodní bolševické konspiraci!\n\n§CNáš válečný morál zvýší o 5%!§!" # todo: NEW TRANSLATION
+  barbarossa_mission_horst_sov_tt: "Pokud ztratíme §YMoskvu§!, §YLeningrad§! a §YStalingrad§!, pak §Rfašisté§! získají novou energii udržet svůj útok proti naší velké socialistické vlasti!" # todo: NEW TRANSLATION
+  prepare_husky: "Připravit operaci Husky" # todo: NEW TRANSLATION
+  news.4002.t: "[ROOT.marks.GetNameDefCap] obdržel 50pp" # todo: NEW TRANSLATION
+  news.4003.t: "[ROOT.marks.GetNameDefCap] obdržel duch 'Production Fixer' na 1 den." # todo: NEW TRANSLATION
+  news.4004.t: "[ROOT.marks.GetNameDefCap] byl převeden do režimu pozorovatele." # todo: NEW TRANSLATION
+  news.4113.t: "[ROOT.marks.GetNameDefCap] obdržel 25 zkušeností armády." # todo: NEW TRANSLATION
+  news.4005.t: "[ROOT.host.GetNameDefCap] je nový hostitel." # todo: NEW TRANSLATION
+  news.4006.t: "[ROOT.marks.GetNameDefCap] mu Hostitel převedl státy." # todo: NEW TRANSLATION
+  news.4007.t: "Hostitel připojil [ROOT.target.GetNameDefCap]." # todo: NEW TRANSLATION
+  GER_fall_gelb: "§0Fall Gelb (Belgie a Nizozemsko)§!" # todo: NEW TRANSLATION
+  GER_fall_gelb2: "§gFall§! §YGelb (Belgie)§!" # todo: NEW TRANSLATION
+  deploy_atlantic_africa_gar: "Nasadit přesmořské koloniální garniční a obranné síly" # todo: NEW TRANSLATION
+  deploy_atlantic_africa_gar_desc: "Obsadíme různé málo oceňované části Impéria a také spojenecká území, abychom zabránili nepravděpodobným invazím." # todo: NEW TRANSLATION
+  deploy_egypt: "Nasadit Egyptskou obrannou sílu" # todo: NEW TRANSLATION
+  deploy_sudan_gar: "Nasadit posádky pro oblast Rohu Afriky" # todo: NEW TRANSLATION
+  deploy_sudan: "Nasadit sudánské a keňské obranné síly" # todo: NEW TRANSLATION
+  khalkin_gol: "Bitva u Chalchynu Gol" # todo: NEW TRANSLATION
+  HMP_recon_flame_templates: "Doporučené návrhy pancéřování" # todo: NEW TRANSLATION
+  HMP_recon_flame_templates_desc: "Kliknutím automaticky vygenerujete užitečné konstrukce tanků. Je to průvodce pro hráče, kteří si nejsou jisti návrhy tanků.\n\n§HUpozornění: Tyto šablony nepočítají s žádnými upgrady motoru ani pancíře, takže to berte v úvahu. Ujistěte se, že je vylepšíte dle potřeby.§!" # todo: NEW TRANSLATION
+  HMP_plane_templates: "Doporučené návrhy letadel" # todo: NEW TRANSLATION
+  HMP_plane_templates_desc: "Kliknutím automaticky vygenerujete užitečné návrhy letadel. Je to průvodce pro hráče, kteří si nejsou jisti návrhy letadel." # todo: NEW TRANSLATION
+  HMP_tank_templates: "Doporučené návrhy tanků" # todo: NEW TRANSLATION
+  HMP_tank_templates_desc: "Kliknutím automaticky vygenerujete užitečné návrhy tanků. Je to průvodce pro hráče, kteří si nejsou jisti návrhy tanků." # todo: NEW TRANSLATION
+  HMP_decision_recommended_super_heavy_tank_templates: "Doporučené návrhy supertěžkých tanků" # todo: NEW TRANSLATION
+  HMP_decision_recommended_armored_car_recon_templates: "Doporučené návrhy obrněných průzkumných vozů" # todo: NEW TRANSLATION
+  HMP_decision_recommended_lt_recon_templates: "Doporučené lehké průzkumné tanky" # todo: NEW TRANSLATION
+  HMP_decision_recommended_flame_templates: "Doporučené návrhy lehkých plamenometných tanků" # todo: NEW TRANSLATION
+  HMP_decision_recommended_aa_tank_templates: "Doporučené návrhy lehkých protiletadlových tanků" # todo: NEW TRANSLATION
+  HMP_decision_recommended_td_tank_templates: "Doporučené návrhy tank destroyerů" # todo: NEW TRANSLATION
+  HMP_decision_recommended_spg_tank_templates: "Doporučené návrhy samohybného dělostřelectva" # todo: NEW TRANSLATION
+  HMP_decision_recommended_light_tank_templates: "Doporučené návrhy lehkých tanků" # todo: NEW TRANSLATION
+  HMP_decision_recommended_medium_tank_templates: "Doporučené návrhy středních tanků" # todo: NEW TRANSLATION
+  HMP_decision_recommended_heavy_tank_templates: "Doporučené návrhy těžkých tanků" # todo: NEW TRANSLATION
+  GER_around_iraq: "Obsadit Sýrii" # todo: NEW TRANSLATION
+  ENG_annex_raj: "Anexovat Britský Raj" # todo: NEW TRANSLATION
+  ITA_annex_alb: "Anexovat Irák" # todo: NEW TRANSLATION
+  GetCurrentLLMax: "[?ENG.SOV_ll_this_month|+0] £convoy_texticon / [?ENG.SOV_ll_monthly_cap|+0] Max £convoy_texticon" # todo: NEW TRANSLATION
+  GetCurrentLLMax2: "Měsíčně: [?ENG.SOV_ll_monthly_generation|+0] £convoy_texticon" # todo: NEW TRANSLATION
+  GetCurrentLLMax3: "Aktuálně: [?ENG.SOV_barb_ll_token|+0] £convoy_texticon" # todo: NEW TRANSLATION
+  USA_support_sov_tt: "Budeme moci připravit §H10§! dalších §CZásilek§! pro Sovětský svaz každý měsíc.\n\nZískáme §G+10 Kapacitu trasy§!." # todo: NEW TRANSLATION
+  USA_annex_brazil: "Anexovat Brazílii" # todo: NEW TRANSLATION
+  GER_zit: "§GUnternehmen Zitadelle (Sovětský svaz)§!" # todo: NEW TRANSLATION
+  ITA_annex_baleares: "Požadovat Baleáry" # todo: NEW TRANSLATION
+  ITA_annex_baleares_desc: "Vyslovíme požadavek na Baleárské ostrovy od Španělska jako splátku za italské zásahy ve Španělské občanské válce." # todo: NEW TRANSLATION
+  GER_fall_blau_op: "§CFall Blau (Sovětský svaz)§!" # todo: NEW TRANSLATION
+  GER_sonnenwende: "§LUnternehmen Sonnenwende (Sovětský svaz)§!" # todo: NEW TRANSLATION
+  GER_annex_spr: "Unternehmen Felix II (Španělsko)" # todo: NEW TRANSLATION
+  GER_annex_spain_tt: "Získáme kontrolu nad španělským vojenským průmyslem a armádou" # todo: NEW TRANSLATION
+  USA_annex_brazil_tt: "Získáme kontrolu nad brazilským vojenským průmyslem a armádou" # todo: NEW TRANSLATION
+  GER_do_anschluss: "Anschluss" # todo: NEW TRANSLATION
+  case_anton_player: "Přepnout na Německou kooperaci" # todo: NEW TRANSLATION
+  hide_hmp_templates_dec: "Skrýt Horstorical šablony divizí" # todo: NEW TRANSLATION
+  GER_do_anschluss_desc: "Přimějme Rakousko, aby uspořádalo referendum o připojení k Říši" # todo: NEW TRANSLATION
+  austria_flag: "§YAnschluss§! nastal" # todo: NEW TRANSLATION
+  spain_flag: "§YObčanská válka ve Španělsku§! nastala" # todo: NEW TRANSLATION
+  no_asia_flag: "§YVálka na západě§! záložka byla vybrána" # todo: NEW TRANSLATION
+  GER_do_mrp: "Podepsat pakt Molotov–Ribbentrop" # todo: NEW TRANSLATION
+  danzing: "Polsko obdrželo naši ultimátum" # todo: NEW TRANSLATION
+  GER_do_danzig: "Požadovat Danzig od Polska" # todo: NEW TRANSLATION
+  GER_unt_barb: "§RUnternehmen Barbarossa (Sovětský svaz)§!" # todo: NEW TRANSLATION
+  GER_weserbung_operation: "Unternehmen Weserübung (Dánsko)" # todo: NEW TRANSLATION
+  GER_weserbung_operation2: "Unternehmen Weserübung (Norsko)" # todo: NEW TRANSLATION
+  GER_operation_weserubung2: "Unternehmen Weserübung (Norsko)" # todo: NEW TRANSLATION
+  GER_operation_weserubung2_desc: "Norsko je kritickým strategickým bodem a bylo by zřejmým cílem pro každého nepřítele, který by chtěl narušit náš obchod se Švédskem. Nemůžeme riskovat, že si nepřátelé zřídí základny v této oblasti." # todo: NEW TRANSLATION
+  HMP_ll_show: "Zobrazit rozhodnutí lend-lease frakci" # todo: NEW TRANSLATION
+  HMP_ll_hide: "Skrýt rozhodnutí lend-lease před frakcí" # todo: NEW TRANSLATION
+  op_fork2: "Operace Fork" # todo: NEW TRANSLATION
+  public_support_for_fra: "Veřejné uznání exilové francouzské vlády" # todo: NEW TRANSLATION
+  propaganda_effortsx: "Propagační úsilí a válečná opatření" # todo: NEW TRANSLATION
+  mtg_usa_house_small_oppositiona_tt: "§Y10 zástupců§! půjde do §Ropozice§!.\n" # todo: NEW TRANSLATION
+  mtg_usa_house_small_supporta_tt: "§Y12 zástupců§! §Bpodpoří§! vládu.\n" # todo: NEW TRANSLATION
+  mtg_usa_house_small_supportb_tt: "§Y13 zástupců§! §Bpodpoří§! vládu.\n" # todo: NEW TRANSLATION
+  mtg_usa_senate_small_oppositiona_tt: "§Y2 senátoři§! půjdou do §Ropozice§!.\n" # todo: NEW TRANSLATION
+  mtg_usa_senate_small_supportb_tt: "§Y3 senátoři§! §Bpodpoří§! vládu.\n" # todo: NEW TRANSLATION
+  mtg_usa_congress_small_oppositiona_tt: "§Y2 senátoři§! a §Y10 zástupců§! jdou do §Ropozice§!.\n" # todo: NEW TRANSLATION
+  mtg_usa_congress_small_supporta_tt: "§Y3 senátoři§! a §Y13 zástupců§! §Bpodpoří§! vládu.\n" # todo: NEW TRANSLATION
+  mtg_usa_senate_medium_oppositiona_tt: "§Y5 senátorů§! půjde do §Ropozice§!.\n" # todo: NEW TRANSLATION
+  mtg_usa_house_medium_oppositiona_tt: "§Y25 zástupců§! půjde do §Ropozice§!.\n" # todo: NEW TRANSLATION
+  mtg_usa_senate_medium_supporta_tt: "§Y7 senátorů§! §Bpodpoří§! vládu.\n" # todo: NEW TRANSLATION
+  mtg_usa_house_medium_supporta_tt: "§Y30 zástupců§! §Bpodpoří§! vládu.\n" # todo: NEW TRANSLATION
+  mtg_usa_congress_medium_oppositiona_tt: "§Y5 senátorů§! a §Y25 zástupců§! jdou do §Ropozice§!.\n" # todo: NEW TRANSLATION
+  mtg_usa_congress_medium_supporta_tt: "§Y7 senátorů§! a §Y30 zástupců§! §Bpodpoří§! vládu.\n" # todo: NEW TRANSLATION
+  usa_congress_elections_tt_roosevelt: "§YZvolení Roosevelta nebude mít vliv na podporu v Kongresu§!.\n\n" # todo: NEW TRANSLATION
+  USA_manhattan_projec: "Projekt Manhattan" # todo: NEW TRANSLATION
+  USA_manhattan_projec_desc: "Abychom dosáhli §Oplné globální dominance§! a §Uukončili válku§! co nejdříve, je nutné vytvořit takové §Rneuvěřitelné zařízení§!.\nNejvětší mozky století jsou připraveny zahájit §Vývoj§! §Rbomby§!!\nPokud se nám podaří vyvinout tuto bombu dříve než §RNěmci§!, získáme §Yvýznamnou výhodu§! ve válce!" # todo: NEW TRANSLATION
+  USA_start_the_manhattan_project: "Zahájit projekt Manhattan" # todo: NEW TRANSLATION
+  USA_allocate_more_resources_to_the_manhattan_project: "Přidělit více zdrojů projektu Manhattan" # todo: NEW TRANSLATION
+  USA_fermi_project: "Fermiho projekt" # todo: NEW TRANSLATION
+  Depleted_uranium: "Vyčerpaný uran" # todo: NEW TRANSLATION
+  B_Reactor: "Reaktor B - Hanford Site" # todo: NEW TRANSLATION
+  Early_developed_reactor: "Fáze 1 prototyp reaktoru" # todo: NEW TRANSLATION
+  Medium_developed_reactor: "Fáze 2 prototyp reaktoru" # todo: NEW TRANSLATION
+  american_neutrality: "Americká neutralita" # todo: NEW TRANSLATION
+  USA_appoint_oppenheimer: "Jmenovat Oppenheimera hlavním vědcem" # todo: NEW TRANSLATION
+  USA_cooperate_with_fermi: "Investovat do Fermiho projektu" # todo: NEW TRANSLATION
+  USA_order_the_construction_of_various_laboratories: "Nařídit výstavbu různých laboratoří" # todo: NEW TRANSLATION
+  USA_build_an_isotope_separator_prototype: "Hromadná výroba Calutronu k separaci izotopů uranu" # todo: NEW TRANSLATION
+  USA_contruct_an_experimental_reactor: "Postavit experimentální reaktor" # todo: NEW TRANSLATION
+  USA_the_trinity_test: "Test Trinity" # todo: NEW TRANSLATION
+  USA_quebec_agreement: "Quebecká dohoda" # todo: NEW TRANSLATION
+  USA_manhattan_project_progres: "Pokrok projektu Manhattan" # todo: NEW TRANSLATION
+  USA_manhattan_1_point: "§NNaši vědci odhadují, že po této akci budeme o 1% blíže dokončení projektu§!" # todo: NEW TRANSLATION
+  USA_manhattan_2_point: "§NNaši vědci odhadují, že po této akci budeme o 2% blíže dokončení projektu§!" # todo: NEW TRANSLATION
+  USA_manhattan_5_point: "§NNaši vědci odhadují, že po této akci budeme o 5% blíže dokončení projektu§!" # todo: NEW TRANSLATION
+  USA_manhattan_10_point: "§NNaši vědci odhadují, že po této akci budeme o 10% blíže dokončení projektu§!" # todo: NEW TRANSLATION
+  USA_manhattan_15_point: "§NNaši vědci odhadují, že po této akci budeme o 15% blíže dokončení projektu§!" # todo: NEW TRANSLATION
+  USA_manhattan_tube_alloys_point: "§NPo této spolupráci s Brity budeme o 5% blíže dokončení našeho jaderného projektu§!" # todo: NEW TRANSLATION
+  USA_manhattan_project_90: "Pro provedení této akce musí být postup projektu alespoň 90%" # todo: NEW TRANSLATION
+  USA_manhattan_project_75: "Pro provedení této akce musí být postup projektu alespoň 75%" # todo: NEW TRANSLATION
+  USA_manhattan_project_50: "Pro provedení této akce musí být postup projektu alespoň 50%" # todo: NEW TRANSLATION
+  uranprojekt_bar_txt_tt: "§Y[?GER_uran]%§!" # todo: NEW TRANSLATION
+  USA_manhattan_1_monthly: "Měsíční postup projektu Manhattan: §G+1%§!" # todo: NEW TRANSLATION
+  USA_started_manhattan_project: "Projekt Manhattan musí být zahájen" # todo: NEW TRANSLATION
+  USA_start_manhattan_project: "§YLeó Szilárd a Albert Einstein poslali dopis prezidentovi. Chtějí zahájit vývoj první atomové bomby!§!" # todo: NEW TRANSLATION
+  manhattan_bar_txt_tt: "§Y[?USA_manhattan]%§!" # todo: NEW TRANSLATION
+  HMP_ll_soviets_amtrac: "Připravit zásilku §Yamtraců§!  ( [SOV.GetFlag]§C+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  JAP_annex: "Anexovat AI" # todo: NEW TRANSLATION
+  prepare_torch: "Zahájit §COperaci Torch§!" # todo: NEW TRANSLATION
+  prepare_torch_desc: "Vichy je nejslabší článek ve Fortress Europe. Pokud obsadíme Afriku ovládanou Vichy, máme šanci vyřadit měkké podbřišek Evropy, Itálii." # todo: NEW TRANSLATION
+  JAP_annex_siam: "Anexovat Siam" # todo: NEW TRANSLATION
+  JAP_borneo: "§OUtociť na Borneo§!" # todo: NEW TRANSLATION
+  HOL_ok0: "Zvýšit obchod na Curacao" # todo: NEW TRANSLATION
+  JAP_sumatra2: "Obsadit Sumatru" # todo: NEW TRANSLATION
+  HOL_ok: "Zvýšit obchod v Surinamu" # todo: NEW TRANSLATION
+  invest_in_the_west: "Investovat na Západ" # todo: NEW TRANSLATION
+  verzetsoperaties: "Operace odboje" # todo: NEW TRANSLATION
+  HOL_ok2: "Nechat Walravena spáchat bankovní podvod" # todo: NEW TRANSLATION
+  HOL_ok3: "Rozšířit odboj na pevnině" # todo: NEW TRANSLATION
+  JAP_sumatra: "§OUtociť na Sumatra§!" # todo: NEW TRANSLATION
+  ENG_annex_norway: "Anexovat Norsko" # todo: NEW TRANSLATION
+  ENG_operation_countenance: "§OOperace Countenance (Persie)§!" # todo: NEW TRANSLATION
+  ENG_operation_countenance_desc: "Koordinujeme rychlou invazi do Persie ve spolupráci se sovětskými divizemi. To rozdělí Persii mezi britské a sovětské sféry vlivu." # todo: NEW TRANSLATION
+  ITA_operation_countenance: "§OFall Orient (Írán)§!" # todo: NEW TRANSLATION
+  ITA_operation_countenance_desc: "Napadneme a osvobodíme Írán od spojeneckého vlivu. Sovětský svaz nepochybně zaútočí na §YSverní Írán§! a Spojenci určitě zaútočí na §Yvýchodní a centrální Írán§!, ale my udeříme první, abychom zajistili naše ropné pole a otevřeli druhou frontu proti komunistům!" # todo: NEW TRANSLATION
+  JAP_operation_countenance: "§OOperace P (Persie)§!" # todo: NEW TRANSLATION
+  JAP_operation_countenance_desc: "Rychle udeříme do §Yvýchodní Persie§!, odlehčíme našim svíraným spojencům proti Oni a zajistíme, že naši protivníci nikdy nebudou určovat náš osud!" # todo: NEW TRANSLATION
+  ITA_operation_countenance_tt: "Toto zahájí §Yoperace v Íránu,§! Nicméně pro spawn-iny budeme muset udělat fokus §YStoke Iraqi Nationalism.§!" # todo: NEW TRANSLATION
+  ENG_operation_countenance_tt: "Toto zahájí §Yoperace v Íránu,§! Získáme 40 převodových horalů k zahájení boje!" # todo: NEW TRANSLATION
+  JAP_operation_countenance_tt: "Nyní, když máme zajištěnou asijskou pevninu, zahájíme naši invazi do Afriky přes Írán!" # todo: NEW TRANSLATION
+  ENG_annex_POL: "Anexovat Polsko" # todo: NEW TRANSLATION
+  colonial_responsibilities_tt: "4 spojenečtí menší jsou AI, Pokud je vybrána §Y'Válka na Západě'§!, 3 menší jsou AI." # todo: NEW TRANSLATION
+  JAP_annex_manchukuo: "Anexovat Manchukuo" # todo: NEW TRANSLATION
+  HOL_sumatra_dmz: "Demilitarizovat Palembang" # todo: NEW TRANSLATION
+  GER_annex_vichy: "Unternehmen Anton (Vichy Francie)" # todo: NEW TRANSLATION
+  lessons_tt: "§CNaše vojsko se zotaví z Velkého úklidu a odstraní všechny penalizace z očištěných důstojníků\n§! " # todo: NEW TRANSLATION
+  FRA_war_measures: "Válečná opatření" # todo: NEW TRANSLATION
+  HMP_templates_40w_tonk: "Šablony tanků" # todo: NEW TRANSLATION
+  HMP_templates_40w_tonk_desc: "Získáme §Y9/6§! §Cmechanizovaný střední obrněný§! vzor." # todo: NEW TRANSLATION
+  ENG_annex: "Anexovat AI" # todo: NEW TRANSLATION
+  AST_annex: "Anexovat AI" # todo: NEW TRANSLATION
+  AST_annex_nzl: "Anexovat Nový Zéland" # todo: NEW TRANSLATION
+  SOV_attack_finland: "Osvobodit Finsko" # todo: NEW TRANSLATION
+  FRA_move_capital: "Přesunout hlavní město" # todo: NEW TRANSLATION
+  FRA_move_capital_desc: "Přesuňte své hlavní město zpět tam, kde bylo dříve, pokud byl stát znovu dobyt." # todo: NEW TRANSLATION
+  FRA_move_capital_casablanca: "Přesunout hlavní město zpět do Casablanky" # todo: NEW TRANSLATION
+  FRA_move_capital_gabon: "Přesunout hlavní město zpět do Libreville" # todo: NEW TRANSLATION
+  NOR_allies: "Připojení k Spojencům" # todo: NEW TRANSLATION
+  GER_steiner: "Steinerův protiútok" # todo: NEW TRANSLATION
+  JAP_annex_china: "Anexovat čínské válečné pány" # todo: NEW TRANSLATION
+  SOV_prepare: "Nasadit brance" # todo: NEW TRANSLATION
+  SOV_prepare_desc: "Mobilizujeme naše rezervy po Rusku. To zmobilizuje §Y3.3 milionu mužů§! ve formě §W322 pěchotních divizí§!, vyžadujících: §Y322k pěchotního vybavení§! a §Y6.4k protiletadlového vybavení§!. Objeví se v klíčových provinciích před naší hlavní obrannou linií, Stalinskou linií." # todo: NEW TRANSLATION
+  GER_barbarossa_inf: "Připravit se na Operaci Barbarossa" # todo: NEW TRANSLATION
+  GER_barbarossa_inf_desc: "Nasadíme §W90 pěchotních divizí§!, což vyžaduje §Y1.8 milionu mužů§! a §Y180k pěchotního vybavení§!." # todo: NEW TRANSLATION
+  GER_dday: "Obsadit Atlantickou zeď" # todo: NEW TRANSLATION
+  GER_dday_desc: "Nasadíme §W206 pěchotních divizí§! na Atlantickou zeď, což vyžaduje §Y2.92 milionu mužů§!." # todo: NEW TRANSLATION
+  war_building_slot2: "Místní průmyslová integrace" # todo: NEW TRANSLATION
+  ENG_annex_saf: "Vytvořit Franco-britské unii" # todo: NEW TRANSLATION
+  ITA_fix_tungsten: "Převést španělský wolfram do Itálie" # todo: NEW TRANSLATION
+  allow_cuck: "Povolit obchod s rumunskou ropou s Osy" # todo: NEW TRANSLATION
+  allow_cuck_desc: "Všichni naši spojenci si nyní mohou volně obchodovat s rumunskou ropou." # todo: NEW TRANSLATION
+  USA_depresi_mission: "Debaty Kongresu o New Dealu" # todo: NEW TRANSLATION
+  USA_depresi_mission_desc: "Kongres debatuje o návrhu zákona New Deal. Potrvá nějaký čas, než bude další zákon New Deal znovu hlasován v Kongresu." # todo: NEW TRANSLATION
+  USA_depresi_mission2: "Debaty Kongresu o New Dealu" # todo: NEW TRANSLATION
+  USA_depresi_mission2_desc: "Kongres debatuje o návrhu zákona New Deal. Potrvá nějaký čas, než bude další zákon New Deal znovu hlasován v Kongresu." # todo: NEW TRANSLATION
+  USA_depresi_mission3: "Debaty Kongresu o New Dealu" # todo: NEW TRANSLATION
+  USA_depresi_mission3_desc: "Kongres debatuje o návrhu zákona New Deal. Potrvá nějaký čas, než bude další zákon New Deal znovu hlasován v Kongresu." # todo: NEW TRANSLATION
+  zzz_war_bonds: "Válečné dluhopisy" # todo: NEW TRANSLATION
+  remove_french_cores: "Odebrat francouzské AI z D-Day" # todo: NEW TRANSLATION
+  USA_puppet_mexico: "Puppet Mexico (Kolonie)" # todo: NEW TRANSLATION
+  USA_puppet_brazil: "Puppet Brazil (Kolonie)" # todo: NEW TRANSLATION
+  USA_puppet_minor: "Puppet bývalé hráčem řízené státy" # todo: NEW TRANSLATION
+  corsica_infra: "Kontrola Corsica - budování" # todo: NEW TRANSLATION
+  d_day_repairs: "Kontrola oprav D-Dne" # todo: NEW TRANSLATION
+  GER_annex_hungary: "Unternehmen Margarethe (Maďarsko)" # todo: NEW TRANSLATION
+  ENG_annex_canada: "Anexovat Kanadu" # todo: NEW TRANSLATION
+  ENG_annex_australia: "Anexovat Austrálii" # todo: NEW TRANSLATION
+  ENG_annex_nz: "Anexovat Nový Zéland" # todo: NEW TRANSLATION
+  GER_annex_romania: "Unternehmen Margarethe II (Rumunsko)" # todo: NEW TRANSLATION
+  ITA_annex_player_yugoslavia: "Anexovat Jugoslávii" # todo: NEW TRANSLATION
+  FRA_annex_saf: "Anexovat Jižní Afriku" # todo: NEW TRANSLATION
+  FRA_annex_saf2: "Anexovat Kanadu" # todo: NEW TRANSLATION
+  FRA_surrender: "Kapitulace" # todo: NEW TRANSLATION
+  ITA_annex_bul: "Unternehmen Boris (Bulharsko)" # todo: NEW TRANSLATION
+  NZL_annex_australia: "Anexovat Austrálii" # todo: NEW TRANSLATION
+  NZL_AUSTRALIA_democratic: "Austrálie" # todo: NEW TRANSLATION
+  NZL_AUSTRALIA_democratic_ADJ: "Australský" # todo: NEW TRANSLATION
+  NZL_AUSTRALIA_democratic_DEF: "Austrálie" # todo: NEW TRANSLATION
+  ENG_permitted_SAF: "Westminster schválil mandát pro Jižní Afriku" # todo: NEW TRANSLATION
+  ENG_permit_saf: "Povolit africký mandát pro Jižní Afriku" # todo: NEW TRANSLATION
+  ENG_permit_saf_desc: "Naše zámořské kolonie v jižní polovině Afriky jsou pro nás příliš obtížné na udržení - měli bychom povzbudit náš dominion Jižní Afriku, aby převzala jejich správu." # todo: NEW TRANSLATION
+  war_support_info_tt: "Získáme 12.85% Válečné podpory" # todo: NEW TRANSLATION
+  general_decisions: "Obecná rozhodnutí" # todo: NEW TRANSLATION
+  general_decisions_desc: "Tato rozhodnutí dávají vlastnost NÁHODNÉMU GENERÁLOVI VEDOUCÍMU ARMÁDU, takže se ujistěte, že máte přiřazen JEDNOHO generála (toho, kterému chcete přiřadit zvolenou vlastnost)." # todo: NEW TRANSLATION
+  general_decision_trickster: "Přiřadit vlastnost Trickster" # todo: NEW TRANSLATION
+  general_decision_organizer: "Přiřadit vlastnost Organizer" # todo: NEW TRANSLATION
+  expand_spy_agency: "Rozšířit zpravodajskou agenturu" # todo: NEW TRANSLATION
+  HMP_ll_soviets_send: "Posílat lend-lease Sovětskému svazu" # todo: NEW TRANSLATION
+  HMP_ll_soviets_send_desc: "Operace Barbarossa je největší vojenská operace v lidské historii. Osa lze oslabit pouze sovětskou krví a spojeneckým lend-lease.\n\nPošleme §CZásilky§! Sovětskému svazu za každý §GDodací koridor§! nebo §GStrategický cíl§!, který ovládáme během Operace Barbarossa. Přijetí našich lend-lease zásilek závisí na kontrole klíčových §GDodacích koridorů§! do Sovětského svazu. Pokud budou všechny §GDodací koridory§! uzavřeny, naši sovětský spojenci nebudou moci obdržet žádný lend-lease, dokud nebudou koridory znovu zajištěny.\n\nJedna §CZásilka§! má přibližně hodnotu £production_cost §G2000 výroby§! v materiálech.\n\nSovětský svaz může vyměnit §CZásilku§! za přibližně stejné množství následujícího vybavení: §YPěchotní vybavení I§!, §YProtiletadlové vybavení II§!, §YPodpůrné vybavení§!, §YDělostřelecké vybavení II§!, §YRaketové dělostřelectvo I§!, §YMoto-raketové dělostřelectvo§!, §YProtitankové vybavení II§!, §YMotorové vybavení§!, §YMechanizované vybavení I§!, §YAmpibické traktory I§!, §YLehké/Střední/Těžké tanky III§!, §YSupertěžké tanky I§!, a §YDomácí stíhače II§!.\n\n§GDodací koridory§! jsou aktuálně [Root.GetSovSupplyRoute]\n§GArktická trasa§! přes přístav Murmansk je aktuálně kontrolována §O[213.CONTROLLER.GetFlag][213.CONTROLLER.GETNAME]§! [GetSovSupplyRouteMurmansk].\n\n§GPacifická trasa§! přes Honolulu a Vladivostok je aktuálně kontrolována §O[416.CONTROLLER.GetFlag][416.CONTROLLER.GETNAME]§! a §O[408.CONTROLLER.GetFlag][408.CONTROLLER.GETNAME]§!, [GetSovSupplyRouteVladivostok]\n\n§GPerský koridor§! přes Írán a Baku je aktuálně kontrolován §O[412.CONTROLLER.GetFlag][412.CONTROLLER.GETNAME]§! a §O[229.CONTROLLER.GetFlag][229.CONTROLLER.GETNAME]§!, [GetSovSupplyRouteIran]\n\n§GStředozemní trasa§! přes Maltu a Sevastopol je aktuálně kontrolována §O[116.CONTROLLER.GetFlag][116.CONTROLLER.GETNAME]§! a §O[137.CONTROLLER.GetFlag][137.CONTROLLER.GETNAME]§!, [GetSovSupplyRouteMalta]\n\n[GetObjOkinawa]\n\n[GetObjIwoJima]\n\n[GetObjMarcusIsland]\n\n[GetObjPalau]\n\n[GetObjSingapore]\n\n[GetObjHongKong]\n\n[GetObjSaipan]\n\nSovětský svaz má §O[?SOV.SOV_barb_ll_token|+0]§! §CZásilky§! válečného materiálu k dispozici.\n\nSovětský svaz obdržel celkem §O[?SOV.SOV_barb_ll_token2|+0]§! §CZásilek§! válečného materiálu od spojenců během války." # todo: NEW TRANSLATION
+  mers_el_kebir: "§COperace Catapult§!" # todo: NEW TRANSLATION
+  mers_el_kebir_desc: "Zoufalé časy vyžadují zoufalá opatření - francouzský loďstvo musí být převzato do britské péče, připojit se ke spojencům, nebo v nejhorším případě potopeno!" # todo: NEW TRANSLATION
+  GetSovSupplyRouteSecure: "§GOtevřeno§!\n" # todo: NEW TRANSLATION
+  GetSovSupplyRouteInsecure: "§RUzavřeno§!\n" # todo: NEW TRANSLATION
+  GetSovSupplyRouteMaltaSecure: "Naše kontrola §H[116.GetName]§! nám umožní připravit £convoy_texticon §Y1§! §CZásilku§! tento měsíc pokud jsou také zabezpečeny §H[118.GetName]§! a §H[137.GetName]§!." # todo: NEW TRANSLATION
+  GetSovSupplyRouteMaltaInsecure: "§O[116.CONTROLLER.GetFlag][116.CONTROLLER.GetName]§! nám brání připravit §Y1§! §Rzásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteVladivostokSecure: "Sovětská kontrola odeslání z §H[408.GetName]§! nám umožní připravit £convoy_texticon §Y1§! §CZásilku§! tento měsíc pokud je také zabezpečen §H[416.GetName]§!." # todo: NEW TRANSLATION
+  GetSovSupplyRouteVladivostokInsecure: "§O[408.CONTROLLER.GetFlag][408.CONTROLLER.GetName]§! nám brání připravit §Y1§! §Rzásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteMurmanskSecure: "Sovětská kontrola §H[213.GetName]§! nám umožní připravit £convoy_texticon §Y3§! §CZásilky§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteMurmanskInsecure: "§O[213.CONTROLLER.GetFlag][213.CONTROLLER.GetName]§! nám brání připravit §Y3§! §Rzásilky§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteIranSecure: "Naše kontrola §H[412.GetName]§! nám umožní připravit §Y10§! §CZásilek§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteIranInsecure: "§O[412.CONTROLLER.GetFlag][412.CONTROLLER.GetName]§! nám brání připravit §Y10§! §Rzásilek§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteIran_tt: "[GetSovSupplyRouteIran]" # todo: NEW TRANSLATION
+  GetSovSupplyRouteMurmansk_tt: "[GetSovSupplyRouteMurmansk]" # todo: NEW TRANSLATION
+  GetSovSupplyRouteGibraltar_tt: "[GetSovSupplyRouteGibraltar]" # todo: NEW TRANSLATION
+  GetSovSupplyRouteGibraltarSecure: "Naše kontrola §H[118.GetName]§! nám umožní připravit £convoy_texticon §Y1§! §CZásilku§! tento měsíc pokud jsou také zabezpečeny §H[116.GetName]§! a §H[137.GetName]§!." # todo: NEW TRANSLATION
+  GetSovSupplyRouteGibraltarInsecure: "§O[118.CONTROLLER.GetFlag][118.CONTROLLER.GetName]§! nám brání připravit §Y1§! §Rzásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteMalta_tt: "[GetSovSupplyRouteMalta]" # todo: NEW TRANSLATION
+  GetSovSupplyRouteCrimea_tt: "[GetSovSupplyRouteCrimea]" # todo: NEW TRANSLATION
+  GetSovSupplyRouteCrimeaSecure: "Sovětská kontrola §H[137.GetName]§! nám umožní připravit £convoy_texticon §Y1§! §CZásilku§! tento měsíc pokud jsou také zabezpečeny §H[116.GetName]§! a §H[118.GetName]§!." # todo: NEW TRANSLATION
+  GetSovSupplyRouteCrimeaInsecure: "§O[137.CONTROLLER.GetFlag][137.CONTROLLER.GetName]§! nám brání připravit §Y1§! §Rzásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteHawaii_tt: "[GetSovSupplyRouteHawaii]" # todo: NEW TRANSLATION
+  GetSovSupplyRouteHawaiiSecure: "Americká kontrola §H[416.GetName]§! nám umožní připravit £convoy_texticon §Y1§! §CZásilku§! tento měsíc pokud je také zabezpečen §H[408.GetName]§!." # todo: NEW TRANSLATION
+  GetSovSupplyRouteHawaiiInsecure: "§O[416.CONTROLLER.GetFlag][416.CONTROLLER.GetName]§! nám brání připravit §Y1§! §Rzásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteVladivostok_tt: "[GetSovSupplyRouteVladivostok]" # todo: NEW TRANSLATION
+  GetObjIwoJima_tt: "[GetObjIwoJima]" # todo: NEW TRANSLATION
+  GetObjOkinawa_tt: "[GetObjOkinawa]" # todo: NEW TRANSLATION
+  GetOkinawaSecure: "Ostrov §GOkinawa§! je v současné době pod kontrolou §O[526.CONTROLLER.GetFlag][526.CONTROLLER.GetName]§!, což nám umožňuje připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetOkinawaInsecure: "Ostrov §GOkinawa§! je v současné době pod kontrolou §O[526.CONTROLLER.GetFlag][526.CONTROLLER.GetName]§!, což nám brání připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetIwoJimaSecure: "Ostrov §GIwo Jima§! je v současné době pod kontrolou §O[560.CONTROLLER.GetFlag][560.CONTROLLER.GetName]§!, což nám umožňuje připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetIwoJimaInsecure: "Ostrov §GIwo Jima§! je v současné době pod kontrolou §O[560.CONTROLLER.GetFlag][560.CONTROLLER.GetName]§!, což nám brání připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSovSupplyRouteMarcus_tt: "[GetObjMarcusIsland]" # todo: NEW TRANSLATION
+  GetSovSupplyRoutePalau_tt: "[GetObjPalau]" # todo: NEW TRANSLATION
+  GetSovSupplyRouteSingapore_tt: "[GetObjSingapore]" # todo: NEW TRANSLATION
+  GetSovSupplyRouteHongKong_tt: "[GetObjHongKong]" # todo: NEW TRANSLATION
+  GetSovSupplyRouteSaipan_tt: "[GetObjSaipan]" # todo: NEW TRANSLATION
+  GetMarcusIslandSecure: "Ostrov §GMarcus Island§! je v současné době pod kontrolou §O[180.CONTROLLER.GetFlag][180.CONTROLLER.GetName]§!, což nám umožňuje připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetMarcusIslandInsecure: "Ostrov §GMarcus Island§! je v současné době pod kontrolou §O[180.CONTROLLER.GetFlag][180.CONTROLLER.GetName]§!, což nám brání připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetPalauSecure: "Ostrov §GPalau§! je v současné době pod kontrolou §O[488.CONTROLLER.GetFlag][488.CONTROLLER.GetName]§!, což nám umožňuje připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetPalauInsecure: "Ostrov §GPalau§! je v současné době pod kontrolou §O[488.CONTROLLER.GetFlag][488.CONTROLLER.GetName]§!, což nám brání připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSingaporeSecure: "Ostrov §GSingapur§! je v současné době pod kontrolou §O[336.CONTROLLER.GetFlag][336.CONTROLLER.GetName]§!, což nám umožňuje připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSingaporeInsecure: "Ostrov §GSingapur§! je v současné době pod kontrolou §O[336.CONTROLLER.GetFlag][336.CONTROLLER.GetName]§!, což nám brání připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetHongKongSecure: "Ostrov §GHong Kong§! je v současné době pod kontrolou §O[326.CONTROLLER.GetFlag][326.CONTROLLER.GetName]§!, což nám umožňuje připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetHongKongInsecure: "Ostrov §GHong Kong§! je v současné době pod kontrolou §O[326.CONTROLLER.GetFlag][326.CONTROLLER.GetName]§!, což nám brání připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSaipanSecure: "Ostrov §GSaipan§! je v současné době pod kontrolou §O[409.CONTROLLER.GetFlag][409.CONTROLLER.GetName]§!, což nám umožňuje připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  GetSaipanInsecure: "Ostrov §GSaipan§! je v současné době pod kontrolou §O[409.CONTROLLER.GetFlag][409.CONTROLLER.GetName]§!, což nám brání připravit £convoy_texticon §Y1§! další §CZásilku§! tento měsíc." # todo: NEW TRANSLATION
+  send_guns_tt: "[GetSendGuns]" # todo: NEW TRANSLATION
+  GetSendGunsNormal: "Poslat 25 000 pušek" # todo: NEW TRANSLATION
+  GetSendGunsSov: "§HPoslat 25 000 pušek§!" # todo: NEW TRANSLATION
+  send_arty_tt: "[GetSendArty]" # todo: NEW TRANSLATION
+  GetSendArtyNormal: "Poslat 4 000 dělostřeleckých kusů" # todo: NEW TRANSLATION
+  GetSendArtySov: "§HPoslat 4 000 dělostřeleckých kusů§!" # todo: NEW TRANSLATION
+  send_aa_tt: "[GetSendAA]" # todo: NEW TRANSLATION
+  GetSendAANormal: "Poslat 3 250 protiletadlových děl" # todo: NEW TRANSLATION
+  GetSendAASov: "§HPoslat 3 250 protiletadlových děl§!" # todo: NEW TRANSLATION
+  send_at_tt: "[GetSendAT]" # todo: NEW TRANSLATION
+  GetSendATNormal: "Poslat 3 000 protitankových děl" # todo: NEW TRANSLATION
+  GetSendATSov: "§HPoslat 3 000 protitankových děl§!" # todo: NEW TRANSLATION
+  send_rarty_tt: "[GetSendRarty]" # todo: NEW TRANSLATION
+  GetSendRartyNormal: "Poslat 2 500 raketového dělostřelectva" # todo: NEW TRANSLATION
+  GetSendRartySov: "§HPoslat 2 500 raketového dělostřelectva§!" # todo: NEW TRANSLATION
+  send_sup_tt: "[GetSendSup]" # todo: NEW TRANSLATION
+  GetSendSupNormal: "Poslat 3 250 podpůrného vybavení" # todo: NEW TRANSLATION
+  GetSendSupSov: "§HPoslat 3 250 podpůrného vybavení§!" # todo: NEW TRANSLATION
+  send_mot_tt: "[GetSendMot]" # todo: NEW TRANSLATION
+  GetSendMotNormal: "Poslat 5 000 nákladních aut" # todo: NEW TRANSLATION
+  GetSendMotSov: "§HPoslat 5 000 nákladních aut§!" # todo: NEW TRANSLATION
+  send_mech_tt: "[GetSendMech]" # todo: NEW TRANSLATION
+  GetSendMechNormal: "Poslat 1 000 obrněných transportérů" # todo: NEW TRANSLATION
+  GetSendMechSov: "§HPoslat 1 000 obrněných transportérů§!" # todo: NEW TRANSLATION
+  send_med_tt: "[GetSendMed]" # todo: NEW TRANSLATION
+  GetSendMedNormal: "Poslat 400 středních tanků" # todo: NEW TRANSLATION
+  GetSendMedSov: "§HPoslat 400 středních tanků§!" # todo: NEW TRANSLATION
+  send_light_tt: "[GetSendLight]" # todo: NEW TRANSLATION
+  GetSendLightNormal: "Poslat 500 lehkých tanků" # todo: NEW TRANSLATION
+  GetSendLightSov: "§HPoslat 500 lehkých tanků§!" # todo: NEW TRANSLATION
+  send_fighter_tt: "[GetSendFighter]" # todo: NEW TRANSLATION
+  GetSendFighterNormal: "Poslat 250 stíhačů" # todo: NEW TRANSLATION
+  GetSendFighterSov: "§HPoslat 250 stíhačů§!" # todo: NEW TRANSLATION
+  send_cas_tt: "[GetSendCas]" # todo: NEW TRANSLATION
+  GetSendCasNormal: "Poslat 250 CAS" # todo: NEW TRANSLATION
+  GetSendCasSov: "§HPoslat 250 CAS§!" # todo: NEW TRANSLATION
+  SOV_gib_guns: "[GibGuns]" # todo: NEW TRANSLATION
+  SOV_show_LL_decision_stuff: "[ShowLLDecisionsForSov]" # todo: NEW TRANSLATION
+  ShowLLDecisionsForSovOn: "Rozhodnutí LL: §Zobrazena§!" # todo: NEW TRANSLATION
+  ShowLLDecisionsForSovOff: "Rozhodnutí LL: §NSkrýt§!" # todo: NEW TRANSLATION
+  GibGunsOn: "§HPěchotní vybavení§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibGunsOff: "§HPěchotní vybavení§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_aa: "[GibAA]" # todo: NEW TRANSLATION
+  GibAAOn: "§HProtiletadlové§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibAAOff: "§HProtiletadlové§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_arty: "[GibArty]" # todo: NEW TRANSLATION
+  GibArtyOn: "§HDělostřelectvo§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibArtyOff: "§HDělostřelectvo§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_at: "[GibAT]" # todo: NEW TRANSLATION
+  GibATOn: "§HProtitankové§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibATOff: "§HProtitankové§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_rarty: "[GibRarty]" # todo: NEW TRANSLATION
+  GibRartyOn: "§HRaketové dělostřelectvo§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibRartyOff: "§HRaketové dělostřelectvo§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_sup: "[GibSup]" # todo: NEW TRANSLATION
+  GibSupOn: "§HPodpůrné vybavení§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibSupOff: "§HPodpůrné vybavení§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_mot: "[GibMot]" # todo: NEW TRANSLATION
+  GibMotOn: "§HTruck§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibMotOff: "§HTruck§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_mech: "[GibMech]" # todo: NEW TRANSLATION
+  GibMechOn: "§HMechanizované§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibMechOff: "§HMechanizované§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_fighter: "[GibFighter]" # todo: NEW TRANSLATION
+  GibFighterOn: "§HStíhač§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibFighterOff: "§HStíhač§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_cas: "[GibCas]" # todo: NEW TRANSLATION
+  GibCasOn: "§HCAS§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibCasOff: "§HCAS§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_light: "[GibLight]" # todo: NEW TRANSLATION
+  GibLightOn: "§HLehký tank§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibLightOff: "§HLehký tank§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  SOV_gib_med: "[GibMed]" # todo: NEW TRANSLATION
+  GibMedOn: "§HStřední tank§! Lend-Lease: §7ŽÁDÁNO§!" # todo: NEW TRANSLATION
+  GibMedOff: "§HStřední tank§! Lend-Lease: §RNEPOŽADOVÁNO§!" # todo: NEW TRANSLATION
+  what_ll_color_mean_tt: "ZÁSILKY V §YŽLUTÉM§! JSOU POŽADOVÁNY [SOV.GetFlag]SOVĚTSKÝM SVAZEM" # todo: NEW TRANSLATION
+  HMP_ll_soviets_guns: "Připravit zásilku §YPuší§! ( [SOV.GetFlag]§C+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_aa: "Připravit zásilku §YProtiletadlových baterií§! ( [SOV.GetFlag]§C+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_support: "Připravit zásilku §YPodpůrného vybavení§! ( [SOV.GetFlag]§C+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_motorized: "Připravit zásilku §YNákladních aut§! ( [SOV.GetFlag]§C+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_at: "Připravit zásilku §YProtitankových děl§! ( [SOV.GetFlag]§C+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_arty: "Připravit zásilku §YDělostřelectva§! ( [SOV.GetFlag]§C+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_rarty: "Připravit zásilku §YRaketového dělostřelectva§! ( [SOV.GetFlag]§C+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_mech: "Připravit zásilku §HObrněných transportérů§! ( [SOV.GetFlag]§C+1§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_fighter: "Připravit zásilku §YLekkých stíhačů§! ( [SOV.GetFlag]§C+1200 £GFX_unit_fighter_icon_small )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_ht: "Připravit zásilku §YTěžkých tanků§! ( [SOV.GetFlag]§C+10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_mt: "Připravit zásilku §YStředních tanků§! ( [SOV.GetFlag]§C+10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive: "Spojenecký lend-lease" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_desc: "Máme [?Root.SOV_barb_ll_token|+0] £convoy_texticon §CZásilek§! válečných materiálů, které nám pomáhají.\n\nKaždá £convoy_texticon §CZásilka§! má přibližně hodnotu £production_cost §G2000 výroby§! a může být vyměněna za přibližně stejné množství výroby v následujícím vybavení: §YPěchotní vybavení I§!, §YProtiletadlové vybavení II§!, §YPodpůrné vybavení§!, §YDělostřelecké vybavení II§!, §YRaketové dělostřelectvo I§!, §YMoto-raketové dělostřelectvo§!, §YProtitankové vybavení II§!, §YMotorové vybavení§!, §YMechanizované vybavení I§!, §YAmpibické traktory I§!, §YLehké/Střední/Těžké tanky III§!, §YSupertěžké tanky I§!, a §YDomácí stíhače II§!.\n\nPokud Spojenci kontrolují Írán, budeme schopni přijímat lend-lease hned po zahájení Operace Barbarossa." # todo: NEW TRANSLATION
+  SOV_barb_ll_token: "Zásilka" # todo: NEW TRANSLATION
+  HMP_ll_soviets_fighters_start: "Zahájit lend-lease letadel pro SSSR" # todo: NEW TRANSLATION
+  HMP_ll_soviets_fighters_end: "Zastavit lend-lease letadel pro SSSR" # todo: NEW TRANSLATION
+  HMP_ll_soviets_fighters: "Lend-lease letadel" # todo: NEW TRANSLATION
+  HMP_ll_soviets_guns11: "Lend-lease pěchotního vybavení" # todo: NEW TRANSLATION
+  HMP_ll_soviets_guns_start: "Zahájit lend-lease pěchotního vybavení" # todo: NEW TRANSLATION
+  HMP_ll_soviets_guns_end: "Zastavit lend-lease pěchotního vybavení" # todo: NEW TRANSLATION
+  HMP_ll_soviets_arty11: "Lend-lease dělostřeleckého vybavení" # todo: NEW TRANSLATION
+  HMP_ll_soviets_arty_start: "Zahájit lend-lease dělostřelectva" # todo: NEW TRANSLATION
+  HMP_ll_soviets_arty_end: "Zastavit lend-lease dělostřelectva" # todo: NEW TRANSLATION
+  HMP_ll_soviets_at11: "Lend-lease protitankového vybavení" # todo: NEW TRANSLATION
+  HMP_ll_soviets_at_start: "Zahájit lend-lease protitankového vybavení" # todo: NEW TRANSLATION
+  HMP_ll_soviets_at_end: "Zastavit lend-lease protitankového vybavení" # todo: NEW TRANSLATION
+  GetMANChinaNO: "Nedovolit Manchukuovi anexi Číny" # todo: NEW TRANSLATION
+  GetMANChinaYES: "Dovolit Manchukuovi annexi Číny" # todo: NEW TRANSLATION
+  soviets_1_shipments_tt: "Sovětský svaz obdrží §Y1§! £convoy_texticon §CZásilku§!" # todo: NEW TRANSLATION
+  soviets_fighter_shipments_tt: "Sovětský svaz obdrží §Y1350§! £GFX_unit_fighter_icon_small §HDomácí stíhače§!" # todo: NEW TRANSLATION
+  soviets_10_shipments_tt: "Sovětský svaz obdrží £convoy_texticon §Y10§! §CZásilek§!" # todo: NEW TRANSLATION
+  soviets_20_shipments_tt: "Sovětský svaz obdrží §Y20§! £convoy_texticon §CZásilek§!" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_CAS: "Obdržet zásilku §YClose Air Support§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_guns: "Obdržet zásilku §YPuší§! (§R-5§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_fighter: "Obdržet zásilku §Y(Domácích) stíhačů§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_support: "Obdržet zásilku §YPodpůrného vybavení§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_more_guns: "Obdržet zásilku §YPuší§! (§R-20§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_ac: "Obdržíte zásilku §Yobrněných vozů§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_more_guns2: "Obdržet velkou masivní zásilku §YPuší§! (§R-50§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_aa: "Obdržet zásilku §YProtiletadlových baterií§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_arty: "Obdržet zásilku §YDělostřeleckých kusů§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_at: "Obdržet zásilku §YProtitankových děl§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_rarty: "Obdržet zásilku §YRaketových dělostřeleckých kusů§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_mot: "Obdržet zásilku §YNákladních aut§!  (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_armorcar: "Obdržet zásilku §YObrněných vozů§! (§R-5§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_mrarty: "Obdržet zásilku §YKatyush§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_mech: "Obdržet zásilku §HObrněných transportérů§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_amtrac: "Obdržet zásilku §YAmpibických traktorů§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_med_tank: "Obdržet zásilku §YStředních tanků§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_heavy_tank: "Obdržet zásilku §YTěžkých tanků§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_light_tank: "Obdržet zásilku §YLehkých tanků§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_soviets_receive_super_heavy_tank: "Obdržet zásilku §YSupertěžkých tanků§! (§R-10§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_remove_guns: "Odstraníme §R10000 pušek§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_more_guns: "Odstraníme §R200000 pušek§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_soviets_guns_large: "Připravit velkou zásilku §YPuší§! ( [SOV.GetFlag]§C+20§! £convoy_texticon )" # todo: NEW TRANSLATION
+  HMP_ll_remove_aa: "Odstraníme §R1200 protiletadlových baterií§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_at: "Odstraníme §R1000 protitankových děl§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_arty: "Odstraníme §R1100 dělostřeleckých kusů§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_support: "Odstraníme §R2000 podpůrného vybavení§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_fighter: "Odstraníme §R1350 lehkých stíhačů§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_rarty: "Odstraníme §R1200 raketových dělostřeleckých kusů§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_mot: "Odstraníme §R2000 nákladních aut§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_mt: "Odstraníme §R4000 středních tanků§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_ht: "Odstraníme §R2000 těžkých tanků§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_mech: "Odstraníme  §R625 obrněných transportérů§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  HMP_ll_remove_amtrac: "Odstraníme §R500 ampibických traktorů§! ze skladu.\n\n" # todo: NEW TRANSLATION
+  ENG_prepare_for_sealion: "Přípravy na invazi" # todo: NEW TRANSLATION
+  ENG_prepare_for_sealion_desc: "Mezi naším velkým ostrovním národem a temnotou, která postihla Evropu, je jen 34 kilometrů. Měli bychom se začít připravovat na invazi nyní, abychom se nestali další okupovanou zemí Německem." # todo: NEW TRANSLATION
+  ENG_form_the_ldv: "Nacvičit místní obranné dobrovolníky (LDV)" # todo: NEW TRANSLATION
+  ENG_form_the_ldv_desc: "Rozsáhlá organizace dobrovolníků je potřeba k doplnění pozorovacích a vojenských schopností naší armády v domovské zemi." # todo: NEW TRANSLATION
+  ENG_form_the_home_guard: "Přeměnit LDV na domácí gardu" # todo: NEW TRANSLATION
+  ENG_form_the_home_guard_desc: "Místní obranní dobrovolníci se ukázali jako užiteční, ale špatně vybavení a cvičení. S významnou vojenskou investicí můžeme tuto organizaci proměnit v silnou polovojenskou skupinu." # todo: NEW TRANSLATION
+  ENG_prepare_resistance: "Připravit odboj" # todo: NEW TRANSLATION
+  ENG_prepare_resistance_desc: "Ještě dřív, než německý voják vkročí na britskou půdu, můžeme vytvořit dobře připravený a vybavený odboj, který zpomalí a opotřebuje německý válečný stroj." # todo: NEW TRANSLATION
+  ENG_create_fortifications: "Postavit linii GHQ" # todo: NEW TRANSLATION
+  ENG_create_fortifications_desc: "Silná obranná linie je klíčová k naší obraně v hloubce, pokud Německo vpadne. Generální velitelství linii je naší poslední obrannou linií pro ochranu Londýna a průmyslového srdce Británie." # todo: NEW TRANSLATION
+  USA_plane_LL1: "Automatický lend-lease letadel (UK)" # todo: NEW TRANSLATION
+  USA_plane_LL2: "Automatický lend-lease letadel (UK)" # todo: NEW TRANSLATION
+  USA_plane_LL3: "Automatický lend-lease letadel (UK)" # todo: NEW TRANSLATION
+  USA_plane_LL4: "Automatický lend-lease letadel (UK)" # todo: NEW TRANSLATION
+  USA_plane_LL5: "Automatický lend-lease letadel (UK)" # todo: NEW TRANSLATION
+  HMP_finland_noob: "Finsko v Horstorical" # todo: NEW TRANSLATION
+  HMP_france_noob: "Francie v Horstorical" # todo: NEW TRANSLATION
+  HMP_ger_noob: "Německo v Horstorical" # todo: NEW TRANSLATION
+  HMP_ita_noob: "Itálie v Horstorical" # todo: NEW TRANSLATION
+  HMP_usa_noob: "Spojené státy americké v Horstorical" # todo: NEW TRANSLATION
+  HMP_vic_noob: "Vichy Francie v Horstorical" # todo: NEW TRANSLATION
+  HMP_nor_noob: "Norsko v Horstorical" # todo: NEW TRANSLATION
+  HMP_saf_noob: "Jižní Afrika v Horstorical" # todo: NEW TRANSLATION
+  HMP_saf_noob_desc: "Dostaneme událost vysvětlující základy Jižní Afriky v Horstorical a užitečnou šablonu divizí pro obranu El Alameinu." # todo: NEW TRANSLATION
+  HMP_nor_noob_desc: "Dostaneme událost vysvětlující základy Norska v Horstorical a obdržíme dvě užitečné šablony divizí pro pozdější invazi do Norska." # todo: NEW TRANSLATION
+  HMP_vic_noob_desc: "Dostaneme událost vysvětlující základy Vichy Francie v Horstorical a obdržíme užitečné šablony divizí pro boje proti Sovětům a v Severní Africe." # todo: NEW TRANSLATION
+  HMP_finland_noob_desc: "Dostaneme událost vysvětlující základy Finska v Horstorical a obdržíme tři užitečné šablony divizí pro boj se Sověty." # todo: NEW TRANSLATION
+  USA_plane_auto_LL: "Lend-Lease" # todo: NEW TRANSLATION
+  USA_plane_auto_LL_desc: "Klikněte na rozhodnutí níže pro automatické převádění vybavení ze skladu do cílové země." # todo: NEW TRANSLATION
+  USA_plane_eng: "Aktivovat automatický lend-lease letadel do UK" # todo: NEW TRANSLATION
+  USA_plane_can: "Aktivovat automatický lend-lease letadel do Kanady" # todo: NEW TRANSLATION
+  USA_plane_ire: "Aktivovat automatický lend-lease letadel do Irska" # todo: NEW TRANSLATION
+  SOV_secure_tt: "Alespoň jeden dodací koridor je zabezpečen" # todo: NEW TRANSLATION
+  spy_agency: "Zpravodajská agentura" # todo: NEW TRANSLATION
+  dont_show_agency_warning: "[GetWarnAgency]" # todo: NEW TRANSLATION
+  GetWarnAgencyNoWarn: "Připomenutí agentury: §RVYPNUTO§!" # todo: NEW TRANSLATION
+  GetWarnAgencyWarn: "Připomenutí agentury: §YZAPNUTO§!" # todo: NEW TRANSLATION
+  show_agency_warning: "Upozornit při nezlepšování agentury" # todo: NEW TRANSLATION
+  spy_agency_upgrade: "Žádné vylepšení agentury v průběhu" # todo: NEW TRANSLATION
+  spy_agency_upgrade2: "Žádné vylepšení agentury v průběhu" # todo: NEW TRANSLATION
+  GER_barb_buff3_tt: "§R\nNaše útočné plány vyprší po 23. listopadu 1943!§!" # todo: NEW TRANSLATION
+  GER_barb_buff4_tt: "§R\nNaše útočné plány vyprší po 23. listopadu 1944!§!" # todo: NEW TRANSLATION
+  HMP_templates: "Panel hráče Horstorical Multiplayer" # todo: NEW TRANSLATION
+  HMP_templates_desc: "Klikněte na rozhodnutí níže pro užitečné pěchotní a obrněné šablony divizí. Nahraďte pěchotu horaly, pokud chcete silnější, i když dražší pěchotu. Nahraďte motorovou složku mechanizovanou pro tankové divize s lepšími obrannými statistikami.\n\nAktuální hostitel je [GetCurrentHost]\n\nŠpanělská občanská válka je [GetSCWStatus]" # todo: NEW TRANSLATION
+  GetCurrentHost_ITA: "§G[ITA.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_GER: "§G[GER.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_USA: "§G[USA.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_ENG: "§G[ENG.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_JAP: "§G[JAP.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_SOV: "§G[SOV.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_FRA: "§G[FRA.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_CAN: "§G[CAN.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_SAF: "§G[SAF.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_HOL: "§G[HOL.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_POL: "§G[POL.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_NOR: "§G[NOR.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_RAJ: "§G[RAJ.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_AST: "§G[AST.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_NZL: "§G[NZL.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_BRA: "§G[BRA.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_MAN: "§G[MAN.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_SIA: "§G[SIA.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_ALB: "§G[ALB.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_AOI: "§G[AOI.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_EFR: "§G[EFR.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_YUG: "§G[YUG.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_BUL: "§G[BUL.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_ROM: "§G[ROM.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_HUN: "§G[HUN.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_SPR: "§G[SPR.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_CZE: "§G[CZE.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_DEN: "§G[DEN.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_FIN: "§G[FIN.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_MON: "§G[MON.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_GRE: "§G[GRE.GetName]§!" # todo: NEW TRANSLATION
+  GetCurrentHost_MEX: "§G[MEX.GetName]§!" # todo: NEW TRANSLATION
+  GetSCWStatus_on: "§YZAPNUTO§!" # todo: NEW TRANSLATION
+  GetSCWStatus_off: "§R VYPNUTO§!" # todo: NEW TRANSLATION
+  HMP_templates_20w: "Šablony pěchoty" # todo: NEW TRANSLATION
+  HMP_templates_20w_desc: "Dostaneme §Y10/3/1§! §Canti-pěchotní§! šablonu, §Y13/0/4§! §Canti-tank§! šablonu a §Y9/3/3§! §Cobecnou§! šablonu pro boj se vším.\n\nPoužijte soft attack na boj s pěchotou a hard attack proti tankům!. Pěchota může být zaměněna za speciální síly nebo jízdu." # todo: NEW TRANSLATION
+  HMP_uk_noob: "Spojené království v Horstorical" # todo: NEW TRANSLATION
+  HMP_uk_noob_desc: "Dostaneme událost vysvětlující základy Spojeného království v Horstorical a obdržíme čtyři užitečné šablony divizí pro posádky Atlantiku, Středomoří a Středního východu" # todo: NEW TRANSLATION
+  SOV_move_capital_kazan: "Přesunout hlavní město do Kuibyshevu" # todo: NEW TRANSLATION
+  SOV_move_capital_stalingrad: "Přesunout hlavní město do Stalingradu" # todo: NEW TRANSLATION
+  SOV_move_capital_leningrad: "Přesunout hlavní město do Leningradu" # todo: NEW TRANSLATION
+  SOV_move_capital_moscow: "Přesunout hlavní město do Moskvy" # todo: NEW TRANSLATION
+  SOV_capital: "Přemístit hlavní město" # todo: NEW TRANSLATION
+  GER_plane_LL1: "Automatický lend-lease letadel" # todo: NEW TRANSLATION
+  GER_plane_LL2: "Automatický lend-lease letadel" # todo: NEW TRANSLATION
+  GER_plane_LL3: "Automatický lend-lease letadel" # todo: NEW TRANSLATION
+  GER_plane_LL4: "Automatický lend-lease letadel" # todo: NEW TRANSLATION
+  GER_plane_LL5: "Automatický lend-lease letadel" # todo: NEW TRANSLATION
+  GER_plane_auto_LL: "Lend-Lease" # todo: NEW TRANSLATION
+  GER_plane_auto_LL_desc: "Klikněte na rozhodnutí níže pro automatické převádění vybavení ze skladu do cílové země." # todo: NEW TRANSLATION
+  GER_plane_hun: "[GetLLName]" # todo: NEW TRANSLATION
+  GetLLNameGer: "Aktivovat automatický lend-lease do Itálie" # todo: NEW TRANSLATION
+  GetLLNameIta: "Aktivovat automatický lend-lease do Německa" # todo: NEW TRANSLATION
+  ENG_singapore_evacuation: "Evakuace Singapuru" # todo: NEW TRANSLATION
+  ENG_singapore_evacuation_tt: "Budete moci odemknout rozhodnutí evakuovat §YSingapur§! jakmile §YJaponsko§! vyhlásí válku! Evakuace potrvá §Y120 dní§!." # todo: NEW TRANSLATION
+  ENG_hong_kong_evacuation: "Sázka na Hongkong" # todo: NEW TRANSLATION
+  ENG_hong_kong_evacuation_tt: "Budete moci odemknout rozhodnutí evakuovat §YHong Kong§! jakmile §YJaponsko§! vyhlásí válku! Evakuace potrvá §Y30 dní§!." # todo: NEW TRANSLATION
+  ENG_egypt_evacuation: "Evakuace Egypta" # todo: NEW TRANSLATION
+  ENG_egypt_evacuation_tt: "Budete moci odemknout rozhodnutí evakuovat §YEgypt§! jakmile §YNěmecko§! vytvoří Vichy! Evakuace potrvá §Y60 dní§!." # todo: NEW TRANSLATION
+  ENG_funding_decisions: "Rozhodnutí o financování" # todo: NEW TRANSLATION
+  ENG_funding_decisions_desc: "Nyní, když je náš fiskální rozpočet konečně zajištěn, stojíme před výzvou rozumně alokovat naše omezené prostředky a určit strategické oblasti jejich využití. \n\n§YNárodní fondy:§! §G[?ENG.ENG_funds]§!/100" # todo: NEW TRANSLATION
+  ENG_add_funds: "Malé americké půjčky" # todo: NEW TRANSLATION
+  ENG_add_funds_medium: "Střední americké půjčky" # todo: NEW TRANSLATION
+  ENG_add_funds_large: "Velké americké půjčky" # todo: NEW TRANSLATION
+  ENG_funds_industrial_research: "Investovat do průmyslového výzkumu" # todo: NEW TRANSLATION
+  ENG_funds_factory_output: "Investovat do obranného průmyslu" # todo: NEW TRANSLATION
+  ENG_funds_dockyard_output: "Investovat do loděnic" # todo: NEW TRANSLATION
+  adding_funds: "Úrok z dluhu" # todo: NEW TRANSLATION
+  ENG_funds_boost_canada_output: "Investovat do kanadského obranného průmyslu" # todo: NEW TRANSLATION
+  ENG_funds_boost_saf_output: "Investovat do jihoafrického obranného průmyslu" # todo: NEW TRANSLATION
+  ENG_funds_boost_raj_output: "Investovat do průmyslu Britského Ráje" # todo: NEW TRANSLATION
+  ENG_funds_boost_ast_output: "Investovat do australského obranného průmyslu" # todo: NEW TRANSLATION
+  ENG_funds_dockyard_output_can: "Investovat do kanadských loděnic" # todo: NEW TRANSLATION
+  ENG_funds_dockyard_output_saf: "Investovat do jihoafrických loděnic" # todo: NEW TRANSLATION
+  ENG_funds_dockyard_output_raj: "Investovat do indických loděnic" # todo: NEW TRANSLATION
+  ENG_funds_dockyard_output_ast: "Investovat do australských loděnic" # todo: NEW TRANSLATION
+  ENG_funding_decisions_tt: "Tento fokus také odemkne sadu rozhodnutí k financování našich §Yvojenských průmyslů!§!" # todo: NEW TRANSLATION
+  ENG_subtract_funds_decision_rtr_tt: "Toto rozhodnutí odečte §R8 fondů§!" # todo: NEW TRANSLATION
+  ENG_first_royal_tank_regiment: "Královský tankový pluk" # todo: NEW TRANSLATION
+  ENG_first_RTR_tt: "To vytvoří 4 střední tankové divize v Londýně." # todo: NEW TRANSLATION
+  ENG_second_royal_tank_regiment: "2. Královský tankový pluk" # todo: NEW TRANSLATION
+  ENG_second_RTR_tt: "To vytvoří 1 střední tankovou divizi v Londýně." # todo: NEW TRANSLATION
+  ENG_third_royal_tank_regiment: "3. Královský tankový pluk" # todo: NEW TRANSLATION
+  ENG_third_RTR_tt: "To vytvoří 1 střední tankovou divizi v Londýně." # todo: NEW TRANSLATION
+  ENG_fourth_royal_tank_regiment: "4. Královský tankový pluk" # todo: NEW TRANSLATION
+  ENG_fourth_RTR_tt: "To vytvoří 1 střední tankovou divizi v Londýně." # todo: NEW TRANSLATION
+  ENG_BEF_decision: "Poslat britský expediční sbor do Francie" # todo: NEW TRANSLATION
+  ENG_BEF_tt: "To vytvoří 4 střední tankové divize v Paříži, které můžete použít v §YBitvě o Francii§!" # todo: NEW TRANSLATION
+  ENG_subtract_funds_decision_bef_tt: "Toto rozhodnutí odečte §R16 fondů§!" # todo: NEW TRANSLATION
+  ENG_imperial_policy_tt: "Tento fokus odemkne §YSadu rozhodnutí§!, která vám umožní ovládat koloniální průmysl přidělený Spojenému království!" # todo: NEW TRANSLATION
+  ENG_minor_control_system: "Povinnosti Commonwealthu" # todo: NEW TRANSLATION
+  ENG_minor_control_system_desc: "Budeme ovládat naši politiku Imperiálního Commonwealthu přes toto rozhraní. \n\n§YKanadská povinnost:§! §G[?CAN.ENG_fuck_can_modifier|%G0]§!/25% \n\n§YJižní africká povinnost:§! §G[?SAF.ENG_fuck_saf_modifier|%G0]§!/25% \n\n§YIndická povinnost:§! §G[?RAJ.ENG_fuck_raj_modifier|%G0]§!/25% \n\n§YAustralská povinnost:§! §G[?AST.ENG_fuck_ast_modifier|%G0]§!/25%" # todo: NEW TRANSLATION
+  ENG_fuck_can: "Povinnosti Commonwealthu" # todo: NEW TRANSLATION
+  ENG_fuck_can_increase: "Zvýšit kanadské povinnosti" # todo: NEW TRANSLATION
+  ENG_fuck_can_decrease: "Snížit kanadské povinnosti" # todo: NEW TRANSLATION
+  ENG_fuck_control_system_increase_can_tt: "§YKanada§! získá; \n$cic_to_overlord_factor_tt$: §G+5.00%§! \n\n" # todo: NEW TRANSLATION
+  ENG_fuck_control_system_decrease_can_tt: "§YKanada§! získá; \n$cic_to_overlord_factor_tt$: §R-5.00%§! \n\n" # todo: NEW TRANSLATION
+  ENG_fuck_saf: "Povinnosti Commonwealthu" # todo: NEW TRANSLATION
+  ENG_fuck_saf_increase: "Zvýšit jihoafrické povinnosti" # todo: NEW TRANSLATION
+  ENG_fuck_saf_decrease: "Snížit jihoafrické povinnosti" # todo: NEW TRANSLATION
+  ENG_fuck_control_system_increase_saf_tt: "§YJižní Afrika§! získá; \n$cic_to_overlord_factor_tt$: §G+5.00%§! \n\n" # todo: NEW TRANSLATION
+  ENG_fuck_control_system_decrease_saf_tt: "§YJižní Afrika§! získá; \n$cic_to_overlord_factor_tt$: §R-5.00%§! \n\n" # todo: NEW TRANSLATION
+  ENG_fuck_raj: "Povinnosti Commonwealthu" # todo: NEW TRANSLATION
+  ENG_fuck_raj_increase: "Zvýšit indické povinnosti" # todo: NEW TRANSLATION
+  ENG_fuck_raj_decrease: "Snížit indické povinnosti" # todo: NEW TRANSLATION
+  ENG_fuck_control_system_increase_raj_tt: "§YBritský Raj§! získá; \n$cic_to_overlord_factor_tt$: §G+5.00%§! \n\n" # todo: NEW TRANSLATION
+  ENG_fuck_control_system_decrease_raj_tt: "§YBritský Raj§! získá; \n$cic_to_overlord_factor_tt$: §R-5.00%§! \n\n" # todo: NEW TRANSLATION
+  ENG_fuck_ast: "Povinnosti Commonwealthu" # todo: NEW TRANSLATION
+  ENG_fuck_ast_increase: "Zvýšit australské povinnosti" # todo: NEW TRANSLATION
+  ENG_fuck_ast_decrease: "Snížit australské povinnosti" # todo: NEW TRANSLATION
+  ENG_fuck_control_system_increase_ast_tt: "§YAustrálie§! získá; \n$cic_to_overlord_factor_tt$: §G+5.00%§! \n\n" # todo: NEW TRANSLATION
+  ENG_fuck_control_system_decrease_ast_tt: "§YAustrálie§! získá; \n$cic_to_overlord_factor_tt$: §R-5.00%§! \n\n" # todo: NEW TRANSLATION
+  ENG_fuck_can_1_tt: "Nemůžete překročit §G%25§!" # todo: NEW TRANSLATION
+  ENG_fuck_can_2_tt: "Nemůžete jít níže než §R%0§!" # todo: NEW TRANSLATION
+  ENG_fuck_saf_1_tt: "Nemůžete překročit §G%25§!" # todo: NEW TRANSLATION
+  ENG_fuck_saf_2_tt: "Nemůžete jít níže než §R%0§!" # todo: NEW TRANSLATION
+  ENG_fuck_raj_1_tt: "Nemůžete překročit §G%25§!" # todo: NEW TRANSLATION
+  ENG_fuck_raj_2_tt: "Nemůžete jít níže než §R%0§!" # todo: NEW TRANSLATION
+  ENG_fuck_ast_1_tt: "Nemůžete překročit §G%25§!" # todo: NEW TRANSLATION
+  ENG_fuck_ast_2_tt: "Nemůžete jít níže než §R%0§!" # todo: NEW TRANSLATION
+  ENG_military_operations: "Vojenské operace" # todo: NEW TRANSLATION
+  ENG_operation_dracula_tt: "Tato operace sníží §Yvýhody zákopové obrany§! japonským silám okupujícím §YIndii§!" # todo: NEW TRANSLATION
+  ENG_gamble_on_south_china_sea_tt: "Po vsazení na rychlou operaci oslabíme nepřátelskou iniciativu držením §Ynašich pozic v Asii§! a převzatím iniciativy invazí na §YTchaj-wan§!" # todo: NEW TRANSLATION
+  ENG_commando_raids_mission_brittany: "Operace v Bretani" # todo: NEW TRANSLATION
+  ENG_commando_raids_mission_brittany_tt: "Musíte mít §Y6 námořních komandos§! v §YBretani§!" # todo: NEW TRANSLATION
+  ENG_commando_raids_mission_brittany_reward_tt: "T" # todo: NEW TRANSLATION
+  ENG_commando_raids_mission_normandy: "Operace v Normandii" # todo: NEW TRANSLATION
+  ENG_commando_raids_mission_normandy_tt: "Musíte mít §Y6 námořních komandos§! v §YNormandii§!" # todo: NEW TRANSLATION
+  ENG_commando_raids_mission_normandy_reward_tt: "T" # todo: NEW TRANSLATION
+  ENG_commando_raids_mission_calais: "Operace v Calais" # todo: NEW TRANSLATION
+  ENG_commando_raids_mission_calais_tt: "Musíte mít §Y6 námořních komandos§! v §YCalais§!" # todo: NEW TRANSLATION
+  ENG_commando_raids_mission_calais_reward_tt: "T" # todo: NEW TRANSLATION
+  ENG_commando_raids_tt: "Tento fokus vám umožní snížit bonusy z §YAtlantické zdi§! misemi §YNámořních komandos§!" # todo: NEW TRANSLATION
+  ENG_pass_the_danish_belts_tt: "Nyní, když máme Norsko zajištěno, můžeme překročit §YDánské pásy§! a vzít boj do §YDánska§!" # todo: NEW TRANSLATION
+  ENG_prepare_for_dday_tt: "To dokončí poslední přípravy na §Yvelký den.§!" # todo: NEW TRANSLATION
+  ENG_operation_brevity_stuff: "Operace Brevity" # todo: NEW TRANSLATION
+  ENG_operation_scimitar_stuff: "Operace Scimitar" # todo: NEW TRANSLATION
+  ENG_operation_husky_stuff: "Operace Husky" # todo: NEW TRANSLATION
+  ENG_operation_dracula_stuff: "Operace Dracula" # todo: NEW TRANSLATION
+  ENG_west_has_fallen_stuff: "Západ padl" # todo: NEW TRANSLATION
+  JAPAN_CAPPED_FLAG: "§YJaponsko kapitulovalo§! proti §YSpojencům§!" # todo: NEW TRANSLATION
+  ENG_funds_info: "§YNárodní fondy:§! §G[?ENG.ENG_funds]§!/100" # todo: NEW TRANSLATION
+  ENG_funds_info_tt: "§YNárodní fondy§! se používají pro různé nákupy a lze je získat pouze pomocí §Yrozhodnutí nebo fokusů.§!" # todo: NEW TRANSLATION
+  LEND_LEASE_BUTTON_TT: "Impériální rozhodnutí" # todo: NEW TRANSLATION
+  LEND_LEASE_BUTTON_DESC_TT: "Ovládejte strategická rozhodnutí britského impéria odsud." # todo: NEW TRANSLATION
+  CAN_obligation_info_tt: "§G%[?CAN.ENG_fuck_can_modifier|%G0]§!/25%" # todo: NEW TRANSLATION
+  SAF_obligation_info_tt: "§G%[?SAF.ENG_fuck_saf_modifier|%G0]§!/25%" # todo: NEW TRANSLATION
+  RAJ_obligation_info_tt: "§G%[?RAJ.ENG_fuck_raj_modifier|%G0]§!/25%" # todo: NEW TRANSLATION
+  AST_obligation_info_tt: "§G%[?AST.ENG_fuck_ast_modifier|%G0]§!/25%" # todo: NEW TRANSLATION
+  obligation_tt: "Tato rozhodnutí zvýší množství civilních továren, které menší státy dají vám, o §Y%5§! nebo jej sníží." # todo: NEW TRANSLATION
+  boost_tt: "Zisky (£civ_factory_output Výstup továren: §G+15.00%§! £dockyard_output_texticon Výstup loděnic: §G+15.00%§!) na §Y365§! dní. \n\nToto rozhodnutí odečte §R2 fondy§!" # todo: NEW TRANSLATION
+  american_buyer_tt: "[USA.GetFlag] Arsenal demokracie [USA.GetFlag]" # todo: NEW TRANSLATION
+  USA_AOD_consumer_tt: "Upravit §HArsenal demokracie§! spotřební zboží: §H-0.5%§!" # todo: NEW TRANSLATION
+  order.1.t: "Objednávka zbraní" # todo: NEW TRANSLATION
+  order.1.d: "Spojené království zadalo objednávku na 12500 zbraní! Platba je připravena a čekají na naše potvrzení." # todo: NEW TRANSLATION
+  order.1.a: "Uděláme to. (6125 LL-materiálu)" # todo: NEW TRANSLATION
+  order.1.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.2.t: "Objednávka dělostřelectva" # todo: NEW TRANSLATION
+  order.2.d: "Spojené království zadalo objednávku na 2000 děl! Platba je připravena a čekají na naše potvrzení." # todo: NEW TRANSLATION
+  order.2.a: "Uděláme to. (5000 LL-materiálu)" # todo: NEW TRANSLATION
+  order.2.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.3.t: "Objednávka protitankových děl" # todo: NEW TRANSLATION
+  order.3.d: "Spojené království zadalo objednávku na 1500 protitankových děl! Platba je připravena a čekají na naše potvrzení." # todo: NEW TRANSLATION
+  order.3.a: "Uděláme to. (5000 LL-materiálu)" # todo: NEW TRANSLATION
+  order.3.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.4.t: "Objednávka protiletadlových děl" # todo: NEW TRANSLATION
+  order.4.d: "Spojené království zadalo objednávku na 1225 protiletadlových děl! Platba je připravena a čekají na naše potvrzení." # todo: NEW TRANSLATION
+  order.4.a: "Uděláme to. (3675 LL-materiálu)" # todo: NEW TRANSLATION
+  order.4.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.5.t: "Objednávka raketového dělostřelectva" # todo: NEW TRANSLATION
+  order.5.d: "Spojené království zadalo objednávku na 1225 raketového dělostřelectva! Platba je připravena a čekají na naše potvrzení." # todo: NEW TRANSLATION
+  order.5.a: "Uděláme to. (5000 LL-materiálu)" # todo: NEW TRANSLATION
+  order.5.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.6.t: "Objednávka podpůrného vybavení" # todo: NEW TRANSLATION
+  order.6.d: "Spojené království zadalo objednávku na 1225 podpůrného vybavení! Platba je připravena a čekají na naše potvrzení." # todo: NEW TRANSLATION
+  order.6.a: "Uděláme to. (4250 LL-materiálu)" # todo: NEW TRANSLATION
+  order.6.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.7.t: "Objednávka nákladních aut" # todo: NEW TRANSLATION
+  order.7.d: "Spojené království zadalo objednávku na 2500 nákladních aut! Platba je připravena a čekají na naše potvrzení." # todo: NEW TRANSLATION
+  order.7.a: "Uděláme to. (5000 LL-materiálu)" # todo: NEW TRANSLATION
+  order.7.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.8.t: "Objednávka mechanizovaných" # todo: NEW TRANSLATION
+  order.8.d: "Spojené království zadalo objednávku na 500 mechanizovaných! Platba je připravena a čekají na naše potvrzení." # todo: NEW TRANSLATION
+  order.8.a: "Uděláme to. (5000 LL-materiálu)" # todo: NEW TRANSLATION
+  order.8.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.9.t: "Objednávka lehkých tanků" # todo: NEW TRANSLATION
+  order.9.d: "Spojené království zadalo objednávku na 250 lehkých tanků! Platba je připravena a čekají na naše potvrzení. \n\n(Platba se bude zvyšovat s každou technologií o 500 IC)" # todo: NEW TRANSLATION
+  order.9.a: "Uděláme to. (4000 LL-materiálu)" # todo: NEW TRANSLATION
+  order.9.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.10.t: "Objednávka středních tanků" # todo: NEW TRANSLATION
+  order.10.d: "Spojené království zadalo objednávku na 200 středních tanků! Platba je připravena a čekají na naše potvrzení. \n\n(Platba se bude zvyšovat s každou technologií o 500 IC)" # todo: NEW TRANSLATION
+  order.10.a: "Uděláme to. (5000 LL-materiálu)" # todo: NEW TRANSLATION
+  order.10.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  order.11.t: "Objednávka těžkých tanků" # todo: NEW TRANSLATION
+  order.11.d: "Spojené království zadalo objednávku na 125 těžkých tanků! Platba je připravena a čekají na naše potvrzení. \n\n(Platba se bude zvyšovat s každou technologií o 500 IC)" # todo: NEW TRANSLATION
+  order.11.a: "Uděláme to. (6000 LL-materiálu)" # todo: NEW TRANSLATION
+  order.11.b: "Nemůžeme si to dovolit." # todo: NEW TRANSLATION
+  AOD_cost_tt: "Toto rozhodnutí odečte §R1 fond§!" # todo: NEW TRANSLATION
+  USA_AOD_missions: "Objednávkové mise" # todo: NEW TRANSLATION
+  USA_AOD_guns_order: "Objednávka na 6125 pěchotních zbraní." # todo: NEW TRANSLATION
+  USA_AOD_arty_order: "Objednávka na 2000 dělostřelectva." # todo: NEW TRANSLATION
+  USA_AOD_at_order: "Objednávka na 1500 protitankových děl." # todo: NEW TRANSLATION
+  USA_AOD_aa_order: "Objednávka na 1225 protiletadlových děl." # todo: NEW TRANSLATION
+  USA_AOD_rocket_arty_order: "Objednávka na 1250 raketového dělostřelectva." # todo: NEW TRANSLATION
+  USA_AOD_sup_eq_order: "Objednávka na 1225 podpůrného vybavení." # todo: NEW TRANSLATION
+  USA_AOD_truck_order: "Objednávka na 2500 nákladních aut." # todo: NEW TRANSLATION
+  USA_AOD_mechanized_order: "Objednávka na 500 mechanizovaných." # todo: NEW TRANSLATION
+  USA_AOD_light_tanks_order: "Objednávka na 250 lehkých tanků." # todo: NEW TRANSLATION
+  USA_AOD_medium_tanks_order: "Objednávka na 200 středních tanků." # todo: NEW TRANSLATION
+  USA_AOD_heavy_tanks_order: "Objednávka na 125 těžkých tanků." # todo: NEW TRANSLATION
+  churchill_decisions1_tt: "6 lehkých tanků" # todo: NEW TRANSLATION
+  churchill_decisions2_tt: "4 střední tanky" # todo: NEW TRANSLATION
+  churchill_decisions3_tt: "2 těžké tanky" # todo: NEW TRANSLATION
+  churchill_decisions4_tt: "Africká posádka" # todo: NEW TRANSLATION
+  churchill_decisions5_tt: "Posádka Ráje" # todo: NEW TRANSLATION
+  churchill_decisions6_tt: "Posádka Singapuru" # todo: NEW TRANSLATION
+  churchill_decisions7_tt: "Posádka Borneo" # todo: NEW TRANSLATION
+  churchill_decisions8_tt: "Posádka Sumatra" # todo: NEW TRANSLATION
+  churchill_decisions9_tt: "Posádka Jávy" # todo: NEW TRANSLATION
+  churchill_decisions10_tt: "Námořní armáda" # todo: NEW TRANSLATION
+  work_in_progress: "Práce probíhá." # todo: NEW TRANSLATION
+  churchill_decision_light_tanks_tt: "Toto rozhodnutí odečte §R12 fondů§! \n\nToto rozhodnutí lze kliknout pouze jednou." # todo: NEW TRANSLATION
+  churchill_decision_medium_tanks_tt: "Toto rozhodnutí odečte §R12 fondů§! \n\nToto rozhodnutí lze kliknout pouze jednou." # todo: NEW TRANSLATION
+  churchill_decision_heavy_tanks_tt: "Toto rozhodnutí odečte §R12 fondů§! \n\nToto rozhodnutí lze kliknout pouze jednou." # todo: NEW TRANSLATION
+  churchill_decision_african_army: "Toto rozhodnutí odečte §R12 fondů§! \n\nBudete potřebovat §Y720000 mužstva!§! \n\nMusíte být §Ynemožní válkou!§!" # todo: NEW TRANSLATION
+  churchill_decision_raj_tt: "Toto rozhodnutí odečte §R16 fondů§! \n\nBudete potřebovat §Y720000 mužstva!§! \n\nDatum musí být mezi §Y1940.1.1§! a §Y1941.1.1§! \n\nVygenerované vybavení bude §Yúrovně 2.§!" # todo: NEW TRANSLATION
+  churchill_decision_singapore_tt: "Toto rozhodnutí odečte §R16 fondů§! \n\nBudete potřebovat §Y720000 mužstva!§! \n\nDatum musí být mezi §Y1940.1.1§! a §Y1941.1.1§! \n\nVygenerované vybavení bude §Yúrovně 2.§!" # todo: NEW TRANSLATION
+  USA_AOD: "Arzenál demokracie" # todo: NEW TRANSLATION
+  american_buyer_tt_tt: "K odemknutí rozhodnutí USA musí dokončit fokus §YLend Lease Act§!, poté je třeba pro výběr požadavku výzkumně dokončit příslušné technologie. \n\nDokončení objednávky sníží spotřební zboží USA o §Y-%1.§! \n\nUSA musí vyrábět §YLend-Lease Materials§! k dokončení objednávky, pokud to nestihnou včas, mise se opakuje. \n\n§RDO TOHO NELZE ZÍSKAT LICENCOVANÉ VYBAVENÍ.§! \n\nTato rozhodnutí nebudou fungovat v §YWar In The West.§!" # todo: NEW TRANSLATION
+  stuff_tt: "K odemknutí rozhodnutí musíte dokončit §YDevelop Colonial Industry.§!" # todo: NEW TRANSLATION
+  UK_buff_title: "UK buff" # todo: NEW TRANSLATION
+  UK_buff_tt: "Získává (Výstup továren: §G+15.00%§! Výstup loděnic: §G+15.00%§!) na §Y365§! dní. \n\nToto rozhodnutí odečte §R2 fondy§!" # todo: NEW TRANSLATION
+  UK_research_buff_title: "Výzkum průmyslu" # todo: NEW TRANSLATION
+  UK_research_industry_buff: "Dá §Y1x 100% průmyslový výzkum.§! \n\nToto rozhodnutí odečte §R1 fond§!" # todo: NEW TRANSLATION
+  small_loans_title: "Malé půjčky" # todo: NEW TRANSLATION
+  small_loans_title_tt: "Dá §G2 fondy§! výměnou za §Y4 civilní továrny na 180 dní.§!" # todo: NEW TRANSLATION
+  medium_loans_title: "Americké půjčky" # todo: NEW TRANSLATION
+  medium_loans_title_tt: "Dá §G4 fondy§! výměnou za §Y8 civilních továren na 180 dní.§!" # todo: NEW TRANSLATION
+  large_loans_title: "Velké půjčky" # todo: NEW TRANSLATION
+  large_loans_title_tt: "Dá §G6 fondy§! výměnou za §Y12 civilních továren na 180 dní.§!" # todo: NEW TRANSLATION
+  adding_small_funds: "Malé půjčky" # todo: NEW TRANSLATION
+  adding_medium_funds: "Americké půjčky" # todo: NEW TRANSLATION
+  adding_large_funds: "Velké půjčky" # todo: NEW TRANSLATION
+  USA_lend_lease_act_tt: "Tento fokus odemkne rozhodnutí §YArsenal Of Democracy§!. \n\nMůžete použít §Y12000 \"Lend-Lease Materials\"§! k darování 1 offmap vojenské továrny komukoli v §YSpojencích!§!" # todo: NEW TRANSLATION
+  churchill_localization_1: "Čas na Brexit \n\nz hry, chlape." # todo: NEW TRANSLATION
+  churchill_localization_2: "Naše síly jsou \n\nneexistující proti \n\nNěmcům." # todo: NEW TRANSLATION
+  churchill_localization_3: "Naše síly jsou \n\nvážně vyčerpané \n\nproti Němcům." # todo: NEW TRANSLATION
+  churchill_localization_4: "Naše síly se \n\nstávají vážně vyčerpanými proti Němcům." # todo: NEW TRANSLATION
+  churchill_localization_5: "Naše síly jsou \n\nvyčerpané proti \n\nNěmcům." # todo: NEW TRANSLATION
+  churchill_localization_6: "Naše síly jsou \n\nmírně nedostatečné \n\nve srovnání s Němci." # todo: NEW TRANSLATION
+  churchill_localization_7: "Naše síly jsou \n\no něco vyčerpanější \n\nve srovnání s Němci." # todo: NEW TRANSLATION
+  churchill_localization_8: "Naše síly \n\nzačínají vypadat špatně \n\nve srovnání s Němci." # todo: NEW TRANSLATION
+  churchill_localization_9: "Naše síly \n\ntrochu chybí \n\nve srovnání s Němci." # todo: NEW TRANSLATION
+  churchill_localization_10: "Naše síly jsou \n\nrovné s \n\nNěmci." # todo: NEW TRANSLATION
+  churchill_before_localization_1: "Budu mít podrobné zprávy \n\no německých silách připravené \n\nv září 1939." # todo: NEW TRANSLATION
+  UK_policy_buff_can_title: "Rozvíjet CAN" # todo: NEW TRANSLATION
+  UK_policy_buff_saf_title: "Rozvíjet SAF" # todo: NEW TRANSLATION
+  UK_policy_buff_raj_title: "Rozvíjet RAJ" # todo: NEW TRANSLATION
+  UK_policy_buff_ast_title: "Rozvíjet AST" # todo: NEW TRANSLATION
+  UK_policy_buff_cansaf_title: "Rozvíjet CAN/SAF" # todo: NEW TRANSLATION
+  UK_policy_buff_can_tt: "Toto rozhodnutí odečte §R1 fond§! \n\nToto rozhodnutí dá §Y1 vojenskou a civilní továrnu.§! \n\nToto rozhodnutí má §Y120 dní cooldown.§!" # todo: NEW TRANSLATION
+  UK_policy_buff_saf_tt: "Toto rozhodnutí odečte §R1 fond§! \n\nToto rozhodnutí dá §Y1 vojenskou a civilní továrnu.§! \n\nToto rozhodnutí má §Y120 dní cooldown.§!" # todo: NEW TRANSLATION
+  UK_policy_buff_raj_tt: "Toto rozhodnutí odečte §R1 fond§! \n\nToto rozhodnutí dá §Y1 vojenskou a civilní továrnu.§! \n\nToto rozhodnutí má §Y120 dní cooldown.§!" # todo: NEW TRANSLATION
+  UK_policy_buff_ast_tt: "Toto rozhodnutí odečte §R1 fond§! \n\nToto rozhodnutí dá §Y1 vojenskou a civilní továrnu.§! \n\nToto rozhodnutí má §Y120 dní cooldown.§!" # todo: NEW TRANSLATION
+  UK_policy_buff_cansaf_tt: "Toto rozhodnutí odečte §R2 fondy§! \n\nToto rozhodnutí dá §Y2 vojenské a civilní továrny.§! \n\nToto rozhodnutí má §Y120 dní cooldown.§! \n\nToto rozhodnutí lze provést pouze pokud jsou dvě národy anektovány přes rozhodnutí." # todo: NEW TRANSLATION
+  ENG_centralize_CID_tt: "Tento fokus vám dá §G16 fondů!§!" # todo: NEW TRANSLATION
+  ENG_develop_colonial_industries_tt: "Tento fokus vám umožní §Yrozvíjet vaše koloniální subjekty.§!" # todo: NEW TRANSLATION
+  agency_enterprises_limited: "Agenturní podniky" # todo: NEW TRANSLATION
+  agency_enterprises_rearmament: "Agenturní podniky" # todo: NEW TRANSLATION
+  ENG_evacuation_decisions: "Evakuace průmyslu" # todo: NEW TRANSLATION
+  ENG_colonial_recruitment: "Koloniální nábor" # todo: NEW TRANSLATION
+  custom_diff_strong_axis_minors: "Posílit spojence Osy (menší státy)" # todo: NEW TRANSLATION
+  custom_diff_strong_allied_minors: "Posílit spojence spojenců (menší státy)" # todo: NEW TRANSLATION
+  custom_debloat_modifier: "Posuvník odlehčení" # todo: NEW TRANSLATION
+  SOV_directive_three_tt: "Okamžitě zahájíme protiútok na rozkaz §YSoudruha Stalina!§! \n\nPokud tento útok uspěje, získáme oddechový prostor pro nadcházející kampaně." # todo: NEW TRANSLATION
+  SOV_directive_three_mission: "Směrnice č. 3 mise" # todo: NEW TRANSLATION
+  SOV_directive_three_idea: "Směrnice č. 3 myšlenka" # todo: NEW TRANSLATION
+  SOV_directive_three_mission_win_tt: "Protipovstání bylo úspěšné!" # todo: NEW TRANSLATION
+  SOV_directive_three_mission_lose_tt: "Protipovstání bylo katastrofa!" # todo: NEW TRANSLATION
+  USA_reinforce_islands_decision_category: "Rozhodnutí posílit ostrovy" # todo: NEW TRANSLATION
+  USA_reinforce_guam: "Posílit Guam" # todo: NEW TRANSLATION
+  USA_reinforce_wake: "Posílit Wake" # todo: NEW TRANSLATION
+  USA_reinforce_midway: "Posílit Midway" # todo: NEW TRANSLATION
+  USA_reinforce_johnston: "Posílit Johnston Atoll" # todo: NEW TRANSLATION
+  USA_reinforce_hawaii: "Posílit Havaj" # todo: NEW TRANSLATION
+  USA_reinforce_marcus: "Posílit Marcus Island" # todo: NEW TRANSLATION
+  USA_reinforce_saipan: "Posílit Saipan" # todo: NEW TRANSLATION
+  USA_reinforce_iwo_jima: "Posílit Iwo Jima" # todo: NEW TRANSLATION
+  USA_reinforce_okinawa: "Posílit Okinawa" # todo: NEW TRANSLATION
+  USA_reinforce_attu: "Posílit Attu Island" # todo: NEW TRANSLATION
+  USA_reinforce_palau: "Posílit Palau" # todo: NEW TRANSLATION
+  USA_island_hopping_decision_category: "Přípravy na vpád po ostrovech" # todo: NEW TRANSLATION
+  USA_island_hopping_guam: "Invaze na Guam" # todo: NEW TRANSLATION
+  USA_island_hopping_wake: "Invaze na Wake" # todo: NEW TRANSLATION
+  USA_island_hopping_midway: "Invaze na Midway" # todo: NEW TRANSLATION
+  USA_island_hopping_johnston: "Invaze na Johnston Atoll" # todo: NEW TRANSLATION
+  USA_island_hopping_hawaii: "Invaze na Havaj" # todo: NEW TRANSLATION
+  USA_island_hopping_marcus: "Invaze na Marcus Island" # todo: NEW TRANSLATION
+  USA_island_hopping_saipan: "Invaze na Saipan" # todo: NEW TRANSLATION
+  USA_island_hopping_iwo_jima: "Invaze na Iwo Jima" # todo: NEW TRANSLATION
+  USA_island_hopping_okinawa: "Invaze na Okinawa" # todo: NEW TRANSLATION
+  USA_island_hopping_attu: "Invaze na Attu Island" # todo: NEW TRANSLATION
+  USA_island_hopping_palau: "Invaze na Palau" # todo: NEW TRANSLATION
+  USA_island_hopping_modifier: "Přípravy na invaze ostrovů" # todo: NEW TRANSLATION
+  USA_balance_of_power_category: "Plány rovnováhy sil" # todo: NEW TRANSLATION
+  SOV_propaganda_campaign_cooldown_tt: "Tato kampaň bude znovu dostupná za §Y[?ROOT.SOV_default_propaganda_campaign_cooldown] dní§! po jejím odstranění. Náklady budou násobeny §R[?ROOT.SOV_propaganda_cost_increase]§!." # todo: NEW TRANSLATION
+  SOV_propaganda_builders_of_communism_effect_tt: "Každý sovětský loutka získá '§Y$SOV_young_builders_of_communism$§!', který dává (Rychlost výzkumu: §G+1.00%§!, Hlavní ideologický posun: §G+0.25§!) na §Y[?SOV_default_propaganda_campaign_duration]§! dní." # todo: NEW TRANSLATION
+  SOV_punished_for_breaking_flag: "Vstoupil do války, zatímco tato kampaň byla aktivní. §RPorušení tohle způsobí nestabilitu a uzamkne tuto propagandistickou kampaň navždy.§!" # todo: NEW TRANSLATION
+  SOV_propaganda_more_metal_tt: "Poskytnutí §G+1§! §Y$state_resource_aluminium$§!, §Y$state_resource_tungsten$§!, §Y$state_resource_steel$§! nebo §Y$state_resource_chromium$§! pro každý stát, který některý z těchto zdrojů produkuje." # todo: NEW TRANSLATION
+  SOV_propaganda_death_to_invaders_no_invaders_tt: "Každý core stát kontrolovaný nepřítelem: \n   Přidat modifikátor: §Y$SOV_invaders_must_die$§!" # todo: NEW TRANSLATION
+  SOV_propaganda_anti_fascism_tt: "Získává '§Y$SOV_anti_fascist_campaign_generic$§!' proti §Ynejprůmyslnějšímu fašistickému státu na světě§!, který dává (Útočnou výhodu proti zemi: §G+10.0%§!, Obrannou výhodu proti zemi: §G+10.0%§!) na §Y[?SOV_default_propaganda_campaign_duration]§! dní." # todo: NEW TRANSLATION
+  SOV_propaganda_anti_capitalism_tt: "Získává '§Y$SOV_anti_capitalist_campaign_generic$§!' proti §Ynejprůmyslnějšímu demokratickému státu na světě§!, který dává (Útočnou výhodu proti zemi: §G+10.0%§!, Obrannou výhodu proti zemi: §G+10.0%§!) na §Y[?SOV_default_propaganda_campaign_duration]§! dní." # todo: NEW TRANSLATION
+  SOV_propaganda_defend_moscow_state_modifier_tt: "\n§Y$SOV_defend_moscow$§! státní modifikátor:\n   $MODIFIER_LOCAL_FACTORIES$: §R-100%§! \n   $MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+10.0%§! \n   $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+25.00%§! \n   $MODIFIER_SUPPLY_FACTOR$: §G+15%§!\n" # todo: NEW TRANSLATION
+  SOV_propaganda_victory_at_hand_available_tt: "[ROOT.GetFlag][ROOT.GetNameDefCap] je ve válce s hlavní mocností, která narušila Třetí pětiletý plán." # todo: NEW TRANSLATION
+  SOV_propaganda_death_to_invaders_state_modifier_tt1: "Tento fokus §Ypřidá tento modifikátor do států§! §Robsazených nepřítelem§! na 365 dní:\n\n§Y$SOV_invaders_must_die$§! státní modifikátor:\n  $MODIFIER_STRATEGIC_REDEPLOYMENT_DISABLED$: §RAno§! \n" # todo: NEW TRANSLATION
+  SOV_propaganda_heroes_forward_tt: "Až §Y5 velitelů jednotek§! získá vlastnost §Y$trait_SOV_determined$§! na §Y[?SOV_default_propaganda_campaign_duration]§! dní" # todo: NEW TRANSLATION
+  JAP_give_up_china_war: "Vynutit mírová jednání s Čínou" # todo: NEW TRANSLATION
+  JAP_give_up_china_war_desc: "Namísto získání 3 vojenských a 3 civilních továren, získáte pouze 2 až 2." # todo: NEW TRANSLATION
+  CHI_give_up_china_war: "Kapitulovat Japonsku" # todo: NEW TRANSLATION
+  CHI_give_up_china_war_desc: "Japonsko získá každou provincii v Číně a plné odměny za obsazení těchto států." # todo: NEW TRANSLATION
+  JAP_intervene_in_china_tt: "Pokud je §YChina War§! povolena: Japonsko získá §Y5 vojenských a 5 civilních továren§! za každý dobytý stát. \n\nCelkový rozdíl mezi povolením/zakázáním je §Y200 továren vs 66 továren.§!" # todo: NEW TRANSLATION
+  SOV_revolutionary_support: "Revoluční podpora" # todo: NEW TRANSLATION
+  JAP_control_qing_decisions: "Politika kontroly Čchin" # todo: NEW TRANSLATION
+  JAP_control_qing_decisions_desc: "Můžeme ovládat naši loutkovou administrativu v Číně přes tuto obrazovku. \n\n§YQing vojenská průmyslová povinnost:§! [?MAN.JAP_control_qing_modifier_mil|%0]/50% \n\n§YQing civilní průmyslová povinnost:§! [?MAN.JAP_control_qing_modifier_civ|%0]/50%" # todo: NEW TRANSLATION
+  JAP_control_qing_tt1: "Nemůžete překročit §G%50§!" # todo: NEW TRANSLATION
+  JAP_control_qing_tt2: "Nemůžete jít níže než §R%0§!" # todo: NEW TRANSLATION
+  JAP_control_qing_increase_civ_tt: "§YQing§! získá; \n$cic_to_overlord_factor_tt$: §G+5.00%§! \n\n" # todo: NEW TRANSLATION
+  JAP_control_qing_decrease_civ_tt: "§YQing§! získá; \n$cic_to_overlord_factor_tt$: §R-5.00%§! \n\n" # todo: NEW TRANSLATION
+  JAP_control_qing_increase_mil_tt: "§YQing§! získá; \n$mic_to_overlord_factor_tt$: §G+5.00%§! \n\n" # todo: NEW TRANSLATION
+  JAP_control_qing_decrease_mil_tt: "§YQing§! získá; \n$mic_to_overlord_factor_tt$: §R-5.00%§! \n\n" # todo: NEW TRANSLATION
+  JAP_control_qing: "Kontrola nad čínským průmyslem" # todo: NEW TRANSLATION
+  JAP_increase_qing_tribute_mil: "Zvýšit vojenské povinnosti" # todo: NEW TRANSLATION
+  JAP_decrease_qing_tribute_mil: "Snížit vojenské povinnosti" # todo: NEW TRANSLATION
+  JAP_increase_qing_tribute_civ: "Zvýšit civilní povinnosti" # todo: NEW TRANSLATION
+  JAP_decrease_qing_tribute_civ: "Snížit civilní povinnosti" # todo: NEW TRANSLATION
+  JAP_rejuvenate_the_qing_dynasty_tt: "Tento fokus §Ypřevrátí všechny čínské státy do Manchukuo§! za účelem jejich reformování jako §Yčínská loutková vláda pod Mandátem nebes!§! \n\nBudeme moci ovládat §Ykolik máme moci nad jejich průmyslem§! prostřednictvím rozhodnutí." # todo: NEW TRANSLATION
+  JAP_restore_imperial_heartlands_tt: "Tento fokus §Ypřenese všechny pevninské čínské státy do Manchukuo§! a ponechá klíčové §Ypobřežní čínské státy§! pod naší přímou správou. \n\nBudeme moci ovládat §Ykolik moci máme nad jejich průmyslem§! prostřednictvím rozhodnutí." # todo: NEW TRANSLATION
+  SOV_move_industry_to_the_urals_tt: "Tento fokus §Yaktivuje 2 mise:§! \n\nPrvní mise evakuuje továrny ze §Y3 velkých měst§! před začátkem války: §YMoskva, Leningrad a Stalingrad.§! \n\nDruhá mise §Yzačne, když válka vypukne,§! a každý týden §Yevakuuje města na frontě§! dokud nezbyde nic. \n\nVálečná evakuační mise přestane fungovat po začátku Fall Blau." # todo: NEW TRANSLATION
+  SOV_prewar_evacuation_mission: "Předválečná evakuace velkých měst" # todo: NEW TRANSLATION
+  SOV_ongoing_evacuation_mission: "Nouzová válečná evakuace" # todo: NEW TRANSLATION
+  SOV_buildfixer_heavy_tanks: "Stavět Fixer divize těžkých tanků" # todo: NEW TRANSLATION
+  SOV_buildfixer_medium_tanks: "Stavět Fixer divize středních tanků" # todo: NEW TRANSLATION
+  SOV_buildfixer_light_tanks: "Stavět Fixer divize lehkých tanků" # todo: NEW TRANSLATION
+  SOV_buildfixer_infantry: "Stavět Fixer pěchotní divize" # todo: NEW TRANSLATION
+  SOV_military_engineering_university_idea: "Vojenská inženýrská univerzita" # todo: NEW TRANSLATION
+  AST_premiers_plan_mission_tt: "Půjdeme podle plánů 'zdravých financí' od premiérů a utáhneme opasky! \n\nTento fokus §Yaktivuje misi§!, která se bude opakovat každých 240 dní dokud neskončí §Rpenalizace spotřebního zboží§! na §Y\"Stíny Velké deprese\"§!" # todo: NEW TRANSLATION
+  AST_theodore_spend_your_way_out_mission_tt: "Ted Theodore věří, že se můžeme 'vyplatit' z ekonomické krize, budeme následovat jeho plány. \n\nTento fokus §Yaktivuje misi§!, která potrvá 1460 dní. K dokončení mise budete vyzváni postavit §Y50 civilních továren!§!" # todo: NEW TRANSLATION
+  AST_lang_plan_tt: "Lang navrhl §Ydefaultovat§! na britské dluhové platby a tisknout peníze k financování §Ydomácího ekonomického oživení!§!" # todo: NEW TRANSLATION
+  AST_premiers_plan_mission: "Plán premiérů probíhá" # todo: NEW TRANSLATION
+  AST_theodore_spend_your_way_out_mission: "Theodoreův plán probíhá" # todo: NEW TRANSLATION
+  USA_arsenal_of_democracy_category: "Arzenál demokracie" # todo: NEW TRANSLATION
+  USA_AOD_mil_construct: "Postavit vojenské továrny u našich spojenců" # todo: NEW TRANSLATION
+  OT_tungsten: "Zajistit pracovníky pro doly na wolfram" # todo: NEW TRANSLATION
+  OT_chromium: "Zajistit pracovníky pro doly na chrom" # todo: NEW TRANSLATION
+  AXIS_form_reichskommisariat_balkan_tt: "2 země §Ymusejí být AI:§! §RMadarsko, Rumunsko a Bulharsko.§!" # todo: NEW TRANSLATION
+  SEAC: "Velitelství jihovýchodní Asie" # todo: NEW TRANSLATION
+  SEAC_ADJ: "Spojenecká Asie" # todo: NEW TRANSLATION
+  SEAC_DEF: "Velitelství jihovýchodní Asie" # todo: NEW TRANSLATION
+  ALLIES_form_seac: "Vytvořit SEAC" # todo: NEW TRANSLATION
+  ALLIES_form_seac_tt: "2 země §Ymusejí být AI:§! §RBritský Raj, Nizozemsko a Austrálie.§!" # todo: NEW TRANSLATION
+  AXIS_form_reichskommisariat_balkan: "Vytvořit Reichskommissariat Balkan" # todo: NEW TRANSLATION
+  prepare_torch_tt: "§RKdo klikne první§! získá §Yprázdné spawn-iny a Francouzské Maroko§! pro boj v §COperaci Torch§!" # todo: NEW TRANSLATION
+  SAF_annex_can: "Anexovat Kanadu" # todo: NEW TRANSLATION
+  annex_info: "Jakýkoli §YCG nerf§! kvůli §Yanexování menších států§! bude tímto fokusem odstraněn." # todo: NEW TRANSLATION
+  GER_industrial_consumer_goods_expected_value_tt: "Nastavit §YMefo Bills§! spotřební zboží na:" # todo: NEW TRANSLATION

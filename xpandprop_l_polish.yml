@@ -1,0 +1,181 @@
+﻿l_polish:
+  Xpand_propaganda_poster_slot_available_tt: "Má prázdné místo pro propagandistický plakát." # todo: NEW TRANSLATION
+  X_allies_prop_dummy: "" # todo: NEW TRANSLATION
+  X_allies_prop_dummy_desc: "Toto je fiktivní rozhodnutí, abyste mohli sdílet fond s britskou propagandou." # todo: NEW TRANSLATION
+  JAP_poster_left_text: "[X_JAP_GetDaysRemainingLeft]" # todo: NEW TRANSLATION
+  JAP_poster_center_text: "[X_JAP_GetDaysRemainingCenter]" # todo: NEW TRANSLATION
+  JAP_poster_right_text: "[X_JAP_GetDaysRemainingRight]" # todo: NEW TRANSLATION
+  JAP_poster_no_text: "" # todo: NEW TRANSLATION
+  JAP_poster_left_days_remaining_text: "§Y[?X_JAP_propaganda_left_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  JAP_poster_center_days_remaining_text: "§Y[?X_JAP_propaganda_center_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  JAP_poster_right_days_remaining_text: "§Y[?X_JAP_propaganda_right_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  X_JAP_propaganda_campaigns: "Jikyoku Iinkai" # todo: NEW TRANSLATION
+  X_JAP_propaganda_3: "Youkoso, Nippon!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_4: "Lekce z Nomonhanu" # todo: NEW TRANSLATION
+  X_JAP_propaganda_5: "Dai Toa Kyoeiken" # todo: NEW TRANSLATION
+  X_JAP_propaganda_6: "Vůle hory" # todo: NEW TRANSLATION
+  X_JAP_propaganda_7: "Posílit podporu Kwantung" # todo: NEW TRANSLATION
+  X_JAP_propaganda_8: "K Pekingu" # todo: NEW TRANSLATION
+  X_JAP_propaganda_9: "9x19 Parabellum" # todo: NEW TRANSLATION
+  X_JAP_propaganda_10: "Čestný Árijec" # todo: NEW TRANSLATION
+  X_JAP_propaganda_11: "Kapitalistická špína" # todo: NEW TRANSLATION
+  X_JAP_propaganda_12: "Letecké úsilí" # todo: NEW TRANSLATION
+  X_JAP_propaganda_13: "Duch vůle" # todo: NEW TRANSLATION
+  X_JAP_propaganda_14: "Božský císař Slunce" # todo: NEW TRANSLATION
+  X_JAP_propaganda_15: "Trojstranný pakt" # todo: NEW TRANSLATION
+  X_JAP_propaganda_16: "Die Tochter des Samurai" # todo: NEW TRANSLATION
+  X_JAP_propaganda_17: "Spolupracovat s Pilipinas" # todo: NEW TRANSLATION
+  X_JAP_propaganda_18: "Spolupracovat s Indonesie" # todo: NEW TRANSLATION
+  X_JAP_propaganda_19: "Spolupracovat s Indonesie II" # todo: NEW TRANSLATION
+  X_JAP_propaganda_20: "Spolupracovat s Rajastani" # todo: NEW TRANSLATION
+  X_JAP_propaganda_21: "Pozor, nepřátelští špioni!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_22: "Poslední odpor v JV Asii" # todo: NEW TRANSLATION
+  X_JAP_propaganda_23: "Dokuritu Zyunbi Tyoosa-kai" # todo: NEW TRANSLATION
+  X_JAP_propaganda_24: "Triumf nad spojenci" # todo: NEW TRANSLATION
+  X_JAP_propaganda_25: "Nezničitelný" # todo: NEW TRANSLATION
+  X_JAP_propaganda_26: "Poslední vůle" # todo: NEW TRANSLATION
+  jap_prop_4_tt: "Má konflikt s §Y[SOV.GetName]§!" # todo: NEW TRANSLATION
+  recindonesie_tt1: "Získejte 3 dobrovolné pěší jednotky.\n" # todo: NEW TRANSLATION
+  recindonesie_tt2: "Získejte 5 elitních pěších jednotek.\n" # todo: NEW TRANSLATION
+  X_JAP_propaganda_5_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_8_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_9_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_14_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_16_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_17_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_18_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_19_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_20_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_22_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_23_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_24_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_25_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_JAP_propaganda_26_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  GER_poster_left_text: "[X_GER_GetDaysRemainingLeft]" # todo: NEW TRANSLATION
+  GER_poster_center_text: "[X_GER_GetDaysRemainingCenter]" # todo: NEW TRANSLATION
+  GER_poster_right_text: "[X_GER_GetDaysRemainingRight]" # todo: NEW TRANSLATION
+  GER_poster_no_text: "" # todo: NEW TRANSLATION
+  GER_poster_left_days_remaining_text: "§Y[?X_GER_propaganda_left_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  GER_poster_center_days_remaining_text: "§Y[?X_GER_propaganda_center_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  GER_poster_right_days_remaining_text: "§Y[?X_GER_propaganda_right_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  ITA_poster_left_text: "[X_ITA_GetDaysRemainingLeft]" # todo: NEW TRANSLATION
+  ITA_poster_center_text: "[X_ITA_GetDaysRemainingCenter]" # todo: NEW TRANSLATION
+  ITA_poster_right_text: "[X_ITA_GetDaysRemainingRight]" # todo: NEW TRANSLATION
+  ITA_poster_no_text: "" # todo: NEW TRANSLATION
+  ITA_poster_left_days_remaining_text: "§Y[?X_ITA_propaganda_left_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  ITA_poster_center_days_remaining_text: "§Y[?X_ITA_propaganda_center_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  ITA_poster_right_days_remaining_text: "§Y[?X_ITA_propaganda_right_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  X_GER_propaganda_campaigns: "Propagandaministerium" # todo: NEW TRANSLATION
+  X_GER_propaganda_3: "Propaganda proti anglosféře" # todo: NEW TRANSLATION
+  X_GER_propaganda_4: "Ukazovat prstem" # todo: NEW TRANSLATION
+  X_GER_propaganda_5: "Reichsautobahn" # todo: NEW TRANSLATION
+  X_GER_propaganda_6: "Reichs Party Congress: Nurnberg" # todo: NEW TRANSLATION
+  X_GER_propaganda_7: "Jeden národ, jeden Reich, jeden Fuhrer" # todo: NEW TRANSLATION
+  X_GER_propaganda_8: "Postup vpřed" # todo: NEW TRANSLATION
+  X_GER_propaganda_9: "Reichs Party Congress: 1939" # todo: NEW TRANSLATION
+  X_GER_propaganda_10: "Vítězství za každou cenu" # todo: NEW TRANSLATION
+  X_GER_propaganda_11: "Zvedněte štít!" # todo: NEW TRANSLATION
+  X_GER_propaganda_12: "Schutzstaffel Italien" # todo: NEW TRANSLATION
+  X_GER_propaganda_13: "Schutzstaffel Norske" # todo: NEW TRANSLATION
+  X_GER_propaganda_14: "Schutzstaffel Nederlanders" # todo: NEW TRANSLATION
+  X_GER_propaganda_15: "Schutzstaffel Nederlanders II" # todo: NEW TRANSLATION
+  X_GER_propaganda_16: "Skijegerbatalion" # todo: NEW TRANSLATION
+  X_GER_propaganda_17: "Tankové úsilí" # todo: NEW TRANSLATION
+  X_GER_propaganda_18: "Letecké úsilí" # todo: NEW TRANSLATION
+  X_GER_propaganda_19: "Námořní úsilí" # todo: NEW TRANSLATION
+  X_GER_propaganda_20: "Hitlerova mládež I" # todo: NEW TRANSLATION
+  X_GER_propaganda_21: "Hitlerova mládež II" # todo: NEW TRANSLATION
+  X_GER_propaganda_22: "Hitlerova mládež III" # todo: NEW TRANSLATION
+  X_GER_propaganda_23: "Volksstrum" # todo: NEW TRANSLATION
+  X_GER_propaganda_24: "Proti bolševismu" # todo: NEW TRANSLATION
+  X_GER_propaganda_25: "Vítězství bude naše!" # todo: NEW TRANSLATION
+  X_GER_propaganda_26: "Totální válka" # todo: NEW TRANSLATION
+  X_GER_propaganda_6_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_12_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_13_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_14_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_15_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_20_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_21_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_22_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_23_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_25_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  X_GER_propaganda_26_desc: "§RLze vzít pouze jednou.§!" # todo: NEW TRANSLATION
+  USA_poster_left_text: "[X_USA_GetDaysRemainingLeft]" # todo: NEW TRANSLATION
+  USA_poster_center_text: "[X_USA_GetDaysRemainingCenter]" # todo: NEW TRANSLATION
+  USA_poster_right_text: "[X_USA_GetDaysRemainingRight]" # todo: NEW TRANSLATION
+  USA_poster_no_text: "" # todo: NEW TRANSLATION
+  USA_poster_left_days_remaining_text: "§Y[?X_USA_propaganda_left_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  USA_poster_center_days_remaining_text: "§Y[?X_USA_propaganda_center_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  USA_poster_right_days_remaining_text: "§Y[?X_USA_propaganda_right_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  X_USA_propaganda_campaigns: "Úřad faktů a statistik" # todo: NEW TRANSLATION
+  X_USA_propaganda_3: "Kupujte americké zboží" # todo: NEW TRANSLATION
+  X_USA_propaganda_4: "Konzervování potravin" # todo: NEW TRANSLATION
+  X_USA_propaganda_5: "Pomozte mu získat práci" # todo: NEW TRANSLATION
+  X_USA_propaganda_6: "Volání povinnosti" # todo: NEW TRANSLATION
+  X_USA_propaganda_7: "Amerika volá" # todo: NEW TRANSLATION
+  X_USA_propaganda_8: "W.A.C" # todo: NEW TRANSLATION
+  X_USA_propaganda_9: "Pomoc sjednocené Číně" # todo: NEW TRANSLATION
+  X_USA_propaganda_10: "Pomoc Svobodné Francii" # todo: NEW TRANSLATION
+  X_USA_propaganda_11: "Příděl plynu" # todo: NEW TRANSLATION
+  X_USA_propaganda_12: "Jídlo je zbraň" # todo: NEW TRANSLATION
+  X_USA_propaganda_13: "Chci tě" # todo: NEW TRANSLATION
+  X_USA_propaganda_14: "Dokážeme to!" # todo: NEW TRANSLATION
+  X_USA_propaganda_15: "Více! Více všeho!" # todo: NEW TRANSLATION
+  X_USA_propaganda_16: "Zipang hrůza" # todo: NEW TRANSLATION
+  X_USA_propaganda_17: "Kupujte válečné dluhopisy" # todo: NEW TRANSLATION
+  X_USA_propaganda_18: "Aljašská smrtící past" # todo: NEW TRANSLATION
+  X_USA_propaganda_19: "Staňte se zdravotní sestrou" # todo: NEW TRANSLATION
+  X_USA_propaganda_20: "Nabitý?" # todo: NEW TRANSLATION
+  X_USA_propaganda_21: "Počítám s tebou!" # todo: NEW TRANSLATION
+  X_USA_propaganda_22: "Letecké úsilí" # todo: NEW TRANSLATION
+  X_USA_propaganda_23: "Zastavte ho!" # todo: NEW TRANSLATION
+  X_USA_propaganda_24: "Dokončíme to" # todo: NEW TRANSLATION
+  X_USA_propaganda_25: "Dva dole, jeden zbývá" # todo: NEW TRANSLATION
+  X_USA_propaganda_26: "Konečné vítězství" # todo: NEW TRANSLATION
+  X_USA_propaganda_9_desc: "§RLze vzít pouze 5krát.§!" # todo: NEW TRANSLATION
+  X_USA_propaganda_10_desc: "§RLze vzít pouze 5krát.§!" # todo: NEW TRANSLATION
+  ENG_poster_left_text: "[X_ENG_GetDaysRemainingLeft]" # todo: NEW TRANSLATION
+  ENG_poster_center_text: "[X_ENG_GetDaysRemainingCenter]" # todo: NEW TRANSLATION
+  ENG_poster_right_text: "[X_ENG_GetDaysRemainingRight]" # todo: NEW TRANSLATION
+  ENG_poster_no_text: "" # todo: NEW TRANSLATION
+  ENG_poster_left_days_remaining_text: "§Y[?X_ENG_propaganda_left_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  ENG_poster_center_days_remaining_text: "§Y[?X_ENG_propaganda_center_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  ENG_poster_right_days_remaining_text: "§Y[?X_ENG_propaganda_right_days_remaining_flag:days_left|Y0]§! dní zbývá" # todo: NEW TRANSLATION
+  X_ENG_propaganda_campaigns: "Ministerstvo informací" # todo: NEW TRANSLATION
+  X_ENG_propaganda_3: "Máme problém!" # todo: NEW TRANSLATION
+  X_ENG_propaganda_4: "Zachovej klid a pokračuj" # todo: NEW TRANSLATION
+  X_ENG_propaganda_5: "Pan Hitler chce vědět!" # todo: NEW TRANSLATION
+  X_ENG_propaganda_6: "Největší hodina" # todo: NEW TRANSLATION
+  X_ENG_propaganda_7: "Porazíme je znovu!" # todo: NEW TRANSLATION
+  X_ENG_propaganda_8: "Díky kamaráde, pokračuj!" # todo: NEW TRANSLATION
+  X_ENG_propaganda_9: "Protiplynová maska" # todo: NEW TRANSLATION
+  X_ENG_propaganda_10: "Péče o zbraně" # todo: NEW TRANSLATION
+  X_ENG_propaganda_11: "Prapory domobrany" # todo: NEW TRANSLATION
+  X_ENG_propaganda_12: "A.T.S" # todo: NEW TRANSLATION
+  X_ENG_propaganda_13: "Podpořte je!" # todo: NEW TRANSLATION
+  X_ENG_propaganda_14: "Letecká obrana je obrana domova" # todo: NEW TRANSLATION
+  X_ENG_propaganda_15: "Dárci krve" # todo: NEW TRANSLATION
+  X_ENG_propaganda_16: "Méně znamená více" # todo: NEW TRANSLATION
+  X_ENG_propaganda_17: "Vaše povinnost" # todo: NEW TRANSLATION
+  X_ENG_propaganda_18: "Kupujte spořicí poukázky" # todo: NEW TRANSLATION
+  X_ENG_propaganda_19: "Ženy s odhodláním zvítězit" # todo: NEW TRANSLATION
+  X_ENG_propaganda_20: "X značky na Itálii" # todo: NEW TRANSLATION
+  X_ENG_propaganda_21: "K vítězství!" # todo: NEW TRANSLATION
+  X_ENG_propaganda_22: "Spolu" # todo: NEW TRANSLATION
+  X_ENG_propaganda_23: "Ozbrojte ho!" # todo: NEW TRANSLATION
+  X_ENG_propaganda_24: "Papír, kov, kosti" # todo: NEW TRANSLATION
+  X_ENG_propaganda_25: "Národní služba" # todo: NEW TRANSLATION
+  X_ENG_propaganda_26: "Děkujeme!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_campaigns: "Ministero della Cultura Popolare" # todo: NEW TRANSLATION
+  X_ITA_propaganda_3: "Ticho! Nepřítel poslouchá!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_4: "Pro vítězství!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_5: "Ať žije vévoda!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_6: "Italové! Věnujte své řemeslné dovednosti pro práci v Itálii!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_7: "Srdce z oceli, jako zbraně!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_8: "Za čest, za Itálii, narukujte!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_9: "Pánové oblohy, od Gibraltaru po Rudé moře!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_10: "Zařaďte se do protiletadlového dělostřelectva!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_11: "Vrátíme se!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_12: "Pracujte a bojujte - za vlast, za vítězství!" # todo: NEW TRANSLATION
+  X_ITA_propaganda_14: "Ave Caesar!" # todo: NEW TRANSLATION

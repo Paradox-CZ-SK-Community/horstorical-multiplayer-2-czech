@@ -1,0 +1,14 @@
+﻿l_polish:
+  ship_hull_super_heavy: "Supertěžká loď" # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_1: "80mm pás/25mm paluba" # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_1_short: "Pancéřování těžkého křižníku I" # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_2: "100mm pás/32mm paluba" # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_2_short: "Pancéřování těžkého křižníku II" # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_3: "152mm pás/64mm paluba" # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_3_short: "Pancéřování těžkého křižníku III" # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_4: "152mm pás/90mm paluba" # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_4_short: "Pancéřování těžkého křižníku IV" # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_1_desc: "Pancéřování navržené tak, aby poskytlo křižníku mírnou výhodu proti zastaralým a lehčím třídám křižníků." # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_2_desc: "Těžší bokový pás navržený tak, aby umožnil křižníku bojovat s jinými křižníky s poměrně vysokou úrovní ochrany." # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_3_desc: "Převzetím metod používaných pro pancéřování bitevních lodí je toto pancéřování navrženo tak, aby drželo krok s vývojem zbraní po celém světě." # todo: NEW TRANSLATION
+  ship_armor_heavycruiser_4_desc: "Toto pancéřování se snaží maximalizovat ochranu absolutně nezbytných oblastí pro udržení lodi nad vodou a v boji, za cenu ochrany všech ostatních částí." # todo: NEW TRANSLATION

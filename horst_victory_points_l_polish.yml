@@ -1,0 +1,40 @@
+﻿l_polish:
+  WAR_NAME_ITA_GRE: "Grecko-italská válka" # todo: NEW TRANSLATION
+  WAR_NAME_SPR_DDR: "Španělská občanská válka" # todo: NEW TRANSLATION
+  WAR_NAME_GER_ENG: "Druhá světová válka" # todo: NEW TRANSLATION
+  WAR_NAME_GER_USA: "Druhá světová válka" # todo: NEW TRANSLATION
+  WAR_NAME_GER_SOV: "Velká vlastenecká válka" # todo: NEW TRANSLATION
+  WAR_NAME_SOV_FIN: "Zimní válka" # todo: NEW TRANSLATION
+  WAR_NAME_ENG_SOV: "Operace Nemyslitelná" # todo: NEW TRANSLATION
+  WAR_NAME_USA_SOV: "Operace Nemyslitelná" # todo: NEW TRANSLATION
+  EFR_STATE: "Stát Francie" # todo: NEW TRANSLATION
+  ALB_IRQ: "Zlatý čtverec Irák" # todo: NEW TRANSLATION
+  ALB_IRQSYR: "Zlatý čtverec Irák a Sýrie" # todo: NEW TRANSLATION
+  IRQ_ASSYRIA: "Asyrský stát" # todo: NEW TRANSLATION
+  FRA_GAULLE: "Gaullistická Francie" # todo: NEW TRANSLATION
+  GER_DEM: "Prozatímná republika Německa" # todo: NEW TRANSLATION
+  EFR_fascism: "Vichy France" # todo: NEW TRANSLATION
+  EFR_fascism_DEF: "Vichy France" # todo: NEW TRANSLATION
+  RSI_fascism: "Italská sociální republika" # todo: NEW TRANSLATION
+  RSI_fascism_DEF: "italská sociální republika" # todo: NEW TRANSLATION
+  RSI_fascism_ADJ: "italský" # todo: NEW TRANSLATION
+  FREE_NORWAY_democratic: "Svobodné Norsko" # todo: NEW TRANSLATION
+  FREE_NORWAY_DEF: "Svobodné Norsko" # todo: NEW TRANSLATION
+  STATE_973: "Bács-Kiskun" # todo: NEW TRANSLATION
+  STATE_974: "Jižní Transdanubie" # todo: NEW TRANSLATION
+  VICTORY_POINTS_1575: "Changde" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7168: "Guilin" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4205: "Weihai" # todo: NEW TRANSLATION
+  VICTORY_POINTS_869: "Guiyang" # todo: NEW TRANSLATION
+  VICTORY_POINTS_11994: "Hefei" # todo: NEW TRANSLATION
+  VICTORY_POINTS_7025: "Jining" # todo: NEW TRANSLATION
+  VICTORY_POINTS_12067: "Yancheng" # todo: NEW TRANSLATION
+  VICTORY_POINTS_4190: "Shijiazhuang" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9938: "Shantou" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9176: "Salmi" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3131: "Savonlinna" # todo: NEW TRANSLATION
+  VICTORY_POINTS_165: "Mäntyharju" # todo: NEW TRANSLATION
+  VICTORY_POINTS_3161: "Kotka" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9056: "Heinola" # todo: NEW TRANSLATION
+  VICTORY_POINTS_9962: "Rwanda" # todo: NEW TRANSLATION
+  VICTORY_POINTS_2220: "Burundi" # todo: NEW TRANSLATION

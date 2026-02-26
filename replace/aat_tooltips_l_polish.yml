@@ -1,0 +1,242 @@
+﻿l_polish:
+  the_following_will_happen_TT: "§YNásledující se stane:§!\n" # todo: NEW TRANSLATION
+  unlocks_spirit_of_the_academy_TT: "Bude dostupné jako Duch akademie:\n" # todo: NEW TRANSLATION
+  NOR_fascist_attacker_loc: "[?NOR.NOR_cw_fascist_attacker.GetNameDef]" # todo: NEW TRANSLATION
+  NOR_local_dangerous_fascist: "[?NOR.platonic_local_dangerous_fascist.GetNameDef]" # todo: NEW TRANSLATION
+  NOR_generic_fascist_ally: "náš fašistický spojenec" # todo: NEW TRANSLATION
+  NOR_generic_fascist_threat: "fašistická hrozba" # todo: NEW TRANSLATION
+  decision_cost_his_prepare_convoy_pp: "£GFX_topbar_convoys §Y[?NOR.NOR_prep_his_cost_convoys]§! £pol_power §Y[?NOR.NOR_prep_his_cost_pp]§!" # todo: NEW TRANSLATION
+  decision_cost_his_prepare_convoy_pp_blocked: "£GFX_topbar_convoys §R[?NOR.NOR_prep_his_cost_convoys]§! £pol_power §R[?NOR.NOR_prep_his_cost_pp]§!" # todo: NEW TRANSLATION
+  decision_cost_fasc_deploy_convoy_cp: "£GFX_topbar_convoys §Y[?NOR.NOR_deploy_fasc_cost_convoy]§! £command_power §Y[?NOR.NOR_deploy_fasc_cost_cp]§!" # todo: NEW TRANSLATION
+  decision_cost_fasc_deploy_convoy_cp_blocked: "£GFX_topbar_convoys §R[?NOR.NOR_deploy_fasc_cost_convoy]§! £command_power §R[?NOR.NOR_deploy_fasc_cost_cp]§!" # todo: NEW TRANSLATION
+  decision_cost_fasc_prepare_convoy_pp: "£GFX_topbar_convoys §Y[?NOR.NOR_prep_fasc_cost_convoy]§! £pol_power §Y[?NOR.NOR_prep_fasc_cost_pp]§!" # todo: NEW TRANSLATION
+  decision_cost_fasc_prepare_convoy_pp_blocked: "£GFX_topbar_convoys §R[?NOR.NOR_prep_fasc_cost_convoy]§! £pol_power §R[?NOR.NOR_prep_fasc_cost_pp]§!" # todo: NEW TRANSLATION
+  NOR_decision_cost_his_exile_convoy_pp: "£GFX_topbar_convoys §Y200§! £pol_power §Y50§!" # todo: NEW TRANSLATION
+  NOR_decision_cost_his_exile_convoy_pp_blocked: "£GFX_topbar_convoys §R200§! £pol_power §R50§!" # todo: NEW TRANSLATION
+  decision_cost_modernize_armed_forces_convoy_cp: "£GFX_topbar_convoys §Y100§!  £command_power §Y30§!" # todo: NEW TRANSLATION
+  decision_cost_modernize_armed_forces_convoy_cp_blocked: "£GFX_topbar_convoys §R100§!  £command_power §R30§!" # todo: NEW TRANSLATION
+  decision_cost_alt_dem_prepare_convoy_pp: "£GFX_topbar_convoys §Y[?NOR.NOR_prep_alt_dem_convoy_cost]§! £pol_power §Y[?NOR.NOR_prep_alt_dem_pp_cost]§!" # todo: NEW TRANSLATION
+  decision_cost_alt_dem_prepare_convoy_pp_blocked: "£GFX_topbar_convoys §R[?NOR.NOR_prep_alt_dem_convoy_cost]§! £pol_power §R[?NOR.NOR_prep_alt_dem_pp_cost]§!" # todo: NEW TRANSLATION
+  decision_cost_alt_dem_preparedness: "§Y1§! Preparedness" # todo: NEW TRANSLATION
+  decision_cost_alt_dem_preparedness_blocked: "§R1§! Preparedness" # todo: NEW TRANSLATION
+  decision_cost_convy_army_xp: "£GFX_topbar_convoys §Y50§! £GFX_army_experience §Y80§!" # todo: NEW TRANSLATION
+  decision_cost_convy_army_xp_blocked: "£GFX_topbar_convoys §R50§! £GFX_army_experience §R80§!" # todo: NEW TRANSLATION
+  decision_cost_100_convoy_50_pp: "£GFX_topbar_convoys §Y100§! £pol_power §Y50§!" # todo: NEW TRANSLATION
+  decision_cost_100_convoy_50_pp_blocked: "£GFX_topbar_convoys §R100§! £pol_power §R50§!" # todo: NEW TRANSLATION
+  decision_cost_75_convoy_40_pp: "£GFX_topbar_convoys §Y75§! £pol_power §Y40§!" # todo: NEW TRANSLATION
+  decision_cost_75_convoy_40_pp_blocked: "£GFX_topbar_convoys §R75§! £pol_power §R40§!" # todo: NEW TRANSLATION
+  decision_cost_50_convoy_25_pp: "£GFX_topbar_convoys §Y50§! £pol_power §Y25§!" # todo: NEW TRANSLATION
+  decision_cost_50_convoy_25_pp_blocked: "£GFX_topbar_convoys §R50§! £pol_power §R25§!" # todo: NEW TRANSLATION
+  decision_cost_50_convoy_25_cp: "£GFX_topbar_convoys §Y50§! £command_power §Y25§!" # todo: NEW TRANSLATION
+  decision_cost_50_convoy_25_cp_blocked: "£GFX_topbar_convoys §R50§! £command_power §R25§!" # todo: NEW TRANSLATION
+  decision_cost_25_convoy_20_pp: "£GFX_topbar_convoys §Y25§! £pol_power §Y20§!" # todo: NEW TRANSLATION
+  decision_cost_25_convoy_20_pp_blocked: "£GFX_topbar_convoys §R25§! £pol_power §R20§!" # todo: NEW TRANSLATION
+  decision_cost_4_convoy: "£GFX_topbar_convoys §Y4§!" # todo: NEW TRANSLATION
+  decision_cost_4_convoy_blocked: "£GFX_topbar_convoys §R4§!" # todo: NEW TRANSLATION
+  decision_cost_40_convoy: "£GFX_topbar_convoys §Y40§!" # todo: NEW TRANSLATION
+  decision_cost_40_convoy_blocked: "£GFX_topbar_convoys §R40§!" # todo: NEW TRANSLATION
+  NOR_decision_prepare_exile_convoys_cost: "§Y200§! £GFX_topbar_convoys §Y50§! £pol_power" # todo: NEW TRANSLATION
+  NOR_decision_prepare_exile_convoys_cost_blocked: "§R200§! £GFX_topbar_convoys §R50§! £pol_power " # todo: NEW TRANSLATION
+  when_at_war_TT: "§YKdyž vypukne válka:§!\n" # todo: NEW TRANSLATION
+  NOR_required_prep_communist_TT: "§YCelková podpora naší revoluce§! je vyšší než $RIGHT|0Y$ (Current support: $LEFT|0Y$)" # todo: NEW TRANSLATION
+  NOR_valid_fascist_tank_seller_TT: "Jakákoli platná fašistická velmoc" # todo: NEW TRANSLATION
+  NOR_moving_government: "§RPřesouvání vlády§!" # todo: NEW TRANSLATION
+  NOR_adding_prep_TT: "[NOR.GetName]'s total §YRozvoj§! se zvýší o §G$RIGHT|0$§!\n" # todo: NEW TRANSLATION
+  NOR_adding_prep_fasc_TT: "[NOR.GetName]'s total §YPodpora Nasjonal Samling§! se zvýší o §G$RIGHT|0$§!\n" # todo: NEW TRANSLATION
+  NOR_adding_prep_comm_TT: "[NOR.GetName]'s total §YPodpora naší revoluce§! se zvýší o §G$RIGHT|0$§!\n" # todo: NEW TRANSLATION
+  NOR_adding_prep_mon_TT: "[NOR.GetName]'s total §YPodpora monarchie§! se zvýší o §G$RIGHT|0$§!\n" # todo: NEW TRANSLATION
+  NOR_modify_prep_state_modifier: "Mění §YPřípravy státu§!:" # todo: NEW TRANSLATION
+  NOR_adding_prep_alt_dem_TT: "[NOR.GetName]'s total §YPřipravenost§! se zvýší o §G$RIGHT|0$§!\n" # todo: NEW TRANSLATION
+  NOR_unlocking_prep_deploy_dem_his_TT: "Odemyká rozhodnutí, která umožňují použití §YStátního rozvoje§! k obraně Norska.\n §RKdyž přijde válka§!:\n §YRozhodnutí Bránit stát§!, která vyměňují Rozvoj za bonusy k obraně a odporu v tom státě.\n §YRozhodnutí Nouzová výroba ve státě§!, která přesouvají Rozvoj směrem k vojenské výrobě a\n §YRozhodnutí Nasadit milice ve státě§!, která používají Rozvoj k náboru milic v tom státě." # todo: NEW TRANSLATION
+  NOR_unlocking_prep_allied_dem_TT: "Odemyká §YPřipravit stát na válku§!, která umožňují použití §YKonvojů§! a §YPolitické moci§! k navýšení §GNárodní připravenosti§! a připravit stát na válku" # todo: NEW TRANSLATION
+  NOR_unlocking_prep_deploy_allied_dem_TT: "Odemyká rozhodnutí, která umožňují použití §YNárodní připravenosti§! ke zvýšení ozbrojených sil Norska, když vypukne válka:\n" # todo: NEW TRANSLATION
+  NOR_country_prep_modernize_armed_forces_TT: "Celková připravenost Norska je více než §Y15§!" # todo: NEW TRANSLATION
+  NOR_ongoing_countrywide_program: "Probíhající celostátní program" # todo: NEW TRANSLATION
+  NOR_trotsky_embraced: "§YPřijal trockismus§!" # todo: NEW TRANSLATION
+  NOR_lastname_trotsky: "Trockij" # todo: NEW TRANSLATION
+  NOR_lastname_trotskij: "Trotskij" # todo: NEW TRANSLATION
+  AAT_trotsky_sent_to_stalin: "[get_trotsky_lastname] vydán do [SOV.GetNameDef]" # todo: NEW TRANSLATION
+  AAT_trotsky_in_mexico: "[get_trotsky_lastname] je v [MEX.GetName]" # todo: NEW TRANSLATION
+  NOR_modify_independent_norway_TT: "Mění §Y$NOR_independent_norway_dmod$§! o:" # todo: NEW TRANSLATION
+  NOR_modify_air_force_dmod_TT: "Mění §Y$NOR_army_air_force_dmod$§! o:" # todo: NEW TRANSLATION
+  NOR_modify_royal_air_force_dmod_TT: "Mění §Y$NOR_royal_air_force_dmod$§! o:" # todo: NEW TRANSLATION
+  NOR_army_air_force_dmod_name_change_TT: "§Y$NOR_army_air_force_dmod$§! se nyní bude jmenovat §Y$NOR_royal_air_force_dmod$§!" # todo: NEW TRANSLATION
+  NOR_modify_royal_navy_dmod_TT: "Mění §Y$NOR_royal_navy_dmod$§! o:" # todo: NEW TRANSLATION
+  NOR_unlocks_defend_state_TT: "Odemyká rozhodnutí §Y$NOR_decision_defend_state_title$§!." # todo: NEW TRANSLATION
+  NOR_unlocks_emergency_productionin_state_TT: "Odemyká rozhodnutí §Y$NOR_decision_emergency_production_title$§!." # todo: NEW TRANSLATION
+  NOR_unlocks_deploy_emergency_militias_TT: "Odemyká §Y$NOR_decision_deploy_emergency_militias_title$§!" # todo: NEW TRANSLATION
+  NOR_fascist_flip_state_TT: "§GMůžete převrátit tento stát na svou stranu, až válka začne.§!" # todo: NEW TRANSLATION
+  NOR_fascist_militia_in_state_TT: "§GMůžete v tomto státě povolat divizi milic, až válka začne.§!" # todo: NEW TRANSLATION
+  NOR_modify_fascism_support_mod_TT: "§Y$NOR_prep_fasc_dmod_1$§! je změněn o:" # todo: NEW TRANSLATION
+  NOR_reduce_fascist_prep_time_TT: "§YDoba§! pro §YBudování podpory ve státě§! je zkrácena o §G$RIGHT|0$§! dní" # todo: NEW TRANSLATION
+  NOR_reduce_fascist_pp_cost_TT: "§YPolitická moc§! pro §YBudování podpory ve státě§! je snížena o §G$RIGHT|0$§! £pol_power" # todo: NEW TRANSLATION
+  NOR_spawn_militias_fasc_TT: "Vytvoří 2 §Yfašistické milice§!, když bude přijato rozhodnutí o §Yvojenském převzetí§! státu." # todo: NEW TRANSLATION
+  NOR_when_the_coup_starts_TT: "Když začne fašistický převrat:\n" # todo: NEW TRANSLATION
+  NOR_invasion_focus_TT: "§YBude automaticky dokončeno, když nás zaútočí fašistická velmoc.§!" # todo: NEW TRANSLATION
+  NOR_switch_to_fascist_TT: "§R$NOR_fascism$, vedený [NOR.GetFascistLeader], se stane novou vládou. Vypukne občanská válka.§!" # todo: NEW TRANSLATION
+  NOR_stay_democratic_TT: "§RFašističtí stoupenci [NOR.GetFascistLeader] se proti vám vzbouří a podpoří útočící fašisty§!" # todo: NEW TRANSLATION
+  NOR_delay_coup_TT: "§GOddálí převrat [NOR.GetFascistLeader]a a fašistickou občanskou válku proti vám.§!" # todo: NEW TRANSLATION
+  NOR_modify_oppressed_civilians_TT: "Mění §Y$NOR_oppressed_civilians_dmod$§! o:" # todo: NEW TRANSLATION
+  NOR_rejected_by_fascist_bully: "§YPozvánka k invazi§! byla odmítnuta" # todo: NEW TRANSLATION
+  NOR_active_preparation: "[NOR_active_prep_flag_name]" # todo: NEW TRANSLATION
+  NOR_active_prep_flag_name_monarchist: "Demonstrace ve státě" # todo: NEW TRANSLATION
+  NOR_active_prep_flag_name_generic: "Práce na státě" # todo: NEW TRANSLATION
+  NOR_convert_militias_to_regulars_TT: "Převede všechny §Ymilice§! divize na §Yběžnou pěchotu§!" # todo: NEW TRANSLATION
+  NOR_communist_prep_intro: "\nKdyž začne §YKomunistická revoluce§!, tento stát:" # todo: NEW TRANSLATION
+  NOR_communist_prep_join_comm_side: "§GPřipojí se ke komunistům§!" # todo: NEW TRANSLATION
+  NOR_communist_prep_2_irregulars: "§GPoskytne 2 nepravidelné divize§!" # todo: NEW TRANSLATION
+  NOR_communist_prep_2_militias: "§GPoskytne 2 divize milicí§!" # todo: NEW TRANSLATION
+  NOR_communist_prep_join_heavy_damage: "§RUtrpí těžké škody na svých továrnách a infrastruktuře§!" # todo: NEW TRANSLATION
+  NOR_communist_prep_join_moderate_damage: "§RUtrpí střední škody na svých továrnách a infrastruktuře§!" # todo: NEW TRANSLATION
+  NOR_communist_prep_join_light_damage: "§RUtrpí malé škody na svých továrnách a infrastruktuře§!" # todo: NEW TRANSLATION
+  NOR_communist_prep_level_1_TT: "$NOR_communist_prep_intro$\n $NOR_communist_prep_join_comm_side$\n $NOR_communist_prep_join_heavy_damage$" # todo: NEW TRANSLATION
+  NOR_communist_prep_level_2_TT: "$NOR_communist_prep_intro$\n $NOR_communist_prep_join_comm_side$\n $NOR_communist_prep_2_irregulars$\n $NOR_communist_prep_join_moderate_damage$" # todo: NEW TRANSLATION
+  NOR_communist_prep_level_3_TT: "$NOR_communist_prep_intro$\n $NOR_communist_prep_join_comm_side$\n $NOR_communist_prep_2_militias$\n $NOR_communist_prep_join_light_damage$" # todo: NEW TRANSLATION
+  NOR_communist_prep_max_preparedness_trigger_TT: "§YCelková podpora pro revoluci§! je menší než [?NOR.NOR_comm_prep_max_preparedness]" # todo: NEW TRANSLATION
+  NOR_communist_prep_unlock_level_3_TT: "Umožňuje výcvik §Ykomunistických milic§! ve státech prostřednictvím rozhodnutí §YRozdmýchání proletariátu§!" # todo: NEW TRANSLATION
+  NOR_communist_civil_war_start_TT: "Vyvolá §YKomunistickou revoluci§!\n§RToto povede k vyhlášení komunistické občanské války proti Demokratické straně§!" # todo: NEW TRANSLATION
+  NOR_adding_prep_communist_TT: "[NOR.GetName]'s total Podpora naší revoluce se zvýší o §G$RIGHT|0$§!" # todo: NEW TRANSLATION
+  NOR_bamse_tooltip: "§GSpokojenost z dokončení fokusu s roztomilým psem v ikoně§!" # todo: NEW TRANSLATION
+  NOR_exile_decisions_unlock_TT: "§GRozhodnutí pro lepší pokračování boje z exilu se odemknou, jakmile budeme v exilu§!" # todo: NEW TRANSLATION
+  NOR_mobile_government_decisions_TT: "Odemyká rozhodnutí: §YPřesunout hlavní město do státu§!" # todo: NEW TRANSLATION
+  NOR_when_exiled_TT: " §YEfekty po kapitulaci§!:" # todo: NEW TRANSLATION
+  NOR_exiled_convoys_TT: "§G+$RIGHT|0$§! Konvoje budou přidány do národních zásob po odchodu do exilu" # todo: NEW TRANSLATION
+  NOR_exiled_pp_TT: "§G+$RIGHT|0$§! £pol_power po odchodu do exilu" # todo: NEW TRANSLATION
+  NOR_exiled_legitimacy_TT: "§G+$RIGHT|0$§! Legitimita po odchodu do exilu" # todo: NEW TRANSLATION
+  NOR_exiled_manpower_TT: "§G+$RIGHT|0$§! Lidská síla po odchodu do exilu" # todo: NEW TRANSLATION
+  NOR_needed_support_TT: "[NOR.GetName]'s total §YPodpora monarchie§! je alespoň §Y[?temp_preparedness]§! (Current: [?NOR_country_preparedness])" # todo: NEW TRANSLATION
+  NOR_mon_stabilizing_effects: "Národní intervence" # todo: NEW TRANSLATION
+  NOR_modify_kingdom_of_norway_TT: "Mění §Y$NOR_the_kingdom_of_norway$§! o: " # todo: NEW TRANSLATION
+  NORDIC_no_war_participation: "Nepodstatná účast ve válce" # todo: NEW TRANSLATION
+  NORDIC_limited_war_participation: "Omezená účast ve válce" # todo: NEW TRANSLATION
+  NORDIC_risky_war_contribution: "Riziková účast ve válce" # todo: NEW TRANSLATION
+  NORDIC_dangerous_war_participation: "Nebezpečná účast ve válce" # todo: NEW TRANSLATION
+  NORDIC_war_participation_increase_TT: "Naše zapojení se zvýšilo z §Y[NORDIC_get_current_participation_level]§! na §R[NORDIC_get_participation_level_above]§!" # todo: NEW TRANSLATION
+  NORDIC_conflict_scale_increase_tooltip: "Míra konfliktu v našem regionu se zvýší o §R$RIGHT|0$§!" # todo: NEW TRANSLATION
+  NORDIC_conflict_scale_border_war_TT: "§YMíra konfliktu§! kolem nás je §ROmezená válka§!" # todo: NEW TRANSLATION
+  NORDIC_conflict_scale_regional_war_TT: "§YMíra konfliktu§! kolem nás je §RRegionální válka§!" # todo: NEW TRANSLATION
+  NORDIC_conflict_scale_total_war_TT: "§YMíra konfliktu§! kolem nás je §RCelková válka§!" # todo: NEW TRANSLATION
+  NORDIC_conflict_scale_limited_war_name: "§GOmezená válka§!" # todo: NEW TRANSLATION
+  NORDIC_conflict_scale_regional_war_name: "§YRegionální válka§!" # todo: NEW TRANSLATION
+  NORDIC_conflict_scale_total_war_name: "§RCelková válka§!" # todo: NEW TRANSLATION
+  NORDIC_alliance_democratic: "Nordická rada" # todo: NEW TRANSLATION
+  NORDIC_alliance_communist: "Severní lidová unie" # todo: NEW TRANSLATION
+  NORDIC_alliance_monarchist: "Liga Norden" # todo: NEW TRANSLATION
+  NORDIC_adjective_democratic: "Nordický" # todo: NEW TRANSLATION
+  NORDIC_adjective_communist: "Severní" # todo: NEW TRANSLATION
+  NORDIC_adjective_monarchist: "Norden" # todo: NEW TRANSLATION
+  NORDIC_unlock_investment_decisions_TT: "Odemyká rozhodnutí §YInvestovat do Nordiku§! a §YPožádat Nordik o investici do nás§!, která umožňují obchodní dohody výhodnější pro [ROOT.GetName]." # todo: NEW TRANSLATION
+  NORDIC_unlock_cooperation_decisions_TT: "Odemyká rozhodnutí: §YUsilovat o ekonomickou spolupráci s Nordikem§! k navázání vzájemně výhodných ekonomických dohod se severskými sousedy." # todo: NEW TRANSLATION
+  NORDIC_is_democratic_tt: "Je způsobilý vytvořit demokratickou společnou alianci" # todo: NEW TRANSLATION
+  NORDIC_is_monarchist_tt: "Je způsobilý vytvořit monarchistickou společnou alianci" # todo: NEW TRANSLATION
+  NORDIC_alliance_created_already_TT: "Nějaká společná aliance již byla vytvořena." # todo: NEW TRANSLATION
+  NORDIC_airforce_capstone_unlock_TT: "Tím se odemknou další fokusy pro §Y$NORDIC_nordic_airforce$§! větev." # todo: NEW TRANSLATION
+  NORDIC_navy_capstone_unlock_TT: "Tím se odemknou další fokusy pro §Y$NORDIC_nordic_navy$§! větev." # todo: NEW TRANSLATION
+  NORDIC_army_capstone_unlock_TT: "Tím se odemknou další fokusy pro §Y$NORDIC_nordic_army$§! větev." # todo: NEW TRANSLATION
+  NORDIC_civilian_capstone_unlock_TT: "Tím se odemknou další fokusy pro §Y$NORDIC_nordic_industry$§! větev." # todo: NEW TRANSLATION
+  NORDIC_research_capstone_unlock_TT: "Tím se odemknou další fokusy pro §Y$NORDIC_nordic_research$§! větev." # todo: NEW TRANSLATION
+  NORDIC_production_capstone_unlock_TT: "Tím se odemknou další fokusy pro §Y$NORDIC_nordic_military_industry$§! větev." # todo: NEW TRANSLATION
+  NORDIC_baltic_interests_TT: "Získáte nároky na státy s pobřežím §YBaltského moře§! vlastněné ostatními §YNordickými zeměmi§!." # todo: NEW TRANSLATION
+  NORDIC_support_Training_collaboration_custom_TT: "Podpůrné společnosti:\n Útok na měkké cíle: §G+25%§!\n Organizace: §G+10.0§!\n Faktor ztráty zkušeností: §G+5%§!" # todo: NEW TRANSLATION
+  NORDIC_modify_nordic_airforce_dmod: "Mění §Y[NORDIC_GetAirforceDmodName]§!: " # todo: NEW TRANSLATION
+  NORDIC_becomes_airforce_leader_tooltip: "§Y$NORDIC_airforces_member_dmod$§! bude nahrazen §Y$NORDIC_airforces_originator_dmod$§!, a §Gse stane vůdcem leteckého úsilí [NORDIC_get_adjective]§!." # todo: NEW TRANSLATION
+  NORDIC_becomes_airforce_member_tooltip: "§Y$NORDIC_airforces_originator_dmod$§! bude nahrazen §Y$NORDIC_airforces_member_dmod$§!, a §Rpřestane vést letecké úsilí [NORDIC_get_adjective]§!." # todo: NEW TRANSLATION
+  NORDIC_modify_nordic_navy_dmod: "Mění §Y[NORDIC_GetNavyDmodName]§!:" # todo: NEW TRANSLATION
+  NORDIC_becomes_navy_leader_tooltip: "§Y$NORDIC_navy_member_dmod$§! bude nahrazen §Y$NORDIC_navy_originator_dmod$§!, a §Gse stane vůdcem námořního úsilí [NORDIC_get_adjective]§!." # todo: NEW TRANSLATION
+  NORDIC_becomes_navy_member_tooltip: "§Y$NORDIC_navy_originator_dmod$§! bude nahrazen §Y$NORDIC_navy_member_dmod$§!, a §Rpřestane vést námořní úsilí [NORDIC_get_adjective]§!." # todo: NEW TRANSLATION
+  NORDIC_modify_nordic_military_industry_dmod: "Mění §Y[NORDIC_GetMilIndustryDmodName]§!:" # todo: NEW TRANSLATION
+  NORDIC_becomes_military_industry_leader_tooltip: "§Y$NORDIC_mil_industry_originator_dmod$§! bude nahrazen §Y$NORDIC_mil_industry_member_dmod$§!, a §Gse stane vůdcem vojenského průmyslu [NORDIC_get_adjective]§!." # todo: NEW TRANSLATION
+  NORDIC_becomes_military_industry_member_tooltip: "§Y$NORDIC_mil_industry_member_dmod$§! bude nahrazen §Y$NORDIC_mil_industry_originator_dmod$§!, a §Rpřestane vést vojenský průmysl [NORDIC_get_adjective]§!." # todo: NEW TRANSLATION
+  NORDIC_unlock_nordic_mio: "Odemyká §Y$NORDIC_joint_MIO$§! vojenskou průmyslovou organizaci" # todo: NEW TRANSLATION
+  NORDIC_modifies_leader_dmod_TT: "Mění §Yvůdce [NORDIC_get_alliance_name]§!: " # todo: NEW TRANSLATION
+  NORDIC_modifies_member_dmod_TT: "Mění §Y[NORDIC_get_alliance_name]§!: " # todo: NEW TRANSLATION
+  NORDIC_is_baltic_state: "Má pobřeží na §YBaltském moři§!" # todo: NEW TRANSLATION
+  NORDIC_is_northern_sea_state: "Má pobřeží na §YSeverním moři§!" # todo: NEW TRANSLATION
+  NORDIC_is_danish_belt_state: "Má pobřeží na §YDánském průlivu§!" # todo: NEW TRANSLATION
+  NORDIC_number_of_technologies_TT: "Prozkoumané technologie: §Y[?num_researched_technologies]§!" # todo: NEW TRANSLATION
+  NORDIC_unlocks_reaching_out_to_our_neighbors_TT: "Odemyká sdílený fokus §Y$NORDIC_reaching_out_to_our_neighbors$§!" # todo: NEW TRANSLATION
+  NORDIC_unlocks_the_nordic_march_TT: "Odemyká sdílený fokus §Y$NORDIC_the_nordic_march$§!" # todo: NEW TRANSLATION
+  NORDIC_unlocks_to_arms_against_tyranny_TT: "Odemyká sdílený fokus §Y$NORDIC_to_arms_against_tyranny$§!" # todo: NEW TRANSLATION
+  NORDIC_is_joint_focus_member_TT: "Je součástí §Y[NORDIC_get_alliance_name]§!" # todo: NEW TRANSLATION
+  NORDIC_will_autocomplete_once_valid: "§YBude automaticky dokončeno, jakmile budou splněny podmínky nebo prostřednictvím určitých fokusů§!" # todo: NEW TRANSLATION
+  DEN_military_advisors_cost_big_tt: "  - Cena všech vojenských poradců: §G-15%§!" # todo: NEW TRANSLATION
+  DEN_military_advisors_cost_small_tt: "  - Cena všech vojenských poradců: §G-10%§!" # todo: NEW TRANSLATION
+  DEN_election_consequences_tt: "Kterákoli politická strana s §Y25% popularity§! nebo více může sestavit vládu." # todo: NEW TRANSLATION
+  DEN_election_consequences_democratic_tt: "Kterákoli politická strana s §Y25% popularity§! nebo více může sestavit vládu. §YDemokratická strana§! si také může vybrat mezi různými §Yvůdci strany§!." # todo: NEW TRANSLATION
+  DEN_democratic_campaign_effects_tt: "To nám umožní zvýšit popularitu §YDemokratické strany§!" # todo: NEW TRANSLATION
+  DEN_communist_campaign_effects_tt: "To nám umožní zvýšit popularitu §Y$DEN_communism_party$§!" # todo: NEW TRANSLATION
+  DEN_neutral_campaign_effects_tt: "To nám umožní zvýšit popularitu §Y$DEN_neutrality_party$§!" # todo: NEW TRANSLATION
+  DEN_fascist_campaign_effects_tt: "To nám umožní zvýšit popularitu §Y$DEN_fascism_party$§!" # todo: NEW TRANSLATION
+  DEN_unlocks_bop_decisions_tt: "\nOdemyká rozhodnutí §YRovnováha sil§!\n\n" # todo: NEW TRANSLATION
+  DEN_increase_welfare_bop_cost_tt: "\nZvýší náklady všech rozhodnutí §Y$DEN_welfare_side$§! o £pol_power §R+25§!\n\n" # todo: NEW TRANSLATION
+  DEN_increase_warfare_bop_cost_tt: "\nZvýší náklady všech rozhodnutí §Y$DEN_warfare_side$§! o £pol_power §R+50§!\n\n" # todo: NEW TRANSLATION
+  DEN_unlocks_occupation_bop_decisions_tt: "\nOdemyká rozhodnutí §YRovnováha sil§! pro správu §Yvlivu okupanta§!\n\n" # todo: NEW TRANSLATION
+  DEN_unlock_stalvalsevaerket_tt: "Odemyká průmyslový koncern §Y$DEN_danske_stalvalsevaerket_ns$§!" # todo: NEW TRANSLATION
+  DEN_cannot_increase_conscription_law: " [DEN.GetAdjective] okupant zakazuje zvyšování §Y$mobilization_laws$§!" # todo: NEW TRANSLATION
+  DEN_had_volunteer_only_flag: "$DEN_cannot_increase_conscription_law$" # todo: NEW TRANSLATION
+  DEN_has_foreign_support_flag: "Nějaký stát souhlasil s podporou naší nezávislosti" # todo: NEW TRANSLATION
+  DEN_create_danish_brigades_flag: "Nějaký stát souhlasil hostit naše brigády" # todo: NEW TRANSLATION
+  DEN_create_resistance_militia_tt: "Vytvoří šablonu §YModstandsbevægelsen Militia§!" # todo: NEW TRANSLATION
+  DEN_adds_units_to_resistance_tt: "Přidá jednotky do šablony §YModstandsbevægelsen Militia§! v §Y[DEN.GetNameDef]§!" # todo: NEW TRANSLATION
+  DEN_danish_brigade_template_tt: "Vytvoří šablonu §YDanske Brigade§!" # todo: NEW TRANSLATION
+  DEN_adds_units_to_brigade_tt: "Přidá jednotky do šablony §YDanske Brigade§! v §Y[DEN.GetNameDef]§!" # todo: NEW TRANSLATION
+  DEN_danish_resistance_ns_tt: "(([?DEN.DEN_overlord_nation.GetFlag][?DEN.DEN_overlord_nation.GetNameDefCap]) Bonus k útoku proti zemi: §G+10.0%§!, ([?DEN.DEN_overlord_nation.GetFlag][?DEN.DEN_overlord_nation.GetNameDefCap]) Bonus k obraně proti zemi: §G+10.0%§!)" # todo: NEW TRANSLATION
+  DEN_targeted_attack_and_defense_tt: "(([?DEN.DEN_overlord_nation.GetFlag][?DEN.DEN_overlord_nation.GetNameDefCap]) Bonus k útoku proti zemi: §G+10.0%§!\n([?DEN.DEN_overlord_nation.GetFlag][?DEN.DEN_overlord_nation.GetNameDefCap]) Bonus k obraně proti zemi: §G+10.0%§!)" # todo: NEW TRANSLATION
+  DEN_launches_destroyers_tt: "[DEN.GetNameDefCap] spustí do provozu všechny své pořízené torpédoborce" # todo: NEW TRANSLATION
+  DEN_remove_resistance_in_365_days_tt: "Odstranit §Y$DEN_resistance_dynamic_modifier$§! za 365 dní\n\n" # todo: NEW TRANSLATION
+  DEN_if_denmark_becomes_independent_tt: "Pokud [DEN.GetName] vyhlásí nezávislost" # todo: NEW TRANSLATION
+  DEN_danish_intel: "Zpravodajství dánského odboje" # todo: NEW TRANSLATION
+  DEN_overlord_ruling_party_tt: "Více než §Y40%§! podpory pro [?DEN.DEN_overlord_nation.GetRulingIdeologyNoun]" # todo: NEW TRANSLATION
+  DEN_banned_communism: " [DEN.GetNameDefCap] zakázalo komunismus" # todo: NEW TRANSLATION
+  DEN_banned_fascism_flag: " [DEN.GetNameDefCap] zakázalo fašismus" # todo: NEW TRANSLATION
+  DEN_political_agitator_flag: " Politický agitátor" # todo: NEW TRANSLATION
+  DEN_censor_media_flag: "Má cenzuru médií" # todo: NEW TRANSLATION
+  DEN_remove_aksel_larsen_tt: "Odstranit §Y$DEN_aksel_larsen$§! jako politického poradce" # todo: NEW TRANSLATION
+  DEN_remove_frits_clausen_tt: "Odstranit §Y$DEN_frits_clausen$§! jako politického poradce" # todo: NEW TRANSLATION
+  DEN_remove_cay_lembcke_tt: "Odstranit §Y$DEN_cay_lembcke$§! jako politického poradce" # todo: NEW TRANSLATION
+  DEN_remove_christmas_moller_tt: "Odstranit §Y$DEN_christmas_moller$§! jako politického poradce" # todo: NEW TRANSLATION
+  DEN_cic_to_overlord_5_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! poskytuje nejméně §G+5.00%§! civilního průmyslu okupantovi" # todo: NEW TRANSLATION
+  DEN_mic_to_overlord_5_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! poskytuje nejméně §G+5.00%§! vojenského průmyslu okupantovi" # todo: NEW TRANSLATION
+  DEN_cic_to_overlord_10_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! poskytuje nejméně §G+10.00%§! civilního průmyslu okupantovi" # todo: NEW TRANSLATION
+  DEN_mic_to_overlord_10_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! poskytuje nejméně §G+10.00%§! vojenského průmyslu okupantovi" # todo: NEW TRANSLATION
+  DEN_topple_government_tt: "Po utrpení pod [?DEN.DEN_overlord_nation.GetAdjective] okupací budeme mít snazší pozici §Yosvobodit§! ostatní národy od jejich utlačování nebo dokonce §YZměnit jejich vládu§! na vládu vstřícnější k nám při případné §Ymírové konferenci§!\n\n" # todo: NEW TRANSLATION
+  DEN_puppet_the_overlord_tt: "Po utrpení pod [?DEN.DEN_overlord_nation.GetAdjective] okupací máme plné právo chránit naši svobodu tím, že je §Ypodmaníme§! při případné §Ymírové konferenci§!\n\n" # todo: NEW TRANSLATION
+  DEN_unlock_military_branch_tt: "Odemyká §Yvětev vojenských fokusů§! [DEN.GetNameDef]!" # todo: NEW TRANSLATION
+  DEN_accepted_danish_allegiance_flag: "§Y[?DEN.DEN_overlord_nation.GetNameDefCap]§! přijalo dánskou věrnost" # todo: NEW TRANSLATION
+  DEN_effects_on_science_pact: "Dopady na §Y$DEN_science_pact$§!:" # todo: NEW TRANSLATION
+  DEN_effects_may_vary_science_pact_tt: "§Y$DEN_science_pact$§! bude ovlivněn různými způsoby v závislosti na tom, s jakým státem se [DEN.GetNameDef] uzavře §Ypakt o neútočení§! prostřednictvím rozhodnutí §Y$DEN_seek_guarantor$§!\n\n" # todo: NEW TRANSLATION
+  DEN_has_non_aggression_pact_signator_tt: "Má signatáře §YPaktu o neútočení§!" # todo: NEW TRANSLATION
+  DEN_effects_on_transfer_states_tt: "\nDopady na §Y$DEN_territory_for_protection$§!:" # todo: NEW TRANSLATION
+  DEN_transfer_territory_tt: "Předej §Y$STATE_101$§!, §Y$STATE_337$§!, §Y$STATE_910$§! nebo §Y$STATE_912$§! za:" # todo: NEW TRANSLATION
+  DEN_joint_military_drills_tt: "\n§Y$DEN_joint_military_drills$§! budou ovlivněny různými způsoby v závislosti na tom, ke které frakci se [DEN.GetNameDef] připojí prostřednictvím rozhodnutí §Y$DEN_seek_an_alliance$§!\n\n" # todo: NEW TRANSLATION
+  DEN_effects_on_military_cooperation_tt: "\nDopady na §Y$DEN_joint_military_drills$§!:" # todo: NEW TRANSLATION
+  DEN_effects_may_vary_military_cooperation_tt: "§Y$DEN_haeren_dynamic_modifier$§!, §Y$DEN_sovaernet_dynamic_modifier$§! a §Y$DEN_flyvevabnet_dynamic_modifier$§! budou ovlivněny různými způsoby v závislosti na tom, ke které frakci se [DEN.GetNameDef] připojí prostřednictvím rozhodnutí §Y$DEN_seek_an_alliance$§!\n\n" # todo: NEW TRANSLATION
+  DEN_effects_on_tech_sharing_tt: "\nDopady na §Y$DEN_military_cooperation_program$§!:" # todo: NEW TRANSLATION
+  DEN_effects_may_vary_tech_sharing_tt: "\n§Y$DEN_military_cooperation_program$§! bude ovlivněn různými způsoby v závislosti na tom, ke které frakci se [DEN.GetNameDef] připojí prostřednictvím rozhodnutí §Y$DEN_seek_an_alliance$§!" # todo: NEW TRANSLATION
+  DEN_invite_nordic_countries_tt: "Odemyká rozhodnutí: §YPozvat Nordiky do naší frakce§!" # todo: NEW TRANSLATION
+  DEN_invade_nordic_countries_tt: "Odemyká rozhodnutí: §YOchraňovat nordické národy§!" # todo: NEW TRANSLATION
+  DEN_take_southern_baltic_sea_states_tt: "\nStanovili jsme si za prioritu zabezpečení našeho jižního pohraničí, a to znamená zabezpečení jižního pobřeží §YBaltského moře§!. Tato priorita nám usnadní získání potřebného území při případné §Ymírové konferenci§!.\n\n" # todo: NEW TRANSLATION
+  DEN_remove_declaration_of_neutrality_tt: "Odstranit §Y$DEN_declaration_of_neutrality$§!" # todo: NEW TRANSLATION
+  DEN_invite_allies_to_tech_sharing_decision_tt: "Odemyká rozhodnutí: §YPozvat členy frakce do $DEN_northern_technological_advancements_group$§!" # todo: NEW TRANSLATION
+  DEN_sway_the_nordics_tt: "Odemyká rozhodnutí: §YZměnit veřejné mínění§!" # todo: NEW TRANSLATION
+  DEN_offer_protection_tt: "Odemyká rozhodnutí: §YNabídnout dánskou ochranu§!" # todo: NEW TRANSLATION
+  DEN_swedish_steel__protection_tt: "Odemyká rozhodnutí: §Y$DEN_swedish_steel_production_category$§!" # todo: NEW TRANSLATION
+  DEN_exiled_royal_family: "Vyhostil královskou rodinu" # todo: NEW TRANSLATION
+  DEN_vilhelm_buhl_takes_over_tt: "§Y$DEN_vilhelm_buhl$§! povede $DEN_democratic_party$" # todo: NEW TRANSLATION
+  DEN_frederik_IX_takes_over_tt: "Ať žije král §Y$DEN_frederik_ix$§!!" # todo: NEW TRANSLATION
+  DEN_lego: "Společnost Lego" # todo: NEW TRANSLATION
+  DEN_remove_one_offmap_civ_tt: "Odstranit §R1§! mimo mapu §Y$industrial_complex$§!." # todo: NEW TRANSLATION
+  DEN_remove_two_offmap_civ_tt: "Odstranit §R2§! mimo mapu §Ycivilní továrny§!." # todo: NEW TRANSLATION
+  DEN_loses_one_offmap_civ_tt: "([DEN.GetFlag][DEN.GetNameDefCap]) Odstranit §R1§! mimo mapu §Y$industrial_complex$§!." # todo: NEW TRANSLATION
+  DEN_loses_two_offmap_civ_tt: "([DEN.GetFlag][DEN.GetNameDefCap]) Odstranit §R2§! mimo mapu §Ycivilní továrny§!." # todo: NEW TRANSLATION
+  DEN_modify_occupation_laws_dynamic_modifier: "Upravit §Y$DEN_occupation_laws_dynamic_modifier$§! o" # todo: NEW TRANSLATION
+  add_to_faction_tt: "Přidat do frakce" # todo: NEW TRANSLATION
+  form_north_sea_empire_norway_required_states_tt: "Ovládá všechny pevninské §Ynorské§! státy." # todo: NEW TRANSLATION
+  form_north_sea_empire_swedish_required_states_tt: "Ovládá §Y$STATE_138$§! a §Y$STATE_915$§!." # todo: NEW TRANSLATION
+  form_north_sea_empire_english_required_states_tt: "Ovládá všechny §Yanglické§! státy." # todo: NEW TRANSLATION
+  form_north_sea_empire_swedish_coring_states_tt: "Získat jádra na §Y$STATE_138$§! a §Y$STATE_915$§!." # todo: NEW TRANSLATION
+  form_north_sea_empire_english_coring_states_tt: "Získat jádra na všechny §Yanglické§! státy." # todo: NEW TRANSLATION
+  form_nordic_nation_flag: "Neudělal rozhodnutí vytvořit ani §YSeveromořskou říši§!, ani §YNordickou unii§!, ani §YDominion Baltského moře§!" # todo: NEW TRANSLATION
+  subsidy_allied_nation_tt: "Spojené země" # todo: NEW TRANSLATION
+  subsidy_faction_leader_tt: "Vůdce frakce" # todo: NEW TRANSLATION
+  subsidy_non_aggression_nation_tt: "Stát signatář Paktu o neútočení" # todo: NEW TRANSLATION

@@ -1,0 +1,1551 @@
+﻿l_polish:
+  CAN_independent_command_idea: "Nezávislé velení" # todo: NEW TRANSLATION
+  trotsky_military_industry_tt: "\nPokud Sovětský svaz nevstoupí do války proti velmoci:\n" # todo: NEW TRANSLATION
+  SPR_RAIL: "Zlepšit železniční síť" # todo: NEW TRANSLATION
+  transport_plane_nerf_sov: "Tímto se vynucuje zákaz výsadků do Finska; zákaz bude zrušen na začátku Barbarossy" # todo: NEW TRANSLATION
+  USA_power_balance_arunchal: "Ztracený Arunachal" # todo: NEW TRANSLATION
+  USA_power_balance_papua: "Ztráta Papuy" # todo: NEW TRANSLATION
+  USA_power_balance_ceylon: "Ztráta Ceylonu" # todo: NEW TRANSLATION
+  USA_power_balance_singapore: "Ztráta Singapuru" # todo: NEW TRANSLATION
+  ITA_compass_medal: "Vyrovnávač HP Kompasu" # todo: NEW TRANSLATION
+  JAP_move_by_trucks_l: "Přesun nákladními vozidly" # todo: NEW TRANSLATION
+  JAP_move_by_trucks_I: "Přesun nákladními vozidly" # todo: NEW TRANSLATION
+  MEX_antoinemariebenoIt_besson: "Antoine-Marie-Benoit Besson" # todo: NEW TRANSLATION
+  SOV_war_exhaustion_tt: "\n§RTrotskyho schopnosti jako organizátora Rudé armády způsobí, že sovětská armáda bude bojovat zuřivěji, jakmile Axis zabírá území, čímž poskytne až 25% organizace armády před kapitulací, ale jeho nepopulární vedení povede k jeho pádu!\n\nKaždý měsíc, kdy budeme ve válce s Německem, ztratí Sovětský svaz 3,5% podpory války po zbytek hry.§!\n\n" # todo: NEW TRANSLATION
+  SOV_war_exhaustion: "Vyčerpání válkou" # todo: NEW TRANSLATION
+  SOV_war_exhaustion_desc: "Trotskyho politiky nemusí být populární, ale má talent na organizaci a budování Rudé armády. Ač je hrozbou, čas pracuje proti němu..." # todo: NEW TRANSLATION
+  USA_power_balance_wake: "Ztráta Wake" # todo: NEW TRANSLATION
+  mon_fuel_spirit: "Vyrovnání paliva Mongolska" # todo: NEW TRANSLATION
+  stahlpakt73: "Bratři v socialismu" # todo: NEW TRANSLATION
+  USA_power_balance_khartoum: "Ztráta Chartúmu" # todo: NEW TRANSLATION
+  USA_power_balance_gabon: "Ztráta Gabonu" # todo: NEW TRANSLATION
+  USA_power_balance_aden: "Ztráta Adenu" # todo: NEW TRANSLATION
+  USA_power_balance_gibraltar: "Ztráta Gibraltaru" # todo: NEW TRANSLATION
+  USA_power_balance_abu_dhabi: "Ztráta Abu Dhabi" # todo: NEW TRANSLATION
+  USA_power_balance_taiwan: "Obsazeno Tchaj-wanu" # todo: NEW TRANSLATION
+  USA_power_balance_iwo_jima: "Obsazeno Iwo Jima" # todo: NEW TRANSLATION
+  USA_power_balance_okinawa: "Obsazeno Okinawy" # todo: NEW TRANSLATION
+  USA_power_balance_bangkok: "Obsazeno Bangkok" # todo: NEW TRANSLATION
+  USA_power_balance_marcus: "Obsazeno Marcus Island" # todo: NEW TRANSLATION
+  jap_high_4: "Naprosto Německo první" # todo: NEW TRANSLATION
+  jap_high_3: "Silně Německo první" # todo: NEW TRANSLATION
+  jap_high_2: "Středně Německo první" # todo: NEW TRANSLATION
+  jap_high_1: "Mírně Německo první" # todo: NEW TRANSLATION
+  jap_low_4: "Naprosto Japonsko první" # todo: NEW TRANSLATION
+  jap_low_3: "Silně Japonsko první" # todo: NEW TRANSLATION
+  jap_low_2: "Středně Japonsko první" # todo: NEW TRANSLATION
+  jap_low_1: "Mírně Japonsko první" # todo: NEW TRANSLATION
+  ITA_license_production: "Výroba na licenci" # todo: NEW TRANSLATION
+  financial_expert_ita: "Finanční génius" # todo: NEW TRANSLATION
+  FRA_ITA_neutrality: "Franco-italská neutralita" # todo: NEW TRANSLATION
+  ITA_FRA_neutrality_dynamic: "Franco-italská neutralita" # todo: NEW TRANSLATION
+  ITA_FRA_neutrality: "Franco-italská neutralita" # todo: NEW TRANSLATION
+  FRA_defensive_focus_idea: "Strategické rezervy nasazeny" # todo: NEW TRANSLATION
+  FRA_aggressive_focus_idea: "Operační průlom" # todo: NEW TRANSLATION
+  JAP_nationalized_zaibasus: "Znacionalizované zaibatsu" # todo: NEW TRANSLATION
+  battle_of_papua: "Bitva o Papuu" # todo: NEW TRANSLATION
+  BRA_international_loan_modifier: "Mezinárodní úvěr" # todo: NEW TRANSLATION
+  SPR_ALLIES_WS_FIXER: "Vyrovnání válečné podpory (ŠOV)" # todo: NEW TRANSLATION
+  SOV_ilyushin_design_bureau_organization_cas: "Konstrukční kancelář Iljušina" # todo: NEW TRANSLATION
+  mobilization_proponent: "Zastánce mobilizace" # todo: NEW TRANSLATION
+  JAP_the_razor: "Břitva" # todo: NEW TRANSLATION
+  JAP_devout_mahanian: "Mahanista" # todo: NEW TRANSLATION
+  JAP_Okada_Keisuke: "Keisuke Okada" # todo: NEW TRANSLATION
+  JAP_fumimaro_konoe: "Fumimaro Konoe" # todo: NEW TRANSLATION
+  DEN_science_pact_idea: "Vědecký pakt" # todo: NEW TRANSLATION
+  disorganized_railway_system: "Špatná železniční infrastruktura" # todo: NEW TRANSLATION
+  SOV_disorganized_railway_system_tt: "\nNaše §HŽeleznice§! nelze zlepšovat ani stavět. Také nemůžeme postavit §HZásobovací uzly§!." # todo: NEW TRANSLATION
+  remove_disorganized_railway_system_tt: "Odstranit §HŠpatnou železniční infrastrukturu§!\n\n" # todo: NEW TRANSLATION
+  GER_miag_organization: "MIAG" # todo: NEW TRANSLATION
+  GER_nibelungenwerke_organization: "Nibelungwerke" # todo: NEW TRANSLATION
+  aviation_cult: "Kult letectví" # todo: NEW TRANSLATION
+  fall_rot_idea: "§gFall§! §RRot§!" # todo: NEW TRANSLATION
+  stahlpakt_ITA33: "Pakt o oceli" # todo: NEW TRANSLATION
+  ITA_kingdom_debuff: "Monarchistické nálady" # todo: NEW TRANSLATION
+  FIN_finnish_mongolian_neutrality_MON: "Finsko-mongolská neutralita" # todo: NEW TRANSLATION
+  GER_bel_neutrality: "Belgická neutralita" # todo: NEW TRANSLATION
+  JAP_hokushin_ron_doctrine_I: "Hokushin-ron" # todo: NEW TRANSLATION
+  JAP_nanshin_ron_doctrine_I: "Nanshin-ron" # todo: NEW TRANSLATION
+  south_seas_development: "Nanyo Kohatsu" # todo: NEW TRANSLATION
+  south_seas_development_improved: "Nanyo Kohatsu" # todo: NEW TRANSLATION
+  development_company: "Rozvojová společnost" # todo: NEW TRANSLATION
+  ROM_resita_tank: "Resita Works UDR" # todo: NEW TRANSLATION
+  malaxa: "Malaxa" # todo: NEW TRANSLATION
+  leonidas: "Atelierele Leonida" # todo: NEW TRANSLATION
+  ROM_skoda_works: "Škoda Works" # todo: NEW TRANSLATION
+  CKD_rom: "ČKD" # todo: NEW TRANSLATION
+  ucr: "Resita Works UCM" # todo: NEW TRANSLATION
+  concordia: "Concordia" # todo: NEW TRANSLATION
+  SR: "Steaua Română" # todo: NEW TRANSLATION
+  JAP_hachi_go_sakusen_going_I: "Hachi-Gō Sakusen" # todo: NEW TRANSLATION
+  JAP_hachi_go_sakusen_going_I_desc: "Operace Ichi-Go, neboli 'Operační plán č. 8', je plán vypracovaný společným operačním úřadem generálního štábu Japonské armády a Kvantungské armády pro invazi do východních částí Sovětského svazu. Rozsah operací byl obrovský: plán počítá se nasazením 50 divizí IJA na frontě dlouhé téměř 5 000 kilometrů, s konečnými cíli Japonska až 1 200 km hluboko do sovětského území." # todo: NEW TRANSLATION
+  JAP_RUS_genrikh_lyushkovs_far_east_informations_I: "Lyushkovovy informace z Dálného východu" # todo: NEW TRANSLATION
+  JAP_RAJ_establish_closer_economic_cooperation_I: "Indo-japonská hospodářská dohoda" # todo: NEW TRANSLATION
+  reichswerke_hermann_goring: "Reichswerke Hermann Göring" # todo: NEW TRANSLATION
+  fascist_assault_divisions: "Fašistické útočné divize" # todo: NEW TRANSLATION
+  ROM_securitate: "Securitate" # todo: NEW TRANSLATION
+  ROM_local_development_2: "Místní rozvoj" # todo: NEW TRANSLATION
+  ROM_generic_fascist_demagogue: "Mihail Sturdza" # todo: NEW TRANSLATION
+  ROM_generic_democratic_reformer: "Iuliu Maniu" # todo: NEW TRANSLATION
+  ROM_generic_communist_revolutionary: "Gheorghe Gheorghiu-Dej" # todo: NEW TRANSLATION
+  ROM_gheorghe_argeseanu: "Gheorghe Argeseanu" # todo: NEW TRANSLATION
+  ROM_petru_groza: "Petru Groza" # todo: NEW TRANSLATION
+  ROM_gheorghe_potopeanu: "Gheorghe Potopeanu" # todo: NEW TRANSLATION
+  ROM_gheorghe_mihail: "Gheorghe Mihail" # todo: NEW TRANSLATION
+  ROM_constantin_sanatescu: "Constantin Sanatescu" # todo: NEW TRANSLATION
+  ROM_paul_teodorescu: "Paul Teodorescu" # todo: NEW TRANSLATION
+  ROM_ion_antonescu: "Ion Antonescu" # todo: NEW TRANSLATION
+  ROM_gheorghe_avramescu: "Gheorghe Avramescu" # todo: NEW TRANSLATION
+  ROM_mihail_sturdza: "Mihail Sturdza" # todo: NEW TRANSLATION
+  ROM_romanian_officers: "Korupce v ozbrojených silách" # todo: NEW TRANSLATION
+  ROM_romanian_officers_desc: "Korupce v našich ozbrojených silách způsobila, že jakýkoli pokrok je nemožný; armádu řídí stará garda, která sedí pohodlně ve svých křeslech a odmítá změny ze strachu, že by je to mohlo připravit o jejich moc." # todo: NEW TRANSLATION
+  ROM_iuliu_maniu: "Iuliu Maniu" # todo: NEW TRANSLATION
+  ROM_MAN_man: "MAN" # todo: NEW TRANSLATION
+  ROM_fully_industralized: "Úsilí o industrializaci" # todo: NEW TRANSLATION
+  ROM_fully_industralized_desc: "" # todo: NEW TRANSLATION
+  ROM_army_tensions: "Napětí v armádě" # todo: NEW TRANSLATION
+  ROM_expanded_axis_oil_trade: "Rozšířený obchod s ropou" # todo: NEW TRANSLATION
+  ROM_expanded_axis_oil_trade2: "Rozšířený obchod s ropou" # todo: NEW TRANSLATION
+  ROM_scavenge_everything: "Seberte vše" # todo: NEW TRANSLATION
+  ROM_cugir_research: "Cugir Small Arms" # todo: NEW TRANSLATION
+  ROM_resita_research: "Resita Works UDR" # todo: NEW TRANSLATION
+  ROM_malaxa_research: "MALAXA" # todo: NEW TRANSLATION
+  ROM_iar_research: "IAR" # todo: NEW TRANSLATION
+  ROM_ROMLOC_research: "ROMLOC" # todo: NEW TRANSLATION
+  ROM_waning_influence_of_democracy: "Klesající vliv demokracie" # todo: NEW TRANSLATION
+  ROM_waning_influence_of_democracy2: "Demokracie rychle upadá" # todo: NEW TRANSLATION
+  ROM_agrarian_economy: "Agrární hospodářství" # todo: NEW TRANSLATION
+  ROM_agrarian_economy_effectivized: "Zefektivněné agrární hospodářství" # todo: NEW TRANSLATION
+  ROM_the_resource_curse_1: "Prokletí zdrojů" # todo: NEW TRANSLATION
+  ROM_the_resource_curse_2: "Prokletí zdrojů" # todo: NEW TRANSLATION
+  ROM_the_resource_curse_3: "Prokletí zdrojů" # todo: NEW TRANSLATION
+  ROM_airforce_purchases_abroad: "Komise pro nákup letadel" # todo: NEW TRANSLATION
+  ROM_acquire_modern_tanks2: "Získat moderní tanky" # todo: NEW TRANSLATION
+  ROM_state_army_arsenal: "Armádní státní arzenál" # todo: NEW TRANSLATION
+  ROM_german_influence: "Německý vliv" # todo: NEW TRANSLATION
+  RAJ_agri_act_support: "Momentálně se nezaměřujeme na Zákon o stabilizaci zemědělství a související legislativu..." # todo: NEW TRANSLATION
+  RAJ_rail_act_support: "Momentálně se nezaměřujeme na Zákon o rozšíření železnic a související legislativu..." # todo: NEW TRANSLATION
+  liberal_reformer: "Liberální reformátor" # todo: NEW TRANSLATION
+  GER_abwehr_contacts: "[ROOT.GetAgency] Kontakty" # todo: NEW TRANSLATION
+  aviation_hero_advisor: "Hrdina letectva" # todo: NEW TRANSLATION
+  ITA_prioritizing_the_airforce: "Priorita letectva" # todo: NEW TRANSLATION
+  AXIS_COMPASS: "Obrana Libye" # todo: NEW TRANSLATION
+  AXIS_COMPASS_SUPPLY: "Obrana Libye" # todo: NEW TRANSLATION
+  stahlpakt_33: "Pakt o oceli" # todo: NEW TRANSLATION
+  JAP_naval_range_spirit: "Doktrína 'Úder na jih'" # todo: NEW TRANSLATION
+  USA_dday_spirit: "Operace Overlord: lekce z Pacifiku" # todo: NEW TRANSLATION
+  JAP_indies_spirit: "Kampaň v Nizozemských východních Indii" # todo: NEW TRANSLATION
+  SOV_invasion: "Unternehmen Barbarossa" # todo: NEW TRANSLATION
+  USA_Battle_of_the_Atlantic_idea: "Bitva o Atlantik" # todo: NEW TRANSLATION
+  focus_on_europe_idea: "Zaměřit se na Evropu" # todo: NEW TRANSLATION
+  rubber_cap_spirit: "Guma prodána civilnímu trhu" # todo: NEW TRANSLATION
+  rubber_cap_spirit_desc: "Tento stav je automaticky odstraněn v počátku roku 1940." # todo: NEW TRANSLATION
+  operation_overlord: "Operace Overlord" # todo: NEW TRANSLATION
+  EFR_defense_plan: "Opora Francie" # todo: NEW TRANSLATION
+  ROM_spain2: "Podpořit španělský puč" # todo: NEW TRANSLATION
+  HUN_volunteers2: "Zásah ve Španělsku" # todo: NEW TRANSLATION
+  HUN_interventionism_3: "Intervencionismus" # todo: NEW TRANSLATION
+  BUL_volunteers_in_spain_nationalist2: "Dobrovolníci ve Španělsku" # todo: NEW TRANSLATION
+  GREECE_SURRENDER_PROGRESS: "Kontrola kapitulace Řecka" # todo: NEW TRANSLATION
+  impero_di_argilla: "Říše z hlíny" # todo: NEW TRANSLATION
+  impero_di_argilla_desc: "§RTento stav je automaticky odstraněn, když [AOI.GetName] překročí 50% pokroku kapitulace nebo dne 1. listopadu 1939, podle toho, co nastane dříve.§!" # todo: NEW TRANSLATION
+  IRQ_the_revolution: "Puč Zlatého čtverce" # todo: NEW TRANSLATION
+  inventor_of_general_relativity: "Tvůrce obecné relativity" # todo: NEW TRANSLATION
+  CRO_fascism_ust_long: "Ustaša – Hrvatski Revolucionarni Pokret" # todo: NEW TRANSLATION
+  CRO_fascism_ust: "Ustaša" # todo: NEW TRANSLATION
+  sisu2: "Sisu" # todo: NEW TRANSLATION
+  GER_abwehr_idea: "Přestavba Abwehru" # todo: NEW TRANSLATION
+  GER_abwehr_idea2: "Rozšířit zahraniční operace" # todo: NEW TRANSLATION
+  GER_marinefahrprogram_idea: "Program Marinefährprahm" # todo: NEW TRANSLATION
+  war_technological_advances: "Válečné technologické pokroky" # todo: NEW TRANSLATION
+  IRQ_oil2: "Irácká ropná společnost" # todo: NEW TRANSLATION
+  IRQ_oil2_desc: "Iraq Petroleum Company (IPC), dříve známá jako Turkish Petroleum Company (TPC), je ropná společnost, která měla prakticky monopol na veškerý průzkum a těžbu ropy v Iráku. Společnost sídlila v Londýně, který získával většinu výhod z průzkumu a rozvoje ropných zdrojů přes IPC, což rozhořčovalo místní Iráčany." # todo: NEW TRANSLATION
+  HOL_nassau: "Fort Nassau" # todo: NEW TRANSLATION
+  ENG_gibby: "Skála" # todo: NEW TRANSLATION
+  ALLIES_sov_def_idea: "Obrana v hloubce" # todo: NEW TRANSLATION
+  ALLIES_sov_procure: "Sovětské vojensko-průmyslové plánování" # todo: NEW TRANSLATION
+  ALLIES_preparations_idea: "Vojenské přípravy" # todo: NEW TRANSLATION
+  why_we_fight_focus_nor: "Norský patriotismus" # todo: NEW TRANSLATION
+  italian_defense: "Italská obranná doktrína" # todo: NEW TRANSLATION
+  italian_corporatism: "Italský korporatismus" # todo: NEW TRANSLATION
+  brains_over_brawn: "Rozum nad silou" # todo: NEW TRANSLATION
+  ideological_fanaticism_focus_2: "Extrémní ideologický fanatismus" # todo: NEW TRANSLATION
+  showa_statism: "Šówa statismus" # todo: NEW TRANSLATION
+  live_off_the_rear: "Žít z týlu" # todo: NEW TRANSLATION
+  japanese_commando_training: "Výcvik japonských komandos" # todo: NEW TRANSLATION
+  japanese_shipyard_expertise: "Odbornost japonských loděnic" # todo: NEW TRANSLATION
+  ROM_the_maresal_idea: "Marešál" # todo: NEW TRANSLATION
+  decisive_battle_idea: "Rozhodující bitva" # todo: NEW TRANSLATION
+  supremacy_at_sea: "Nadvláda na moři" # todo: NEW TRANSLATION
+  wolfpack_tactics_idea: "Taktika vlčích smeček" # todo: NEW TRANSLATION
+  civilian_naval_production: "Námořní průmysl zaměřený na spotřebitele" # todo: NEW TRANSLATION
+  HUN_license_german_equipment: "Licencovat německé vybavení" # todo: NEW TRANSLATION
+  no_air_minors_allowed: "Letecké menší státy zakázány" # todo: NEW TRANSLATION
+  grand_council_sov_1: "Totální kontrola Velké rady" # todo: NEW TRANSLATION
+  grand_council_sov_2: "Vysoká kontrola Velké rady" # todo: NEW TRANSLATION
+  grand_council_sov_3: "Střední kontrola Velké rady" # todo: NEW TRANSLATION
+  grand_council_sov_4: "Nízká kontrola Velké rady" # todo: NEW TRANSLATION
+  operative_spyhunter: "Lovec špionů" # todo: NEW TRANSLATION
+  GER_swedish_trade: "Obchodní dohoda se Švédskem" # todo: NEW TRANSLATION
+  AST_tank_engineers: "Královské tankové továrny" # todo: NEW TRANSLATION
+  RAJ_tank_engineers: "Královské tankové továrny" # todo: NEW TRANSLATION
+  GER_focus_kiev: "Ofenzíva Osy" # todo: NEW TRANSLATION
+  GER_focus_moscow: "Ofenzíva Osy" # todo: NEW TRANSLATION
+  BRA_untrained_army: "Nevyškolená armáda" # todo: NEW TRANSLATION
+  ALLIES_eng_operations_idea: "Vyškoleno britskou armádou" # todo: NEW TRANSLATION
+  ALLIES_usa_dock_idea: "Vyškoleno námořní pěchotou USA" # todo: NEW TRANSLATION
+  ALLIES_usa_patron_idea: "Učit se od Američanů" # todo: NEW TRANSLATION
+  ALLIES_eng_patron_idea: "Hledat britskou odbornost" # todo: NEW TRANSLATION
+  trotsky_military_industry: "Tvůrce Rudé armády" # todo: NEW TRANSLATION
+  GER_luftwaffe_expansion_idea: "Rozšíření Luftwaffe" # todo: NEW TRANSLATION
+  GER_trust_in_the_luftwaffe_idea: "Ani jeden bombardér přes Porúří" # todo: NEW TRANSLATION
+  GER_volkssturm_idea: "Volkssturm" # todo: NEW TRANSLATION
+  GER_enigma_machine: "Šifrovací stroj Enigma" # todo: NEW TRANSLATION
+  battle_of_britain: "Bitva o Británii" # todo: NEW TRANSLATION
+  battle_of_britain_2: "Blitz" # todo: NEW TRANSLATION
+  battle_of_atlantic: "Bitva o Atlantik" # todo: NEW TRANSLATION
+  SPR_vol_can: "Podpořit Španělsko" # todo: NEW TRANSLATION
+  SPR_vol_can2: "Podpořit Španělsko" # todo: NEW TRANSLATION
+  SPR_vol_can3: "Podpořit Španělsko" # todo: NEW TRANSLATION
+  AST_support_spain: "Podpořit Španělsko" # todo: NEW TRANSLATION
+  AST_support_spain_ENG: "Podpořit Španělsko" # todo: NEW TRANSLATION
+  GER_otto_skorzeny: "Otto Skorzeny" # todo: NEW TRANSLATION
+  ROM_spain: "Podpořit španělský převrat" # todo: NEW TRANSLATION
+  spa_check_surrender: "Kontrola kapitulace republikánů" # todo: NEW TRANSLATION
+  spr_check_surrender: "Kontrola kapitulace nacionalistů" # todo: NEW TRANSLATION
+  spr_won_idea: "Vítězství nacionalistů" # todo: NEW TRANSLATION
+  spr_lost_idea: "Vítězství republikánů" # todo: NEW TRANSLATION
+  scw_idea_global: "Balancér Španělské občanské války" # todo: NEW TRANSLATION
+  spa_scw: "Španělská občanská válka" # todo: NEW TRANSLATION
+  liberal_politician: "Liberální politik" # todo: NEW TRANSLATION
+  conservative_politician: "Konzervativní politik" # todo: NEW TRANSLATION
+  opm: "Úřad pro řízení personálu Spojených států" # todo: NEW TRANSLATION
+  USA_economic_aid: "Ekonomická pomoc" # todo: NEW TRANSLATION
+  USA_MOB11_idea: "TANKY" # todo: NEW TRANSLATION
+  USA_MOB12_idea: "TANKY" # todo: NEW TRANSLATION
+  USA_MOB21_idea: "MECHANIZOVANÉ" # todo: NEW TRANSLATION
+  USA_MOB22_idea: "MECHANIZOVANÉ" # todo: NEW TRANSLATION
+  USA_SF11_idea: "DĚLA" # todo: NEW TRANSLATION
+  USA_SF12_idea: "DĚLA" # todo: NEW TRANSLATION
+  USA_SF10_idea: "DĚLA" # todo: NEW TRANSLATION
+  USA_SF20_idea: "PROTITANKOVÉ" # todo: NEW TRANSLATION
+  USA_SF22_idea: "PROTITANKOVÉ" # todo: NEW TRANSLATION
+  USA_GBP10_idea: "PLÁNOVÁNÍ" # todo: NEW TRANSLATION
+  USA_GBP11_idea: "PLÁNOVÁNÍ" # todo: NEW TRANSLATION
+  USA_GBP20_idea: "Opevnění" # todo: NEW TRANSLATION
+  USA_GBP21_idea: "Opevnění" # todo: NEW TRANSLATION
+  USA_GBP22_idea: "Opevnění" # todo: NEW TRANSLATION
+  USA_GBP31_idea: "Rangers" # todo: NEW TRANSLATION
+  USA_MM20_idea: "DEFENZIVNÍ STRATEGIE" # todo: NEW TRANSLATION
+  USA_MM21_idea: "DEFENZIVNÍ STRATEGIE" # todo: NEW TRANSLATION
+  USA_MM22_idea: "DEFENZIVNÍ STRATEGIE" # todo: NEW TRANSLATION
+  USA_MM10_idea: "OFENZIVNÍ STRATEGIE" # todo: NEW TRANSLATION
+  USA_MM11_idea: "OFENZIVNÍ STRATEGIE" # todo: NEW TRANSLATION
+  USA_MM12_idea: "OFENZIVNÍ STRATEGIE" # todo: NEW TRANSLATION
+  USA_Quick_Deployment_Doctrine_idea: "Doktrína rychlého nasazení" # todo: NEW TRANSLATION
+  USA_Island_Hopping_Doctrine_idea: "Doktrína postupného dobyvání ostrovů" # todo: NEW TRANSLATION
+  USA_Flexible_Response_Doctrine_idea: "Doktrína flexibilní odpovědi" # todo: NEW TRANSLATION
+  USA_Total_War_Doctrine_idea: "Doktrína totální války" # todo: NEW TRANSLATION
+  USA_resources: "Vzácné suroviny" # todo: NEW TRANSLATION
+  soil_conservation_service: "Úřad pro ochranu půdy" # todo: NEW TRANSLATION
+  civil_works_administration: "Administrativa státních prací" # todo: NEW TRANSLATION
+  GRE_coastal: "Nová trirema" # todo: NEW TRANSLATION
+  spr_scw: "Španělská občanská válka" # todo: NEW TRANSLATION
+  USA_retake_asia: "Ať Bůh má slitování s mými nepřáteli, protože já ne." # todo: NEW TRANSLATION
+  USA_true_american_capitalism: "Pravý americký kapitalismus" # todo: NEW TRANSLATION
+  monroe_doctrine: "Monroeova doktrína" # todo: NEW TRANSLATION
+  prepare_joining_the_allies: "Připravit se na osvobození Evropy" # todo: NEW TRANSLATION
+  USA_aftermach_of_attack_on_pearl_harbor: "Šok z Pearl Harboru" # todo: NEW TRANSLATION
+  USA_abandon_philippines_idea: "Je lepší opustit Filipíny" # todo: NEW TRANSLATION
+  USA_battle_of_philipine_sea: "Bitva u Filipínského moře (Great Marianas Turkey Shoot)" # todo: NEW TRANSLATION
+  USA_invasion_of_philipines: "Druhá filipínská kampaň" # todo: NEW TRANSLATION
+  operation_downfall: "Operace Downfall" # todo: NEW TRANSLATION
+  defence_budget: "Rozpočet na obranu zvýšen" # todo: NEW TRANSLATION
+  national_labour_realition_act: "Zákon o národních pracovních vztazích" # todo: NEW TRANSLATION
+  BUL_zveno_ns_s: "Zveno" # todo: NEW TRANSLATION
+  NIRA: "Národní zákon o oživení průmyslu" # todo: NEW TRANSLATION
+  landon_new_deal: "Landonův nový úděl" # todo: NEW TRANSLATION
+  GER_prepareforinevitable: "Připravit se na nevyhnutelné" # todo: NEW TRANSLATION
+  battle_of_alamein: "Západní pouštní kampaň" # todo: NEW TRANSLATION
+  YUG_coastal: "Chorvatsko-italská dominance" # todo: NEW TRANSLATION
+  YUG_coastal2: "Chorvatsko-italská spolupráce" # todo: NEW TRANSLATION
+  HUN_hungarian_monarchy_regency: "Regentský král" # todo: NEW TRANSLATION
+  disorganized_military_industry_1: "Neorganizovaný vojenský průmysl" # todo: NEW TRANSLATION
+  disorganized_military_industry_2: "Neorganizovaný vojenský průmysl" # todo: NEW TRANSLATION
+  disorganized_military_industry_3: "Neorganizovaný vojenský průmysl" # todo: NEW TRANSLATION
+  disorganized_military_industry_4: "Neorganizovaný vojenský průmysl" # todo: NEW TRANSLATION
+  disorganized_military_industry_5: "Neorganizovaný vojenský průmysl" # todo: NEW TRANSLATION
+  ENG_mince_idea: "Operace Mincemeat" # todo: NEW TRANSLATION
+  new_building_proceses: "Nové stavební procesy" # todo: NEW TRANSLATION
+  augmentation_encouraged: "Podpora posilování" # todo: NEW TRANSLATION
+  executive_order_8802: "Výkonné nařízení 8802" # todo: NEW TRANSLATION
+  all_in: "Na vše" # todo: NEW TRANSLATION
+  gun_for_each_citizen: "Zbraň pro každého občana" # todo: NEW TRANSLATION
+  streets_to_factories_program: "Program 'Ulice do továren'" # todo: NEW TRANSLATION
+  expand_our_harbors: "Rozšířené přístavy" # todo: NEW TRANSLATION
+  roosevelt_new_deal: "Rooseveltův Nový úděl" # todo: NEW TRANSLATION
+  HUN_volunteers: "Zásah ve Španělsku" # todo: NEW TRANSLATION
+  FRA_volunteer: "Zásah ve Španělsku" # todo: NEW TRANSLATION
+  GER_winterdebuff: "Sovětská zima" # todo: NEW TRANSLATION
+  hun_fascist_state: "Maďarský fašismus" # todo: NEW TRANSLATION
+  HUN_hungarian_monarchy_revised: "Revizionistická maďarská monarchie" # todo: NEW TRANSLATION
+  HUN_centralize_power_idea: "Centralizovaná moc" # todo: NEW TRANSLATION
+  hun_ger_pakt: "Německá monarchie" # todo: NEW TRANSLATION
+  HUN_corporatism: "Korporatismus" # todo: NEW TRANSLATION
+  HUN_regency_strengthened: "Posílena regentura" # todo: NEW TRANSLATION
+  militant_nationalist: "Militantní nacionalista" # todo: NEW TRANSLATION
+  HUN_underground_fascists: "Podzemní fašistická organizace" # todo: NEW TRANSLATION
+  king_horthy: "Kdysi regent, nyní král" # todo: NEW TRANSLATION
+  kingdom_without_a_king: "Království bez krále" # todo: NEW TRANSLATION
+  kingdom_without_a_king_desc: "Maďarsko je od roku 1918 bez krále, přesto zůstává královstvím jen jménem. Politická situace země zůstane nestabilní, dokud nebude tato otázka vyřešena." # todo: NEW TRANSLATION
+  upgrade_intelligence_department: "Rozšíření zpravodajské služby" # todo: NEW TRANSLATION
+  upgrade_intelligence_department_desc: "§LZvýšené financování agentury nám umožní najmout více operativců a tudíž provádět více operací současně.§!" # todo: NEW TRANSLATION
+  upgrade_safe_house: "Bezpečné domy" # todo: NEW TRANSLATION
+  upgrade_safe_house_desc: "§LVybudování sítě bezpečných domů nám může pomoci efektivněji ukrýt aktiva před nepřátelskými vládami.§!" # todo: NEW TRANSLATION
+  GRE_sparta_warrior_spirit_ai: "Sparťanský válečný duch (AI)" # todo: NEW TRANSLATION
+  RAJ_indian_labor_idea: "Indičtí dělníci" # todo: NEW TRANSLATION
+  RAJ_indian_labor_eng_idea: "Indičtí dělníci" # todo: NEW TRANSLATION
+  ROM_mobile_tank_destroyers_idea: "Mobilní protitankové stíhače" # todo: NEW TRANSLATION
+  ROM_resita_75: "Resita 75 mm" # todo: NEW TRANSLATION
+  reorganized_command: "Přeorganizovaná velitelská struktura" # todo: NEW TRANSLATION
+  RAJ_workforce_integration_idea: "Integrace pracovní síly" # todo: NEW TRANSLATION
+  HUN_fortify_the_borders: "Flexibilní obrana" # todo: NEW TRANSLATION
+  HUN_resource_efficiency: "Zvýšená efektivita těžby" # todo: NEW TRANSLATION
+  conducator: "Conducător" # todo: NEW TRANSLATION
+  HUN_hussar_doctrine_idea: "Husarská doktrína" # todo: NEW TRANSLATION
+  HUN_levente_movement: "Hnutí Levente" # todo: NEW TRANSLATION
+  USA_war_plan_gray_idea: "Válečný plán Gray" # todo: NEW TRANSLATION
+  PRU_italian_military_mission: "Italská vojenská mise" # todo: NEW TRANSLATION
+  ENG_con_int: "Kontinentální intervence" # todo: NEW TRANSLATION
+  ENG_con_int_dynamic: "Kontinentální intervence" # todo: NEW TRANSLATION
+  local_manpower_yug: "Omezovač pracovní síly" # todo: NEW TRANSLATION
+  CRO_idea_ustashe_militia: "Formování ustašovských milicí" # todo: NEW TRANSLATION
+  CRO_idea_ustashe_militia_2: "Ustašovské vojsko" # todo: NEW TRANSLATION
+  CRO_domestic_artillery_production_idea: "Domácí výroba dělostřelectva" # todo: NEW TRANSLATION
+  GER_winter_defense: "Zastavte ofenzívu!" # todo: NEW TRANSLATION
+  GER_entrenching_idea: "Operační přestávka" # todo: NEW TRANSLATION
+  winter_war_flag: "Zimní válka probíhá" # todo: NEW TRANSLATION
+  by_blood_alone: "Pouze krví" # todo: NEW TRANSLATION
+  SOV_winter_counter_attack: "Moskevská strategická ofenzivní operace" # todo: NEW TRANSLATION
+  SOV_counter_attack: "Sovětský protiútok" # todo: NEW TRANSLATION
+  FIN_war_rep: "Válečné reparace" # todo: NEW TRANSLATION
+  SOV_war_rep: "Válečné reparace" # todo: NEW TRANSLATION
+  FIN_finnish_the_soviets: "Nikdy více šikanováni" # todo: NEW TRANSLATION
+  GER_air_innovation: "Letové inovace" # todo: NEW TRANSLATION
+  BRA_annexation_balance_idea: "Vyrovnávač anexí" # todo: NEW TRANSLATION
+  modifier_experience_gain_sh_battleship_training_factor: "Faktor výcviku supertěžkých bitevních lodí" # todo: NEW TRANSLATION
+  modifier_experience_gain_sh_battleship_combat_factor: "Faktor boje supertěžkých bitevních lodí" # todo: NEW TRANSLATION
+  RAJ_asia_focus: "Krize v Rádži" # todo: NEW TRANSLATION
+  ITA_cap: "Itálie je kaput!" # todo: NEW TRANSLATION
+  RAJ_reconstruction: "Rekonstrukce" # todo: NEW TRANSLATION
+  RAJ_BOSE: "Svobodná Indie" # todo: NEW TRANSLATION
+  festung_europa: "Pevnost Evropa" # todo: NEW TRANSLATION
+  RAJ_burma: "Kampaň v Barmě" # todo: NEW TRANSLATION
+  festung_europa_nor: "Pevnost Evropa" # todo: NEW TRANSLATION
+  pacific_focused_navy: "Námořnictvo zaměřené na Pacifik" # todo: NEW TRANSLATION
+  no_navy_spain: "Žádné námořnictvo" # todo: NEW TRANSLATION
+  spr_scw_dynamic_modifier: "Španělská občanská válka" # todo: NEW TRANSLATION
+  oversized_fleet: "§RPřekročena námořní kapacita flotily!§!" # todo: NEW TRANSLATION
+  anglophobe: "Anglofob" # todo: NEW TRANSLATION
+  battle_of_singapore: "Bitva o Singapur" # todo: NEW TRANSLATION
+  ernest_king_desc: "Není přehnané říct, že Kingova anglophobia, špatný úsudek a tvrdohlavost mohou vážně ohrozit celý výsledek války." # todo: NEW TRANSLATION
+  oversized_fleet_desc: "Ujistěte se, že každý admirál řídí lodě v hodnotě nejvýše 100 bodů velení!" # todo: NEW TRANSLATION
+  SPA_crusade_against_democracy_dm: "Křížová výprava proti demokracii" # todo: NEW TRANSLATION
+  spr_crusade_dm_1_tt: "Přidejte §HKřížová výprava proti demokracii§!, která uděluje:\n£organization_texticon  Organizace divizí: §G+5.0%§!\n\n" # todo: NEW TRANSLATION
+  spr_crusade_dm_2_tt: "Změňte §HKřížová výprava proti demokracii§!:\n£organization_texticon  Organizace divizí: §G+5.0%§!\n\n" # todo: NEW TRANSLATION
+  spr_crusade_dm_3_tt: "Změňte §HKřížová výprava proti demokracii§!:\n£manpower_texticon  Náborová populace: §H+3.0%§!\n\n" # todo: NEW TRANSLATION
+  spr_crusade_dm_4_tt: "Změňte §HKřížová výprava proti demokracii§!:\n£political_power_texticon  Zisk politické moci: §G+10.0%§!\n\n" # todo: NEW TRANSLATION
+  spr_crusade_dm_5_tt: "Změňte §HKřížová výprava proti demokracii§!:\n£army_morale_texticon  Rychlost obnovy divize: §G+5.0%§!\n\n" # todo: NEW TRANSLATION
+  SPA_equipment_shipments_tt: "\n§RPLATÍ POUZE BĚHEM ŠPANĚLSKÉ OBČANSKÉ VÁLKY!§!" # todo: NEW TRANSLATION
+  scw_cg_20_tt: "Upravte §HŠpanělská občanská válka§! o\nSpotřební zboží: §H-10.0%§!" # todo: NEW TRANSLATION
+  scw_cg_15_tt: "Upravte §HŠpanělská občanská válka§! o\nSpotřební zboží: §H-5.0%§!" # todo: NEW TRANSLATION
+  scw_stab_20_tt: "Upravte §HŠpanělská občanská válka§! o\nStabilita: §G+20.00%§!" # todo: NEW TRANSLATION
+  scw_stab_30_tt: "Upravte §HŠpanělská občanská válka§! o\nStabilita: §G+30.00%§!" # todo: NEW TRANSLATION
+  scw_mp_1000_tt: "Upravte §HŠpanělská občanská válka§! o\nTýdenní pracovní síla: §G+1000§!" # todo: NEW TRANSLATION
+  scw_mp_300_tt: "Upravte §HŠpanělská občanská válka§! o\nTýdenní pracovní síla: §G+300§!" # todo: NEW TRANSLATION
+  scw_pp_30_tt: "Upravte §HŠpanělská občanská válka§! o\nZisk politické moci: §G+0.30§!" # todo: NEW TRANSLATION
+  scw_pp_10_tt: "Upravte §HŠpanělská občanská válka§! o\nZisk politické moci: §G+0.10§!" # todo: NEW TRANSLATION
+  scw_pp_meth_tt: "Upravte §HŠpanělská občanská válka§! o\nTýdenní pracovní síla: §G+300§!\nZisk politické moci: §G+0.50§!" # todo: NEW TRANSLATION
+  oversized_fleet_trait: "Nadkapacita námořní flotily!" # todo: NEW TRANSLATION
+  scw_cg_20em_tt: "Upravte §HŠpanělská občanská válka§! o\nSpotřební zboží: §H-10.0%§!\nZisk politické moci: §G+0.10§!" # todo: NEW TRANSLATION
+  FIN_motti_tt: "Umožňuje §HMotti taktiky§!\n§HPěchota\n    Lesy§!\n      Útok: §G+15%§!\n      Obrana: §G+15%§!\n§HRangers\n    Lesy§!\n      Útok: §G+15%§!\n      Obrana: §G+15%§!" # todo: NEW TRANSLATION
+  FIN_molotov_tt: "Umožňuje §HMolotovovy koktejly§!\n§HPěchota§!\n    Tvrdý útok: §G+100%§!" # todo: NEW TRANSLATION
+  AST_Leslie_Morshead: "Leslie Morshead" # todo: NEW TRANSLATION
+  Thomas_Blamey: "Thomas Blamey" # todo: NEW TRANSLATION
+  fall_weiss_idea: "Operace §WWeiss§!" # todo: NEW TRANSLATION
+  anti_port_building: "Modifikátor proti výstavbě námořních základen" # todo: NEW TRANSLATION
+  anti_port_building_desc: "Toto zde je, aby zabránilo spamu s přístavy v Evropě před kapitulací Francie." # todo: NEW TRANSLATION
+  soviet_armor: "Pancéř (Inovátor)" # todo: NEW TRANSLATION
+  Henry_Wynter: "Henry Wynter" # todo: NEW TRANSLATION
+  TANK_0: "Výchozí nastavení tanků (doporučeno)" # todo: NEW TRANSLATION
+  TANK_5: "Posílit tanky o 5%" # todo: NEW TRANSLATION
+  TANK_10: "Posílit tanky o 10%" # todo: NEW TRANSLATION
+  spanish_civil_war_veteran_medal_key: "Udělena medaile za kampaň" # todo: NEW TRANSLATION
+  SPR_xavier_king: "Javier I" # todo: NEW TRANSLATION
+  spanish_civil_war_veteran_medal: "Medalla de la Campaña" # todo: NEW TRANSLATION
+  ITA_subdue_the_sentinels_dynamic_modifier: "Potlačit stráže" # todo: NEW TRANSLATION
+  GRE_sparta_warrior_spirit: "Sparťanský válečný duch" # todo: NEW TRANSLATION
+  nor_cap: "Kapitulace Norska" # todo: NEW TRANSLATION
+  ETH_devalue_the_franc: "Lira italské Východní Afriky" # todo: NEW TRANSLATION
+  ITA_BALBO_DIED: "Italo Balbo podnikl svůj osudný let nad Tobrukem" # todo: NEW TRANSLATION
+  TANK_15: "Posílit tanky o 15 %" # todo: NEW TRANSLATION
+  TANK_20: "Posílit tanky o 20 %" # todo: NEW TRANSLATION
+  eth_supply: "Proti-Exploitu zásobování" # todo: NEW TRANSLATION
+  ETH_renewed_offensive_idea: "Obnovená ofenziva" # todo: NEW TRANSLATION
+  ITA_rsi_established: "Italská sociální republika byla založena" # todo: NEW TRANSLATION
+  TANK_5_IDEA: "5% rezerva pancíře" # todo: NEW TRANSLATION
+  TANK_10_IDEA: "10% rezerva pancíře" # todo: NEW TRANSLATION
+  TANK_15_IDEA: "15% rezerva pancíře" # todo: NEW TRANSLATION
+  TANK_20_IDEA: "20% rezerva pancíře" # todo: NEW TRANSLATION
+  NOR_naval_production: "Naval Production" # todo: NEW TRANSLATION
+  NOR_fast_ships: "Swift Ships" # todo: NEW TRANSLATION
+  nor_winter_navy: "Cold Water Navy" # todo: NEW TRANSLATION
+  anti_cross_polish_trade: "Trade Embargo" # todo: NEW TRANSLATION
+  coastal_ship_nor: "Coastal Defense Ship Focus" # todo: NEW TRANSLATION
+  NOR_fast_torps: "Fast Torpedoes" # todo: NEW TRANSLATION
+  NOR_shipbuild: "Support the Shipbuilders" # todo: NEW TRANSLATION
+  new_player_nation: "New Player Nation" # todo: NEW TRANSLATION
+  new_player_nation_desc: "This nation is exclusively designed and intended for play by new players (under three hundred hours in multiplayer).\n\nIt is explicitly not intended for player in any other circumstance and if it is played the host should kick the player unless they are extremely new to HOI 4 MP!\n\n-Thrasymachus" # todo: NEW TRANSLATION
+  SOV_frontline_military_district: "Frontline Military District" # todo: NEW TRANSLATION
+  SOV_rearline_military_district: "Frontline Military District" # todo: NEW TRANSLATION
+  AST_annexation_balance_idea: "Annexation Balancer" # todo: NEW TRANSLATION
+  AST_annexation_balance_idea_desc: "This is to ensure that the economy level is comparable with New Zealand annexing Australia" # todo: NEW TRANSLATION
+  CAN_annexation_balance_idea: "Annexation Balancer" # todo: NEW TRANSLATION
+  CAN_annexation_balance_idea_desc: "This is to ensure that the production level is comparable with SAF annexing Canada" # todo: NEW TRANSLATION
+  fix_production_idea: "Production Fixer" # todo: NEW TRANSLATION
+  Romanum_Exclamatus: "Imperator Benitus" # todo: NEW TRANSLATION
+  POL_surrender: "Polish Surrender Balancer Spirit" # todo: NEW TRANSLATION
+  GRE_Atlantean_defenses: "Atlantean Defense System" # todo: NEW TRANSLATION
+  CIC_2_idea: "Factory Cost Reducer: §H-2% Option§!" # todo: NEW TRANSLATION
+  CIC_2_idea_desc: "§HMod Developer Comment§!: This is not a normal part of the mod. This was explicitly requested for lobbies that have are mostly populated by new players in order to make industrial levels more comparable to a normal game. This is not being kept in mind in balancing nor intended for normal play." # todo: NEW TRANSLATION
+  CIC_3_idea: "Factory Cost Reducer: §H-4% Option§!" # todo: NEW TRANSLATION
+  CIC_3_idea_desc: "§HMod Developer Comment§!: This is not a normal part of the mod. This was explicitly requested for lobbies that have are mostly populated by new players in order to make industrial levels more comparable to a normal game. This is not being kept in mind in balancing nor intended for normal play." # todo: NEW TRANSLATION
+  CIC_4_idea: "Factory Cost Reducer: §H-6% Option§!" # todo: NEW TRANSLATION
+  CIC_4_idea_desc: "§HMod Developer Comment§!: This is not a normal part of the mod. This was explicitly requested for lobbies that have are mostly populated by new players in order to make industrial levels more comparable to a normal game. This is not being kept in mind in balancing nor intended for normal play." # todo: NEW TRANSLATION
+  CIC_5_idea: "Factory Cost Reducer: §H-8% Option§!" # todo: NEW TRANSLATION
+  CIC_5_idea_desc: "§HMod Developer Comment§!: This is not a normal part of the mod. This was explicitly requested for lobbies that have are mostly populated by new players in order to make industrial levels more comparable to a normal game. This is not being kept in mind in balancing nor intended for normal play." # todo: NEW TRANSLATION
+  CIC_6_idea: "Factory Cost Reducer: §H-10% Option§!" # todo: NEW TRANSLATION
+  CIC_6_idea_desc: "§HMod Developer Comment§!: This is not a normal part of the mod. This was explicitly requested for lobbies that have are mostly populated by new players in order to make industrial levels more comparable to a normal game. This is not being kept in mind in balancing nor intended for normal play." # todo: NEW TRANSLATION
+  railway_10: "Railway Gun IC BUG FIX" # todo: NEW TRANSLATION
+  railway_20: "Railway Gun IC BUG FIX" # todo: NEW TRANSLATION
+  railway_30: "Railway Gun IC BUG FIX" # todo: NEW TRANSLATION
+  railway_40: "Railway Gun IC BUG FIX" # todo: NEW TRANSLATION
+  railway_50: "Railway Gun IC BUG FIX" # todo: NEW TRANSLATION
+  GER_tank_industry: "Tank Industry" # todo: NEW TRANSLATION
+  GER_ardennenoffensive: "Arden Offensive" # todo: NEW TRANSLATION
+  POL_warsaw_uprising_idea: "Warsaw Uprising" # todo: NEW TRANSLATION
+  anti_max_planning_modifier: "Allied Hesitance" # todo: NEW TRANSLATION
+  GER_steiner_idea: "Steiner's Counterattack" # todo: NEW TRANSLATION
+  GER_steiner_idea_desc: "If Steiner attacks, everything will be all right..." # todo: NEW TRANSLATION
+  liberate_europe: "The Eyes of the World Upon Us" # todo: NEW TRANSLATION
+  neva_lose: "Rule the Waves" # todo: NEW TRANSLATION
+  SOV_anti_cas: "Experts in Camouflage" # todo: NEW TRANSLATION
+  GER_endsieg_dynamic: "Endsieg" # todo: NEW TRANSLATION
+  GER_endsieg_dynamic_desc: "Any losses are merely momentary - the German people are destined towards towards Final Victory!" # todo: NEW TRANSLATION
+  liberate_europe_desc: "The time to liberate Europe from the Axis has finally arrived - it is incumbent on us to invade and pierce through Hitler's fortress with great force.  This vast operation is undoubtedly the most complicated and difficult that has ever occurred." # todo: NEW TRANSLATION
+  Noel_Beresford-Peirse: "Noel Beresford-Peirse" # todo: NEW TRANSLATION
+  Kodandera_Subayya_Thimayya: "Kodandera Subayya Thimayya" # todo: NEW TRANSLATION
+  Kodandera_Madappa_Cariappa: "Kodandera Madappa Cariappa" # todo: NEW TRANSLATION
+  ENG_late_game_production_nerf: "The War in Asia IC Balancer" # todo: NEW TRANSLATION
+  HOL_flooded: "Flooded" # todo: NEW TRANSLATION
+  GER_trade_interdiction_idea: "Battle for the Atlantic" # todo: NEW TRANSLATION
+  SOV_adaptable: "Adaptable Army" # todo: NEW TRANSLATION
+  HOL_FUCKINGJUNGLE: "Bearable Supply" # todo: NEW TRANSLATION
+  ANTI_STATE_CONSTRUCTION: "Anti-State Buildings Construction Spirit" # todo: NEW TRANSLATION
+  Orde_Wingate: "Orde Wingate" # todo: NEW TRANSLATION
+  ITA_trade_deal_with_germoney: "Italian-German Trade Agreement" # todo: NEW TRANSLATION
+  Frank_Messervy: "Frank Messervy" # todo: NEW TRANSLATION
+  available_air_spirit: "§GAvailable§! as §YAir Spirit§!:\n" # todo: NEW TRANSLATION
+  Douglas_Gracey: "Douglas Gracey" # todo: NEW TRANSLATION
+  BRA_low: "§GLow Corruption§!" # todo: NEW TRANSLATION
+  BRA_low_desc: "The corruption in our country is fairly invisible. The daily life goes on and the public doesn't notice anything." # todo: NEW TRANSLATION
+  gun3germany: "§OThis unlocks the Sturmgewehr aka Gun Three§!" # todo: NEW TRANSLATION
+  gun3uk: "§OThis focus unlocks Gun Three§!" # todo: NEW TRANSLATION
+  estado_novo_c: "Reduces our §RCorruption§! by §C-18§!" # todo: NEW TRANSLATION
+  BRA_second1: "Social-Economical Emphasis" # todo: NEW TRANSLATION
+  BRA_second1_desc: "Social welfare brings miracles." # todo: NEW TRANSLATION
+  BRA_second2: "Military Emphasis" # todo: NEW TRANSLATION
+  BRA_second2_desc: "Who needs social security when you have guns?! (not a USA reference)" # todo: NEW TRANSLATION
+  BRA_amazonfuel: "Amazon Logistics" # todo: NEW TRANSLATION
+  BRA_amazonfuel_desc: "Jeff Bezos on its way to DMCA Horst." # todo: NEW TRANSLATION
+  BRA_amazonfuel2: "Amazon Logistics" # todo: NEW TRANSLATION
+  BRA_amazonfuel2_desc: "Jeff Bezos on its way to DMCA Horst." # todo: NEW TRANSLATION
+  BRA_amazon1: "Amazonian Spirit" # todo: NEW TRANSLATION
+  BRA_amazon1_desc: "If You Need To End A War, You Call Wonder Woman." # todo: NEW TRANSLATION
+  BRA_amazon2: "Amazonian Spirit" # todo: NEW TRANSLATION
+  BRA_amazon2_desc: "If You Need To End A War, You Call Wonder Woman." # todo: NEW TRANSLATION
+  BRA_amazon3: "Amazonian Spirit" # todo: NEW TRANSLATION
+  BRA_amazon3_desc: "If You Need To End A War, You Call Wonder Woman." # todo: NEW TRANSLATION
+  BRA_amazon4: "Amazonian Spirit" # todo: NEW TRANSLATION
+  BRA_amazon4_desc: "If You Need To End A War, You Call Wonder Woman." # todo: NEW TRANSLATION
+  BRA_lowcorruption: "This is the §GLow§! Corruption §CReform§!" # todo: NEW TRANSLATION
+  BRA_corruptiondone: "This focus disables the §RCorruption§! mechanic, but we are locked out of §Cremaining undone corruption reforms§!.\n\n" # todo: NEW TRANSLATION
+  BRArush: "§GIf we complete this focus before doing 'Republica dos Estados Unidos do Brasil', and begun with the focuses on the right in the focus tree (military approach), we will gain a discount in fighting corruption with 50% due to our military approach. We won't be able to root the corruption out completely on the other hand, so we're locked out of the §OHIGH§! corruption reform§!" # todo: NEW TRANSLATION
+  BRA_THIRD: "Estados Unidos do Brasil" # todo: NEW TRANSLATION
+  BRA_estado1: "Estado Novo" # todo: NEW TRANSLATION
+  BRA_estado1_desc: "Vargas and nothing else!" # todo: NEW TRANSLATION
+  BRA_estado2: "Estado Novo" # todo: NEW TRANSLATION
+  BRA_estado2_desc: "Vargas and nothing else!" # todo: NEW TRANSLATION
+  BRA_estado3: "Estado Novo" # todo: NEW TRANSLATION
+  BRA_estado3_desc: "Vargas and nothing else!" # todo: NEW TRANSLATION
+  BRA_estado4: "Estado Novo" # todo: NEW TRANSLATION
+  BRA_estado4_desc: "Vargas and nothing else!" # todo: NEW TRANSLATION
+  BRA_neighbor1: "Accomplished Good Neighbor Policy" # todo: NEW TRANSLATION
+  BRA_neighbor1_desc: "Come to Brazil" # todo: NEW TRANSLATION
+  BRA_neighbor2: "Accomplished Good Neighbor Policy" # todo: NEW TRANSLATION
+  BRA_neighbor2_desc: "Come to Brazil" # todo: NEW TRANSLATION
+  BRA_neighbor3: "Accomplished Good Neighbor Policy" # todo: NEW TRANSLATION
+  BRA_neighbor3_desc: "Come to Brazil" # todo: NEW TRANSLATION
+  BRA_neighbor4: "Accomplished Good Neighbor Policy" # todo: NEW TRANSLATION
+  BRA_neighbor4_desc: "Come to Brazil" # todo: NEW TRANSLATION
+  BRA_concessions: "\nIf we pass the §HMedium§! corruption reform, §HThe Constitution of 1937§!, we will instead receive:\nAdd §HConcessions to the Latifundios§!, which grants (£civ_factory_output  Factory Output: §G+10.00%§!, £political_power_texticon  Trade Laws Cost: §G-50%§!)." # todo: NEW TRANSLATION
+  BRA_blackmail2: "[GetBraBlack]" # todo: NEW TRANSLATION
+  GetBraBlackDef: "If we pass the §GLow§! corruption reform, §GRein in the Trade Unions§!:\n§YRio de Janeiro§!:\n   Add §G2§! §HCivilian Factory§!.\n   Add §G2§! Building Slots.\n\nIf we pass the §YMedium§! corruption reform, §YConstitution of 1937§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G2§! §HCivilian Factory§!.\n   Add §G2§! §HMilitary Factory§!.\n   Add §G4§! Building Slots.\n\n" # todo: NEW TRANSLATION
+  GetBraBlackDefTrade: "With our Current §G(Low)§! corruption reform, §GRein in the Trade Unions§!:\n§YRio de Janeiro§!:\n   Add §G2§! §HCivilian Factory§!.\n   Add §G2§! Building Slots.\n\nIf we pass the §YMedium§! corruption reform, §YConstitution of 1937§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G2§! §HCivilian Factory§!.\n   Add §G2§! §HMilitary Factory§!.\n   Add §G4§! Building Slots.\n\n" # todo: NEW TRANSLATION
+  GetBraBlackDefCon: "With our Current §Y(Medium)§! corruption reform, §YConstitution of 1937§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G2§! §HCivilian Factory§!.\n   Add §G2§! §HMilitary Factory§!.\n   Add §G4§! Building Slots.\n\n" # todo: NEW TRANSLATION
+  BRA_centralize2: "[GetBraCent]" # todo: NEW TRANSLATION
+  GetBraCentDef: "If we pass the §GLow§! corruption reform, §GRein in the Trade Unions§!:\n§YRio de Janeiro§!:\n   Add §G3§! §HMilitary Factory§!.\n   Add §G3§! Building Slots.\n\nIf we pass the §YMedium§! corruption reform,  §YConstitution of 1937§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G4§! §HMilitary Factory§!.\n   Add §G4§! Building Slots.\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous TSN§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G5§! §HMilitary Factory§!.\n   Add §G5§! Building Slots." # todo: NEW TRANSLATION
+  GetBraCentDefTrade: "With our current §G(Low)§! corruption reform, §GRein in the Trade Unions§!:\n§YRio de Janeiro§!:\n   Add §G3§! §HMilitary Factory§!.\n   Add §G3§! Building Slots.\n\nIf we pass the §YMedium§! corruption reform,  §YConstitution of 1937§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G4§! §HMilitary Factory§!.\n   Add §G4§! Building Slots.\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous TSN§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G5§! §HMilitary Factory§!.\n   Add §G5§! Building Slots." # todo: NEW TRANSLATION
+  GetBraCentDefCon: "With our current §Y(Medium)§! corruption reform,  §YConstitution of 1937§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G4§! §HMilitary Factory§!.\n   Add §G4§! Building Slots.\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous TSN§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G5§! §HMilitary Factory§!.\n   Add §G5§! Building Slots." # todo: NEW TRANSLATION
+  GetBraCentDefTSN: "With our current §O(High)§! corruption reform, §OAn Autonomous TSN§!, we will instead receive:\n§YRio de Janeiro§!:\n   Add §G5§! §HMilitary Factory§!.\n   Add §G5§! Building Slots." # todo: NEW TRANSLATION
+  BRA_cometobrazil2: "[GetBraCome]" # todo: NEW TRANSLATION
+  GetBraComeDef: "If we pass the §GLow§! corruption reform, §GRein in the Trade Unions§!,\n §G-20% trade cost with the USA§!\n\nIf we pass the §YMedium§! corruption reform, §YThe Constitution of 1937§!, we will instead receive\n §Y-30% trade cost with the USA§!\n\nIf we have passed the §OHigh§! corruption reform, §OAn Autonomous TSN§!, we will instead receive\n §O-40% trade cost with the USA§!\n\n" # todo: NEW TRANSLATION
+  GetBraComeDefTrade: "With our current §G(Low)§! corruption reform, §GRein in the Trade Unions§!,\n §G-20% trade cost with the USA§!\n\nIf we have pass the §YMedium§! corruption reform, §YThe Constitution of 1937§!, we will instead receive\n §Y-30% trade cost with the USA§!\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous TSN§!, we will instead receive\n §O-40% trade cost with the USA§!\n\n" # todo: NEW TRANSLATION
+  GetBraComeDefCon: "With our current §Y(Medium)§! corruption reform, §YThe Constitution of 1937§!,\n §Y-30% trade cost with the USA§!\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous TSN§!, we will instead receive\n §O-40% trade cost with the USA§!\n\n" # todo: NEW TRANSLATION
+  GetBraComeDefTSN: "With our current §O(High)§! corruption reform, §OAn Autonomous TSN§!,\n §O-40% trade cost with the USA§!\n\n" # todo: NEW TRANSLATION
+  BRA_secondrepublic: "If our opening focus was Vargas Era:\n Add §HSocial-Economical Emphasis§!, which grants (£consumer_goods_texticon Consumer Goods Factories: §H-5.0%§!).\n\nIf our opening focus was Mobilise the Integralists:\nAdd §HMilitary Emphasis§!, which grants (£increase_texticon  Army Organization Regain: §G+10.00%§!, £construction_speed_texticon  §YMilitary Factory§! construction speed: §G+10.00%§!).\n\n" # todo: NEW TRANSLATION
+  BRA_armor: "Based on how much corruption reforms we have passed, we will receive a combat bonus for our §YArmored Core§!\nIf we have passed the §GLow§! corruption reform, we will receive:\n  §CArmor:§!\n     §GSoft Attack§! factor: §Y+5.0%§!\n     §GHard Attack§! factor: §Y+5.0%§!\n §CMechanized Chassis:§!\n     §GDefense§! factor: §Y+10.0%§!\n     §GBreakthrough§! factor: §Y+5.0%§!\n §CMotorized Rocket Artillery:§!\n     §GSoft Attack§! factor: §Y+5.0%§!\n     §GBreakthrough§! factor: §Y+10.0%§!\nIf we have passed the §OHigh§! corruption reform, we will receive:\n  §CArmor:§!\n     §OSoft Attack§! factor: §Y+7.5%§!\n     §OHard Attack§! factor: §Y+7.5%§!\n §CMechanized Chassis:§!\n     §ODefense§! factor: §Y+5.0%§!\n     §OBreakthrough§! factor: §Y+10.0%§!\n §CMotorized Rocket Artillery:§!\n     §OSoft Attack§! factor: §Y+15.0%§!\n     §OBreakthrough§! factor: §Y+10.0%§!" # todo: NEW TRANSLATION
+  BRA_inf: "Based on how much corruption reforms we have passed, we will receive a combat bonus for our §YGround Army§!\nIf we have passed the §GLow§! corruption reform, we will receive:\n §CInfantry Guns:§!\n     §GSoft Attack§! factor: §Y+5.0%§!\n     §GBreakthrough§! factor: §Y+5.0%§!\n §CArtillery:§!\n     §GSoft Attack§! factor: §Y+5.0%§!\n     §GBreakthrough§! factor: §Y+5.0%§!\n §CRocket Artillery:§!\n     §GSoft Attack§! factor: §Y+5.0%§!\n     §GBreakthrough§! factor: §Y+10.0%§!\nIf we have passed the §OHigh§! corruption reform, we will receive:\n §CInfantry Guns:§!\n     §OSoft Attack§! factor: §Y+10.0%§!\n     §OBreakthrough§! factor: §Y+10.0%§!\n §CArtillery:§!\n     §OSoft Attack§! factor: §Y+10.0%§!\n     §OBreakthrough§! factor: §Y+10.0%§!\n §CRocket Artillery:§!\n     §OSoft Attack§! factor: §Y+10.0%§!\n     §OBreakthrough§! factor: §Y+10.0%§!" # todo: NEW TRANSLATION
+  GetBraEstado2_tt: "[GetBraEstado2]" # todo: NEW TRANSLATION
+  GetBraEstado2Def: "If we pass the §GLow§! Corruption Reform, §GRein in the Trade Unions§!:\nAdd §HEstado Novo§!, which grants (£stability_texticon  Stability: §G+5.00%§!, £construction_speed_texticon Construction Speed: §G+5.00%§!, £prod_eff_capProduction Efficiency Cap: §G+5.00%§!, £efficiency_growth_texticonProduction Efficiency Growth: §G+5.00%§!).\n\nIf we pass the §HMedium§! Corruption Reform, §HThe Constitution of 1937§!, we will instead receive:\n Add §HEstado Novo§!, which grants (£stability_texticon  Stability: §G+10.00%§!, £construction_speed_texticon Construction Speed: §G+10.00%§!, £prod_eff_capProduction Efficiency Cap: §G+10.00%§!, £efficiency_growth_texticonProduction Efficiency Growth: §G+10.00%§!).\n\nIf we pass the §OHigh§! Corruption Reform, §OAn Autonomous TSN§!, we will instead receive:\nAdd §HEstado Novo§!, which grants (£stability_texticon  Stability: §G+15.00%§!, £construction_speed_texticon Construction Speed: §G+12.50%§!, £prod_eff_capProduction Efficiency Cap: §G+12.50%§!, £efficiency_growth_texticonProduction Efficiency Growth: §G+12.50%§!).\n\n" # todo: NEW TRANSLATION
+  GetBraEstado2Trade: "With our current §G(Low)§! Corruption Reform, §GRein in the Trade Unions§!:\nAdd §HEstado Novo§!, which grants (£stability_texticon  Stability: §G+5.00%§!, £construction_speed_texticon Construction Speed: §G+5.00%§!, £prod_eff_capProduction Efficiency Cap: §G+5.00%§!, £efficiency_growth_texticonProduction Efficiency Growth: §G+5.00%§!).\n\nIf we pass the §OMedium§! Corruption Reform, §HThe Constitution of 1937§!:\n Add §HEstado Novo§!, which grants (£stability_texticon  Stability: §G+10.00%§!, £construction_speed_texticon Construction Speed: §G+10.00%§!, £prod_eff_capProduction Efficiency Cap: §G+10.00%§!, £efficiency_growth_texticonProduction Efficiency Growth: §G+10.00%§!).\n\nHowever, with the High Corruption Reform, An Autonomous TSN:\nAdd §HEstado Novo§!, which grants (£stability_texticon  Stability: §G+15.00%§!, £construction_speed_texticon Construction Speed: §G+12.50%§!, £prod_eff_capProduction Efficiency Cap: §G+12.50%§!, £efficiency_growth_texticonProduction Efficiency Growth: §G+12.50%§!).\n\n" # todo: NEW TRANSLATION
+  GetBraEstado2Con: "With our current §H(Medium)§! Corruption Reform, §HThe Constitution of 1937§!:\n Add §HEstado Novo§!, which grants (£stability_texticon  Stability: §G+10.00%§!, £construction_speed_texticon Construction Speed: §G+10.00%§!, £prod_eff_capProduction Efficiency Cap: §G+10.00%§!, £efficiency_growth_texticonProduction Efficiency Growth: §G+10.00%§!).\n\nHowever, with the §OHigh§! Corruption Reform, §OAn Autonomous TSN§!:\nAdd §HEstado Novo§!, which grants (£stability_texticon  Stability: §G+15.00%§!, £construction_speed_texticon Construction Speed: §G+12.50%§!, £prod_eff_capProduction Efficiency Cap: §G+12.50%§!, £efficiency_growth_texticonProduction Efficiency Growth: §G+12.50%§!).\n\n" # todo: NEW TRANSLATION
+  GetBraEstado2TSN: "With our current §O(High)§! Corruption Reform, §OAn Autonomous TSN§!:\nAdd §HEstado Novo§!, which grants (£stability_texticon  Stability: §G+15.00%§!, £construction_speed_texticon Construction Speed: §G+12.50%§!, £prod_eff_capProduction Efficiency Cap: §G+12.50%§!, £efficiency_growth_texticonProduction Efficiency Growth: §G+12.50%§!).\n\n" # todo: NEW TRANSLATION
+  BRA_estadonovotooltip: "Based on how much corruption reforms we have passed, we will receive a §CSocial-Economic§! bonus for our country.\nIf we have passed the §GLow§! corruption reform, we will receive:\n  §GConstruction Speed:§! §C+5.0%§!\n  §GProduction Efficiency Cap:§! §C+5.0%§!\n  §GProduction Efficiency Gain:§! §C+5.0%§!\n  §GStability:§! §C+5.0%§!\nIf we have passed the §YMedium§! corruption reform, we will receive:\n  §YConstruction Speed:§! §C+10.0%§!\n  §YProduction Efficiency Cap:§! §C+10.0%§!\n  §YProduction Efficiency Gain:§! §C+10.0%§!\n  §YStability:§! §C+10.0%§!\nIf we have passed the §OHigh§! corruption reform, we will receive:\n  §OConstruction Speed:§! §C+12.5%§!\n  §OProduction Efficiency Cap:§! §C+12.5%§!\n  §OProduction Efficiency Gain:§! §C+12.5%§!\n  §OStability:§! §C+15.0%§!\nIf we have passed the §RExtreme§! corruption reform, we will receive:\n  §RConstruction Speed:§! §C+15.0%§!\n  §RProduction Efficiency Cap:§! C+15.0%§!\n  §RProduction Efficiency Gain:§! §C+15.0%§!\n  §RStability:§! §C+20.0%§!\n" # todo: NEW TRANSLATION
+  BRA_amazons2: "[GetBraAmazon]" # todo: NEW TRANSLATION
+  GetBraAmazonDef: "If we pass the §GLow§! corruption reform, §GRein in the Trade Unions§!, we will receive:\nAdd §HAmazonian Spirit§!, which grants (£organization_texticon  Division Organization: §G+5.0%§!).\nAdd §HAmazonian Logistics§!, which grants (£fuel_texticon  Army Fuel Consumption: §G-5.0%§!).\n\nIf we pass the §YMedium§! corruption reform, §YThe Consitution of 1937§!, we will receive:\nAdd §HAmazonian Spirit§!, which grants (£organization_texticon  Division Organization: §G+5.0%§!, £attack_texticon  Division Attack: §G+2.5%§!, £defence_texticon  Division Defense:  §G+2.5%§!).\nAdd §HAmazonian Logistics§!, which grants (£fuel_texticon  Army Fuel Consumption: §G-5.0%§!).\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous TSN§!, we will receive:\nAdd §HAmazonian Spirit§!, which grants (£organization_texticon  Division Organization: §G+5.0%§!, £attack_texticon  Division Attack: §G+5.0%§!, £defence_texticon  Division Defense:  §G+5.0%§!).\nAdd §HAmazonian Logistics§!, which grants (£fuel_texticon  Army Fuel Consumption: §G-10.0%§!).\n" # todo: NEW TRANSLATION
+  GetBraAmazonTrade: "With our §G(Low)§! corruption reform, §GRein in the Trade Unions§!, we will receive:\nAdd §HAmazonian Spirit§!, which grants (£organization_texticon  Division Organization: §G+5.0%§!).\nAdd §HAmazonian Logistics§!, which grants (£fuel_texticon  Army Fuel Consumption: §G-5.0%§!).\n\nIf we pass the §YMedium§! corruption reform, §YThe Consitution of 1937§!, we will receive:\nAdd §HAmazonian Spirit§!, which grants (£organization_texticon  Division Organization: §G+5.0%§!, £attack_texticon  Division Attack: §G+2.5%§!, £defence_texticon  Division Defense:  §G+2.5%§!).\nAdd §HAmazonian Logistics§!, which grants (£fuel_texticon  Army Fuel Consumption: §G-5.0%§!).\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous TSN§!, we will receive:\nAdd §HAmazonian Spirit§!, which grants (£organization_texticon  Division Organization: §G+5.0%§!, £attack_texticon  Division Attack: §G+5.0%§!, £defence_texticon  Division Defense:  §G+5.0%§!).\nAdd §HAmazonian Logistics§!, which grants (£fuel_texticon  Army Fuel Consumption: §G-10.0%§!).\n" # todo: NEW TRANSLATION
+  GetBraAmazonCon: "With our §Y(Medium)§! corruption reform, §YThe Consitution of 1937§!, we will receive:\nAdd §HAmazonian Spirit§!, which grants (£organization_texticon  Division Organization: §G+5.0%§!, £attack_texticon  Division Attack: §G+2.5%§!, £defence_texticon  Division Defense:  §G+2.5%§!).\nAdd §HAmazonian Logistics§!, which grants (£fuel_texticon  Army Fuel Consumption: §G-5.0%§!).\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous TSN§!, we will receive:\nAdd §HAmazonian Spirit§!, which grants (£organization_texticon  Division Organization: §G+5.0%§!, £attack_texticon  Division Attack: §G+5.0%§!, £defence_texticon  Division Defense:  §G+5.0%§!).\nAdd §HAmazonian Logistics§!, which grants (£fuel_texticon  Army Fuel Consumption: §G-10.0%§!).\n" # todo: NEW TRANSLATION
+  GetBraAmazonTSN: "With our §O(High)§! corruption reform, §OAn Autonomous TSN§!, we will receive:\nAdd §HAmazonian Spirit§!, which grants (£organization_texticon  Division Organization: §G+5.0%§!, £attack_texticon  Division Attack: §G+5.0%§!, £defence_texticon  Division Defense:  §G+5.0%§!).\nAdd §HAmazonian Logistics§!, which grants (£fuel_texticon  Army Fuel Consumption: §G-10.0%§!).\n" # todo: NEW TRANSLATION
+  BRA_neighbortooltip: "[GetBraGood]" # todo: NEW TRANSLATION
+  GetBraGoodDef: "If pass the §GLow§! corruption reform, §GRein in the Trade Unions§!, we will receive:\nAdd §HAccomplished Good Neighbor Policy§!, which grants (£consumer_goods_texticon  Consumer Goods Factories: §H-5.0%§!, £research_speed_texticon Research Speed: §G+5.00%§!, £civ_factory_output  Factory Output: §G+5.00%§!).\n\nIf we pass the §YMedium§! corruption reform, The Consitution of 1937, we will instead receive:	Add §HAccomplished Good Neighbor Policy§!, which grants (£consumer_goods_texticon  Consumer Goods Factories: §H-10.0%§!, £research_speed_texticon Research Speed: §G+10.00%§!, £civ_factory_output  Factory Output: §G+10.00%§!).\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous 1937§!, we will receive:\nAdd §HAccomplished Good Neighbor Policy§!, which grants (£consumer_goods_texticon  Consumer Goods Factories: §H-15.0%§!, £research_speed_texticon Research Speed: §G+15.00%§!, £civ_factory_output  Factory Output: §G+15.00%§!).\nGain §G1§! Research Slot." # todo: NEW TRANSLATION
+  GetBraGoodDefTrade: "With our current §G(Low)§! corruption reform, §GRein in the Trade Unions§!, we will receive:\nAdd §HAccomplished Good Neighbor Policy§!, which grants (£consumer_goods_texticon  Consumer Goods Factories: §H-5.0%§!, £research_speed_texticon Research Speed: §G+5.00%§!, £civ_factory_output  Factory Output: §G+5.00%§!).\n\nIf we pass the §YMedium§! corruption reform, The Consitution of 1937, we will instead receive:	Add §HAccomplished Good Neighbor Policy§!, which grants (£consumer_goods_texticon  Consumer Goods Factories: §H-10.0%§!, £research_speed_texticon Research Speed: §G+10.00%§!, £civ_factory_output  Factory Output: §G+10.00%§!).\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous 1937§!, we will receive:\nAdd §HAccomplished Good Neighbor Policy§!, which grants (£consumer_goods_texticon  Consumer Goods Factories: §H-15.0%§!, £research_speed_texticon Research Speed: §G+15.00%§!, £civ_factory_output  Factory Output: §G+15.00%§!).\nGain §G1§! Research Slot." # todo: NEW TRANSLATION
+  GetBraGoodDefCon: "With our current §Y(Medium)§! corruption reform, The Consitution of 1937, we will instead receive:	Add §HAccomplished Good Neighbor Policy§!, which grants (£consumer_goods_texticon  Consumer Goods Factories: §H-10.0%§!, £research_speed_texticon Research Speed: §G+10.00%§!, £civ_factory_output  Factory Output: §G+10.00%§!).\n\nIf we pass the §OHigh§! corruption reform, §OAn Autonomous 1937§!, we will receive:\nAdd §HAccomplished Good Neighbor Policy§!, which grants (£consumer_goods_texticon  Consumer Goods Factories: §H-15.0%§!, £research_speed_texticon Research Speed: §G+15.00%§!, £civ_factory_output  Factory Output: §G+15.00%§!).\nGain §G1§! Research Slot." # todo: NEW TRANSLATION
+  GetBraGoodDefTSN: "With our current §O(High)§! corruption reform, §OAn Autonomous 1937§!, we will receive:\nAdd §HAccomplished Good Neighbor Policy§!, which grants (£consumer_goods_texticon  Consumer Goods Factories: §H-15.0%§!, £research_speed_texticon Research Speed: §G+15.00%§!, £civ_factory_output  Factory Output: §G+15.00%§!).\nGain §G1§! Research Slot." # todo: NEW TRANSLATION
+  brazil1: "Jeitinho Brasileiro" # todo: NEW TRANSLATION
+  brazil2: "Jeitinho Brasileiro" # todo: NEW TRANSLATION
+  brazil3: "Jeitinho Brasileiro" # todo: NEW TRANSLATION
+  brazil4: "Jeitinho Brasileiro" # todo: NEW TRANSLATION
+  BRAlicense: "§BFall Blau§! byl vyhlášen" # todo: NEW TRANSLATION
+  lowcorruption_tooltip: "§RKorupce§! musí být vyšší než §G0§!, aby byla tato reforma schválena." # todo: NEW TRANSLATION
+  mediumcorruption_tooltip: "§RKorupce§! musí být vyšší než §Y20§!, aby byla tato reforma schválena." # todo: NEW TRANSLATION
+  highcorruption_tooltip: "§RKorupce§! musí být vyšší než §O50§!, aby byla tato reforma schválena." # todo: NEW TRANSLATION
+  extremecorruption_tooltip: "  §RKorupce§! musí být vyšší než §R80§!, aby byla tato reforma schválena." # todo: NEW TRANSLATION
+  valeodoriodoce: "Companhia Vale do Rio Doce" # todo: NEW TRANSLATION
+  general_electric2: "General Electric" # todo: NEW TRANSLATION
+  cbc: "Companhia Brasileira de Cartuchos" # todo: NEW TRANSLATION
+  fnm: "Fábrica Nacional de Motores" # todo: NEW TRANSLATION
+  siderurgica: "Companhia Siderúrgica Nacional" # todo: NEW TRANSLATION
+  BRA_usa2: "Dovoz amerických zbraní" # todo: NEW TRANSLATION
+  BRA_usa2_desc: "Tati USA, dej mi zbraně" # todo: NEW TRANSLATION
+  BRA_commie: "Snižuje naši §Rkorupci§! o §C-9§!" # todo: NEW TRANSLATION
+  BRA_general2: "Snižuje naši §Rkorupci§! o §C-12§!" # todo: NEW TRANSLATION
+  BRA_coronelismo2: "Snižuje naši §Rkorupci§! o §C-12§!, pokud stále trpíme korupcí" # todo: NEW TRANSLATION
+  BRA_blackmailtooltip: "Zvyšuje naši §Rkorupci§! o §C+12§!, pokud stále trpíme korupcí" # todo: NEW TRANSLATION
+  BRA_establishtsn: "Snižuje naši §Rkorupci§! o §C-15§!, pokud stále trpíme korupcí" # todo: NEW TRANSLATION
+  BRA_establishtsn2: "Zvyšuje naši §Rkorupci§! o §R+9§!, pokud stále trpíme korupcí" # todo: NEW TRANSLATION
+  BRA_establishtsn3: "Snižuje naši §Rkorupci§! o §C-9§!, pokud stále trpíme korupcí" # todo: NEW TRANSLATION
+  BRA_dops1: "Snižuje naši §Rkorupci§! o §C-18§!, pokud stále trpíme korupcí" # todo: NEW TRANSLATION
+  BRA_authority2: "Zvyšuje naši §Rkorupci§! o §R+6§!, pokud stále trpíme korupcí.\n\n" # todo: NEW TRANSLATION
+  BRA_martial2: "Vyhlášen výjimečný stav" # todo: NEW TRANSLATION
+  BRA_martial2_desc: "Zločinci jsou na svobodě, JE TO TOTÁLNÍ CHAOS!" # todo: NEW TRANSLATION
+  BRA_prestes2: "Zvyšuje naši §Rkorupci§! o §R+3§!, pokud stále trpíme korupcí" # todo: NEW TRANSLATION
+  BRA_latifundios1: "Ústupky latifundiím" # todo: NEW TRANSLATION
+  BRA_latifundios2: "Ústupky latifundiím" # todo: NEW TRANSLATION
+  BRA_latifundios1_desc: "Peníze mohou dělat zázraky..." # todo: NEW TRANSLATION
+  BRA_latifundios2_desc: "Peníze mohou dělat zázraky..." # todo: NEW TRANSLATION
+  BRA_communism2: "Potlačení komunistické hrozby" # todo: NEW TRANSLATION
+  BRA_communism2_desc: "Burrito je falešný komunista, přesvědčte mě o opaku." # todo: NEW TRANSLATION
+  mot_rockets: "Motorová raketová dělostřelba" # todo: NEW TRANSLATION
+  BRA_traditional: "Tradiční cesta" # todo: NEW TRANSLATION
+  BRA_traditional_desc: "Teď potřebujeme McCarthyho!" # todo: NEW TRANSLATION
+  BRA_innovative: "Cesta Tenentů" # todo: NEW TRANSLATION
+  BRA_innovative_desc: "Dovednost rozhoduje, Karel V. to moc dobře věděl." # todo: NEW TRANSLATION
+  estadonovo: "Estado Novo" # todo: NEW TRANSLATION
+  estadonovo_desc: "Vargas promění tento národ v Estado Novo! Ať žije režim!" # todo: NEW TRANSLATION
+  BRA_med: "§YStřední korupce§!" # todo: NEW TRANSLATION
+  BRA_med_desc: "Korupce je znatelná, ale stále zvládnutelná. Veřejnost si jí občas všímá, ale celkově je stále poměrně klidná." # todo: NEW TRANSLATION
+  BRA_high: "§OVysoká korupce§!" # todo: NEW TRANSLATION
+  BRA_high_desc: "Chaos se blíží... lidé jsou rozzuření z korupčního životního stylu, kterého si elita užívá. I v každodenním životě je patrné, že mají přednost. Oligarcha jde před každým, i když jste byl první!" # todo: NEW TRANSLATION
+  BRA_extreme: "§RExtremní korupce§!" # todo: NEW TRANSLATION
+  BRA_extreme_desc: "Propukl chaos, stávky všude, lidé povstávají, oligarchové na ně tvrdě zasahují, politici se bojí o svůj život. Dokonce i 'femboyové' vyšli do ulic, tato situace je neudržitelná." # todo: NEW TRANSLATION
+  HOL_defeatism: "Defetismus" # todo: NEW TRANSLATION
+  HOL_defeatism_desc: "" # todo: NEW TRANSLATION
+  repositioning_spirit: "Vyrovnávač přesunů" # todo: NEW TRANSLATION
+  repositioning_spirit2: "Vyrovnávač přesunů" # todo: NEW TRANSLATION
+  Alan_Vasey: "Alan Vasey" # todo: NEW TRANSLATION
+  railway_company_smc: "Mantetsu" # todo: NEW TRANSLATION
+  Eurico_Gaspar_Dutra: "Eurico Gaspar Dutra" # todo: NEW TRANSLATION
+  six_hours: "Válka šesti hodin" # todo: NEW TRANSLATION
+  Mascarenhas_de_Morais: "Mascarenhas de Morais" # todo: NEW TRANSLATION
+  CordeirodeFarias: "Cordeiro de Farias" # todo: NEW TRANSLATION
+  ZenobiodaCosta: "Zenobio da Costa" # todo: NEW TRANSLATION
+  NOR_no_surrender: "Haakonův odpor" # todo: NEW TRANSLATION
+  NOR_bad_training: "Špatný výcvik" # todo: NEW TRANSLATION
+  BUL_imro: "Makedonští revolucionáři" # todo: NEW TRANSLATION
+  GER_jaegernotprogramm_hidden: "Jägernotprogramm" # todo: NEW TRANSLATION
+  GER_jaegernotprogramm_tt: "\n§RVeškeré neletecké vybavení bude dočasně stát o 6 % více výrobních nákladů!§!" # todo: NEW TRANSLATION
+  winter_server: "Tankový mod" # todo: NEW TRANSLATION
+  ITA_africa_campaign_idea: "Sempre Avanti Italia!" # todo: NEW TRANSLATION
+  KERCH_STRAIT: "Kerčský průliv" # todo: NEW TRANSLATION
+  wilhelmina2: "Královna Wilhelmina z Oranje-Nassau" # todo: NEW TRANSLATION
+  Miles_Dempsey: "Miles Dempsey" # todo: NEW TRANSLATION
+  William_Slim: "William Slim" # todo: NEW TRANSLATION
+  Neil_Ritchie: "Neil Ritchie" # todo: NEW TRANSLATION
+  Arthur_Percival: "Arthur Percival" # todo: NEW TRANSLATION
+  Tom_Moore: "Tom Moore" # todo: NEW TRANSLATION
+  Richard_Connor: "Richard O'Connor" # todo: NEW TRANSLATION
+  fs: "Ferrovie Dello Stato" # todo: NEW TRANSLATION
+  fuel_fra: "Zásoby paliva" # todo: NEW TRANSLATION
+  fuel_sov: "Zásoby paliva" # todo: NEW TRANSLATION
+  alan_brooke2: "Alan Brooke" # todo: NEW TRANSLATION
+  ugo_cavallero2: "Ugo Cavallero" # todo: NEW TRANSLATION
+  JAP_naval_rearmament: "Nové námořní odhady" # todo: NEW TRANSLATION
+  HOL_crisisjaren_1: "De Crisisjaren" # todo: NEW TRANSLATION
+  HOL_crisisjaren_2: "De Crisisjaren" # todo: NEW TRANSLATION
+  HOL_crisisjaren_3: "De Crisisjaren" # todo: NEW TRANSLATION
+  great_depression_4: "Pomalý ekonomický růst" # todo: NEW TRANSLATION
+  HOL_production_under_license3: "Arzenál demokracie" # todo: NEW TRANSLATION
+  beacon_of_liberty: "Maják svobody" # todo: NEW TRANSLATION
+  HOL_bernhard2: "Bernhard von Lippe-Biesterfeld" # todo: NEW TRANSLATION
+  HOL_winkelman: "Henri Winkelman" # todo: NEW TRANSLATION
+  HOL_jan: "Jan van den Tempel" # todo: NEW TRANSLATION
+  HOL_gerbrandy: "Pieter Sjoerds Gerbrandy" # todo: NEW TRANSLATION
+  HOL_hendrik: "Hendrik van Boeijen" # todo: NEW TRANSLATION
+  BRA_melo: "Afranio de Melo Franco" # todo: NEW TRANSLATION
+  BRA_Joao_Neves_da_Fontoura: "Joao Neves da Fontoura" # todo: NEW TRANSLATION
+  HOL_jaap: "Jaap Burger" # todo: NEW TRANSLATION
+  HOL_gerrit: "Gerrit Bolkestein" # todo: NEW TRANSLATION
+  HOL_godfried: "Godfried van Voorst tot Voorst" # todo: NEW TRANSLATION
+  HOL_benelux_command: "Sjednocené velení Beneluxu" # todo: NEW TRANSLATION
+  HOL_battle: "Bitva o Borneo" # todo: NEW TRANSLATION
+  HOL_battle2: "Bitva o Východní Indie" # todo: NEW TRANSLATION
+  HOL_petrus: "Petrus Wilhelmus Best" # todo: NEW TRANSLATION
+  HOL_izaak: "Izaak Reijnders" # todo: NEW TRANSLATION
+  HOL_banker: "Rozsáhlé nizozemské bankovní podvody" # todo: NEW TRANSLATION
+  ITA_italian_railways_modifier: "Imperiální přetížení?" # todo: NEW TRANSLATION
+  ITA_italian_railways_modifier2: "Sempre Avanti Italia!" # todo: NEW TRANSLATION
+  GER_integrated_war_economy: "Integrovaná válečná ekonomika" # todo: NEW TRANSLATION
+  BRAelection: "Pokud tento fokus neukončíme před §C1. lednem 1938§!, zorganizujeme zmanipulované volby, které přinesou vážnou §Rkorupci§! pro národ §Cpokud ji stále trpíme.§! Po dokončení fokusu Estado Novo budeme také přejmenováni na §CEstados Unidos do Brasil§!." # todo: NEW TRANSLATION
+  father_of_the_poor: "Otec chudých" # todo: NEW TRANSLATION
+  father_of_the_poor2: "Otec chudých" # todo: NEW TRANSLATION
+  GER_integrated_war_economy_desc: "Náš průmysl je úzce propojen s německými korporacemi a vládními projekty." # todo: NEW TRANSLATION
+  fuel_eng: "Zásoby paliva" # todo: NEW TRANSLATION
+  NZL_maori_affairs_act_idea: "Zákon o maorských záležitostech" # todo: NEW TRANSLATION
+  NZL_maori_affairs_act_amended_idea: "Upravený zákon o maorských záležitostech" # todo: NEW TRANSLATION
+  GER_disorganized_industry: "Neorganizovaný průmysl" # todo: NEW TRANSLATION
+  ITA_iran_front_idea: "Protiofenziva v íránském vnitrozemí" # todo: NEW TRANSLATION
+  protector_of_islam: "Ochránce islámu" # todo: NEW TRANSLATION
+  BUL_revisionism: "Bulharský revizionismus" # todo: NEW TRANSLATION
+  neutrality_fan: "Příznivec neutrality" # todo: NEW TRANSLATION
+  early_destroyer: "Trup torpédoborce 1936" # todo: NEW TRANSLATION
+  BRA_naval: "Nepřipraven na otevřené moře" # todo: NEW TRANSLATION
+  BRA_naval_desc: "Brazilské námořnictvo je staré, zastaralé a není bojově připravené pro Atlantik. To se jistě může změnit, ale vyžadovalo by to úsilí. Prozatím je rozumné držet loďstvo blízko pobřeží." # todo: NEW TRANSLATION
+  protected_by_papua: "Chráněno Papuou" # todo: NEW TRANSLATION
+  IRQ_empire: "Vyhlášeno impérium" # todo: NEW TRANSLATION
+  japanwar: "§CJe ve válce s Japonskem§!" # todo: NEW TRANSLATION
+  BRA_tradeunion2: "Utlumit odbory" # todo: NEW TRANSLATION
+  BRA_tradeunion2_desc: "Sociální zabezpečení... WHAHAHAAHAHA" # todo: NEW TRANSLATION
+  BRArigged: "Naše §Rkorupce§! se zvýší o §C+15§!, pokud ji stále trpíme." # todo: NEW TRANSLATION
+  BRAminas: "Tento fokus zahájí §Cmodernizaci Minas Gerais a São Paula§!. Budou vráceny do loděnic k rozsáhlé přestavbě, která drasticky zlepší jejich výkon." # todo: NEW TRANSLATION
+  BRA_highcorruption: "Toto je §OVysoká§! korupční §Creforma§!" # todo: NEW TRANSLATION
+  BRA_extremecorruption: "Toto je §RExtremní§! korupční §Creforma§!" # todo: NEW TRANSLATION
+  BRA_medcorruption: "Toto je §YStřední§! korupční §Creforma§!" # todo: NEW TRANSLATION
+  BRA_medcorruption2: "Snižuje naši §Rkorupci§! o §C-15§!" # todo: NEW TRANSLATION
+  BRA_lowcorruption2: "Snižuje naši §Rkorupci§! o §C-20§!" # todo: NEW TRANSLATION
+  BRA_extremecorruption2: "Snižuje naši §Rkorupci§! o §C-15§!" # todo: NEW TRANSLATION
+  BRA_tsn2: "Autonomní TSN" # todo: NEW TRANSLATION
+  BRA_tsn2_desc: "Trias Politica je trapné." # todo: NEW TRANSLATION
+  BRAlow: " §RKorupce§! je mezi §G0–100§!" # todo: NEW TRANSLATION
+  BRAmed: " §RKorupce§! je mezi §Y20–100§!" # todo: NEW TRANSLATION
+  BRAhigh: " §RKorupce§! je mezi §O50–100§!" # todo: NEW TRANSLATION
+  BRAextreme: " §RKorupce§! je mezi §R80–100§!" # todo: NEW TRANSLATION
+  BRA_estado_novo_available: "§RKorupce§! je rovna nebo nižší než §O50§!" # todo: NEW TRANSLATION
+  ITA_africa_campaign_idea2: "Mare Nostrum" # todo: NEW TRANSLATION
+  mountain_warfare2: "Indičtí gurkhové" # todo: NEW TRANSLATION
+  ITA_Challenge_Royal_Navy: "Italia Turrita" # todo: NEW TRANSLATION
+  ITA_mech: "Ukradený kanadský plán mechanizované výroby" # todo: NEW TRANSLATION
+  outplayed: "Přechytračen Il Duce" # todo: NEW TRANSLATION
+  ITA_CAN_relations: "Italský podvod" # todo: NEW TRANSLATION
+  GRE_tourism: "Podpora cestovního ruchu" # todo: NEW TRANSLATION
+  marine_bonus_desc: "Hoplitové Themistokla" # todo: NEW TRANSLATION
+  GRE_athenares: "Pallas Athena & Enualios Ares" # todo: NEW TRANSLATION
+  GRE_alexander: "Duch Alexandra Velikého" # todo: NEW TRANSLATION
+  GRE_thermistokles: "Nové triremy Themistokla" # todo: NEW TRANSLATION
+  GRE_a_land_of_mountains2_desc: "Barbaři s Xerxem podle toho postupovali k útoku; a Řekové s Leonidasem, cítíce, že jdou na smrt, nyní postupovali mnohem dál, než původně do širší části průsmyku; nebo když byla stráž zdi držena, v předchozích dnech bojovali ustupujíce před nepřítelem do užší části průchodu; Herodotos, Historíai, 3. den u Thermopyl." # todo: NEW TRANSLATION
+  med_fleet_naval_manufacturer2: "Výrobce středomořské flotily" # todo: NEW TRANSLATION
+  convoy_escort_naval_manufacturer2: "Návrhář eskortní flotily" # todo: NEW TRANSLATION
+  german_cooperation: "Lekce pancéřových jednotek" # todo: NEW TRANSLATION
+  german_cooperation_small: "Železní legionáři" # todo: NEW TRANSLATION
+  reichsbahn: "Deutsche Reichsbahn" # todo: NEW TRANSLATION
+  unionpacific: "Union Pacific Railroad" # todo: NEW TRANSLATION
+  LMS: "London, Midland and Scottish Railway" # todo: NEW TRANSLATION
+  dutch_blitzkrieg: "Nizozemský Blitzkrieg" # todo: NEW TRANSLATION
+  commence_mare: "Rozpoutat Mare Nostrum" # todo: NEW TRANSLATION
+  GER_barbarossa_son: "Unternehmen Sonnenwende" # todo: NEW TRANSLATION
+  battle_of_france_trait: "Vzdorovitý" # todo: NEW TRANSLATION
+  protected_by_papua_desc: "§RPokud ztratíme kontrolu nad Papuou, budeme zranitelní vůči invazi§!" # todo: NEW TRANSLATION
+  winter_offensive_sov: "Zimní ofenzíva" # todo: NEW TRANSLATION
+  defeatism: "Defetismus" # todo: NEW TRANSLATION
+  jap_puppet: "Válečné reparace" # todo: NEW TRANSLATION
+  no_asia_axis: "Vyrovnávač války na západě pro Osy" # todo: NEW TRANSLATION
+  stahlpakt_ITA3: "Pakt o oceli" # todo: NEW TRANSLATION
+  SOV_2nd_plan: "Druhý pětiletý plán" # todo: NEW TRANSLATION
+  HOL_marco: "Marco de Ruyter" # todo: NEW TRANSLATION
+  ivan_konev2: "Ivan Konev" # todo: NEW TRANSLATION
+  SOV_purge_factor: "Vyčištění důstojníků" # todo: NEW TRANSLATION
+  aleksandr_vasilevsky2: "Aleksandr Vasilevsky" # todo: NEW TRANSLATION
+  BUL_revisionism_desc: "Ztráta našich území během Velké války rozhněvala bulharský lid a jsou spíše ochotni vstoupit do armády, aby pomohli při znovudobytí těchto území." # todo: NEW TRANSLATION
+  BUL_secret_rearmament: "Tajné přezbrojení" # todo: NEW TRANSLATION
+  BUL_satisfied_macedonians: "Makedonci spokojeni" # todo: NEW TRANSLATION
+  arsenal_ad: "Arsenal AD" # todo: NEW TRANSLATION
+  SLO_CKD: "CKD" # todo: NEW TRANSLATION
+  expanded_recruitment: "Osttruppen" # todo: NEW TRANSLATION
+  GER_ost: "Osttruppen" # todo: NEW TRANSLATION
+  GER_ost_desc: "Můžeme do naší armády naverbovat ne-ruské sovětské občany stejně jako ruské politické disidenty, aby nahradili naše ztráty, ale naše kvalita se sníží." # todo: NEW TRANSLATION
+  GER_ost2: "Strafbataillon" # todo: NEW TRANSLATION
+  GER_ost2_desc: "Vytvoříme trestné jednotky pro neposlušné nebo zbabělé vojáky." # todo: NEW TRANSLATION
+  expanded_recruitment2: "Náborová kampaň" # todo: NEW TRANSLATION
+  SLO_imrich_karvas: "Imrich Karvaš" # todo: NEW TRANSLATION
+  SLO_imrich_karvas_desc: "Imrich Karvaš byl slovenský ekonom, právník a vysokoškolský učitel. Během druhé světové války byl prvním guvernérem Slovenské národní banky." # todo: NEW TRANSLATION
+  SLO_peter_zatko: "Peter Zaťko" # todo: NEW TRANSLATION
+  SLO_peter_zatko_desc: "Peter Zaťko byl zástupce Ústředního výboru slovenského průmyslu." # todo: NEW TRANSLATION
+  SLO_strong_currency: "Silná měna" # todo: NEW TRANSLATION
+  SLO_german_occupation: "Německá okupace" # todo: NEW TRANSLATION
+  SLO_german_occupation_desc: "Během prvního roku existence našeho nového státu Němci využili své obrovské finanční prostředky k ovládnutí velkých domácích průmyslových podniků. Dále nařídili, aby značná část naší pracovní síly narukovala na jednotky na východní frontě." # todo: NEW TRANSLATION
+  SLO_german_occupation_2: "Německá okupace" # todo: NEW TRANSLATION
+  SLO_german_occupation_2_desc: "Během prvního roku existence našeho nového státu Němci využili své obrovské finanční prostředky k ovládnutí velkých domácích průmyslových podniků. Dále nařídili, aby značná část naší pracovní síly narukovala na jednotky na východní frontě." # todo: NEW TRANSLATION
+  SLO_prospering_industry_1: "Revalvace měny" # todo: NEW TRANSLATION
+  SLO_prospering_industry_1_desc: "Navzdory mnoha nedostatkům byla zásobovací situace v porovnání s okolními státy uspokojivá, slovenská měna byla stabilní a žádaná. Dostatečné příjmy umožnily Slovenské republice zavést řadu sociálních opatření, jako jsou přídavky na děti, sociální příspěvky apod." # todo: NEW TRANSLATION
+  SLO_prospering_industry_2: "Rostoucí průmysl" # todo: NEW TRANSLATION
+  SLO_prospering_industry_2_desc: "Navzdory mnoha nedostatkům byla zásobovací situace v porovnání s okolními státy uspokojivá, slovenská měna byla stabilní a žádaná. Dostatečné příjmy umožnily Slovenské republice zavést řadu sociálních opatření, jako jsou přídavky na děti, sociální příspěvky apod." # todo: NEW TRANSLATION
+  SLO_prospering_industry_3_desc: "Navzdory mnoha nedostatkům byla zásobovací situace v porovnání s okolními státy uspokojivá, slovenská měna byla stabilní a žádaná. Dostatečné příjmy umožnily Slovenské republice zavést řadu sociálních opatření, jako jsou přídavky na děti, sociální příspěvky apod." # todo: NEW TRANSLATION
+  SLO_prospering_industry_3: "Rostoucí průmysl" # todo: NEW TRANSLATION
+  SLO_vojtech_tuka: "Vojtech Tuka" # todo: NEW TRANSLATION
+  SLO_vojtech_tuka_desc: "Vojtech Lazár Tuka byl slovenský politik, zástupce radikální pro-nacistické frakce Hlinkovy Slovenskej ľudové strany. Byl odsouzen Národním soudem k trestu smrti a popraven 20. srpna 1946." # todo: NEW TRANSLATION
+  SLO_alexander_mach: "Alexander Mach" # todo: NEW TRANSLATION
+  SLO_alexander_mach_desc: "Alexander Mach byl slovenský politik a novinář. Velitel Hlinkovy gardy, ministr vnitra a místopředseda vlády slovenského státu. Byl spoluzodpovědný za pronásledování slovenských Židů a antifašistů. V roce 1947 byl odsouzen na 30 let vězení." # todo: NEW TRANSLATION
+  SLO_durcanskys_ideas: "Ďurčanského myšlenky" # todo: NEW TRANSLATION
+  SLO_durcanskys_ideas_desc: "V letech 1939–1940 byl ministrem zahraničí i ministrem vnitra Slovenské republiky. Snažil se zachovat určitou nezávislost slovenské zahraniční politiky na Německu, a proto byl na pokyn Adolfa Hitlera odvolán." # todo: NEW TRANSLATION
+  SLO_durcanskys_ideas_2: "Ďurčanského myšlenky" # todo: NEW TRANSLATION
+  SLO_durcanskys_ideas_2_desc: "V letech 1939–1940 byl ministrem zahraničí i ministrem vnitra Slovenské republiky. Snažil se zachovat určitou nezávislost slovenské zahraniční politiky na Německu, a proto byl na pokyn Adolfa Hitlera odvolán." # todo: NEW TRANSLATION
+  SLO_zatko_trait: "Slovenský ekonom" # todo: NEW TRANSLATION
+  SLO_dynamitka_designer: "Dynamitka" # todo: NEW TRANSLATION
+  SLO_dynamitka_designer_2: "Dynamitka" # todo: NEW TRANSLATION
+  SLO_cas_production_idea: "Fokus CAS" # todo: NEW TRANSLATION
+  SLO_fighter_production_idea: "Fokus stíhaček" # todo: NEW TRANSLATION
+  SLO_bomber_production_idea: "Fokus taktických bombardérů" # todo: NEW TRANSLATION
+  SLO_german_favorites: "Němečtí oblíbenci" # todo: NEW TRANSLATION
+  SLO_german_favorites_desc: "Slovenští piloti zaznamenali 215 sestřelů při pouhých čtyřech ztrátách. Největším stíhacím esem byl Jan Režnák, který měl 32 potvrzených sestřelů. Z pilotů, z nichž většina byla mladší 30 let, se stali hrdinové." # todo: NEW TRANSLATION
+  SLO_ckd: "CKD" # todo: NEW TRANSLATION
+  SLO_german_assistance_idea: "Fokus na výrobu tanků" # todo: NEW TRANSLATION
+  SLO_augustin_malar: "Augustin Malár" # todo: NEW TRANSLATION
+  SLO_rudolf_pilfousek: "Rudolf Pilfousek" # todo: NEW TRANSLATION
+  SLO_juraj_mesko: "Alexander Čunderlík" # todo: NEW TRANSLATION
+  SLO_expand_centre_idea: "Rozšířit výcvikové centrum pro výsadkáře" # todo: NEW TRANSLATION
+  SLO_gun_mass_production_idea: "Fokus na zbraně" # todo: NEW TRANSLATION
+  SLO_gun_mass_production_idea_desc: "" # todo: NEW TRANSLATION
+  SLO_sov_war: "Na Kavkaz!" # todo: NEW TRANSLATION
+  SLO_soviet_war_idea: "Zničit bolševismus" # todo: NEW TRANSLATION
+  SLO_soviet_war_idea_desc: "Dne 2. října 1941 byla Rychlá divize součástí 1. tankové armády bojující na východním břehu Dněpru v oblasti Peřeščiny. V té době divize ztratila téměř všechny své tanky. Divize se zúčastnila německého postupu do oblasti Kavkazu na začátku roku 1942, kde sehrála klíčovou roli při útoku a dobytí Rostova." # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea: "Hlinkova garda" # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea_desc: "Hlinkova garda byla milicí udržovanou Hlinkovou slovenskou ľudovou stranou v období 1938–1945. Byla pojmenována po Andreji Hlinkovi, slovenském katolickém faráři a veřejném činiteli." # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea_2: "Hlinkova garda" # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea_2_desc: "Hlinkova garda byla milicí udržovanou Hlinkovou slovenskou ľudovou stranou v období 1938–1945. Byla pojmenována po Andreji Hlinkovi, slovenském katolickém faráři a veřejném činiteli." # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea_3: "Hlinkova garda" # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea_3_desc: "Hlinkova garda byla milicí udržovanou Hlinkovou slovenskou ľudovou stranou v období 1938–1945. Byla pojmenována po Andreji Hlinkovi, slovenském katolickém faráři a veřejném činiteli." # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea_4: "Hlinkova garda" # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea_4_desc: "Hlinkova garda byla milicí udržovanou Hlinkovou slovenskou ľudovou stranou v období 1938–1945. Byla pojmenována po Andreji Hlinkovi, slovenském katolickém faráři a veřejném činiteli." # todo: NEW TRANSLATION
+  SLO_jan_golian: "Jan Golian" # todo: NEW TRANSLATION
+  SLO_julius_trnka: "Julius Trnka" # todo: NEW TRANSLATION
+  SLO_viliam_talsky: "Viliam Talsky" # todo: NEW TRANSLATION
+  SLO_ferdinand_durcansky: "Ferdinand Ďurčanský" # todo: NEW TRANSLATION
+  SLO_jozef_tiso: "Jozef Tiso" # todo: NEW TRANSLATION
+  SLO_henschel2: "Henschel" # todo: NEW TRANSLATION
+  SLO_MAN_man: "Továrna na tanky MAN" # todo: NEW TRANSLATION
+  SLO_henschel3: "Henschel raný" # todo: NEW TRANSLATION
+  GER_slovak_workers: "Slovenští dělníci" # todo: NEW TRANSLATION
+  GER_slovak_workers_desc: "Každý rok odcházelo 40 000 dělníků do Německa na sezónní práci a část produktivního obyvatelstva byla poslána na frontu." # todo: NEW TRANSLATION
+  GER_slovak_workers_2: "Slovenští dělníci" # todo: NEW TRANSLATION
+  GER_slovak_workers_2_desc: "Každý rok odcházelo 40 000 dělníků do Německa na sezónní práci a část produktivního obyvatelstva byla poslána na frontu." # todo: NEW TRANSLATION
+  GER_slovak_workers_3: "Slovenští dělníci" # todo: NEW TRANSLATION
+  GER_slovak_workers_3_desc: "Každý rok odcházelo 40 000 dělníků do Německa na sezónní práci a část produktivního obyvatelstva byla poslána na frontu." # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea_5: "Hlinkova garda" # todo: NEW TRANSLATION
+  SLO_hlinka_chad_idea_5_desc: "Hlinkova garda byla milicí udržovanou Hlinkovou slovenskou ľudovou stranou v období 1938–1945. Byla pojmenována po Andreji Hlinkovi, slovenském katolickém faráři a veřejném činiteli." # todo: NEW TRANSLATION
+  SLO_martial_law_bonus_idea: "Výjimečný stav" # todo: NEW TRANSLATION
+  SLO_martial_law_bonus_idea_desc: "" # todo: NEW TRANSLATION
+  SLO_SS_idea: "Vedení SS" # todo: NEW TRANSLATION
+  SLO_SS_idea_desc: "" # todo: NEW TRANSLATION
+  SLO_general_staff: "Generální štáb" # todo: NEW TRANSLATION
+  NO_TRADE: "Posilování obchodu zakázáno" # todo: NEW TRANSLATION
+  NO_TRADE_desc: "To má zamezit brzkému posilování ve hře a nutnosti to hlídat." # todo: NEW TRANSLATION
+  NO_TRADE_GER: "Duch obchodu s kaučukem" # todo: NEW TRANSLATION
+  NO_TRADE_GER_desc: "To odstraňuje potřebu obchodovat pro kaučuk." # todo: NEW TRANSLATION
+  free_naval_designer: "Volné přepínání námořních návrhářů" # todo: NEW TRANSLATION
+  free_tank_designer: "Volné přepínání návrhářů tanků" # todo: NEW TRANSLATION
+  free_air_designer: "Volné přepínání návrhářů letadel" # todo: NEW TRANSLATION
+  krupp_tank: "Krupp Arms Works" # todo: NEW TRANSLATION
+  ENG_motorized_focus2: "Duch budování zásob (bonus proti Sea Lion)" # todo: NEW TRANSLATION
+  GER_failed_africa_cancel: "Zrušit nouzové rafinování syntetického paliva" # todo: NEW TRANSLATION
+  fin_sisu_ai: "AI Finsko" # todo: NEW TRANSLATION
+  GER_fuel_mechanic: "Lekce rafinace syntetického paliva" # todo: NEW TRANSLATION
+  anti_strat_meme: "Duch zákazu předčasného dosažení efektivity bombardérů" # todo: NEW TRANSLATION
+  anti_strat_meme_desc: "Toto má zabránit dosažení plné efektivity bombardérů před Danzigem, protože bombardéry jsou vyváženy kolem pomalejšího nárůstu efektivity. Toto je odstraněno rozhodnutím Německa 'Fall Weiss and Fall Rot'." # todo: NEW TRANSLATION
+  red_airforce_resurgent: "Obnovené Rudé letectvo" # todo: NEW TRANSLATION
+  JAP_thrasymachus_modding: "" # todo: NEW TRANSLATION
+  manpower_early: "Dočasné zvýšení pracovní síly (zmizí při Danzigu)" # todo: NEW TRANSLATION
+  manpower_early_desc: "To se odstraní při rozsáhlé branné povinnosti, Danzigu nebo válce. Je to proto, abyste si mohli brzy ve hře sestavit divize a byli připraveni na Danzig." # todo: NEW TRANSLATION
+  japan_no_asia: "Válka v Pacifiku" # todo: NEW TRANSLATION
+  navy_chief_decisive_battle_ITA: "Mare Nostrum Doctrine" # todo: NEW TRANSLATION
+  crda_refit: "Cantieri Riuniti dell'Adriatico" # todo: NEW TRANSLATION
+  GER_no_fuel_idea: "Fokus na syntetické palivo" # todo: NEW TRANSLATION
+  upgrade_all_department: "Zvýšit financování agentury" # todo: NEW TRANSLATION
+  mbt_manufacturer: "Návrhář hlavního bojového tanku" # todo: NEW TRANSLATION
+  kharkiv: "Charkovská dieselová továrna" # todo: NEW TRANSLATION
+  ENG_motorized_focus3: "Duch budování zásob" # todo: NEW TRANSLATION
+  ENG_motorized_focus4: "Duch budování zásob (bez Asie UK)" # todo: NEW TRANSLATION
+  ITA_motorized_focus: "Duch budování zásob" # todo: NEW TRANSLATION
+  National_Projects: "Národní projekty" # todo: NEW TRANSLATION
+  naval_ship: "Loď" # todo: NEW TRANSLATION
+  operative_triple_agent: "Trojitý agent" # todo: NEW TRANSLATION
+  operative_triple_agent_desc: "Tento operativní pracovník byl z nepřítele převeden do našich služeb." # todo: NEW TRANSLATION
+  somua_tank: "SOMUA" # todo: NEW TRANSLATION
+  miag: "MIAG" # todo: NEW TRANSLATION
+  consumer_goods: "Náš nejlepší okamžik" # todo: NEW TRANSLATION
+  army_chief_ground_support: "Letecká podpora (génius)" # todo: NEW TRANSLATION
+  navy_chief_dutch_larper: "Námořní supremacista (nizozemský napodobitel)" # todo: NEW TRANSLATION
+  tank_destroyer_board_idea: "Doktrína stíhačů tanků" # todo: NEW TRANSLATION
+  tank_destroyer_manufacturer: "Návrhář stíhačů tanků" # todo: NEW TRANSLATION
+  avtomobilnoe_moskovskoe: "Moskevské automobily" # todo: NEW TRANSLATION
+  daimler_benz: "Daimler-Benz" # todo: NEW TRANSLATION
+  nizhegorodsky_avtomobilny: "Továrna na automobily Nižnij Novgorod" # todo: NEW TRANSLATION
+  vomag: "Vomag" # todo: NEW TRANSLATION
+  endsieg: "Endsieg" # todo: NEW TRANSLATION
+  brawler_tank_manufacturer: "Návrhář tanků typu Brawler" # todo: NEW TRANSLATION
+  cavalry_tank_manufacturer: "Návrhář jezdeckých tanků" # todo: NEW TRANSLATION
+  light_tank_manufacturer: "Návrhář lehkých tanků" # todo: NEW TRANSLATION
+  skillful_workers: "Nasycená břicha" # todo: NEW TRANSLATION
+  cruiser_tank_manufacturer: "Návrhář cruiser tanků" # todo: NEW TRANSLATION
+  mobile_heavy_tank_manufacturer: "Návrhář mobilních těžkých tanků" # todo: NEW TRANSLATION
+  alkett: "Alkett" # todo: NEW TRANSLATION
+  GER_LT_IDEA: "Alkett" # todo: NEW TRANSLATION
+  france_has_capped: "Italské vedení vyzývá k válce!" # todo: NEW TRANSLATION
+  ITA_join_the_war: "Vyhlásit válku Spojencům!" # todo: NEW TRANSLATION
+  france_has_capped_desc: "Na nás roste tlak, abychom jednali. Evropa je v plamenech konfliktu, neboť Německá říše dobývá jednu zemi za druhou. Nic nezískáme, pokud budeme jen přihlížet. Musíme vstoupit, dokud je čas získat území a slávu.\n\n§RItálie vstoupí do války po odstranění tohoto ducha.§!" # todo: NEW TRANSLATION
+  GER_ckd: "ČKD" # todo: NEW TRANSLATION
+  USA_join_the_war: "Vstoupit do války" # todo: NEW TRANSLATION
+  chelyabinsk_tractor_plant: "Chelyabinská traktorová továrna" # todo: NEW TRANSLATION
+  kirov_plant: "Kirovova traktorová továrna" # todo: NEW TRANSLATION
+  RollsRoyce: "Rolls-Royce" # todo: NEW TRANSLATION
+  vulkan: "Vulcan Foundry" # todo: NEW TRANSLATION
+  father_of_fascism: "Otec fašismu" # todo: NEW TRANSLATION
+  dietrich: "Lorraine-Dietrich" # todo: NEW TRANSLATION
+  peugeot: "Peugeot" # todo: NEW TRANSLATION
+  uralvagonazavod: "UralVagonaZavod" # todo: NEW TRANSLATION
+  ansaldo: "Ansaldo Genova" # todo: NEW TRANSLATION
+  blitzkrieg_tank_manufacturer: "Návrhář tanků pro blitzkrieg" # todo: NEW TRANSLATION
+  krasnoye_sormovo: "Krasnoye Sormovo" # todo: NEW TRANSLATION
+  JAP_surprise_attack: "Překvapivý útok!" # todo: NEW TRANSLATION
+  syria_modifier: "Neplánovaná ofenzíva" # todo: NEW TRANSLATION
+  fuhrer_directive_21_completed: "Směrnice vůdce 21 dokončena" # todo: NEW TRANSLATION
+  factory_no_174_k_e_voroshilov: "Továrna č. 174 K. E. Voroshilov" # todo: NEW TRANSLATION
+  nibelungenwerke: "Nibelungenwerke" # todo: NEW TRANSLATION
+  mass_tank_manufactuer: "Návrhář hromadných tanků" # todo: NEW TRANSLATION
+  volgograd_tractor_plant: "Stalingradská traktorová továrna" # todo: NEW TRANSLATION
+  nsm_amsterdam2: "Nederlandsche Scheepsbouw Maatschappij" # todo: NEW TRANSLATION
+  hard_infra: "Těžký terén" # todo: NEW TRANSLATION
+  SOV_motorized_focus: "Duch budování zásob" # todo: NEW TRANSLATION
+  SOV_motorized_focus_minor: "Duch budování zásob" # todo: NEW TRANSLATION
+  ETH_mario_roatta: "Mario Roatta" # todo: NEW TRANSLATION
+  GER_the_blitzkrieg: "Blitzkrieg" # todo: NEW TRANSLATION
+  GER_the_blitzkrieg_desc: "Vyrovnává ztráty tanků výměnou za intenzivnější souboje a delší průběh hry." # todo: NEW TRANSLATION
+  HORST_GROUPKEY: "Historická nastavení multiplayerové hry" # todo: NEW TRANSLATION
+  DANISH_BELTS_STRAIT2: "Dánské průlivy" # todo: NEW TRANSLATION
+  GER_mech: "Mechanizovaná armáda" # todo: NEW TRANSLATION
+  ETH_alfredo_guzzoni: "Alfredo Guzzoni" # todo: NEW TRANSLATION
+  ETH_pietro: "Pietro Badoglio" # todo: NEW TRANSLATION
+  ETH_graziani: "Rodolfo Graziani" # todo: NEW TRANSLATION
+  horst_small_edition: "NEHRATELNÝ STÁT" # todo: NEW TRANSLATION
+  ETH_vittorio_ambrosio: "Vittori Ambrosio" # todo: NEW TRANSLATION
+  ALB_Mahmud_Salman: "Mahmud Salman" # todo: NEW TRANSLATION
+  ALB_Salah_ad_Din_al_Sabbagh: "Salah al-Din al-Sabbagh" # todo: NEW TRANSLATION
+  ALB_Kamal_Shabib: "Kamil Shabib" # todo: NEW TRANSLATION
+  ALB_Fahmi_Said: "Fahmi Said" # todo: NEW TRANSLATION
+  rashid_al_gaylani: "Rashid Ali Al-Gaylani" # todo: NEW TRANSLATION
+  rashid_al_gaylani2: "Sami Shawkat" # todo: NEW TRANSLATION
+  rashid_al_gaylani3: "Nadi al-Muthanna" # todo: NEW TRANSLATION
+  ALB_Mahmud_Salman2: "Kamil Shabib" # todo: NEW TRANSLATION
+  mud_sucks_eu: "Sezóna bláta" # todo: NEW TRANSLATION
+  mud_sucks_ru: "Sezóna bláta" # todo: NEW TRANSLATION
+  no_license_plane: "Letadla v hangáru" # todo: NEW TRANSLATION
+  no_license_plane_desc: "To bude odstraněno v roce 1941, dávno před útokem Německa." # todo: NEW TRANSLATION
+  great_patriotic_war_idea: "Válka za socialismus" # todo: NEW TRANSLATION
+  SOV_red_air_force_resurgent: "Obnovené Rudé letectvo" # todo: NEW TRANSLATION
+  BUL_slavic_will: "Slovanská vůle" # todo: NEW TRANSLATION
+  vmz_sopot: "VMZ Sopot" # todo: NEW TRANSLATION
+  shattered_retreat: "Rozbitý ústup" # todo: NEW TRANSLATION
+  BUL_bulgarisation_idea: "Bulharizace" # todo: NEW TRANSLATION
+  BUL_bulgarisation_idea_desc: "Zahájili jsme bulharizaci v řeckých územích, která bývala naše. Bude to chvíli trvat, ale vyplatí se to." # todo: NEW TRANSLATION
+  petrol_ad: "Petrol AD" # todo: NEW TRANSLATION
+  navibulgar: "Navibulgar" # todo: NEW TRANSLATION
+  BUL_asen_krasnovskii: "Nikola Bakardzhieva" # todo: NEW TRANSLATION
+  camouflage_expert_227: "Příkaz 227" # todo: NEW TRANSLATION
+  camouflage_expert_270: "Příkaz 270" # todo: NEW TRANSLATION
+  camouflage_expert_red: "Obnovené Rudé letectvo" # todo: NEW TRANSLATION
+  bdz: "BDZ" # todo: NEW TRANSLATION
+  BUL_bulgarian_tsardom: "Car Boris III." # todo: NEW TRANSLATION
+  BUL_royal_tsardom: "Carství" # todo: NEW TRANSLATION
+  BUL_krali_marko_line_idea: "Krali Marko Line" # todo: NEW TRANSLATION
+  BUL_krali_marko_line_idea_desc: "Linie Krali Marko byla obranná linie vybudovaná Bulhary pro případ cizí invaze. Skládala se z vozidel dodaných převážně spojenci." # todo: NEW TRANSLATION
+  chavdar: "Chavdar" # todo: NEW TRANSLATION
+  sfkb: "SFKB" # todo: NEW TRANSLATION
+  bulyard: "Bulyard" # todo: NEW TRANSLATION
+  kaproni_bulgarski: "Kaproni Bulgarski" # todo: NEW TRANSLATION
+  prosveta_publishing_house: "Nakladatelství Prosveta" # todo: NEW TRANSLATION
+  BUL_allied_friendly_government: "Vláda přátelská spojencům" # todo: NEW TRANSLATION
+  BUL_fatherland_front: "Fronta vlasti" # todo: NEW TRANSLATION
+  BUL_the_peoples_republic_idea: "Socialistická republika" # todo: NEW TRANSLATION
+  BUL_royal_communism_idea: "Královský komunismus" # todo: NEW TRANSLATION
+  BUL_girdap_idea: "Girdap" # todo: NEW TRANSLATION
+  BUL_steel_exports_idea: "Vývoz oceli" # todo: NEW TRANSLATION
+  BUL_aleksander_malinov: "Aleksander Malinov" # todo: NEW TRANSLATION
+  BUL_aleksandur_tsankov: "Aleksandur Tsankov" # todo: NEW TRANSLATION
+  BUL_vasil_petrov_kolarov: "Vasil Petrov Kolarov" # todo: NEW TRANSLATION
+  BUL_salonika_agreement_idea: "Soluňská dohoda" # todo: NEW TRANSLATION
+  BUL_bulgarian_trainers: "Bulharská cvičná letadla" # todo: NEW TRANSLATION
+  BUL_bulgarian_trainers_desc: "Bulharské letectvo je zaplněno cvičnými letadly; jejich nasazení získá našim pilotům zkušenosti před vstupem do boje." # todo: NEW TRANSLATION
+  BUL_eliminated_democratic_elements: "Zlikvidované demokratické prvky" # todo: NEW TRANSLATION
+  BUL_interventionism_idea: "Intervencionismus" # todo: NEW TRANSLATION
+  BUL_increased_macedonian_opposition: "Zvýšený makedonský odpor" # todo: NEW TRANSLATION
+  BUL_bulgarian_revanchism_idea: "Bulharský revanchismus" # todo: NEW TRANSLATION
+  BUL_bulgarian_thracian_volunteers: "Thráčtí dobrovolníci" # todo: NEW TRANSLATION
+  BUL_national_regeneration: "Národní obnova" # todo: NEW TRANSLATION
+  BUL_nikola_mikhov: "Nikola Mikhov" # todo: NEW TRANSLATION
+  BUL_nikola_zekhov: "Nikola Zekhov" # todo: NEW TRANSLATION
+  BUL_nikola_todorov: "Nikola Todorov" # todo: NEW TRANSLATION
+  BUL_asen_daskalov: "Asen Daskalov" # todo: NEW TRANSLATION
+  BUL_cumerio_med: "Cumerio Med" # todo: NEW TRANSLATION
+  BUL_asen_krasnovski: "Asen Krasnovski" # todo: NEW TRANSLATION
+  BUL_dimitar_stanchev: "Dimitar Stanchev" # todo: NEW TRANSLATION
+  BUL_agrarian_utopia_idea: "Agrární utopie" # todo: NEW TRANSLATION
+  BUL_dimitar_peshev: "Dimitar Peshev" # todo: NEW TRANSLATION
+  BUL_pencho_zlatev: "Pencho Zlatev" # todo: NEW TRANSLATION
+  BUL_macedonian_literary_circle_idea: "Makedonský literární kruh" # todo: NEW TRANSLATION
+  BUL_macedonian_literary_circle_idea_desc: "Makedonský literární kruh byl organizací založenou komunistickými členy makedonské komunity emigrantů, která nám nyní pomůže postoupit." # todo: NEW TRANSLATION
+  BUL_motorized_equipment_1: "FIAT 626" # todo: NEW TRANSLATION
+  BUL_motorized_equipment_1_short: "FIAT" # todo: NEW TRANSLATION
+  BUL_anti_tank_equipment_1: "Protitankový kanón 37mm D/70" # todo: NEW TRANSLATION
+  BUL_anti_tank_equipment_1_short: "D/70 AT" # todo: NEW TRANSLATION
+  BUL_artillery_equipment_1: "15 cm sIG" # todo: NEW TRANSLATION
+  BUL_artillery_equipment_1_short: "sIG 33" # todo: NEW TRANSLATION
+  BUL_nikola_democratic_party_long: "Demokratická strana" # todo: NEW TRANSLATION
+  BUL_nikola_democratic_party: "Demokratická strana" # todo: NEW TRANSLATION
+  BUL_house_of_saxe_coburg: "Dom Saska-Koburga" # todo: NEW TRANSLATION
+  BUL_filov_cabinet: "Filovova vláda" # todo: NEW TRANSLATION
+  anti_british_revolutionary: "Proti-britský revolucionář" # todo: NEW TRANSLATION
+  anti_british_revolutionary2: "Proti-britský revolucionář" # todo: NEW TRANSLATION
+  anti_british_revolutionary3: "Proti-britský revolucionář" # todo: NEW TRANSLATION
+  ENG_EMPIRE: "Britské impérium" # todo: NEW TRANSLATION
+  FIN_support_from_germany: "Podpora z Německa" # todo: NEW TRANSLATION
+  MON_aid: "Financování tankové brigády \"Revoluční Mongolsko\"" # todo: NEW TRANSLATION
+  MEX_cedillo_tension_5: "Rebelie caudilla" # todo: NEW TRANSLATION
+  construction_company_2: "Stavební firma" # todo: NEW TRANSLATION
+  MEX_cedillo_tension_6: "Rebelie caudilla" # todo: NEW TRANSLATION
+  fra_legit_idea: "Francouzská legitimita je §G[?FRA.FRA_legitimacy|+0]§!\n\nZískáváme 1 legitimitu za každý den, kdy držíme pevninskou Francii." # todo: NEW TRANSLATION
+  neutrality_idea3: "Neutrální národ" # todo: NEW TRANSLATION
+  thrasymachus: "Thrasymachus" # todo: NEW TRANSLATION
+  FRA_legitimacy: "Legitimita" # todo: NEW TRANSLATION
+  thrasymachus_desc: "Odborník na železnice" # todo: NEW TRANSLATION
+  GER_at_stuff: "Protitankový fokus" # todo: NEW TRANSLATION
+  war_plan_silver: "Válečný plán Stříbro" # todo: NEW TRANSLATION
+  ITA_africa_campaign_idea3: "Le Vedova di Italia" # todo: NEW TRANSLATION
+  lion_of_verdun: "Lev z Verdunu" # todo: NEW TRANSLATION
+  gibraltar_modifier: "Skála" # todo: NEW TRANSLATION
+  GER_stuka: "Stuka-Tabletten" # todo: NEW TRANSLATION
+  GER_stuka_desc: "Podávání Pervitinu našim ponorkovým bombardérům zlepšilo jejich přesnost a soustředění na mise, byť to přichází za cenu nebezpečně nízkých vzdušných rychlostí." # todo: NEW TRANSLATION
+  GER_choco: "Panzerschokolade" # todo: NEW TRANSLATION
+  GER_choco_desc: "Podávání Pervitinu našim tankistům výrazně zlepšilo bojovou bdělost našich pancéřovaných divizí." # todo: NEW TRANSLATION
+  GER_pillen: "Hermann-Göring-Pillen" # todo: NEW TRANSLATION
+  GER_pillen_desc: "Podávání Pervitinu našim jednotkám výrazně zlepšilo jejich výdrž v každodenních bojích." # todo: NEW TRANSLATION
+  duke_addis: "Vévoda z Addis Abeby" # todo: NEW TRANSLATION
+  med_fleet_naval_manufacturer: "Návrhář středomořské flotily" # todo: NEW TRANSLATION
+  lombardy: "Gauleiter Lombardie" # todo: NEW TRANSLATION
+  scientist: "Vědec" # todo: NEW TRANSLATION
+  fake_commando: "Komando" # todo: NEW TRANSLATION
+  defensive_posture: "Defenzivní postoj" # todo: NEW TRANSLATION
+  homeland_defense: "Fortezza Italia" # todo: NEW TRANSLATION
+  defensive_posture_desc: "Vrchní velení nám nařídilo zaujmout obranné pozice a soustředit se na odrážení útoků místo vedení ofenzív s našimi omezenými zásobami a lidskými zdroji.\n\n§R Pokud Osa obsadí Chartúm, tento národní duch bude odstraněn.§!" # todo: NEW TRANSLATION
+  fake_infantry_leader: "Vůdce pěchoty" # todo: NEW TRANSLATION
+  fake_skilled_staffer: "Expertní štábník" # todo: NEW TRANSLATION
+  fake_skilled_staffer_desc: "§LObklopen některými z nejlepších štábů, je tento vůdce schopen organizovat a řídit větší počet jednotek.§!" # todo: NEW TRANSLATION
+  fake_skilled_staffer_sov: "Mistr štábník" # todo: NEW TRANSLATION
+  fake_skilled_staffer_sov_desc: "§LObklopen některými z nejlepších štábů, je tento vůdce schopen organizovat a řídit větší počet jednotek.§!" # todo: NEW TRANSLATION
+  fake_skilled_staffer_sov2: "Legendární štábník" # todo: NEW TRANSLATION
+  fake_skilled_staffer_sov2_desc: "§LObklopen některými z nejlepších štábů, je tento vůdce schopen organizovat a řídit větší počet jednotek.§!" # todo: NEW TRANSLATION
+  army_chief_drill_sov: "Lidový komisař pro obranu" # todo: NEW TRANSLATION
+  winter_fox: "Zimní liška" # todo: NEW TRANSLATION
+  shocktroops: "Úderné jednotky" # todo: NEW TRANSLATION
+  SPR_fuck_dynamic_ideas: "Tento fokus by vám dal 2,5% útok a obranu, pokud sjednotíte Raquetes" # todo: NEW TRANSLATION
+  GER_barbarossa_zit: "Unternehmen Zitadelle" # todo: NEW TRANSLATION
+  fin_sisu_desc: "Sisu je výlučně finský výraz pro odolnost národa. Finsko čelilo tvrdým nepříznivostem a opět jim čelit bude." # todo: NEW TRANSLATION
+  mech_anti_air: "Mechanizovaná protiletadlová obrana" # todo: NEW TRANSLATION
+  mech_at: "Mechanizovaná protitanková" # todo: NEW TRANSLATION
+  mech_arty: "Mechanizovaná dělostřelba" # todo: NEW TRANSLATION
+  mech_rarty: "Mechanizovaná raketová dělostřelba" # todo: NEW TRANSLATION
+  armyandnavy_idea: "Mírový výcvik" # todo: NEW TRANSLATION
+  armyandnavy_idea_desc: "Duch zlepšující kvalitu hry, který vám umožní připravit se na válku rychleji, aniž by výrazně změnil herní rovnováhu." # todo: NEW TRANSLATION
+  ai_imiter: "Omezovač obchodu/výroby AI" # todo: NEW TRANSLATION
+  ai_imiter_desc: "Používá se k řízení obchodů AI a zabránění tomu, aby výzbroj AI nafoukla soubory uložené hry a obrazovky návrháře divizí." # todo: NEW TRANSLATION
+  fin_sisu: "Sisu" # todo: NEW TRANSLATION
+  armyandnavy_idea_usa: "Mírový výcvik" # todo: NEW TRANSLATION
+  armyandnavy_idea_efr: "Mírový výcvik" # todo: NEW TRANSLATION
+  SOV_227: "Příkaz 227" # todo: NEW TRANSLATION
+  GER_modular_construction2: "" # todo: NEW TRANSLATION
+  SOV_227_desc: "\"Je čas přestat ustupovat. Ani krok zpět!\"" # todo: NEW TRANSLATION
+  SOV_270_desc: "Obklíčené jednotky a formace mají bezohledně bojovat do posledního, chránit materiál jako oko v hlavě, prorazit zadní stranou nepřátelských vojsk, porazit fašistické psy.\n\nPředseda Státního obranného výboru, -J. STALIN" # todo: NEW TRANSLATION
+  GER_desert_flower: "Rozvoj irácké ropné infrastruktury" # todo: NEW TRANSLATION
+  GER_desert_flower_dec: "§HUnternehmen Wüstenblume (Iraq)§!" # todo: NEW TRANSLATION
+  GER_desert_flower_dec_desc: "Přesměrujeme civilní průmysl na rychlý rozvoj iráckých ropných polí." # todo: NEW TRANSLATION
+  no_army: "Odvyzbrojený stát" # todo: NEW TRANSLATION
+  SOV_barbarossa: "Obnovená Rudá armáda" # todo: NEW TRANSLATION
+  zzz_war_bonds_desc: "Tato země použila rozhodnutí o válečných dluhopisech. Efekty vyprší v den ukončení tohoto národního ducha." # todo: NEW TRANSLATION
+  HOL_manufacturer: "Koninklijke Scheepswerf" # todo: NEW TRANSLATION
+  MAN_jehol: "Práce na železnici Jehol dokončena" # todo: NEW TRANSLATION
+  MAN_chahar: "Práce na železnici Chahar dokončena" # todo: NEW TRANSLATION
+  MAN_liaotung: "Práce na železnici Liaotung dokončena" # todo: NEW TRANSLATION
+  MAN_kirin: "Práce na železnici Kirin dokončena" # todo: NEW TRANSLATION
+  MAN_heilungkiang: "Práce na železnici Heilungkiang dokončena" # todo: NEW TRANSLATION
+  MAN_sungkiang: "Práce na železnici Sunkiang dokončena" # todo: NEW TRANSLATION
+  MAN_schahar: "Práce na železnici South Chahar dokončena" # todo: NEW TRANSLATION
+  SPR_cg_debuff: "Španělská občanská válka" # todo: NEW TRANSLATION
+  SPR_cg_debuff_desc: "Zde jsou simulovány efekty španělské občanské války" # todo: NEW TRANSLATION
+  MAN_hulunbuir: "Práce na železnici Hulunbuir dokončena" # todo: NEW TRANSLATION
+  war_plan_yellowx: "Válečný plán Orange" # todo: NEW TRANSLATION
+  SPR_dead: "Vnitřní mocenské boje" # todo: NEW TRANSLATION
+  USA_anti_spy: "Flotila zakotvena v přístavu" # todo: NEW TRANSLATION
+  USA_anti_spy_desc: "V případě války loďstvo opustí přístav." # todo: NEW TRANSLATION
+  SPR_no_navy: "Flotila zakotvena v přístavu" # todo: NEW TRANSLATION
+  SPR_no_navy_desc: "Jako neutrální stát flotila není důležitá" # todo: NEW TRANSLATION
+  SPR_no_navy2: "Flotila zakotvena v přístavu" # todo: NEW TRANSLATION
+  SPR_no_navy2_desc: "Jako neutrální stát flotila není důležitá" # todo: NEW TRANSLATION
+  GER_modular_construction3: "Plán Z" # todo: NEW TRANSLATION
+  GER_modular_construction3_desc: "Všechny války budou rozhodnuty námořní silou. -Erich Raeder" # todo: NEW TRANSLATION
+  rubin_design_bureau: "Rubin Design Bureau" # todo: NEW TRANSLATION
+  zvezda_shipyard: "Zvezda Shipyard" # todo: NEW TRANSLATION
+  baltic_naval_manufacturer: "Návrhář baltské flotily" # todo: NEW TRANSLATION
+  assault_naval_aircraft_manufacturer: "Návrhář námořních letadel CAC" # todo: NEW TRANSLATION
+  anti_cross_faction_trade: "Obchodní embargo" # todo: NEW TRANSLATION
+  stahlpakt2: "Pakt o oceli" # todo: NEW TRANSLATION
+  stahlpakt6: "Zvláštní vztah" # todo: NEW TRANSLATION
+  stahlpakt7: "Zvláštní vztah" # todo: NEW TRANSLATION
+  GER_horst_jaegarnottprogramm: "Jägernotprogramm" # todo: NEW TRANSLATION
+  ITA_jaegernotprogramm: "Jägernotprogramm" # todo: NEW TRANSLATION
+  warbonds_a: "Válečné dluhopisy" # todo: NEW TRANSLATION
+  warbonds_b: "Postih stability kvůli válečným dluhopisům" # todo: NEW TRANSLATION
+  vittoria_mutilata2: "Italia Irredenta" # todo: NEW TRANSLATION
+  no_garrison2: "Žádná posádka" # todo: NEW TRANSLATION
+  SCW_lessons_from: "Ponaučení ze Španělska" # todo: NEW TRANSLATION
+  GER_autarky_idea2: "Autarkie" # todo: NEW TRANSLATION
+  GER_autarky_idea2_ita: "Autarkie" # todo: NEW TRANSLATION
+  GER_autarky_idea_ita: "Autarkie" # todo: NEW TRANSLATION
+  stahlpakt5: "Zvláštní vztah" # todo: NEW TRANSLATION
+  stahlpakt: "Pakt o oceli" # todo: NEW TRANSLATION
+  SPR_exploit: "Duch proti zneužívání" # todo: NEW TRANSLATION
+  SPR_exploit_desc: "To je spíš vtipné než jen prevence proti zneužívání -Thrasymachus" # todo: NEW TRANSLATION
+  vichy_legitimacy: "État Français" # todo: NEW TRANSLATION
+  vichy_legitimacy_desc: "Příměří z 22. června 1940 a Výzva z 18. června vytvořily dva státy soupeřící o legitimitu - Francouzský stát, také známý jako Vichy, a Svobodná Francie. Vichy kontrolovalo většinu francouzského koloniálního impéria, ale postupná opatření Spojenců a expandujících mocností Osy podryvala režim, zmenšovala jeho koloniální domény bez větších konfliktů. Operace Torch" # todo: NEW TRANSLATION
+  naval_defense_tt: "Snižuje penalizaci námořních invazí! \n" # todo: NEW TRANSLATION
+  naval_defense2_tt: "Snižuje penalizaci námořních invazí! \n" # todo: NEW TRANSLATION
+  vauxhall2: "Vauxhall Motors" # todo: NEW TRANSLATION
+  gestapo: "Reichsführer-SS" # todo: NEW TRANSLATION
+  reichs_minister: "Říšský ministr zbrojení" # todo: NEW TRANSLATION
+  reichs_prop: "Říšský ministr propagandy" # todo: NEW TRANSLATION
+  axis_trade_italy: "Německo-italské obchodní dohody" # todo: NEW TRANSLATION
+  axis_trade_spain: "Německo-španělské obchodní dohody" # todo: NEW TRANSLATION
+  vichy_trade: "Platby reparací" # todo: NEW TRANSLATION
+  casablanca_capital: "Hlavní město přesunuto do Casablanky" # todo: NEW TRANSLATION
+  gabon_capital: "Hlavní město přesunuto do Libreville" # todo: NEW TRANSLATION
+  madagascar_capital: "Hlavní město přesunuto na Madagaskar" # todo: NEW TRANSLATION
+  caledonia_capital: "Hlavní město přesunuto do Nouméa" # todo: NEW TRANSLATION
+  adjusted_surrender_limit: "Neochvějná odhodlanost" # todo: NEW TRANSLATION
+  CHI_cheap_guns: "Přerozdělení sjednocené Číny" # todo: NEW TRANSLATION
+  MAN_importjap: "Půjčování vybavení Mandžukuovi" # todo: NEW TRANSLATION
+  CHI_kill_china: "Přerozdělení AI sjednocené Číny" # todo: NEW TRANSLATION
+  game_impact_japan: "GEACPS Trade Agreements" # todo: NEW TRANSLATION
+  game_impact_japan_puppet: "GEACPS Trade Agreements" # todo: NEW TRANSLATION
+  USA_cheap_rubber: "Levný přírodní kaučuk" # todo: NEW TRANSLATION
+  USA_cheap_rubber_desc: "Díky bohatým zásobám přírodního kaučuku zde nejsou tržní pobídky k výstavbě rafinerií syntetického paliva.\n\n§POkud budou ztraceny státy obsahující kaučuk, snížíme trest za stavbu rafinerií syntetického paliva a nakonec obdržíme malý bonus.§!" # todo: NEW TRANSLATION
+  no_training: "Odvyzbrojený stát" # todo: NEW TRANSLATION
+  no_training_desc: "Tomuto státu je zakázáno vytvářet stálou armádu." # todo: NEW TRANSLATION
+  SAF_the_commonwealth: "Společenství" # todo: NEW TRANSLATION
+  SAF_the_commonwealth_desc: "Jsou to autonomní společenství v rámci Britského impéria, sobě rovné, nikoli podřízené v domácích nebo zahraničních záležitostech, sjednocené společnou věrností koruně a volně sdruženy jako členové Britského společenství národů." # todo: NEW TRANSLATION
+  nor_bad_debuffs: "Nepřipravená vláda" # todo: NEW TRANSLATION
+  nor_bad_debuffs2: "Nedostatečně vycvičená armáda" # todo: NEW TRANSLATION
+  NOR_training: "Arktický výcvik" # todo: NEW TRANSLATION
+  NOR_spec_ops: "Fleischerův plán" # todo: NEW TRANSLATION
+  NOR_army_buffs: "Rugeův plán" # todo: NEW TRANSLATION
+  NOR_army_buffs2: "Profesionální výcvik" # todo: NEW TRANSLATION
+  NOR_crofter: "Alt for Norge!" # todo: NEW TRANSLATION
+  fin_continuation_war: "Pokračovací válka" # todo: NEW TRANSLATION
+  IRQ_fasc: "Vojenský konflikt" # todo: NEW TRANSLATION
+  IRQ_fasc_desc: "Naši současní generálové se otevřeně staví proti civilní vládě. V červenci 1940 dojde k občanské válce s cílem svrhnout monarchii a nahradit ji diktaturou spojenou s Osy." # todo: NEW TRANSLATION
+  attritionn: "Masivní dezertace" # todo: NEW TRANSLATION
+  SOV_purge_now_plz: "Vláda v chaosu" # todo: NEW TRANSLATION
+  SOV_purge_now_plz_desc: "Zdá se, že trockisté systematicky sabotovají státní aparát. Musíme je očistit." # todo: NEW TRANSLATION
+  SWI_acesSpiritJAP_desc: "Japonsko §Wmá§! [?global.horst_acesCounterJAP|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritMAN_desc: "Mandžukuo §Wmá§! [?global.horst_acesCounterMAN|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritSIA_desc: "Siam §Wmá§! [?global.horst_acesCounterSIA|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritHUN_desc: "Maďarsko §Wmá§! [?global.horst_acesCounterHUN|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritROM_desc: "Rumunsko §Wmá§! [?global.horst_acesCounterROM|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritBUL_desc: "Bulharsko §Wmá§! [?global.horst_acesCounterBUL|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritSOV_desc: "Sovětský svaz §Wmá§! [?global.horst_acesCounterSOV|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritENG_desc: "Británie §Wmá§! [?global.horst_acesCounterENG|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritCAN_desc: "Kanada §Wmá§! [?global.horst_acesCounterCAN|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritGER_desc: "Německo §Wmá§! [?global.horst_acesCounterGER|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritITA_desc: "Itálie §Wmá§! [?global.horst_acesCounterITA|R0] §Wes§!" # todo: NEW TRANSLATION
+  SWI_acesSpiritJAP_instant_desc: "Kolik es má Japonsko. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritMAN_instant_desc: "Kolik es má Mandžukuo. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritSIA_instant_desc: "Kolik es má Siam. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritHUN_instant_desc: "Kolik es má Maďarsko. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritROM_instant_desc: "Kolik es má Rumunsko. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritBUL_instant_desc: "Kolik es má Bulharsko. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritSOV_instant_desc: "Kolik es má Sovětský svaz. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritGER_instant_desc: "Kolik es má Německo. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritITA_instant_desc: "Kolik es má Itálie. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritENG_instant_desc: "Kolik es má Británie. Najetím zobrazíte." # todo: NEW TRANSLATION
+  SWI_acesSpiritCAN_instant_desc: "Kolik es má Kanada. Najetím zobrazíte." # todo: NEW TRANSLATION
+  stiff_upper_lip1: "Britský stoicismus" # todo: NEW TRANSLATION
+  stiff_upper_lip2: "Britský stoicismus" # todo: NEW TRANSLATION
+  stiff_upper_lip3: "Britský stoicismus" # todo: NEW TRANSLATION
+  stiff_upper_lip4: "Britský stoicismus" # todo: NEW TRANSLATION
+  stiff_upper_lip5: "Britský stoicismus" # todo: NEW TRANSLATION
+  stiff_upper_lip6: "Britský stoicismus" # todo: NEW TRANSLATION
+  NOR_recover_eff: "Obnova efektivity po kapitulaci" # todo: NEW TRANSLATION
+  MAN_opiumtrade: "Distribuce cigaret Golden Bat" # todo: NEW TRANSLATION
+  MAN_agriculturaltrade: "Pěstování opia" # todo: NEW TRANSLATION
+  integrated_war_economies_yugoslavia: "Integrovaná válečná ekonomika: Jugoslávie" # todo: NEW TRANSLATION
+  integrated_war_economies_romania: "Integrovaná válečná ekonomika: Rumunsko" # todo: NEW TRANSLATION
+  integrated_war_economies_bulgaria: "Integrovaná válečná ekonomika: Bulharsko" # todo: NEW TRANSLATION
+  integrated_war_economies_hungary: "Integrovaná válečná ekonomika: Maďarsko" # todo: NEW TRANSLATION
+  integrated_war_economies_italy: "Integrovaná válečná ekonomika: Itálie" # todo: NEW TRANSLATION
+  SAF_aid: "Podpora Jižní Afriky" # todo: NEW TRANSLATION
+  EFR_aeb: "AEB" # todo: NEW TRANSLATION
+  EFR_acl: "ACL" # todo: NEW TRANSLATION
+  EFR_acf: "ACF" # todo: NEW TRANSLATION
+  EFR_hotchkiss: "Hotchkiss" # todo: NEW TRANSLATION
+  EFR_panhard: "Panhard" # todo: NEW TRANSLATION
+  EFR_APX: "APX" # todo: NEW TRANSLATION
+  EFR_legionary_service_order: "Rozkaz legiové služby" # todo: NEW TRANSLATION
+  EFR_milice: "Milice" # todo: NEW TRANSLATION
+  EFR_anti_bolshevist_volunteers: "Proti-bolševističtí dobrovolníci" # todo: NEW TRANSLATION
+  EFR_rebuild_the_military: "Přestavět armádu" # todo: NEW TRANSLATION
+  EFR_hidden_materials: "Skryté materiály" # todo: NEW TRANSLATION
+  EFR_buy_from_the_enemy: "Koupit od nepřítele" # todo: NEW TRANSLATION
+  EFR_defeatism: "Defetismus" # todo: NEW TRANSLATION
+  EFR_maquis: "Maquis" # todo: NEW TRANSLATION
+  EFR_philippe_henriot: "Philippe Henriot" # todo: NEW TRANSLATION
+  EFR_pierre_pucheu: "Pierre Pucheu" # todo: NEW TRANSLATION
+  EFR_vincent_auriol: "Vincent Auriol" # todo: NEW TRANSLATION
+  EFR_roger_salengro: "Roger Salengro" # todo: NEW TRANSLATION
+  EFR_jean_francois_darlan: "Jean Francois Darlan" # todo: NEW TRANSLATION
+  EFR_jean_marie_abrial: "Jean Marie Abrial" # todo: NEW TRANSLATION
+  EFR_jean_romatet: "Jean Romatet" # todo: NEW TRANSLATION
+  EFR_jean_marie_bergeret: "Jean-Marie Bergeret" # todo: NEW TRANSLATION
+  EFR_eugene_bridoux: "Eugene Bridoux" # todo: NEW TRANSLATION
+  EFR_lucien_lacaze: "Lucien Lacaze" # todo: NEW TRANSLATION
+  EFR_rene_bousquet: "Rene Bousquet" # todo: NEW TRANSLATION
+  EFR_marius_viple: "Marius Viple" # todo: NEW TRANSLATION
+  EFR_maxime_weygand: "Maxime Weygand" # todo: NEW TRANSLATION
+  EFR_charles_huntziger: "Charles Huntziger" # todo: NEW TRANSLATION
+  EFR_jean_francois_jannekeyn: "Jean-Francois Jannekeyn" # todo: NEW TRANSLATION
+  EFR_jean_de_laborde: "Jean de Laborde" # todo: NEW TRANSLATION
+  EFR_marcel_bruno_gensoul: "Marcel-Bruno Gensoul" # todo: NEW TRANSLATION
+  EFR_pierre_le_gloan: "Pierre Le Gloan" # todo: NEW TRANSLATION
+  EFR_AMX: "AMX" # todo: NEW TRANSLATION
+  EFR_AMX_desc: "Atelier de Construction d'Issy-les-Moulineaux" # todo: NEW TRANSLATION
+  EFR_gaston_henry_haye: "Gaston Henry-Haye" # todo: NEW TRANSLATION
+  EFR_jacques_duclos: "Jacques Duclos" # todo: NEW TRANSLATION
+  EFR_paul_baudouin: "Paul Baudouin" # todo: NEW TRANSLATION
+  EFR_zivony_peshkov: "Zivony Peshkov" # todo: NEW TRANSLATION
+  EFR_felix_gouin: "Félix Gouin" # todo: NEW TRANSLATION
+  EFR_charles_tillon: "Charles Tillon" # todo: NEW TRANSLATION
+  EFR_paul_reynaud: "Paul Reynaud" # todo: NEW TRANSLATION
+  EFR_henri_marie_auguste_bineau: "Henri Marie Auguste Bineau" # todo: NEW TRANSLATION
+  EFR_pierre_alombert_goget: "Pierre Alombert Goget" # todo: NEW TRANSLATION
+  EFR_renault_fra: "Renault" # todo: NEW TRANSLATION
+  EFR_somua: "SOMUA" # todo: NEW TRANSLATION
+  EFR_mas: "MAS" # todo: NEW TRANSLATION
+  EFR_schneider: "Schneider" # todo: NEW TRANSLATION
+  EFR_morane_saulnier: "Morane-Saulnier" # todo: NEW TRANSLATION
+  EFR_bloch: "Bloch" # todo: NEW TRANSLATION
+  EFR_amiot: "Amiot" # todo: NEW TRANSLATION
+  EFR_fcm: "FCM" # todo: NEW TRANSLATION
+  EFR_famh: "FAMH" # todo: NEW TRANSLATION
+  EFR_levasseur: "Levasseur" # todo: NEW TRANSLATION
+  EFR_charles_de_gaulle: "Charles de Gaulle" # todo: NEW TRANSLATION
+  EFR_henri_giraud: "Henri Giraud" # todo: NEW TRANSLATION
+  EFR_louis_kahn: "Louis Kahn" # todo: NEW TRANSLATION
+  EFR_jean_decoux: "Jean Decoux" # todo: NEW TRANSLATION
+  EFR_victor_denain: "Victor Denain" # todo: NEW TRANSLATION
+  EFR_frederic_irene_joliot_curie: "Frédéric & Iréne Joliot-Curie" # todo: NEW TRANSLATION
+  EFR_joe_biden: "Jérôme Carcopino" # todo: NEW TRANSLATION
+  leyland: "Leyland Motors" # todo: NEW TRANSLATION
+  uralmash: "Uralmash" # todo: NEW TRANSLATION
+  nuffield: "Nuffield Mechanizations" # todo: NEW TRANSLATION
+  USA_execute_operation_torch: "Operation Torch" # todo: NEW TRANSLATION
+  prepare_operation_torch: "Připravit Operaci Torch" # todo: NEW TRANSLATION
+  SOV_relocation: "Přesun průmyslu" # todo: NEW TRANSLATION
+  SOV_relocation2: "Přesun průmyslu" # todo: NEW TRANSLATION
+  SOV_relocation3: "Přesun průmyslu" # todo: NEW TRANSLATION
+  SOV_relocation4: "Přesun průmyslu" # todo: NEW TRANSLATION
+  SOV_relocation5: "Přesun průmyslu" # todo: NEW TRANSLATION
+  ITA_relocation: "Přesun průmyslu" # todo: NEW TRANSLATION
+  ITA_relocation2: "Přesun průmyslu" # todo: NEW TRANSLATION
+  ITA_relocation3: "Přesun průmyslu" # todo: NEW TRANSLATION
+  ENG_puppet_FRA: "Puppet France" # todo: NEW TRANSLATION
+  GER_seize_syria: "Seize Syria" # todo: NEW TRANSLATION
+  EFR_joining_faction: "Vichy Joining Faction" # todo: NEW TRANSLATION
+  sov_spawn: "Rozmístění divizí" # todo: NEW TRANSLATION
+  sov_spawn2: "Rozmístění divizí dvě" # todo: NEW TRANSLATION
+  check_tech_category: "Zkontrolovat úroveň technologie" # todo: NEW TRANSLATION
+  rom_tech: "Rumunská technologie" # todo: NEW TRANSLATION
+  man_tech: "Mandžukuóská technologie" # todo: NEW TRANSLATION
+  spr_tech: "Španělská technologie" # todo: NEW TRANSLATION
+  bul_tech: "Bulharská technologie" # todo: NEW TRANSLATION
+  hun_tech: "Maďarská technologie" # todo: NEW TRANSLATION
+  can_tech: "Kanadská technologie" # todo: NEW TRANSLATION
+  fra_tech: "Francouzská technologie" # todo: NEW TRANSLATION
+  saf_tech: "Jižněafrická technologie" # todo: NEW TRANSLATION
+  raj_tech: "Indická technologie" # todo: NEW TRANSLATION
+  ast_tech: "Australská technologie" # todo: NEW TRANSLATION
+  nzl_tech: "Novozélandská technologie" # todo: NEW TRANSLATION
+  FRA_Surrender: "I like Trains" # todo: NEW TRANSLATION
+  EFR_work_service: "Hostující dělníci posláni do Německa" # todo: NEW TRANSLATION
+  SOV_siberian_reinforcements_mission: "Sibiřská posila" # todo: NEW TRANSLATION
+  SOV_siberian_reinforcements_arriving_flg: "Sibiřské divize začaly přicházet." # todo: NEW TRANSLATION
+  SOV_military_upgrade_1: "Sibiřské posily" # todo: NEW TRANSLATION
+  SOV_military_upgrade_2: "Sibiřské posily" # todo: NEW TRANSLATION
+  SOV_military_upgrade_3: "Sibiřské posily" # todo: NEW TRANSLATION
+  SOV_military_upgrade_4: "Sibiřské posily" # todo: NEW TRANSLATION
+  SOV_military_upgrade_5: "Poučení z války" # todo: NEW TRANSLATION
+  SOV_military_upgrade2_1: "Poučení z války" # todo: NEW TRANSLATION
+  SOV_military_upgrade2_2: "Poučení z války" # todo: NEW TRANSLATION
+  SOV_military_upgrade2_3: "Poučení z války" # todo: NEW TRANSLATION
+  SOV_military_upgrade2_4: "Obnovená Rudá armáda" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_1: "Válečná ekonomika SSSR: Fáze 1" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_2: "Válečná ekonomika SSSR: Fáze 2" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_3: "Válečná ekonomika SSSR: Fáze 3" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_4: "Válečná ekonomika SSSR: Fáze 4" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_5: "Válečná ekonomika SSSR: Fáze 5" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_6: "Válečná ekonomika SSSR: Fáze 6" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_7: "Válečná ekonomika SSSR: Fáze 7" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_8: "Válečná ekonomika SSSR: Fáze 8" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_9: "Válečná ekonomika SSSR: Fáze 9" # todo: NEW TRANSLATION
+  SOV_industry_upgrade_10: "Válečná ekonomika SSSR" # todo: NEW TRANSLATION
+  SOV_military_upgrades_mission: "Posily Rudé armády" # todo: NEW TRANSLATION
+  SOV_industry_upgrades_mission_1: "Rozšíření válečné ekonomiky" # todo: NEW TRANSLATION
+  SOV_industry_upgrades_mission_2: "Rozšíření válečné ekonomiky" # todo: NEW TRANSLATION
+  SOV_military_upgrades2_mission_1: "Poučení z války" # todo: NEW TRANSLATION
+  SOV_military_upgrades2_mission_2: "Poučení z války" # todo: NEW TRANSLATION
+  SOV_military_upgrades2_mission_3: "Poučení z války" # todo: NEW TRANSLATION
+  SOV_military_upgrades2_mission_4: "Poučení z války" # todo: NEW TRANSLATION
+  SOV_guncost: "Puška do každé ruky" # todo: NEW TRANSLATION
+  SOV_guncost_desc: "Každý muž bude mít pušku v ruce na obranu SSSR!" # todo: NEW TRANSLATION
+  SOV_military_upgrades_done: "Všechny sibiřské divize dorazily." # todo: NEW TRANSLATION
+  SOV_military_upgrades2_done: "Poučení z války byla implementována." # todo: NEW TRANSLATION
+  SOV_industry_upgrades_done: "Válečná ekonomika dosáhla plné efektivity." # todo: NEW TRANSLATION
+  SOV_buffs: "Zlepšení Rudé armády" # todo: NEW TRANSLATION
+  USA_subs: "Zastaralý arzenál ponorek a torpéd" # todo: NEW TRANSLATION
+  USA_subs_desc: "Naše produkce ponorek v míru je výrazně snížena kvůli nedostatku financí. Kromě toho úřad pro výzbroj nechce nahradit špatně navržené torpédo Mk14. To výrazně oslabí naše ponorkové síly." # todo: NEW TRANSLATION
+  USA_japanese_occupation: "Japonská okupace" # todo: NEW TRANSLATION
+  USA_japanese_occupation_desc: "Okupace Japonska během války s Německem zatěžuje naši ekonomiku." # todo: NEW TRANSLATION
+  ITA_north_designers: "Všichni §HNorthern§! návrháři budou upgradováni.\n" # todo: NEW TRANSLATION
+  ITA_south_designers: "Všichni §HSouthern§! návrháři budou upgradováni.\n" # todo: NEW TRANSLATION
+  ITA_ethiopia_war_end: "Válka skončí 5. května 1937\n" # todo: NEW TRANSLATION
+  ITA_assault_battalion_desc: "\n§HÚtočné prapory§! mají podobné statistiky jako pěchotní prapory, i když s větším HP a sníženou organizací.\n" # todo: NEW TRANSLATION
+  SIA_civilian_wing_opposition2: "Opozice civilního křídla" # todo: NEW TRANSLATION
+  SIA_civilian_wing_opposition3: "Opozice civilního křídla" # todo: NEW TRANSLATION
+  SIA_greater_thai_ambitions_2: "Větší thajské ambice" # todo: NEW TRANSLATION
+  SIA_greater_thai_ambitions_3: "Větší thajské ambice" # todo: NEW TRANSLATION
+  SIA_greater_thai_ambitions_4: "Větší thajské ambice" # todo: NEW TRANSLATION
+  SIA_interventionism: "Ekonomický intervencionismus" # todo: NEW TRANSLATION
+  USA_lost_philippines: "Ztratili jsme ostrov!" # todo: NEW TRANSLATION
+  USA_hold_philippines: "Musíme ostrov bránit!" # todo: NEW TRANSLATION
+  monroe_doctrine2: "Monroeova doktrína" # todo: NEW TRANSLATION
+  monroe_doctrine3: "Monroeova doktrína" # todo: NEW TRANSLATION
+  ROM_agrarian_economy_modernized: "Moderní agrární ekonomika" # todo: NEW TRANSLATION
+  ITA_navy_expansion: "3 Littorios s extra těžkými děly, šéfe!" # todo: NEW TRANSLATION
+  revolutionary_writer: "Revoluční spisovatel" # todo: NEW TRANSLATION
+  ENG_the_war_to_end_all_wars: "Válka, která ukončí všechny války" # todo: NEW TRANSLATION
+  ENG_the_war_to_end_all_wars1: "Uklidnění nepokojů" # todo: NEW TRANSLATION
+  ENG_the_war_to_end_all_wars2: "Vyřešení našich dluhů" # todo: NEW TRANSLATION
+  ENG_the_war_to_end_all_wars3: "Zákon o vojenském výcviku" # todo: NEW TRANSLATION
+  ENG_luasane: "Lausanne Conference" # todo: NEW TRANSLATION
+  eng_veteran_wages: "Dávky veteránů" # todo: NEW TRANSLATION
+  eng_gas_mask: "Protiplynové masky" # todo: NEW TRANSLATION
+  uk_rely_on_the_Lend_lease_act: "Spoléhání na zákon Lend‑Lease" # todo: NEW TRANSLATION
+  war_ministry: "Ministerstvo války" # todo: NEW TRANSLATION
+  ENG_Blood_Toil_Tears_and_Sweat: "Krev, dřina, slzy a pot" # todo: NEW TRANSLATION
+  ENG_Blood_Toil_Tears_and_Sweat1: "Krev, dřina, slzy a pot" # todo: NEW TRANSLATION
+  uk_battle_of_britain: "Bitva o Británii" # todo: NEW TRANSLATION
+  UK_riches_of_empire: "Bohatství impéria" # todo: NEW TRANSLATION
+  UK_riches_of_empire1: "Bohatství impéria" # todo: NEW TRANSLATION
+  UK_riches_of_empire2: "Bohatství impéria" # todo: NEW TRANSLATION
+  UK_riches_of_empire3: "Bohatství impéria" # todo: NEW TRANSLATION
+  UK_riches_of_empire4: "Bohatství impéria" # todo: NEW TRANSLATION
+  UK_riches_of_empire5: "Bohatství impéria" # todo: NEW TRANSLATION
+  UK_chaois_in_the_middle_east: "Chaos na Středním východě" # todo: NEW TRANSLATION
+  UK_chaois_in_the_middle_east1: "Chaos na Středním východě" # todo: NEW TRANSLATION
+  UK_chaois_in_the_middle_east2: "Chaos na Středním východě" # todo: NEW TRANSLATION
+  UK_chaois_in_the_middle_east3: "Chaos na Středním východě" # todo: NEW TRANSLATION
+  UK_chaois_in_the_middle_east4: "Chaos na Středním východě" # todo: NEW TRANSLATION
+  UK_chaois_in_the_middle_east5: "Chaos na Středním východě" # todo: NEW TRANSLATION
+  UK_middle_east_pacified: "Střední východ zklidněn" # todo: NEW TRANSLATION
+  sterling_pound_zone: "Zóna libry sterling" # todo: NEW TRANSLATION
+  UK_imperial_army: "Imperiální armáda" # todo: NEW TRANSLATION
+  uk_great_depression: "Velká hospodářská krize" # todo: NEW TRANSLATION
+  uk_great_depression1: "Velká hospodářská krize" # todo: NEW TRANSLATION
+  uk_great_depression2: "Velká hospodářská krize" # todo: NEW TRANSLATION
+  uk_great_depression3: "Velká hospodářská krize" # todo: NEW TRANSLATION
+  uk_housing_crisis: "Krize bydlení" # todo: NEW TRANSLATION
+  uk_state_employment: "Státní zaměstnanost" # todo: NEW TRANSLATION
+  UK_highways_modifier: "Rozvoj dálnic" # todo: NEW TRANSLATION
+  UK_reduced_tarrifs: "Snížená cla" # todo: NEW TRANSLATION
+  UK_rump_up_naval_production: "Zvýšit námořní výrobu" # todo: NEW TRANSLATION
+  UK_The_Lion_Roars: "Lev řve" # todo: NEW TRANSLATION
+  UK_hire_more_workers: "Zaměstnat více pracovníků" # todo: NEW TRANSLATION
+  UK_mending_the_trade_deficit: "Zmenšení obchodního deficitu" # todo: NEW TRANSLATION
+  UK_MI6: "MI6" # todo: NEW TRANSLATION
+  UK_imperial_radio: "Imperiální rádio" # todo: NEW TRANSLATION
+  RAJ_Fighting_Tyranny_whereever_it_may_be_uk: "Boj proti tyranii kdekoliv se vyskytne" # todo: NEW TRANSLATION
+  ENG_militarized_society: "Militarizovaná společnost" # todo: NEW TRANSLATION
+  HUN_hungarian_monarchy_fascism_strenghten: "Maďarská monarchie" # todo: NEW TRANSLATION
+  JAP_hawaii_conquest_idea: "Tichomoří zajištěno" # todo: NEW TRANSLATION
+  SPR_neutrality31: "Španělská neutralita" # todo: NEW TRANSLATION
+  winter_war_veteran_medal_finland: "Medaile za Zimní válku" # todo: NEW TRANSLATION
+  FIN_valtion_tykkitehdas_organization1: "Valtion Tykkitehdas" # todo: NEW TRANSLATION
+  winter_war_veteran_medal_finland_key: "Veteráni Zimní války" # todo: NEW TRANSLATION
+  ENG_embezzling_funds: "Zpronevěra fondů" # todo: NEW TRANSLATION
+  ENG_air_production_and_supply_program_idea: "Program APS" # todo: NEW TRANSLATION
+  ENG_war_production_council_idea: "Rada pro válečnou výrobu" # todo: NEW TRANSLATION
+  ENG_dig_for_victory_idea: "Kopejme pro vítězství" # todo: NEW TRANSLATION
+  ENG_bevin_boys_idea: "Bevin Boys" # todo: NEW TRANSLATION
+  ENG_funds_modifier: "Množství prostředků" # todo: NEW TRANSLATION
+  expansion_of_resources_idea: "Rozšíření výstavby" # todo: NEW TRANSLATION
+  funds_factory_output_idea: "Investice do obranného průmyslu" # todo: NEW TRANSLATION
+  funds_dockyard_output_idea: "Investice do loděnic" # todo: NEW TRANSLATION
+  stiff_upper_lip1: "Britský stoicismus" # todo: NEW TRANSLATION
+  ENG_operation_crusader_idea: "Operace Crusader" # todo: NEW TRANSLATION
+  ENG_operation_vulcan_idea: "Operace Vulcan" # todo: NEW TRANSLATION
+  ENG_operation_vulcan_idea_desc: "Operace Vulcan skončí, jakmile ovládneme El-Alamein" # todo: NEW TRANSLATION
+  ENG_burma_campaign_idea: "Kampaň v Barmě" # todo: NEW TRANSLATION
+  ENG_the_only_sun_idea: "Jediné slunce" # todo: NEW TRANSLATION
+  ENG_cabinet_war_rooms_idea: "Válečná centrála" # todo: NEW TRANSLATION
+  sov_great_purge_modifier: "Velké čistky" # todo: NEW TRANSLATION
+  great_purge_global_flag_tt: "Tento fokus sníží pravděpodobnost výskytu §RUdálostí čistek§!" # todo: NEW TRANSLATION
+  great_purge_global_flag_end_tt: "Tento fokus ukončí vaši §RVelkou čistku§!" # todo: NEW TRANSLATION
+  zinov_tt: "Tento fokus zahájí §RUdálosti čistek§!" # todo: NEW TRANSLATION
+  ENG_global_war_machine_idea: "Globální válečný stroj" # todo: NEW TRANSLATION
+  ENG_mainland_focus: "Zaměření na pevninu" # todo: NEW TRANSLATION
+  ENG_focus_on_the_empire_idea: "Zaměření na impérium" # todo: NEW TRANSLATION
+  ENG_handle_the_imperial_security_idea: "Zaměření na civilní ekonomiku" # todo: NEW TRANSLATION
+  HUN_special_forces: "Maďarské polovojenské jednotky" # todo: NEW TRANSLATION
+  USA_limited_intervention_idea: "Zákon o omezené intervenci" # todo: NEW TRANSLATION
+  JAP_CHI_prepare_the_southern_invasion_plan_idea: "Invazní plány" # todo: NEW TRANSLATION
+  JAP_CHI_prepare_the_southern_invasion_plan_idea_tt: "Tento nápad se zruší, až bude březen 1941!" # todo: NEW TRANSLATION
+  JAP_free_india_modifier: "Azad Sind Administration" # todo: NEW TRANSLATION
+  JAP_free_india_modifier1: "Zóna ekonomické spolupráce" # todo: NEW TRANSLATION
+  SOV_directive_three_idea: "Direktiva číslo 3" # todo: NEW TRANSLATION
+  SOV_operational_space_win: "Operační prostor" # todo: NEW TRANSLATION
+  SOV_operational_space_lose: "Operační prostor" # todo: NEW TRANSLATION
+  SOV_regroup_idea: "Přeorganizovaná armáda" # todo: NEW TRANSLATION
+  SOV_stockpile_for_the_next_attack_idea: "Hromadění zásob" # todo: NEW TRANSLATION
+  SOV_winter_offensive_idea: "Zimní ofenzíva" # todo: NEW TRANSLATION
+  USA_battle_of_phillipines_idea: "Bitva o Filipíny" # todo: NEW TRANSLATION
+  USA_battle_of_java_sea_idea: "Bitva v Jávském moři" # todo: NEW TRANSLATION
+  USA_operation_iceberg_idea: "Operace Iceberg" # todo: NEW TRANSLATION
+  USA_station_in_san_diego_idea: "Loděnice v San Diegu" # todo: NEW TRANSLATION
+  USA_increased_naval_production_idea: "Zvýšená námořní výroba" # todo: NEW TRANSLATION
+  USA_increased_army_production_idea: "Zvýšená armádní výroba" # todo: NEW TRANSLATION
+  USA_the_long_game_idea: "Dlouhodobá strategie" # todo: NEW TRANSLATION
+  FRA_protected_by_the_maginot_line_defensive: "Chráněno Maginotovou linií" # todo: NEW TRANSLATION
+  FRA_protected_by_the_maginot_line_offensive: "Chráněno Maginotovou linií" # todo: NEW TRANSLATION
+  POL_jozef_lipski: "Jozef Lipski" # todo: NEW TRANSLATION
+  CAN_appeasement_advocate: "Zastánce ústupků" # todo: NEW TRANSLATION
+  CAN_constitutional_crisis: "Ústavní krize" # todo: NEW TRANSLATION
+  CAN_constitutional_crisis2: "Ústavní krize" # todo: NEW TRANSLATION
+  CAN_premier_of_quebec: "Premiér Québecu" # todo: NEW TRANSLATION
+  CAN_bennet_new_deal_idea: "Bennettův New Deal" # todo: NEW TRANSLATION
+  CAN_commonwealth_ties: "Vazby na Commonwealth" # todo: NEW TRANSLATION
+  CAN_padlock_act: "Padlock Act" # todo: NEW TRANSLATION
+  CAN_imperial_conference_dominion: "Imperiální konference dominia" # todo: NEW TRANSLATION
+  CAN_command_imperial_conference_dominion: "Imperiální velení dominia" # todo: NEW TRANSLATION
+  CAN_adelard_godbout: "Adelard Godbout" # todo: NEW TRANSLATION
+  CAN_national_unity_government: "Jednotná vláda" # todo: NEW TRANSLATION
+  CAN_national_unity_government_long: "Vláda národní jednoty" # todo: NEW TRANSLATION
+  CAN_political_gridlock: "Politický pat" # todo: NEW TRANSLATION
+  CAN_quebec_resistance: "Québecký odpor" # todo: NEW TRANSLATION
+  CAN_political_opportunist: "Politický oportunista" # todo: NEW TRANSLATION
+  CAN_minister_of_defence: "Ministr obrany" # todo: NEW TRANSLATION
+  CAN_minister_of_national_revenue: "Ministr státních příjmů" # todo: NEW TRANSLATION
+  CAN_minister_of_labour: "Ministr práce" # todo: NEW TRANSLATION
+  CAN_wartime_leader: "Válečný vůdce" # todo: NEW TRANSLATION
+  CAN_integrated_command_idea: "Integrované velení" # todo: NEW TRANSLATION
+  CAN_national_employment_commission_idea: "Národní komise pro zaměstnanost" # todo: NEW TRANSLATION
+  CAN_public_works_construction_idea: "Výstavba veřejných prací" # todo: NEW TRANSLATION
+  CAN_wartime_industries_control_board_idea: "Úřad pro kontrolu válečných průmyslů" # todo: NEW TRANSLATION
+  CAN_new_deal: "New Deal" # todo: NEW TRANSLATION
+  prince_regent: "Princ regent" # todo: NEW TRANSLATION
+  unpopular_regent: "Neoblíbený regent" # todo: NEW TRANSLATION
+  YUG_divided_nation: "Rozděnutý národ" # todo: NEW TRANSLATION
+  YUG_divided_nation2: "Rozděnutý národ" # todo: NEW TRANSLATION
+  YUG_divided_nation3: "Rozděnutý národ" # todo: NEW TRANSLATION
+  YUG_divided_nation4: "Rozděnutý národ" # todo: NEW TRANSLATION
+  YUG_idea_serbian_general_staff2: "Srbský generální štáb" # todo: NEW TRANSLATION
+  CRO_a_kingdom_reborn: "Obrozené království" # todo: NEW TRANSLATION
+  YUG_idea_croatian_resistance: "Chorvatský odpor" # todo: NEW TRANSLATION
+  YUG_german_industrial_expertise: "Německá průmyslová odbornost" # todo: NEW TRANSLATION
+  YUG_idea_purged_army: "Čistky v armádě" # todo: NEW TRANSLATION
+  YUG_slavic_will: "Slovanská vůle" # todo: NEW TRANSLATION
+  YUG_slavic_will2: "Slovanská vůle" # todo: NEW TRANSLATION
+  YUG_head_of_karadordevic: "Velký vožd Karađorđević" # todo: NEW TRANSLATION
+  YUG_idea_industrialization_program: "Program industrializace" # todo: NEW TRANSLATION
+  YUG_idea_industrialization_program2: "Program industrializace" # todo: NEW TRANSLATION
+  YUG_idea_industrialization_program3: "Program industrializace" # todo: NEW TRANSLATION
+  YUG_idea_steel_imports: "Dovoz oceli" # todo: NEW TRANSLATION
+  YUG_idea_tank_licenses: "Licence na tanky" # todo: NEW TRANSLATION
+  YUG_hungarian_economic_aid: "Maďarská ekonomická pomoc" # todo: NEW TRANSLATION
+  YUG_royal_guards: "Královská garda" # todo: NEW TRANSLATION
+  MAN_pu_yi_idea: "Puyi" # todo: NEW TRANSLATION
+  MAN_pu_yi_idea_desc: "Puyi, figurální císař Mandžukuo. Jeho vnímaná zrada národa mu vynesla hlubokou nenávist obyvatelstva, které ho považuje spíše za zrádce než za suveréna. " # todo: NEW TRANSLATION
+  unpopular_figurehead: "Neoblíbený loutkový panovník" # todo: NEW TRANSLATION
+  USA_rainbow_plan_idea: "Duhové plány" # todo: NEW TRANSLATION
+  military_theorist_mastery_tt: "£GFX_doctrine_mastery Zisk mistrovství armády: §G+0.05§! měsíčně" # todo: NEW TRANSLATION
+  army_chief_mastery_tt: "£GFX_doctrine_mastery Zisk mistrovství armády: §G+0.025§! měsíčně" # todo: NEW TRANSLATION
+  navy_chief_mastery_tt: "£GFX_doctrine_mastery Zisk mistrovství námořnictva: §G+0.05§! měsíčně" # todo: NEW TRANSLATION
+  air_chief_mastery_tt: "£GFX_doctrine_mastery Zisk mistrovství letectva: §G+0.05§! měsíčně" # todo: NEW TRANSLATION
+  CHI_corruption_in_the_administration_idea: "Korupce ve správě" # todo: NEW TRANSLATION
+  CHI_corruption_in_the_administration_idea2: "Korupce ve správě" # todo: NEW TRANSLATION
+  CHI_inefficient_economy_idea: "Neefektivní ekonomika" # todo: NEW TRANSLATION
+  CHI_inefficient_economy_idea1: "Inflace mimo kontrolu" # todo: NEW TRANSLATION
+  CHI_corruption_in_the_armed_forces_idea: "Korupce v ozbrojených silách" # todo: NEW TRANSLATION
+  CHI_corruption_in_the_armed_forces_idea1: "Korupce v ozbrojených silách" # todo: NEW TRANSLATION
+  CHI_corruption_in_the_armed_forces_idea2: "Korupce v ozbrojených silách" # todo: NEW TRANSLATION
+  CHI_corruption_in_the_armed_forces_idea3: "Korupce v ozbrojených silách" # todo: NEW TRANSLATION
+  CHI_illicit_trade_idea: "Nelegální obchod" # todo: NEW TRANSLATION
+  CHI_illicit_trade_idea2: "Přivírání očí" # todo: NEW TRANSLATION
+  CHI_ROCAF: "Vzdušné síly Čínské republiky" # todo: NEW TRANSLATION
+  CHI_ROCAF1: "Vzdušné síly Čínské republiky" # todo: NEW TRANSLATION
+  CHI_ROCAF2: "Vzdušné síly Čínské republiky" # todo: NEW TRANSLATION
+  CHI_neglected_countryside_idea: "Opomíjený venkov" # todo: NEW TRANSLATION
+  CHI_ROCN_idea: "Námořní síly Čínské republiky" # todo: NEW TRANSLATION
+  CHI_rely_on_locals_idea: "Spoléhat na místní" # todo: NEW TRANSLATION
+  CHI_soviet_volunteers: "Sovětscí dobrovolníci" # todo: NEW TRANSLATION
+  CHI_america_volunteers: "Američtí dobrovolníci" # todo: NEW TRANSLATION
+  CHI_the_three_year_plan_idea: "Tříletý plán" # todo: NEW TRANSLATION
+  CHI_mainland_resources: "Pevninské zdroje" # todo: NEW TRANSLATION
+  CHI_backline_industry: "Podpora ekonomiky vnitřní Číny" # todo: NEW TRANSLATION
+  SOV_HMP_five_year_plans_dynamic_modifier: "Pětiletý plán" # todo: NEW TRANSLATION
+  SOV_leningrad_defense: "Obléhání Leningradu" # todo: NEW TRANSLATION
+  SOV_defense_of_stalingrad_tt: "Tento fokus přidá §Ypevnosti úrovně 5§! do §Yměstských polí Stalingradu.§!" # todo: NEW TRANSLATION
+  SOV_encircle_stalingrad_modifier: "Obklíčit Stalingrad" # todo: NEW TRANSLATION
+  SOV_switch_to_guerilla_tactics_tt: "Tento nápad se automaticky zruší, pokud je váš pokrok při kapitulaci nižší než 60%." # todo: NEW TRANSLATION
+  SOV_switch_to_guerilla_tactics_idea: "Partyzánská strategie a taktika" # todo: NEW TRANSLATION
+  SOV_last_stand_on_moscow_modifier: "Poslední obrana Moskvy" # todo: NEW TRANSLATION
+  SOV_last_stand_on_kuybyshev_modifier: "Poslední obrana v Kuybyshevu" # todo: NEW TRANSLATION
+  SOV_rehabilitated_military_tt: "Upravit §YČervenou armádu§! o:" # todo: NEW TRANSLATION
+  SOV_soviet_airforce_tt: "Upravit §YSovětské letectvo§! o:" # todo: NEW TRANSLATION
+  SOV_encircle_leningrad_modifier: "Obklíčit Leningrad" # todo: NEW TRANSLATION
+  SOV_spring_offensives_tt: "Tyto útočné cíle budou §Ytrvat od 1. března do 21. července každého roku.§!" # todo: NEW TRANSLATION
+  SOV_operation_jupiter_idea: "Operace §RJupiter§!" # todo: NEW TRANSLATION
+  SOV_operation_saturn_idea: "Operace §RSaturn§!" # todo: NEW TRANSLATION
+  SOV_operation_uranus_idea: "Operace §RUranus§!" # todo: NEW TRANSLATION
+  SOV_operation_mars_idea: "Operace §RMars§!" # todo: NEW TRANSLATION
+  SOV_order_270_idea: "Příkaz 270" # todo: NEW TRANSLATION
+  SOV_order_227_idea: "Příkaz 227" # todo: NEW TRANSLATION
+  SOV_industrial_overdrive_idea: "Průmyslový rozjezd" # todo: NEW TRANSLATION
+  SOV_eternal_march_idea: "Červená armáda pochoduje" # todo: NEW TRANSLATION
+  SOV_politburo: "Politbyro" # todo: NEW TRANSLATION
+  SOV_politburo1: "Politbyro" # todo: NEW TRANSLATION
+  ITA_hidden_tankettes_HMP: "Italské tankety" # todo: NEW TRANSLATION
+  ITA_hidden_spg_production_HMP: "Výroba samohybných děl" # todo: NEW TRANSLATION
+  GER_support_japan: "Podpora Japonska" # todo: NEW TRANSLATION
+  SOV_frontline_cities_fort_level: "Pevnosti frontových měst" # todo: NEW TRANSLATION
+  AST_great_depression: "Stíny Velké hospodářské krize" # todo: NEW TRANSLATION
+  AST_great_depression_idea_tt: "Obsahuje národní duch §YStíny Velké hospodářské krize§!" # todo: NEW TRANSLATION
+  shadow_of_depression_tt: "Upravit §YStíny Velké hospodářské krize§! o:" # todo: NEW TRANSLATION
+  AST_joseph_lyons: "Joseph Aloysius Lyons" # todo: NEW TRANSLATION
+  AST_robert_g_menzies: "Robert G. Menzies" # todo: NEW TRANSLATION
+  first_dame: "První dáma" # todo: NEW TRANSLATION
+  responsible_spender: "Zodpovědný hospodář" # todo: NEW TRANSLATION
+  red_ted: "Rudý Ted" # todo: NEW TRANSLATION
+  the_big_fella: "Velký chlapík" # todo: NEW TRANSLATION
+  greatest_wartime_statesmen: "Největší váleční státníci" # todo: NEW TRANSLATION
+  the_caretaker: "Dočasný správce" # todo: NEW TRANSLATION
+  AST_great_depression: "Stíny Velké hospodářské krize" # todo: NEW TRANSLATION
+  AST_welfare_state: "Sociální stát" # todo: NEW TRANSLATION
+  AST_anzacs_dm: "Bratrstvo ANZAC" # todo: NEW TRANSLATION
+  AST_savage_dm: "Savageova vláda" # todo: NEW TRANSLATION
+  AST_battle_for_australia_idea: "Bitva o Austrálii" # todo: NEW TRANSLATION
+  AST_refusal_of_conscription: "Odmítnutí branné povinnosti" # todo: NEW TRANSLATION
+  AST_the_zone_idea: "Zóna" # todo: NEW TRANSLATION
+  AST_national_insurance_scheme_idea: "Zákon NIS" # todo: NEW TRANSLATION
+  AST_hmas_assault_idea: "Útok HMAS" # todo: NEW TRANSLATION
+  general_motors_holden: "GM - Holden" # todo: NEW TRANSLATION
+  AST_enid_lyons: "Enid Muriel Lyons" # todo: NEW TRANSLATION
+  AST_james_scullin: "James Scullin" # todo: NEW TRANSLATION
+  AST_ted_theodore: "Ted Theodore" # todo: NEW TRANSLATION
+  AST_jack_lang: "Jack Lang" # todo: NEW TRANSLATION
+  max_planning_tt: " $MODIFIER_MAX_PLANNING$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
+  local_building_slots_factor_tt: "$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
+  strategic_bomb_visibility_tt: "$MODIFIER_STRAT_BOMBING_VISIBILITY$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
+  ENG_modify_army_tt: "Upravit §YBritskou armádu§! o:" # todo: NEW TRANSLATION
+  ENG_modify_navy_tt: "Upravit §YKrálovské námořnictvo§! o:" # todo: NEW TRANSLATION
+  ENG_modify_air_tt: "Upravit §YKrálovské letectvo§! o:" # todo: NEW TRANSLATION
+  ENG_modify_politics_tt: "Upravit §Ybritskou politiku§! o:" # todo: NEW TRANSLATION
+  ENG_modify_industry_tt: "Upravit §Ybritský průmysl§! o:" # todo: NEW TRANSLATION
+  modern_king: "Moderní král" # todo: NEW TRANSLATION
+  british_monarch: "Pravý britský monarcha" # todo: NEW TRANSLATION
+  ENG_empire_africa_focus: "Imperiální africké investice" # todo: NEW TRANSLATION
+  ENG_empire_asia_focus: "Imperiální asijské investice" # todo: NEW TRANSLATION
+  ENG_british_politics_dynamic_modifier: "Britská politika" # todo: NEW TRANSLATION
+  ENG_british_industry_dynamic_modifier: "Britský průmysl" # todo: NEW TRANSLATION
+  HOL_hol_to_usa_idea: "Americká produkce" # todo: NEW TRANSLATION
+  GER_himmler_reichsfuhrer_ss_1: "Reichsführer-SS" # todo: NEW TRANSLATION
+  GER_himmler_reichsfuhrer_ss_2: "Reichsführer-SS" # todo: NEW TRANSLATION
+  GER_himmler_reichsfuhrer_ss_3: "Reichsführer-SS" # todo: NEW TRANSLATION
+  GER_himmler_surrender_idea: "Himmlerův puč" # todo: NEW TRANSLATION
+  GER_himmler_mil_output_idea: "Himmlerova sabotáž" # todo: NEW TRANSLATION
+  GER_himmler_dockyard_output_idea: "Himmlerova sabotáž" # todo: NEW TRANSLATION
+  GER_ascension_of_goring_tt: "§RTENTO NÁPAD BUDE TRVAT POUZE DO 1939.9.1§!" # todo: NEW TRANSLATION
+  GER_goring_early_game_idea: "Göringův čtyřletý plán" # todo: NEW TRANSLATION
+  GER_wilhelm_last_hope: "Poslední německý monarcha" # todo: NEW TRANSLATION
+  GER_himmler_last_hope: "Černý jezuita" # todo: NEW TRANSLATION
+  GER_goring_last_hope: "The Reichsmarschall" # todo: NEW TRANSLATION
+  GER_iron_maiden1: "Železná panna" # todo: NEW TRANSLATION
+  SOV_red_army_tt: "Upravit §YČervenou armádu§! o:" # todo: NEW TRANSLATION
+  SOV_270_tt: "Dočasně posílí vaši schopnost §YPoslední obrana§! dokud neskončí §YBarbarossa§!. Během její aktivity se nemůžete stáhnout." # todo: NEW TRANSLATION
+  SOV_227_tt: "Dočasně posílí vaši schopnost §YPoslední obrana§! dokud neskončí §YBlau§!. Během její aktivity se nemůžete stáhnout." # todo: NEW TRANSLATION
+  SOV_the_builder_of_the_red_army_tt: "§YKdyž válka s Německem začne, obdržíme tyto 2 nápady:§!" # todo: NEW TRANSLATION
+  trotsky_organization_buff: "Organizátor Rudé armády" # todo: NEW TRANSLATION
+  trotsky_war_support_nerf: "Válečná únava" # todo: NEW TRANSLATION
+  nerf_reseach_10: "Oslabení výzkumu -10" # todo: NEW TRANSLATION
+  nerf_reseach_20: "Oslabení výzkumu -20" # todo: NEW TRANSLATION
+  nerf_reseach_30: "Oslabení výzkumu -30" # todo: NEW TRANSLATION
+  nerf_reseach_40: "Oslabení výzkumu -40" # todo: NEW TRANSLATION
+  nerf_reseach_50: "Oslabení výzkumu -50" # todo: NEW TRANSLATION
+  FIN_mannerheim_line_full_investment_modifier: "Dokončená Mannerheimova linie" # todo: NEW TRANSLATION
+  BEL_belgium_army: "Belgická armáda" # todo: NEW TRANSLATION
+  BEL_modify_belgium_army_dynamic_modifier_tt: "Upravit §YBelgickou armádu§! o:" # todo: NEW TRANSLATION
+  BEL_economic_and_political_dynamic_modifier: "Belgická domácí situace" # todo: NEW TRANSLATION
+  BEL_economic_and_political_dynamic_modifier_tt: "Upravit §Ybelgickou domácí situaci§! o:" # todo: NEW TRANSLATION

@@ -1,0 +1,23 @@
+﻿l_polish:
+  SOV_propaganda_builders_of_communism_effect_tt: "Každá sovětská loutka získá '§Y$SOV_young_builders_of_communism$§!', která uděluje (£research_speed_texticon  Rychlost výzkumu: §G+1.00%§!, £drift_defence_texticon  Obrana proti ideologickému driftu: §G+0.25§!) po dobu §Y[?SOV_default_propaganda_campaign_duration]§! dní." # todo: NEW TRANSLATION
+  SOV_propaganda_anti_fascism_tt: "Získává '§Y$SOV_anti_fascist_campaign_generic$§!' proti §Ynejprůmyslovějšímu fašistickému státu na světě§!, která uděluje (£attack_texticon  Bonus k útoku proti zemi: §G+10.0%§!, £defence_texticon  Bonus k obraně proti zemi: §G+10.0%§!) po dobu §Y[?SOV_default_propaganda_campaign_duration]§! dní." # todo: NEW TRANSLATION
+  SOV_propaganda_anti_capitalism_tt: "Získává '§Y$SOV_anti_capitalist_campaign_generic$§!' proti §Ynejprůmyslovějšímu demokratickému státu na světě§!, která uděluje (£attack_texticon  Bonus k útoku proti zemi: §G+10.0%§!, £defence_texticon  Bonus k obraně proti zemi: §G+10.0%§!) po dobu §Y[?SOV_default_propaganda_campaign_duration]§! dní." # todo: NEW TRANSLATION
+  SOV_merge_ship_plant_1_tt: "$SOV_merge_ship_plant_intro_tt$§YPobřežní obranná loď§!: £navprod_cost  Výrobní náklady: §G-10.00%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_ship_plant_2_tt: "$SOV_merge_ship_plant_intro_tt$§YTorpédoborec§!: £navprod_cost  Výrobní náklady: §G-10.00%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_ship_plant_3_tt: "$SOV_merge_ship_plant_intro_tt$§YPonorka§!: £navprod_cost  Výrobní náklady: §G-10.00%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_ship_plant_4_tt: "$SOV_merge_ship_plant_intro_tt$£research_speed_texticon  Rychlost výzkumu technologií minového boje:§G+15%§! \n£repairing  Rychlost opravy lodí: §G+5%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_aircraft_plant_1_tt: "$SOV_merge_aircraft_plant_intro_tt$§YCAS§!: £GFX_production_cost  Výrobní náklady: §G-5.00%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_aircraft_plant_2_tt: "$SOV_merge_aircraft_plant_intro_tt$£attacker_speed_texticon  Obratnost: §G+5%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_aircraft_plant_3_tt: "$SOV_merge_aircraft_plant_intro_tt$£air_efficiency_texticon  Efektivita leteckých misí: §G+5%§!\n£research_speed_texticon  Rychlost výzkumu radarových technologií: §G+10%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_materiel_plant_1_artillery_tt: "$SOV_merge_materiel_plant_intro_tt$§YDělostřelecké vybavení§!: £GFX_production_cost  Výrobní náklady: §G-5.00%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_materiel_plant_1_infantry_tt: "$SOV_merge_materiel_plant_intro_tt$§YPěchotní vybavení§!: £GFX_production_cost  Výrobní náklady: §G-5.00%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_materiel_plant_1_motorized_tt: "$SOV_merge_materiel_plant_intro_tt$§YMotorizované vybavení§!: £GFX_production_cost  Výrobní náklady: §G-5.00%§!\n" # todo: NEW TRANSLATION
+  SOV_merge_materiel_plant_2_tt: "$SOV_merge_materiel_plant_intro_tt$£prod_eff_cap  Strop výrobní efektivity: §G+2§!\n" # todo: NEW TRANSLATION
+  SOV_merge_materiel_plant_3_tt: "$SOV_merge_materiel_plant_intro_tt$£civ_factory_output  Výstup továren: §G+5%§!\n" # todo: NEW TRANSLATION
+  SOV_comecon_industrialization_program_modifier_tt: "Upravit §Y$SOV_comecon_sov_default$§! o \n £consumer_goods_texticon  Továrny na spotřební zboží: §Y+8.0%§!\n§YCílová země§!: \nUpravit §Y$SOV_comecon_sov_default$§! o \n £consumer_goods_texticon  Továrny na spotřební zboží: §Y-5.0%§!\n £construction_speed_texticon  Rychlost výstavby: §G+20.00%§!" # todo: NEW TRANSLATION
+  SOV_comecon_joint_military_program_modifier_tt: "Upravit §Y$SOV_comecon_sov_default$§! o \n £consumer_goods_texticon  Továrny na spotřební zboží: §Y+3.0%§! \n £command_power_texticon  Násobitel denního přírůstku velitelské moci: §R-15%§!\n§YKaždý podřízený stát§!: \nUpravit §Y$SOV_comecon_sov_default$§! o \n £army_experience  Zkušenosti armády: §G0.50§! denně \n £navy_experience  Zkušenosti námořnictva: §G0.50§! denně \n £air_experience  Zkušenosti letectva: §G0.50§! denně \n £training_texticon  Doba výcviku: §R+10.00%§! \n £command_power_texticon  Denní přírůstek velitelské moci: §G0.10§!" # todo: NEW TRANSLATION
+  SOV_operation_iskra_tt: "§Y[195.GetName]§!, §Y[208.GetName]§! a §Y[244.GetName]§!:\nPřidat modifikátor: §Y$SOV_soviet_military_offensive$§! (£attack_texticon  Útok divize: §G+10.0%§!, £breakthrough_texticon  Průlom: §G+10.00%§! pro [ROOT.GetFlag]§Y[ROOT.GetNameDef]§! ve státě)." # todo: NEW TRANSLATION
+  decision_cost_CP_25_pp_25: "£pol_power  §Y25§!" # todo: NEW TRANSLATION
+  decision_cost_CP_25_pp_25_blocked: "£pol_power  §R25§!" # todo: NEW TRANSLATION
+  decision_cost_CP_25_pp_25_tooltip: "Přijetí rozhodnutí stojí £pol_power  §Y25§!" # todo: NEW TRANSLATION
+  decision_cost_CP_50_pp_50: "£pol_power  §Y50§!" # todo: NEW TRANSLATION

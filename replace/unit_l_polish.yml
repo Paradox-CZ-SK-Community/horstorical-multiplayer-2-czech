@@ -1,0 +1,3 @@
+﻿l_polish:
+  MODIFIER_NAVAL_INVASION_CAPACITY: "£naval_invasion_texticon  Kapacita námořní invaze" # todo: NEW TRANSLATION
+  CURRENT_ORGANIZATION: "£organization_texticon  Organizace: $CUR|0Y$/$MAX|0Y$" # todo: NEW TRANSLATION

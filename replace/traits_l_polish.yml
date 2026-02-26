@@ -1,0 +1,15 @@
+﻿l_polish:
+  SKILL_ATTACK: "£attack_texticon  §HÚtok§!" # todo: NEW TRANSLATION
+  SKILL_DEFENSE: "£defence_texticon  §HObrana§!" # todo: NEW TRANSLATION
+  SKILL_PLANNING: "£planning_max_texticon  §HPlánování§!" # todo: NEW TRANSLATION
+  SKILL_LOGISTICS: "£logistics_texticon  §HLogistika§!" # todo: NEW TRANSLATION
+  SKILL_NAVY_LEADER_ATTACK: "£attack_texticon  §HÚtok§!" # todo: NEW TRANSLATION
+  SKILL_NAVY_LEADER_DEFENSE: "£defence_texticon  §HObrana§!" # todo: NEW TRANSLATION
+  SKILL_NAVY_LEADER_MANEUVERING: "£maneuver_texticon  §HManévrování§!" # todo: NEW TRANSLATION
+  SKILL_NAVY_LEADER_COORDINATION: "£coordination_texticon  §HKoordinace§!" # todo: NEW TRANSLATION
+  trait_bonus_attack: "£attack_texticon  Útok: $VAL|+=0$" # todo: NEW TRANSLATION
+  trait_bonus_defense: "£defence_texticon  Obrana: $VAL|+=0$" # todo: NEW TRANSLATION
+  trait_bonus_planning: "£planning_max_texticon  Plánování: $VAL|+=0$" # todo: NEW TRANSLATION
+  trait_bonus_logistics: "£logistics_texticon  Logistika: $VAL|+=0$" # todo: NEW TRANSLATION
+  trait_bonus_maneuvering: "£maneuver_texticon  Manévrování: $VAL|+=0$" # todo: NEW TRANSLATION
+  trait_bonus_coordination: "£coordination_texticon  Koordinace: $VAL|+=0$" # todo: NEW TRANSLATION

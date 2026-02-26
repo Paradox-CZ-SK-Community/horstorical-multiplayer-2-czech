@@ -1,0 +1,5 @@
+﻿l_polish:
+  MOVEMENT_COST: "£movement_texticon  Náklady na pohyb pro tento typ terénu x$VALUE|H$" # todo: NEW TRANSLATION
+  TERRAIN_COMBAT_WIDTH_COMB: "£combat_width_texticon  Šířka boje: $VALUE|0Y$ (Další útoky: $ADD|0Y$)" # todo: NEW TRANSLATION
+  TERRAIN_COMBAT_WIDTH: "£combat_width_texticon  Šířka boje: $VALUE|0Y$" # todo: NEW TRANSLATION
+  TERRAIN_ADDITIONAL_WIDTH: "£combat_width_texticon  Šířka boje na každý další směr: $VALUE|=0Y$" # todo: NEW TRANSLATION

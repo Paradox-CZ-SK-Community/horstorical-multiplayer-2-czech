@@ -1,0 +1,21 @@
+﻿l_polish:
+  RESISTANCE_TARGET_VALUE: "£political_violence_texticon  Cíl odboje: $VALUE|H%0$" # todo: NEW TRANSLATION
+  RESISTANCE_TARGET_VALUE_CAPPED: "£political_violence_texticon  Cíl odboje: $VALUE|H%0$ (Omezeno z $VALUE_NON_CAPPED|H%0$)" # todo: NEW TRANSLATION
+  RESISTANCE_DECAY_VALUE: "£political_violence_texticon  Útlum odboje: §G$VALUE|3$%§!" # todo: NEW TRANSLATION
+  RESISTANCE_DECAY_VALUE_CAPPED: "£political_violence_texticon  Útlum odboje: §G$VALUE|3$%§! (Omezeno z §G$VALUE_NON_CAPPED|3$%§!)" # todo: NEW TRANSLATION
+  RESISTANCE_GROWTH_VALUE: "£political_violence_texticon  Růst odboje: §R$VALUE|3$%§!" # todo: NEW TRANSLATION
+  RESISTANCE_GROWTH_VALUE_CAPPED: "£political_violence_texticon  Růst odboje: §R$VALUE|3$%§! (Omezeno z §R$VALUE_NON_CAPPED|3$%§!)" # todo: NEW TRANSLATION
+  RESISTANCE_STRENGTH: "£political_violence_texticon  Síla odboje: $TOT|%2-$" # todo: NEW TRANSLATION
+  COMPLIANCE_STRENGTH: "£occupation_costs  Síla poslušnosti: $TOT|%2+$" # todo: NEW TRANSLATION
+  COMPLIANCE_GROWTH_VALUE: "£occupation_costs  Růst poslušnosti: §G$VALUE|3$%§!" # todo: NEW TRANSLATION
+  COMPLIANCE_GROWTH_VALUE_CAPPED: "£occupation_costs  Růst poslušnosti: §G$VALUE|3$%§! (Omezeno z §G$VALUE_NON_CAPPED|3$%§!)" # todo: NEW TRANSLATION
+  COMPLIANCE_DECAY_VALUE: "£occupation_costs  Růst poslušnosti: §R$VALUE|3$%§!" # todo: NEW TRANSLATION
+  COMPLIANCE_DECAY_VALUE_CAPPED: "£occupation_costs  Růst poslušnosti: §R$VALUE|3$%§! (Omezeno z §R$VALUE_NON_CAPPED|3$%§!)" # todo: NEW TRANSLATION
+  COMPLIANCE_DECAY_INFO: "£occupation_costs  Další změna poslušnosti:" # todo: NEW TRANSLATION
+  ADDITIONAL_RECRUITABLE_POPULATION_ENTRY: "£manpower_texticon  Další rekrutovatelné obyvatelstvo: $VALUE|+%3$" # todo: NEW TRANSLATION
+  RECRUITABLE_POPULATION_ENTRY: "£manpower_texticon  Faktor rekrutovatelného obyvatelstva: $VALUE|+%0$" # todo: NEW TRANSLATION
+  RESISTANCE_TARGET_FLOW: "£political_violence_texticon  Šíření odporu z $STATE|H$: $FLOW|-%1$" # todo: NEW TRANSLATION
+  COMPLIANCE_ADDITIONAL_DAILY_GAIN: "£occupation_costs  Další denní přírůstek poslušnosti: $GAIN$" # todo: NEW TRANSLATION
+  RESISTANCE_CHANCE_FOR_ACTIVITY: "£political_violence_texticon  Šance na činnost odboje: $CHANCE|%.1H$" # todo: NEW TRANSLATION
+  RESISTANCE_CHANCE_FOR_GARRISON_PENETRATE: "£political_violence_texticon  Šance, že odboj pronikne do posádek: $CHANCE|%.0H$" # todo: NEW TRANSLATION
+  STABILITY_RESISTANCE_PENALTY: "£political_violence_texticon  Cíl odboje na okupovaných územích: $PENALTY|%%.0R$" # todo: NEW TRANSLATION

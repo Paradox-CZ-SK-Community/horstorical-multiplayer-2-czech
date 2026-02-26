@@ -1,0 +1,12 @@
+﻿l_polish:
+  NAVAL_COMBAT_SHIP_STRENGTH: "£strenght_texticon  Síla: $STR|%Y$" # todo: NEW TRANSLATION
+  NAVAL_COMBAT_SHIP_ORGANIZATION_FACTOR: " - £organization_texticon  Organizace: $ORG|%Y$" # todo: NEW TRANSLATION
+  UNIT_ORG: "£organization_texticon  Organizace: $VALUE|H$" # todo: NEW TRANSLATION
+  ARMY_UNIT_ORG: "£organization_texticon  Organizace: $VALUE|%H$" # todo: NEW TRANSLATION
+  COMBAT_ATTACK_BUFF: "£attack_texticon  Útok" # todo: NEW TRANSLATION
+  COMBAT_DEFENSE_BUFF: "£defence_texticon  Obrana" # todo: NEW TRANSLATION
+  COMBAT_BREAKTHROUGH_BUFF: "£breakthrough_texticon  Průlom" # todo: NEW TRANSLATION
+  COMBAT_ENTRENCHMENT_BUFF: "£dig_in_texticon  Zakopání" # todo: NEW TRANSLATION
+  ORG_DAMAGE_MULTIPLIER: "£organization_texticon  Přijaté poškození organizace" # todo: NEW TRANSLATION
+  STR_DAMAGE_MULTIPLIER: "£strenght_texticon  Přijaté poškození síly" # todo: NEW TRANSLATION
+  WAR_SUPPORT_REDUCTION_ON_DAMAGE: "£war_support_texticon  Snížení podpory války při poškození" # todo: NEW TRANSLATION

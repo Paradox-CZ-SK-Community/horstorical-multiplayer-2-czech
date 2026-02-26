@@ -1,0 +1,645 @@
+﻿l_polish:
+  URG_terra_dictatorship: "Terrova diktatura" # todo: NEW TRANSLATION
+  URG_terra_dictatorship_desc: "Od Revoluce 31. března 1933 je u moci Gabriel Terra a jeho stoupenci, včetně těch, kteří následují Batllismo, stejně jako Bílá strana a její vůdce Luis Alberto de Herrera. Terra má moc nepodléhající žádné autoritě, která by mohla zpochybnit jeho rozhodnutí. Pro Uruguayi to znamená přísnou neutralitu, protože Terra si přeje vnitřní rozvoj a kontrolu nad výběrem strany v jakýchkoli nepředvídaných válkách, jak v Jižní Americe, tak i za Atlantikem." # todo: NEW TRANSLATION
+  BOL_toll_of_the_chaco_war: "Účet z války o Chaco" # todo: NEW TRANSLATION
+  BOL_toll_of_the_chaco_war_desc: "Válka o Chaco právě skončila; trvala od roku 1932 do roku 1935. Vůle bojovat byla úplně vyčerpána i u nejhorlivějších stoupenců expanze v Bolívii i Paraguayi a mnozí leží mrtví v dosud sporném regionu Chaco Boreal." # todo: NEW TRANSLATION
+  BOL_toll_of_the_chaco_war_2: "Účet z války o Chaco" # todo: NEW TRANSLATION
+  BOL_toll_of_the_chaco_war_2_desc: "Válka o Chaco právě skončila; trvala od roku 1932 do roku 1935. Vůle bojovat byla úplně vyčerpána i u nejhorlivějších stoupenců expanze v Bolívii i Paraguayi a mnozí leží mrtví v dosud sporném regionu Chaco Boreal." # todo: NEW TRANSLATION
+  PRU_amazonian_war: "Amazonská válka" # todo: NEW TRANSLATION
+  PRU_no_factions_tt: "Může vstoupit do frakcí: §RNe§!" # todo: NEW TRANSLATION
+  CHL_the_mapuche_conflict: "Konflikt s Mapuche" # todo: NEW TRANSLATION
+  CHL_the_mapuche_conflict_desc: "Od doby pacifikace Araucanie a násilné integrace půdy a jejích obyvatel do chilského státu byli domorodí Mapuche vysídleni, znevýhodněni a nespokojeni. Zatímco mezi nimi existují skupiny usilující o spolupráci a integraci, jsou i tací, kteří se snaží stát různými způsoby podvrátit." # todo: NEW TRANSLATION
+  CHL_mapuche_conflict_up_tt: "§RZhoršuje§! konflikt s Mapuche.\n" # todo: NEW TRANSLATION
+  CHL_mapuche_conflict_down_tt: "§ZLÉTŠÍ§! konflikt s Mapuche.\n" # todo: NEW TRANSLATION
+  idea_CHL_the_Hacienda_inquilinaje_system: "Systém Hacienda – Inquilinaje" # todo: NEW TRANSLATION
+  idea_CHL_the_Hacienda_inquilinaje_system_desc: "Systém haciend se vztahy mezi majiteli pozemků a nájemci vychází ze starých římských a španělských impériálních způsobů správy země a jak se dalo očekávat, je vysoce zastaralý a utlačovatelský. Současné chilské haciendy vynikají špatnými podmínkami pro dělníky a jsou zaostalou součástí ekonomiky, protože v praxi až dodnes využívají nevolnictví. Jediný způsob, jak se tohoto problému skutečně zbavit, je §YZemědělská reforma§!, která by měla být hlavní prioritou, pokud chceme obnovit naši ekonomiku." # todo: NEW TRANSLATION
+  idea_CHL_near_anarchic_society: "Téměř anarchická společnost" # todo: NEW TRANSLATION
+  idea_CHL_near_anarchic_society_desc: "Naše národ trpí častými pokusy o převrat a výtržnostmi, stejně jako každodenními protesty. V důsledku velké nepřátelství mezi politiky, armádou a vládními institucemi nic nefunguje dostatečně efektivně. Musíme tyto problémy napravit, pokud chceme zemi jednou provždy stabilizovat." # todo: NEW TRANSLATION
+  CHL_anarchic_society_level_down_tt: "§ZSnižuje§! účinky $idea_CHL_near_anarchic_society$" # todo: NEW TRANSLATION
+  CHL_anarchic_society_up_tt: "§RZhoršuje§! účinky $idea_CHL_near_anarchic_society$" # todo: NEW TRANSLATION
+  CHL_can_not_have_anarchy_tt: "Neobsahuje $idea_CHL_near_anarchic_society$" # todo: NEW TRANSLATION
+  idea_CHL_repubican_guard: "Republikánská garda" # todo: NEW TRANSLATION
+  idea_CHL_repubican_guard_desc: "Jak věci stojí, republika je ve velkém nebezpečí a na pokraji zhroucení. Prezident Arturo Alessandri od roku 1925 stabilizoval velkou část situace a nyní spoléhání se na tuto tajnou milici odvádí finance, které měly směřovat do armády, čímž se brání rozšíření pravidelných sil." # todo: NEW TRANSLATION
+  CHL_german_compensation_idea: "Německé odškodnění" # todo: NEW TRANSLATION
+  CHL_spirit_of_the_conquistadors: "Duch conquistadorů" # todo: NEW TRANSLATION
+  CHL_spirit_of_the_conquistadors_desc: "Je to zásluha slavné doby conquistadorů, že náš lid přišel sem do našeho velkého království na jižním Atlantiku. Hrají velkou roli v naší historii a nyní slouží jako inspirace pro náš lid; jejich vůle nás povede do budoucna. [CHL.GetNameDefCap] poroste, jak dobýváme slabší sousedy a stáváme se dominantní silou v Jižní Americe." # todo: NEW TRANSLATION
+  CHL_relief_efforts_idea: "Úsilí o pomoc" # todo: NEW TRANSLATION
+  CHL_relief_efforts_idea_desc: "Vláda založila Rekonstrukční a humanitární korporaci (Reconstruction and Relief Corporation) ve snaze lépe organizovat a podporovat záchranné a rekonstrukční práce po zemětřesení v Chillánu v roce 1939." # todo: NEW TRANSLATION
+  CHL_spanish_refugees: "Španělští intelektuální uprchlíci" # todo: NEW TRANSLATION
+  CHL_has_left_wing_government: "Má levicovou vládu" # todo: NEW TRANSLATION
+  CHL_has_right_wing_government: "Má pravicovou vládu" # todo: NEW TRANSLATION
+  CHL_public_works_modifier: "Programy veřejných prací" # todo: NEW TRANSLATION
+  CHL_deeper_mines_modifier: "Rozsáhlé důlní sítě" # todo: NEW TRANSLATION
+  CHL_devalue_the_peso_idea: "Devalvace pesa" # todo: NEW TRANSLATION
+  CHL_devalue_the_peso_idea_desc: "Aby naše ekonomika získala sílu potřebnou k růstu, Peso je v procesu devalvace, i když je to nepopulární opatření." # todo: NEW TRANSLATION
+  CHL_devalue_the_franc_idea: "Devalvace franku" # todo: NEW TRANSLATION
+  CHL_devalue_the_franc_idea_desc: "Aby naše ekonomika získala sílu potřebnou k růstu, frank Araucanía se devalvuje, i když je to nepopulární opatření." # todo: NEW TRANSLATION
+  CHL_introduced_the_franc_idea: "Zavedení franku" # todo: NEW TRANSLATION
+  CHL_introduced_the_franc_idea_desc: "Aby země překonala své jizvy a našla své místo na světové scéně, musí se stát součástí širší frankofonní sféry. Velký krok byl učiněn nahrazením starého Pesa araukanijským frankem." # todo: NEW TRANSLATION
+  CHL_hydroelectric_power: "Hydroelektrická energie" # todo: NEW TRANSLATION
+  CHL_hydroelectric_power_desc: "Díky investicím v regionu Araucanía jsme konečně vybudovali síť přehrad, které vyrábějí elektřinu a regulují průtok řek." # todo: NEW TRANSLATION
+  CHL_siphoning_funds: "Vyvádění prostředků" # todo: NEW TRANSLATION
+  CHL_siphoning_funds_desc: "Propaganda strany Nacista v současnosti vyvádí prostředky z veřejného sektoru, aby zvýšila svůj vliv na [CHL.GetAdjective] populace." # todo: NEW TRANSLATION
+  CHL_the_kings_scouts: "Královi skauti" # todo: NEW TRANSLATION
+  CHL_the_kings_scouts_desc: "Od malička si náš král užíval účast v paramilitárních aktivitách francouzského skautského hnutí. Nyní přinese stejnou radost a nadšení i [CHL.GetAdjective] mládeži." # todo: NEW TRANSLATION
+  CHL_national_falange: "Falange Nacional" # todo: NEW TRANSLATION
+  CHL_national_falange_desc: "Křesťanská politická strana Falange Nacional je progresivní a reformistická, odštěpila se od konzervativní strany v roce 1935 a je více než ochotna podpořit naší současnou politickou koalici." # todo: NEW TRANSLATION
+  CHL_popular_front_in_power: "Frente Popular" # todo: NEW TRANSLATION
+  CHL_liberal_party_in_power: "Partido Liberal" # todo: NEW TRANSLATION
+  CHL_communist_party_in_power: "Partido Comunista" # todo: NEW TRANSLATION
+  CHL_democratic_alliance_in_power: "Alianza Democrática" # todo: NEW TRANSLATION
+  CHL_conservative_party_in_power: "Partido Conservador" # todo: NEW TRANSLATION
+  CHL_radical_party_in_power: "Partido Radical" # todo: NEW TRANSLATION
+  CHL_popular_freedom_alliance_in_power: "Alianza Popular Libertadora" # todo: NEW TRANSLATION
+  CHL_from_support_chile_static_modifier: "Podpora Království Araucanía a Patagonie" # todo: NEW TRANSLATION
+  CHL_non_lar_encryption: "Bonus šifrování" # todo: NEW TRANSLATION
+  CHL_lar_encryption: "Bonus šifrování" # todo: NEW TRANSLATION
+  CHL_imposed_new_taxes: "Uvaleny nové daně" # todo: NEW TRANSLATION
+  CHL_impose_new_taxes_tt: "Když je národní duch §Y$CHL_imposed_new_taxes$§! odstraněn, upravte §Y$CHL_chilean_economy_dynamic_modifier$§! o:\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§! \n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10%§!" # todo: NEW TRANSLATION
+  CHL_relief_efforts_idea_tt: "Když je národní duch §Y$CHL_relief_efforts_idea$§! odstraněn:" # todo: NEW TRANSLATION
+  CHL_aid_SPR: "Pomoc Španělské republice" # todo: NEW TRANSLATION
+  CHL_aid_araucania: "Pomoc Království Araucanía a Patagonie" # todo: NEW TRANSLATION
+  CHL_aiding_CHL_payment: "Platba za pomoc Království Araucanía a Patagonie" # todo: NEW TRANSLATION
+  CHL_payment_for_aid: "Platba za zahraniční pomoc" # todo: NEW TRANSLATION
+  CHL_anti_americanism: "Antiamerikanismus" # todo: NEW TRANSLATION
+  CHL_empowered_preparations_department: "Zesílené oddělení příprav" # todo: NEW TRANSLATION
+  CHL_empowered_preparations_department_desc: "Nacistické oddělení příprav je nyní prioritou strany a skupina se připravuje na státní převrat proti liberální vládě." # todo: NEW TRANSLATION
+  CHL_lack_of_funds: "Nedostatek prostředků" # todo: NEW TRANSLATION
+  CHL_lack_of_funds_desc: "Liberální vláda ukradla velké množství prostředků v zemi a uprchla do ciziny. Potrvá dlouho, než se z tohoto ekonomického útlumu zotavíme." # todo: NEW TRANSLATION
+  CHL_republican_guards_in_exile: "[CHL.GetAdjective] republikánští gardisté v exilu" # todo: NEW TRANSLATION
+  CHL_republican_guards_in_exile_desc: "[CHL.GetAdjective] liberální vláda vytvořila ozbrojené paramilitární síly v naší zemi, které jim pomohou vypořádat se s fašistickou hrozbou ve své zemi, pokud bychom s nimi šli do války." # todo: NEW TRANSLATION
+  CHL_naval_mutiny: "Námořní vzpoura" # todo: NEW TRANSLATION
+  CHL_naval_mutiny_desc: "Právě probíhá další námořní vzpoura na protest proti našemu nástupu k moci a těžce paralyzuje náš stát." # todo: NEW TRANSLATION
+  CHL_the_international_revolution: "Mezinárodní revoluce" # todo: NEW TRANSLATION
+  CHL_the_international_revolution_desc: "Musíme zajistit, aby revoluční plamen, jakmile se rozhoří v zahraničí, nemohl být udušen." # todo: NEW TRANSLATION
+  CHL_laissez_faire: "Laissez-Faire" # todo: NEW TRANSLATION
+  CHL_laissez_faire_desc: "Trh musí volně plynout a pouze tím, že se vyhneme vládnímu zásahu do průmyslových záležitostí, se naše ekonomika může zotavit." # todo: NEW TRANSLATION
+  CHL_strict_secularism: "Přísný sekularismus" # todo: NEW TRANSLATION
+  CHL_strict_secularism_desc: "Církev nemá co říct v politice a měla by být považována za zcela oddělenou od ní. Musíme požadovat, aby naši politici složili přísahu, že svou víru nepřinesou do parlamentu." # todo: NEW TRANSLATION
+  CHL_catholic_church_holding_political_power: "Katolická církev drží politickou moc" # todo: NEW TRANSLATION
+  CHL_catholic_church_holding_political_power_desc: "Katolické církvi je momentálně dovoleno podílet se na oficiální vládní politice, což omezuje levici v tom, aby mohla řádně vytvořit silnou koalici proti nám." # todo: NEW TRANSLATION
+  CHL_development_inwards_idea: "Rozvoj dovnitř" # todo: NEW TRANSLATION
+  CHL_development_inwards_idea_desc: "Nová ekonomická doktrína, označovaná jako Rozvoj dovnitř, nám pomůže při rekonstrukci po dlouhých letech utrpení a nečinnosti." # todo: NEW TRANSLATION
+  CHL_socialist_land_reform: "Socialistická pozemková reforma" # todo: NEW TRANSLATION
+  CHL_socialist_land_reform_desc: "Éra Hacendados skončila a naši sedláci již nebudou muset žít v nevolnictví. Do [CHL.GetNameDef] skutečně vstoupilo nové období!" # todo: NEW TRANSLATION
+  CHL_abolished_serfdom: "Zrušeno nevolnictví" # todo: NEW TRANSLATION
+  CHL_abolished_serfdom_desc: "Éra Hacendados skončila a naši sedláci již nebudou muset žít v nevolnictví!" # todo: NEW TRANSLATION
+  CHL_comptroller_general_of_chile: "Contraloría General de la República" # todo: NEW TRANSLATION
+  CHL_comptroller_general_of_chile_desc: "Contraloría General de la República je nejvyšší kontrolní orgán Chile, autonomní a ústavní povahy, který má na starosti kontrolu legality aktů veřejné správy, dozor nad příjmy a investicemi fiskálních, municipálních a dalších organizací a služeb stanovených zákony, přezkoumává a posuzuje účty osob odpovědných za fiskální a municipální majetek, vede obecné účetnictví národa a vykonává další funkce svěřené zákonem." # todo: NEW TRANSLATION
+  CHL_oppressed_working_class: "Utlačovaná dělnická třída" # todo: NEW TRANSLATION
+  CHL_oppressed_working_class_desc: "Díky naší brutální represi všeho, co je jen náznakem komunismu, odbory v zemi již nemohou působit a dělnická třída může být přinucena plnit naše příkazy, aniž by mohla řádně protestovat, jinak by porušila Zákon o trvalé obraně." # todo: NEW TRANSLATION
+  CHL_socialist_youth_idea: "Socialistická mládež" # todo: NEW TRANSLATION
+  CHL_socialist_youth_idea_desc: "Socialistické mládežnické organizace nám pomohou organizovat paramilitární křídla, která mohou pomáhat našim vojákům v boji." # todo: NEW TRANSLATION
+  CHL_anti_communist_action: "Acción Chilena Anticomunista" # todo: NEW TRANSLATION
+  CHL_anti_communist_action_desc: "Abychom účinně bojovali s domácí komunistickou hrozbou, musíme organizovat vlastenecké skupiny připravené potlačit jakákoli levicová hnutí." # todo: NEW TRANSLATION
+  CHL_ligas_patrioticas: "Ligas Patrióticas" # todo: NEW TRANSLATION
+  CHL_ligas_patrioticas_desc: "Ligas Patrióticas jsou krajně pravicová para-policie občanská organizace působící v [CHL.GetNameDef], která nám pomáhá potlačovat nesouhlas a odrazovat kohokoli od vyhýbání se povolání." # todo: NEW TRANSLATION
+  CHL_hosting_german_intel_lar: "Poskytování útočiště německému zpravodajství a operativcům" # todo: NEW TRANSLATION
+  CHL_hosting_german_intel_lar_desc: "Aktivně pomáháme Němcům v jejich operacích špionáže na jiné státy v naší polokouli." # todo: NEW TRANSLATION
+  CHL_hosting_german_intel_non_lar: "Poskytování útočiště německému zpravodajství a operativcům" # todo: NEW TRANSLATION
+  CHL_hosting_german_intel_non_lar_desc: "Aktivně pomáháme Němcům v jejich operacích špionáže na jiné státy v naší polokouli." # todo: NEW TRANSLATION
+  CHL_fascist_assault_department: "Departamento de las Tropas Nacistas de Asalto" # todo: NEW TRANSLATION
+  CHL_fascist_assault_and_provinces_department: "Departamento de las Tropas Nacistas de Asalto" # todo: NEW TRANSLATION
+  CHL_fascist_youth_department: "Departamento de la Juventud Nacista" # todo: NEW TRANSLATION
+  CHL_fascist_youth_and_provinces_department: "Departamento de la Juventud Nacista" # todo: NEW TRANSLATION
+  CHL_pan_hispanic_rhetoric: "Pan-hispánská rétorika" # todo: NEW TRANSLATION
+  CHL_pan_hispanic_rhetoric_desc: "Brzy přijde éra hispánských národů a my budeme vládnout kontinentu. Je čas zlomit anglohegemonii a sjednotit hispánský lid!" # todo: NEW TRANSLATION
+  CHL_pan_hispanic_rhetoric_2: "Pan-hispánská rétorika" # todo: NEW TRANSLATION
+  CHL_pan_hispanic_rhetoric_2_desc: "Brzy přijde éra hispánských národů a my budeme vládnout kontinentu. Je čas zlomit anglohegemonii a sjednotit hispánský lid!" # todo: NEW TRANSLATION
+  CHL_pan_hispanic_rhetoric_3: "Pan-hispánská rétorika" # todo: NEW TRANSLATION
+  CHL_pan_hispanic_rhetoric_3_desc: "Brzy přijde éra hispánských národů a my budeme vládnout kontinentu. Je čas zlomit anglohegemonii a sjednotit hispánský lid!" # todo: NEW TRANSLATION
+  CHL_fascist_military_excercises: "Vojenská cvičení" # todo: NEW TRANSLATION
+  CHL_the_true_enemy_idea: "Úder proti pravému nepříteli" # todo: NEW TRANSLATION
+  CHL_spirit_of_the_pacific_war: "Oživen duch války proti Pacifiku" # todo: NEW TRANSLATION
+  CHL_spirit_of_the_pacific_war_desc: "Jednou jsme porazili [BOL.GetAdjective] a [PRU.GetAdjective] armády přesto, že nás početně převažovaly. Nyní to používáme jako propagandu, abychom inspirovali naše vojáky k postupu!" # todo: NEW TRANSLATION
+  CHL_ancestral_mapuche_resistance: "Resistencia Ancestral Mapuche" # todo: NEW TRANSLATION
+  CHL_mapuche_ancestral_resistance_good: "Resistencia Ancestral Mapuche" # todo: NEW TRANSLATION
+  CHL_democratic_volunteer_corps: "Mezinárodní ochrana demokracie" # todo: NEW TRANSLATION
+  CHL_democratic_volunteer_corps_desc: "Ať se autoritářství objeví kdekoliv, naši vojáci budou hrdí a připravení ho v mžiku zahubit." # todo: NEW TRANSLATION
+  CHL_stubbornly_maintaining_neutrality: "Tvrdohlavé udržování neutrality" # todo: NEW TRANSLATION
+  CHL_stricter_labor_laws: "Přísnější zákony o práci" # todo: NEW TRANSLATION
+  CHL_enact_stricter_labor_laws_tt: "Když je národní duch §Y$CHL_stricter_labor_laws$§! odstraněn, upravte §Y$CHL_chilean_economy_dynamic_modifier$§! o:\n $MODIFIER_STABILITY_FACTOR$: §G+10%§! \n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-25%§!" # todo: NEW TRANSLATION
+  CHL_carabineros_de_chile_fascist: "Carabineros de Chile" # todo: NEW TRANSLATION
+  CHL_carabineros_de_chile_fascist_desc: "Carabineros de Chile jsou naše národní četnická gendarmerie, která má jurisdikci nad celou zemí. Byli vytvořeni bývalým prezidentem Carlosem Ibáñezem del Campo v roce 1927; jejich misí je udržovat pořádek a prosazovat zákony Chile." # todo: NEW TRANSLATION
+  CHL_carabineros_de_chile_neutrality: "Carabineros de Chile" # todo: NEW TRANSLATION
+  CHL_carabineros_de_chile_neutrality_desc: "Carabineros de Chile jsou naše národní četnická gendarmerie, která má jurisdikci nad celou zemí. Byli vytvořeni naším skvělým prezidentem Carlosem Ibáñezem del Campo v roce 1927; jejich misí je udržovat pořádek a prosazovat zákony Chile." # todo: NEW TRANSLATION
+  CHL_the_francoist_model: "Frankistický model" # todo: NEW TRANSLATION
+  CHL_the_francoist_model_desc: "Následováním doktrín neutrálních diktátorů, jako byl španělský generál Francisco Franco, se můžeme vyhnout globálním konfliktům a místo toho se soustředit na naši sféru vlivu." # todo: NEW TRANSLATION
+  CHL_the_francoist_model_conquest: "Frankistický model" # todo: NEW TRANSLATION
+  CHL_the_francoist_model_conquest_desc: "Následováním doktrín neutrálních diktátorů, jako byl španělský generál Francisco Franco, se můžeme vyhnout globálním konfliktům a místo toho se soustředit na naši sféru vlivu." # todo: NEW TRANSLATION
+  CHL_state_supporting_resistance_modifier: "Odpor podporovaný státem" # todo: NEW TRANSLATION
+  CHL_state_supporting_resistance_modifier_desc: "Chile tajně dodává zbraně a vybavení a poskytuje vojenský výcvik místním ozbrojeným a partyzánským skupinám." # todo: NEW TRANSLATION
+  CHL_mapuche_nationalism_dynamic_modifier: "Mapuchské nacionalismy" # todo: NEW TRANSLATION
+  CHL_mapuche_nationalism_dynamic_modifier_desc: "Mapuchský nacionalismus zde zatím nepřevládal dlouho; musíme ho proto sami formovat, aby nabral podobu, kterou si přejeme." # todo: NEW TRANSLATION
+  CHL_an_empire_in_the_pacific_idea: "Císařství v Pacifiku" # todo: NEW TRANSLATION
+  CHL_an_empire_in_the_pacific_idea_desc: "Konečně přišel čas, aby [CHL.GetNameDef] převzala svůj osud a vybudovala mocné impérium v Pacifiku." # todo: NEW TRANSLATION
+  CHL_mapuche_social_classes: "Mapuchské společenské třídy a sou-genderové identity" # todo: NEW TRANSLATION
+  CHL_mapuche_social_classes_desc: "Zavedením společenských tříd a norem z naší staré společnosti do nové je můžeme opět učinit prosperujícími." # todo: NEW TRANSLATION
+  CHL_cattle_and_wool: "Mapuchské skot a vlna" # todo: NEW TRANSLATION
+  CHL_cattle_and_wool_desc: "Díky vynikajícím pastvinářským a chovatelským technikám lidu Mapuche může národ využít maximum z toho, co má." # todo: NEW TRANSLATION
+  CHL_machi_in_the_army: "Organizace Machi v armádě" # todo: NEW TRANSLATION
+  CHL_machi_in_the_army_desc: "Tím, že budou naši šamani Machi pochodovat s našimi jednotkami, zajistíme, že zůstanou vždy oživení a motivovaní." # todo: NEW TRANSLATION
+  CHL_legacy_of_caupolican: "Dědictví Caupolicána" # todo: NEW TRANSLATION
+  CHL_legacy_of_caupolican_desc: "Dědictví Caupolicána nás stále ovlivňuje a jeho duch a vůle budou nést dál v myslích a činech našich jednotek." # todo: NEW TRANSLATION
+  CHL_unified_in_spirit_idea: "Jednotní duchem" # todo: NEW TRANSLATION
+  CHL_unified_in_spirit_idea_desc: "Amerindiánský a polynéský lid spolupracují při koordinaci a výcviku svých armád, čímž se výrazně zvyšuje jejich efektivita." # todo: NEW TRANSLATION
+  CHL_patagonian_giants: "Patagonscí obři" # todo: NEW TRANSLATION
+  CHL_patagonian_giants_desc: "Kdysi dávno inspirovali Patagónci strach i v srdcích nejodvážnějších evropských průzkumníků. Měli bychom zajistit, aby naše armáda ztělesňovala ducha těchto imaginárních lidí a získala respekt všech kolem." # todo: NEW TRANSLATION
+  CHL_crusade_against_imperialism_idea: "Velká křížová výprava proti imperialismu" # todo: NEW TRANSLATION
+  CHL_crusade_against_imperialism_idea_desc: "Konečně přišel čas vystrnadit imperialistické a kolonialistické mocnosti z našeho kontinentu a osvobodit amerindiánské a polynéské národy od cizího útlaku!" # todo: NEW TRANSLATION
+  CHL_local_mapuche_defense_groups: "Místní obranné skupiny Mapuche" # todo: NEW TRANSLATION
+  CHL_ibanez_foriegn_support: "Zahraniční ekonomické investice" # todo: NEW TRANSLATION
+  CHL_ibanez_foriegn_support_desc: "Díky velkému množství nových půjček se země může pomalu znovu rozběhnout, jak nové peníze proudí do rukou našich průmyslů." # todo: NEW TRANSLATION
+  CHL_state_catholicism_idea: "Státní katolicismus" # todo: NEW TRANSLATION
+  CHL_state_catholicism_idea_desc: "Jako další krok směrem k frankofonní sféře přijala [CHL.GetNameDef] katolicismus jako svůj státní náboženství." # todo: NEW TRANSLATION
+  CHL_french_investments: "Francouzské investice" # todo: NEW TRANSLATION
+  CHL_french_investments_desc: "Jacques Antoine Bernard přijel do země s finanční podporou francouzských šlechticů nespokojených s republikou, v níž žijí, v naději na lepší budoucnost v [CHL.GetNameDef]." # todo: NEW TRANSLATION
+  CHL_veteran_legionaries: "Váleční veteráni Legií" # todo: NEW TRANSLATION
+  CHL_veteran_legionaries_desc: "Mnoho členů Francouzských cizineckých legií se přidalo k Antoinu Bernardovi na jeho cestě do naší země a pomohou mu v jeho slavnostních dobytích." # todo: NEW TRANSLATION
+  CHL_popular_resistance: "Lidový odpor" # todo: NEW TRANSLATION
+  CHL_popular_resistance_desc: "V zemi je stále mnoho lidí, kteří nevěří v genialitu krále Antoina Bernarda. Musí být s nimi rychle naloženo!" # todo: NEW TRANSLATION
+  CHL_french_aristocracy: "Francouzská aristokracie" # todo: NEW TRANSLATION
+  CHL_araucanian_aristocracy: "Nová araukanijská aristokracie" # todo: NEW TRANSLATION
+  araucanian_capital_perquenco: "Perquenco" # todo: NEW TRANSLATION
+  CHL_invited_french_academia: "Pozvaná francouzská akademie" # todo: NEW TRANSLATION
+  CHL_invited_french_academia_desc: "Důležitou součástí členství ve frankofonní sféře je myslet podobně; k tomu povzbudíme francouzskou akademii, aby se přestěhovala do [CHL.GetNameDef]." # todo: NEW TRANSLATION
+  CHL_royal_mountaineers: "Les Montagnards Royaux" # todo: NEW TRANSLATION
+  CHL_royal_mountaineers_desc: "Ačkoliv to možná není Patagonie, Araucanía je určitě zemí hor a džunglí. Král proto vyzval k vytvoření sboru královských horalistů, kteří se specializují na boj v tomto drsném terénu." # todo: NEW TRANSLATION
+  CHL_peru_payments_to_chile: "Platby Chilenu" # todo: NEW TRANSLATION
+  CHL_peru_payments_to_chile_desc: "Momentálně jsme povinni platit velkou částku každého měsíce [CHL.GetNameDef], kvůli naší koupi [951.GetName]." # todo: NEW TRANSLATION
+  CHL_chile_payments_from_peru: "Platby od Peru" # todo: NEW TRANSLATION
+  CHL_chile_payments_from_peru_desc: "V důsledku jejich nedávného nákupu [951.GetName] nám [PRU.GetNameDef] každý měsíc platí velkou částku peněz, čímž oživují naši ekonomiku." # todo: NEW TRANSLATION
+  CHL_puppeteering_idea: "Vládnutí ze stínů" # todo: NEW TRANSLATION
+  CHL_puppeteering_idea_desc: "Někdo nevládne jen dobýváním všeho a pokusem korunovat se králem. Místo toho musí najít loajální poddané a umístit je na trůny svých dobytých nepřátel, stejně jako to kdysi učinil velký Napoleon Bonaparte!" # todo: NEW TRANSLATION
+  BOL_plurinational_democracy: "Demokratický plurinalismus" # todo: NEW TRANSLATION
+  BOL_plurinational_democracy_desc: "Náš stát je definován soužitím množství izolovaných nebo zachovaných národnostních skupin v rámci politického celku. V [BOL.GetNameDef] je myšlenka národnosti pluralitní, což znamená, že v organizované komunitě nebo těle národů existuje mnoho národností." # todo: NEW TRANSLATION
+  BOL_empresa_nacional_ferrocarriles_del_estado: "Empresa Nacional Ferrocarriles del Estado" # todo: NEW TRANSLATION
+  PAR_president_carlos_antonio_lopez_railways: "Železnice prezidenta Carlose Antonii Lópeze" # todo: NEW TRANSLATION
+  URG_administracion_de_ferrocarriles_del_estado: "Administracion de Ferrocarriles del Estado" # todo: NEW TRANSLATION
+  CHL_army_modifier: "$SMB_army_CHL$" # todo: NEW TRANSLATION
+  CHL_modify_chilean_army_ns_intro: "Upravte §Y$CHL_army_modifier$§! o" # todo: NEW TRANSLATION
+  ARG_army_modifier: "$SMB_army_ARG$" # todo: NEW TRANSLATION
+  ARG_modify_argentine_army_ns_intro: "Upravte §Y$ARG_army_modifier$§! o" # todo: NEW TRANSLATION
+  BRA_army_modifier: "$SMB_army_BRA$" # todo: NEW TRANSLATION
+  BRA_modify_brazilian_army_ns_intro: "Upravte §Y$BRA_army_modifier$§! o" # todo: NEW TRANSLATION
+  south_american_army_modifier: "Ozbrojené síly" # todo: NEW TRANSLATION
+  JUNO_modify_south_american_army_ns_intro: "Upravte §Y$south_american_army_modifier$§! o\n" # todo: NEW TRANSLATION
+  idea_JUNO_truck_production_cost: "Úsilí o motorizaci" # todo: NEW TRANSLATION
+  JUNO_hidden_aa_production_ns: "Zvýšená výroba protiletadlové techniky" # todo: NEW TRANSLATION
+  JUNO_hidden_at_production_ns: "Zvýšená výroba protitankové techniky" # todo: NEW TRANSLATION
+  JUNO_artilery_modernization_initiative: "Iniciativa modernizace těžkých děl" # todo: NEW TRANSLATION
+  JUNO_expand_the_special_foces: "Rozšíření speciálních sil" # todo: NEW TRANSLATION
+  JUNO_nuclear_initiative: "Jaderné iniciativy" # todo: NEW TRANSLATION
+  JUNO_license_idea: "Zahraniční licence" # todo: NEW TRANSLATION
+  JUNO_license_air_idea: "Zahraniční letecké licence" # todo: NEW TRANSLATION
+  JUNO_hidden_aa_production_ns_2: "Zvýšená výroba protiletadlové techniky" # todo: NEW TRANSLATION
+  merchant_marine_manufacturer: "Výrobce obchodního loďstva" # todo: NEW TRANSLATION
+  central_bank: "Centrální banka" # todo: NEW TRANSLATION
+  forestry_company: "Lesnická společnost" # todo: NEW TRANSLATION
+  refining_concern: "Rafinérský koncern" # todo: NEW TRANSLATION
+  CHL_compania_general_electricidad: "Compañia General de Electricidad" # todo: NEW TRANSLATION
+  CHL_compania_general_electricidad_desc: "CGE byla založena 21. února 1905 skupinou profesionálů vedených inženýry Franciscom Huneeusem Ganou a Raúlem Claro Solarem. Je největším vývojářem elektroniky v celé [ROOT.GetName]." # todo: NEW TRANSLATION
+  CHL_compania_sudamerica_vapores: "Compañía Sudamericana de Vapores" # todo: NEW TRANSLATION
+  CHL_compania_sudamerica_vapores_desc: "CSAV je [CHL.GetAdjective] lodní společnost, která je momentálně největší svého druhu v Latinské Americe a také jedna z nejstarších; byla založena v roce 1872. Lze ji využít ke zvýšení produkce civilních námořních plavidel." # todo: NEW TRANSLATION
+  CHL_via_trans_radio: "Vía Trans Radio Chilena Compañía de Radiotelegrafía" # todo: NEW TRANSLATION
+  CHL_via_trans_radio_desc: "VTR byla založena 26. září 1928 společnou investicí Radio Corporation of America, Marconi Wireless Telegraph Company, Compagnie Generale de Telegraphie sans Fils a Telefunken Gesellschaft. Společnost poskytuje radiotelegrafní služby uvnitř i mimo zemi a byla jednou z prvních soukromých telekomunikačních společností v [ROOT.GetName]." # todo: NEW TRANSLATION
+  CHL_banco_central_de_chile: "Banco Central de Chile" # todo: NEW TRANSLATION
+  CHL_banco_central_de_chile_desc: "Centrální banka Chile byla vytvořena v srpnu 1925 prostřednictvím dekretu č. 486, který také zřídil monopol banky na vydávání bankovek v režimu zlatého standardu. Byla založena během prvního funkčního období Artura Alessandriho jako prezidenta." # todo: NEW TRANSLATION
+  CHL_compania_electro_industrial_valdivia: "Compañía Electro-Siderúrgica e Industrial de Valdivia" # todo: NEW TRANSLATION
+  CHL_compania_electro_industrial_valdivia_desc: "ESVAL je železářský a ocelářský průmysl sídlící ve Valdivii v Chile. Podnik je považován za dědice Altos Hornos y Acerías de Corral, jehož infrastrukturu koupil v roce 1926, když byl založen podnikateli z Valdivie." # todo: NEW TRANSLATION
+  CHL_empresa_ferrocarries_del_estado: "Empresa de los Ferrocarriles del Estado" # todo: NEW TRANSLATION
+  CHL_empresa_ferrocarries_del_estado_desc: "EFE je národní železnice a nejstarší státní podnik v Chile. Spravuje infrastrukturu a provoz železničních služeb v zemi." # todo: NEW TRANSLATION
+  CHL_compania_manufacura_cartones: "Compañía Manufacturera de Papeles y Cartones" # todo: NEW TRANSLATION
+  CHL_compania_manufacura_cartones_desc: "CMPC je [CHL.GetAdjective] papírenská společnost se sídlem v Santiagu. Je největším výrobcem papíru v zemi a společnost byla založena v roce 1920 sloučením továren Cartón del Maipo a Esperanza a spojení podnikatele Luise Matte Larraína a německého inženýra Germána Ebbinghause." # todo: NEW TRANSLATION
+  CHL_corporacion_fomento_production: "Corporación de Fomento de la Producción de Chile" # todo: NEW TRANSLATION
+  CHL_corporacion_fomento_production_desc: "Po zemětřesení v Chillánu byla založena CORFO, aby distribuovala pomoc potřebným a pomáhala s kontrolou, distribucí a pohybem zboží v rámci [ROOT.GetAdjective]." # todo: NEW TRANSLATION
+  CHL_fabricas_maestranzas_ejercito: "Fábricas y Maestranzas del Ejército" # todo: NEW TRANSLATION
+  CHL_famae_corvo: "Willys FAMAE Corvo" # todo: NEW TRANSLATION
+  CHL_arsenales_de_marina: "Arsenales de Marina" # todo: NEW TRANSLATION
+  CHL_epartamento_de_tanques_del_ejercito: "Departamento De Tanques Del Ejército" # todo: NEW TRANSLATION
+  CHL_fabrica_nacional_aeronaves: "Fábrica Nacional de Aéronaves" # todo: NEW TRANSLATION
+  CHL_fanaero: "FANAERO" # todo: NEW TRANSLATION
+  CHL_enaer: "ENAER" # todo: NEW TRANSLATION
+  CHL_csav: "CSAV" # todo: NEW TRANSLATION
+  CHL_famae_rama_de_artilleria: "FAMAE - Rama de Artillería" # todo: NEW TRANSLATION
+  PAR_febrerista_land_reform: "Febreristická pozemková reforma" # todo: NEW TRANSLATION
+  PAR_guarani_in_the_army: "Guaraní v armádě" # todo: NEW TRANSLATION
+  PAR_guarani_in_the_army_desc: "Během války o Chaco paraguayská armáda přijala guaraní jako jazyk pro komunikaci mezi vojáky a vysokým velením, čímž se odklonila od španělštiny, aby jejich bolívijští nepřátelé nemohli snadno dešifrovat jejich komunikaci; ukázalo se to být velmi účinné." # todo: NEW TRANSLATION
+  BOL_era_of_national_regression: "Éra národního úpadku" # todo: NEW TRANSLATION
+  BOL_era_of_national_regression_desc: "Poslední desetiletí byla pro Bolívii těžká. Nejprve Válka o Pacifik v letech 1879–1883, pak Válka o Acre 1899–1903 a nakonec nejnovější porážka, Válka o Chaco v letech 1932–1935." # todo: NEW TRANSLATION
+  BOL_era_of_national_regression_tt: "Bude odstraněno, pokud bude Obnovená Velká Bolívie:\nMá plnou kontrolu nad §YAcre§!, §YAntofagasta§!, §YChaco Boreal§!." # todo: NEW TRANSLATION
+  CHL_airforce_modifier: "$SMB_air_force_CHL$" # todo: NEW TRANSLATION
+  CHL_modify_chilean_airforce_ns_intro: "Upravte §Y$CHL_airforce_modifier$§! o" # todo: NEW TRANSLATION
+  BRA_airforce_modifier: "$SMB_air_force_BRA$" # todo: NEW TRANSLATION
+  BRA_modify_brazilian_airforce_ns_intro: "Upravte §Y$BRA_airforce_modifier$§! o" # todo: NEW TRANSLATION
+  ARG_airforce_modifier: "$SMB_air_force_ARG$" # todo: NEW TRANSLATION
+  ARG_modify_argentine_airforce_ns_intro: "Upravte §Y$ARG_airforce_modifier$§! o" # todo: NEW TRANSLATION
+  south_american_airforce_modifier: "Vzdušné síly" # todo: NEW TRANSLATION
+  JUNO_modify_south_american_airforce_ns_intro: "Upravte §Y$south_american_airforce_modifier$§! o" # todo: NEW TRANSLATION
+  JUNO_heavy_airframe_initiative: "Iniciativa létajících pevností" # todo: NEW TRANSLATION
+  JUNO_medium_airframe_initiative: "Iniciativa taktického letectva" # todo: NEW TRANSLATION
+  JUNO_light_airframe_initiative: "Iniciativa obratného letectva" # todo: NEW TRANSLATION
+  CHL_chilean_economy_dynamic_modifier: "Chilská ekonomika" # todo: NEW TRANSLATION
+  CHL_chilean_economy_dynamic_modifier_desc: "Kvůli velké závislosti na vývozu mědi a nitrátů byla chilská ekonomika tvrdě zasažena po Velkém krachu, když její největší obchodní partner, konkrétně USA, přestal dovážet z Chile a země byla nucena prodávat části svého území, aby se ekonomika zcela nezhroutila. Byly podniknuty kroky k řešení situace, ale je třeba udělat více. Chilská ekonomika bude jednou opět skvělá!" # todo: NEW TRANSLATION
+  CHL_modify_chilean_economy_ns_intro: "Upravte §Y$CHL_chilean_economy_dynamic_modifier$§! o" # todo: NEW TRANSLATION
+  CHL_modify_mapuche_nationalism_ns_intro: "Upravte §Y$CHL_mapuche_nationalism_dynamic_modifier$§! o" # todo: NEW TRANSLATION
+  CHL_claims_patagonia: "Nárokovali Patagonii za svou" # todo: NEW TRANSLATION
+  CHL_crusading_against_imperialism: "Křižácká válka proti imperialismu" # todo: NEW TRANSLATION
+  CHL_foreign_communist_influence: "[CHL.GetAdjective] posílení vnitřních revolučních sil" # todo: NEW TRANSLATION
+  CHL_the_grand_chilean_armada: "Velká chilská armáda" # todo: NEW TRANSLATION
+  CHL_the_grand_chilean_armada_desc: "V důsledku nedávného tónového posunu v [CHL.GetNameDef] začal proces posilování našeho španělského dědictví prostřednictvím vytvoření vlastní Velké armády." # todo: NEW TRANSLATION
+  pan_american_highway_connections: "Spojení po Panamerické dálnici" # todo: NEW TRANSLATION
+  CHL_navy_modifier: "$SMB_navy_CHL$" # todo: NEW TRANSLATION
+  BRA_navy_modifier: "$SMB_navy_BRA$" # todo: NEW TRANSLATION
+  ARG_navy_modifier: "$SMB_navy_ARG$" # todo: NEW TRANSLATION
+  south_american_navy_modifier: "Námořnictvo národa" # todo: NEW TRANSLATION
+  CHL_modify_chilean_navy_ns_intro: "Upravte §Y$CHL_navy_modifier$§! o" # todo: NEW TRANSLATION
+  ARG_modify_argentine_navy_ns_intro: "Upravte §Y$ARG_navy_modifier$§! o" # todo: NEW TRANSLATION
+  BRA_modify_brazilian_navy_ns_intro: "Upravte §Y$BRA_navy_modifier$§! o" # todo: NEW TRANSLATION
+  JUNO_modify_south_american_navy_ns_intro: "Upravte §Y$south_american_navy_modifier$§! o" # todo: NEW TRANSLATION
+  SMB_dreadnought_debt_usa: "Platby za dreadnoughty [USA.GetNameDef]" # todo: NEW TRANSLATION
+  SMB_dreadnought_debt_eng: "Platby za dreadnoughty [ENG.GetNameDef]" # todo: NEW TRANSLATION
+  SMB_dreadnought_debt_fra: "Platby za dreadnoughty [FRA.GetNameDef]" # todo: NEW TRANSLATION
+  SMB_dreadnought_debt_ger: "Platby za dreadnoughty [GER.GetNameDef]" # todo: NEW TRANSLATION
+  SMB_dreadnought_debt_ita: "Platby za dreadnoughty [ITA.GetNameDef]" # todo: NEW TRANSLATION
+  SMB_dreadnought_debt_jap: "Platby za dreadnoughty [JAP.GetNameDef]" # todo: NEW TRANSLATION
+  SMB_dreadnought_payments: "Prodány dreadnoughty" # todo: NEW TRANSLATION
+  SMB_MTG_naval_arms_race_legacy: "Dědictví námořního závodu ve zbrojení" # todo: NEW TRANSLATION
+  SMB_MTG_naval_arms_race_legacy_desc: "Ačkoli neexistují formální smlouvy zakazující rozšíření [BRA.GetAdjective], [CHL.GetAdjective] nebo [ARG.GetAdjective] námořnictva, existovalo po Velké válce neformální ujednání, které tomu zabraňovalo. Pokud by některý z národů v regionu začal vyzbrojovat své flotily novými hlavními loděmi, nový závod ve zbrojení by byl nevyhnutelný." # todo: NEW TRANSLATION
+  SMB_organization_of_american_states_member: "Člen Organizace amerických států" # todo: NEW TRANSLATION
+  BRA_undiversified_economy_modifier: "Nediverzifikovaná ekonomika" # todo: NEW TRANSLATION
+  BRA_undiversified_economy_modifier_desc: "Přílišná závislost na vývozu kávy zanechala brazilskou ekonomiku zdecimovanou, když udeřila velká deprese a státy světa přestaly kupovat tento návykový stimulant. Každá vláda bude muset diverzifikovat ekonomiku do nových oblastí, pokud má národ vzkvétat." # todo: NEW TRANSLATION
+  BRA_weak_government: "Slabá vláda" # todo: NEW TRANSLATION
+  BRA_weak_government_desc: "Revoluce a pokusy o puč v průběhu let oslabily autoritu brazilské vlády. Situaci zhoršuje ústava z roku 1934, dohoda dosažená kompromisem, která má málo stoupenců. Ať už budoucnost Brazílie bude jakákoli, současné politické uspořádání je neudržitelné." # todo: NEW TRANSLATION
+  BRA_aftermath_of_the_coup: "Nouzový stav" # todo: NEW TRANSLATION
+  BRA_aftermath_of_the_coup_desc: "Nouzový stav byl vyhlášen v listopadu 1935, když komunisté provedli puč, který hrozil přerůst v plnohodnotnou občanskou válku. Ačkoli byl pokus o puč potlačen, prezident dosud nouzový stav nezrušil. Mnozí napříč politickým spektrem nyní obávají, že režim bude pokračovat v používání mimořádných pravomocí k potlačování dalšího nesouhlasu." # todo: NEW TRANSLATION
+  BRA_undiversified_economy_modifier_dummy_idea: "$BRA_undiversified_economy_modifier$" # todo: NEW TRANSLATION
+  BRA_weak_government_dummy_idea: "$BRA_weak_government$" # todo: NEW TRANSLATION
+  BRA_aftermath_of_the_coup_dummy_idea: "$BRA_aftermath_of_the_coup$" # todo: NEW TRANSLATION
+  BRA_undiversified_economy_modifier_dummy_idea_desc: "$BRA_undiversified_economy_modifier_desc$" # todo: NEW TRANSLATION
+  BRA_weak_government_dummy_idea_desc: "$BRA_weak_government_desc$" # todo: NEW TRANSLATION
+  BRA_aftermath_of_the_coup_dummy_idea_desc: "$BRA_aftermath_of_the_coup_desc$" # todo: NEW TRANSLATION
+  BRA_modify_aotci_ns_intro: "Upravte §Y$BRA_aftermath_of_the_coup$§! o:" # todo: NEW TRANSLATION
+  BRA_estado_novo_modifier: "Estado Novo" # todo: NEW TRANSLATION
+  BRA_estado_novo_modifier_desc: "$BRA_estado_novo_desc$" # todo: NEW TRANSLATION
+  BRA_estado_moderno_modifier: "Estado Moderno" # todo: NEW TRANSLATION
+  BRA_estado_moderno_modifier_desc: "$BRA_estado_novo$" # todo: NEW TRANSLATION
+  BRA_modify_estado_novo_ns_intro: "Upravte $BRA_estado_novo_modifier$ o:" # todo: NEW TRANSLATION
+  BRA_modify_estado_moderno_ns_intro: "Upravte $BRA_estado_moderno_modifier$ o:" # todo: NEW TRANSLATION
+  BRA_radio_nacional_idea: "Radio Nacional" # todo: NEW TRANSLATION
+  BRA_radio_nacional_idea_desc: "Založením národního rádia má vláda přímý způsob komunikace s veřejností. Můžeme ho využít k zajištění nejobjektivnějších, nejaktuálnějších informací, nebo jednoduše informací, které chceme, aby věděli." # todo: NEW TRANSLATION
+  BRA_anaue_idea: "Anauê" # todo: NEW TRANSLATION
+  BRA_anaue_idea_desc: "Domorodé pozdrav Anauê se stal novým bojovým pokřikem integralistického hnutí. Skandovaný v ulicích členy strany v zelených uniformách v nich instaluje hrdost a v jejich opozici strach." # todo: NEW TRANSLATION
+  BRA_ethical_internationalism_idea: "Etický internacionalismus" # todo: NEW TRANSLATION
+  BRA_ethical_internationalism_idea_desc: "$BRA_ethical_internationalism$" # todo: NEW TRANSLATION
+  BRA_secure_our_borders_idea: "Zabezpečit naše hranice" # todo: NEW TRANSLATION
+  BRA_secure_our_borders_idea_desc: "$BRA_secure_our_borders$" # todo: NEW TRANSLATION
+  BRA_army_reward: "Odměny věrné armádě" # todo: NEW TRANSLATION
+  BRA_navy_reward: "Odměny věrné námořnictvu" # todo: NEW TRANSLATION
+  BRA_psad_idea: "Departamento Administrativo do Serviço Público" # todo: NEW TRANSLATION
+  BRA_psad_idea_desc: "DASP byl založen, aby pomohl vládě udržet dobře fungující režim a ekonomiku konsolidací a reorganizací různých předchůdců do jednoho soudržného, moderního úřadu." # todo: NEW TRANSLATION
+  BRA_commonwealth_idea: "Členský stát Lusofonního společenství" # todo: NEW TRANSLATION
+  BRA_commonwealth_idea_desc: "Tento národ je členem Lusofonního společenství, komunity se silnými historickými vazbami, kde se často používá portugalština. Členské státy se dohodly na spolupráci v otázkách společného zájmu, jako je technologie a zahraniční politika." # todo: NEW TRANSLATION
+  BRA_proletarian_equality: "Proletářská rovnost" # todo: NEW TRANSLATION
+  BRA_proletarian_equality_desc: "$BRA_equality_for_women_desc$" # todo: NEW TRANSLATION
+  BRA_promoting_communism: "Vzrůstající komunismus" # todo: NEW TRANSLATION
+  BRA_promoting_communism_desc: "Brazílie se snaží ovlivnit naši politiku podporou různých komunisticky orientovaných skupin." # todo: NEW TRANSLATION
+  BRA_sway_the_neighbors_lar: "Kampaň zpravodajského vlivu na sousedy" # todo: NEW TRANSLATION
+  BRA_army_dummy_idea: "$SMB_army_BRA$" # todo: NEW TRANSLATION
+  BRA_estado_novo_dummy_idea: "$BRA_estado_novo_modifier$" # todo: NEW TRANSLATION
+  BRA_estado_novo_dummy_idea_desc: "$BRA_estado_novo_desc$" # todo: NEW TRANSLATION
+  BRA_national_defence_fund_idea: "Zvýšené výdaje na obranu" # todo: NEW TRANSLATION
+  BRA_national_defence_fund_idea_desc: "$BRA_defense_spending_desc$" # todo: NEW TRANSLATION
+  JUNO_natal_base_sharing: "Sdílení letecké základny Natal" # todo: NEW TRANSLATION
+  ToA_aid_against_communists: "Protikomunistické brigády" # todo: NEW TRANSLATION
+  ToA_aid_against_communists_desc: "Americká vláda přivírá oči před dobře vyzbrojenými, dobře vybavenými a dobře vycvičenými dobrovolníky, kteří odcházejí do zahraničí pomoci v globálním boji proti komunismu." # todo: NEW TRANSLATION
+  ARG_resource_extration_focus: "Zaměření na těžbu zdrojů" # todo: NEW TRANSLATION
+  ARG_ferrocarriles_argentinos: "Ferrocarriles Argentinos" # todo: NEW TRANSLATION
+  ARG_construction_guilds_idea: "Argentinské stavební cechy" # todo: NEW TRANSLATION
+  ARG_roca_runciman_new_partner_idea: "Smlouva La Plata" # todo: NEW TRANSLATION
+  ARG_argentine_beef_trade_idea: "Obchod s argentinským hovězím" # todo: NEW TRANSLATION
+  BRA_defense_of_the_fatherland_idea: "K dominanci v Americe" # todo: NEW TRANSLATION
+  BRA_defense_of_the_fatherland_idea_desc: "$BRA_domination_of_the_americas$" # todo: NEW TRANSLATION
+  BRA_neglected_state_dynamic_modifier: "Zapomenutý stát" # todo: NEW TRANSLATION
+  BRA_neglected_state_dynamic_modifier_desc: "Tento stát byl chronicky podfinancován po řadu vlád, což vedlo k nedostatku infrastruktury, nezaměstnanosti a resentimentu vůči centrální vládě." # todo: NEW TRANSLATION
+  BRA_growing_state_dynamic_modifier: "Rostoucí stát" # todo: NEW TRANSLATION
+  BRA_growing_state_dynamic_modifier_desc: "Díky rozsáhlým investicím a rozvoji centrální vládou má tento stát nyní rostoucí ekonomiku, která směřuje k plné industrializaci v nadcházejících letech." # todo: NEW TRANSLATION
+  BRA_modify_economy_intro: "Upravte §Y$BRA_undiversified_economy_modifier$§! o: " # todo: NEW TRANSLATION
+  BRA_rail_investment: "Investice do železnic" # todo: NEW TRANSLATION
+  BRA_rail_investment_desc: "$BRA_invest_in_railways_desc$" # todo: NEW TRANSLATION
+  BRA_road_investment: "Investice do silnic" # todo: NEW TRANSLATION
+  BRA_road_investment_desc: "$BRA_invest_in_road_infrastructure_desc$" # todo: NEW TRANSLATION
+  BRA_port_investment: "Investice do přístavů" # todo: NEW TRANSLATION
+  BRA_port_investment_desc: "$BRA_invest_in_ports_desc$" # todo: NEW TRANSLATION
+  BRA_new_capital_modifier: "Výstavba nové metropole" # todo: NEW TRANSLATION
+  BRA_new_capital_modifier_desc: "Jsme v procesu zakládání nové metropole v srdci země, abychom omezili pocit izolace mezi venkovskými státy." # todo: NEW TRANSLATION
+  BRA_separatism_idea: "Separatistické nálady" # todo: NEW TRANSLATION
+  BRA_separatism_idea_desc: "Mnozí v zemi mají výhrady vůči centrální vládě Brazílie nebo zášť vůči nutnosti podporovat chudší státy. V minulosti tyto city vedly k krátkodobým separatistickým hnutím, která odtrhla své státy od národa. Pokud se nám nepodaří brzy stabilizovat politickou situaci, taková hnutí mohou způsobit fragmentaci Brazílie." # todo: NEW TRANSLATION
+  BRA_propaganda_idea: "Departamento de Propaganda" # todo: NEW TRANSLATION
+  BRA_propaganda_idea_desc: "V tak křehkých časech musíme zajistit, aby veřejnost dostávala pouze informace, které potřebuje k pokračování své práce a podpoře vlády." # todo: NEW TRANSLATION
+  BRA_cangaceiro_state: "Cangaço aktivní ve státě" # todo: NEW TRANSLATION
+  BRA_cangaceiro_state_desc: "V severovýchodní Brazílii kdysi existovalo mocenské vakuum, které vedlo k vzestupu banditů známých jako Cangaço. Tito bandité po desetiletí sužují region a často jsou podporováni sympatiemi místních. Musíme něco udělat proti jejich pokračujícím pleněním a vraždám, než ztratíme kontrolu nad regionem." # todo: NEW TRANSLATION
+  BRA_disrupt_bolivar_LaR: "Financování protizpravodajství" # todo: NEW TRANSLATION
+  BRA_disrupt_bolivar_LaR_desc: "Zahraniční zpravodajské služby tady působily beztrestně příliš dlouho. S naším novým financováním zajistíme, že se nic nestane bez našeho předchozího vědomí." # todo: NEW TRANSLATION
+  BRA_disrupted_bolivar: "Operace Bolívar narušena" # todo: NEW TRANSLATION
+  BRA_disrupt_bolivar_no_lar: "Operace Bolívar narušena" # todo: NEW TRANSLATION
+  BRA_good_neighbor_policy: "Politika dobrého sousedství" # todo: NEW TRANSLATION
+  BRA_good_neighbor_policy_desc: "$BRA_cooperation_in_the_americas_desc$" # todo: NEW TRANSLATION
+  BRA_accepted_washington_accords: "Přijata Washingtonská ujednání" # todo: NEW TRANSLATION
+  BRA_rejected_washington_accords: "Washingtonská ujednání odmítnuta" # todo: NEW TRANSLATION
+  BRA_washington_accords_idea: "Washingtonská ujednání" # todo: NEW TRANSLATION
+  BRA_washington_accords_idea_desc: "$BRA_washington_accords$" # todo: NEW TRANSLATION
+  BRA_departamento_de_political_e_social_no_lar: "Departamento de Ordem Política e Social" # todo: NEW TRANSLATION
+  BRA_departamento_de_political_e_social_no_lar_desc: "$BRA_departamento_de_political_e_social_no_desc$" # todo: NEW TRANSLATION
+  BRA_supporting_operation_bolivar: "Podpora operace Bolívar" # todo: NEW TRANSLATION
+  BRA_aid_operation_bolivar: "Operace Bolívar" # todo: NEW TRANSLATION
+  BRA_aid_operation_bolivar_desc: "$BRA_expand_operation_bolivar_desc$" # todo: NEW TRANSLATION
+  BRA_international_crisis: "Mezinárodní krize" # todo: NEW TRANSLATION
+  BRA_international_crisis_desc: "$BRA_the_international_crisis_desc$" # todo: NEW TRANSLATION
+  BRA_unwilling_subjects: "Nepoddajní poddaní" # todo: NEW TRANSLATION
+  BRA_unwilling_subjects_desc: "S tím, jak monarchie opět nabývá politický vliv, se lidé začínají cítit nepříjemně a frustrovaní z toho, že jsou opět poddanými autokrata." # todo: NEW TRANSLATION
+  BRA_federal_republic: "Přijetí federalismu" # todo: NEW TRANSLATION
+  BRA_federal_republic_desc: "$BRA_greater_federalism_desc$ " # todo: NEW TRANSLATION
+  BRA_presidential_republic: "Prezidentská republika" # todo: NEW TRANSLATION
+  BRA_presidential_republic_desc: "Národ potřebuje silné, rozhodné vedení, které dokáže sjednotit lidi a bránit naše hranice. K tomu soustřeďujeme politickou pravomoc do rukou prezidenta republiky, i když musíme zajistit silné pojistky a vyvážení, aby se předešlo dalšímu pokusu Vargas uchopit moc." # todo: NEW TRANSLATION
+  BRA_tax_haven: "Rostoucí daňový ráj" # todo: NEW TRANSLATION
+  BRA_tax_haven_desc: "Nízké zdanění korporací a řada kliček vedly k nárůstu počtu nadnárodních korporací, které se stěhují do Brazílie. Je lepší získat z nich nějaké daňové příjmy než žádné." # todo: NEW TRANSLATION
+  BRA_nationalized_banks: "Znárodněné banky" # todo: NEW TRANSLATION
+  BRA_nationalized_banks_desc: "Znárodněním bank můžeme zvýšit kontrolu nad množstvím peněz v ekonomice a přesměrovat je z kapes akcionářů do rukou dělníků." # todo: NEW TRANSLATION
+  BRA_collaboration_with_the_church: "Spolupráce s církví" # todo: NEW TRANSLATION
+  BRA_collaboration_with_the_church_desc: "Církev je pro mnoho Brazilců životně důležitá. Konzultací s ní při tvorbě politik můžeme získat její masovou podporu pro naši administrativu." # todo: NEW TRANSLATION
+  BRA_atheist_state: "Ateistický stát" # todo: NEW TRANSLATION
+  BRA_atheist_state_desc: "Jako stát zaměřený na vědecký pokrok nemůžeme trávit čas oblbováním kléru. Správa země a náboženství lidí se nemají míchat a my hodláme to tak udržet." # todo: NEW TRANSLATION
+  BRA_collectivized_agriculture: "Kolektivizované zemědělství" # todo: NEW TRANSLATION
+  BRA_collectivized_agriculture_desc: "Kolektivizací našeho zemědělského průmyslu jsme zvýšili jeho efektivitu a posílili komunistickou ideologii mezi našimi lidmi." # todo: NEW TRANSLATION
+  BRA_article_138: "Článek 138" # todo: NEW TRANSLATION
+  BRA_article_138_desc: "$BRA_implement_article_138_desc$" # todo: NEW TRANSLATION
+  BRA_court_the_military_idea: "Uchvátnout si přízeň armády" # todo: NEW TRANSLATION
+  BRA_court_the_military_idea_desc: "Bez zavedeného vlivu a prostředků armády nemůžeme udržet svou moc. Alespoň prozatím se musíme snažit udržet je na naší straně." # todo: NEW TRANSLATION
+  BRA_king_vassouras: "Dom Pedro Henrique" # todo: NEW TRANSLATION
+  BRA_king_vassouras_desc: "" # todo: NEW TRANSLATION
+  BRA_king_petropolis: "Dom Pedro de Alcântara" # todo: NEW TRANSLATION
+  BRA_king_petropolis_desc: "" # todo: NEW TRANSLATION
+  BRA_us_of_brazil: "Obrana svobody" # todo: NEW TRANSLATION
+  BRA_us_of_brazil_desc: "Ideály svobody a demokracie jsou základy, na kterých je naše republika postavena. Uděláme cokoli, abychom tyto hodnoty doma i v zahraničí hájili, pokud bude potřeba." # todo: NEW TRANSLATION
+  BRA_radicalized_proletariat: "Radikalizovaný proletariát" # todo: NEW TRANSLATION
+  BRA_radicalized_proletariat_desc: "Komunistické myšlenky zakořenily mezi dělnickou třídou v [BRA.GetNameDef]. Balancujeme na tenké hraně mezi jejich potěšením a nepoškozením armády." # todo: NEW TRANSLATION
+  BRA_aid_brazilian_communists: "Pomoc brazilským komunistům" # todo: NEW TRANSLATION
+  BRA_us_of_south_america: "Obránce jihu" # todo: NEW TRANSLATION
+  BRA_us_of_south_america_desc: "Naše hranice se rozšířily tak, že zahrnují většinu kontinentu. Je tedy naší posvátnou povinností bránit práva všech, kdo nazývají Jižní Ameriku svým domovem." # todo: NEW TRANSLATION
+  BRA_stability_and_unity: "Řád a pokrok" # todo: NEW TRANSLATION
+  BRA_stability_and_unity_desc: "Pečlivým politickým manévrováním jsme dokázali vytvořit silnější a stále více sjednocenou republiku. Na tomto základu budeme i nadále chránit občany našeho velkého národa." # todo: NEW TRANSLATION
+  BRA_romanticize_the_old_empire_idea: "Císařské sentimenty" # todo: NEW TRANSLATION
+  BRA_romanticize_the_old_empire_idea_desc: "Není nouze o lidi s výhradami vůči vládě Brazílie. Oživením císařských sentimentů a nostalgie sjednotíme tyto rozdrobené frakce do jedné soudržné síly." # todo: NEW TRANSLATION
+  BRA_undermine_democracy_idea: "Podkopat demokracii" # todo: NEW TRANSLATION
+  BRA_undermine_democracy_idea_desc: "$BRA_undermine_democracy_desc$" # todo: NEW TRANSLATION
+  BRA_modify_neglected_state: "Upravte §Y$BRA_neglected_state_dynamic_modifier$§!/§Y$BRA_growing_state_dynamic_modifier$§! o:" # todo: NEW TRANSLATION
+  BRA_liberated_by_communist_brazil: "Osvobozeno [BRA.GetNameDefCap]" # todo: NEW TRANSLATION
+  BRA_liberated_by_communist_brazil_desc: "Naše země konečně získala zaslouženou nezávislost od kolonizátorů. S pomocí [BRA.GetNameDef] jsme znovu svobodní. Díky jejich činu se komunistické myšlenky, které hlásají, začínají v našem lidu ujímat." # todo: NEW TRANSLATION
+  BRA_expanding_the_revolution: "Rozšiřování revoluce" # todo: NEW TRANSLATION
+  BRA_expanding_the_revolution_desc: "Revoluce byla přinesena do [BRA.GetNameDef] a nyní musíme hledět za vlastní hranice. Přišel čas šířit revoluci pro dobro našich soudruhů mimo [BRA.GetNameDef]." # todo: NEW TRANSLATION
+  BRA_banco_do_brasil_idea: "Banco do Brasil" # todo: NEW TRANSLATION
+  BRA_banco_do_brasil_idea_desc: "$BRA_banco_do_brasil_desc$" # todo: NEW TRANSLATION
+  BRA_cprm_idea: "Rádio Marconi" # todo: NEW TRANSLATION
+  BRA_ef_central_do_brasil_idea: "EF Central do Brasil" # todo: NEW TRANSLATION
+  BRA_lloyd_brasileiro_idea: "Lloyd Brasileiro" # todo: NEW TRANSLATION
+  BRA_departamento_nacional_do_cafe_idea: "Departamento Nacional do Café" # todo: NEW TRANSLATION
+  BRA_brown_water_navy_idea: "Rozšířené říční námořnictvo" # todo: NEW TRANSLATION
+  BRA_brown_water_navy_idea_desc: "$SMB_brown_water_navy_desc$" # todo: NEW TRANSLATION
+  BRA_brown_water_navy_idea_bonus_tt: "Všechna pěchota:\n §Y-River:§!\n Pohyb: §G+10%§!\n Útok: §G+10%§!\n Obrana: §G+5%§!" # todo: NEW TRANSLATION
+  ARG_political_corruption_modifier: "Politická korupce" # todo: NEW TRANSLATION
+  ARG_political_corruption_modifier_desc: "Po dlouhá léta bylo [ARG.GetNameDef] sužováno fanatickou korupcí ve vládě. I když se zdálo, že vznik Concordancie to může zmírnit, podvodné volby a zastrašování voličů přetrvávají." # todo: NEW TRANSLATION
+  ARG_modify_corruption_ns_intro: "Upravte §Y$ARG_political_corruption_modifier$§! o" # todo: NEW TRANSLATION
+  ARG_international_loan_modifier: "Mezinárodní půjčka" # todo: NEW TRANSLATION
+  ARG_international_loan_modifier_desc: "Není neobvyklé, že země v dobách krize žádají o finanční pomoc od jiných států po celém světě. Vzhledem k současnému stavu ekonomiky [ROOT.GetNameDef] dává smysl přijmout pomoc od velkých mocností zapojených do tohoto konfliktu." # todo: NEW TRANSLATION
+  ARG_modify_international_loan_intro: "Upravte §Y$ARG_international_loan_modifier$§! o" # todo: NEW TRANSLATION
+  ARG_corruption_crackdown_modifier: "$ARG_crack_down_on_corruption$" # todo: NEW TRANSLATION
+  ARG_corruption_crackdown_modifier_desc: "Korupce, která sužovala vládu našeho národa, byla zcela nepřijatelná. Díky politikám Roberta Maríi Ortize jsme konečně mohli začít končit s flagrantními podvodnými aktivitami, kterých se naši politici dopouštěli." # todo: NEW TRANSLATION
+  ARG_anti_corruption_modifier: "Proti-korupční politika" # todo: NEW TRANSLATION
+  ARG_anti_corruption_modifier_desc: "Korupce, která sužovala vládu našeho národa, byla zcela nepřijatelná. Díky politikám Marcela T. de Alveara jsme konečně mohli začít končit s flagrantními podvodnými aktivitami, kterých se naši politici dopouštěli." # todo: NEW TRANSLATION
+  ARG_infamous_decade_idea: "Nechvalně proslulé desetiletí" # todo: NEW TRANSLATION
+  ARG_infamous_decade_idea_desc: "Nechvalně proslulé desetiletí bylo obdobím argentinské historie, které začalo pučem v roce 1930 proti prezidentu Hipólitu Yrigoyenovi. Byla to doba charakterizovaná dvěma věcmi. Na jedné straně významným odlivem obyvatel z venkova po Velké depresi a na druhé straně očividnými volebními podvody udržujícími konzervativní vlády u moci." # todo: NEW TRANSLATION
+  ARG_infamous_decade_2_idea: "$ARG_infamous_decade_idea$" # todo: NEW TRANSLATION
+  ARG_infamous_decade_2_idea_desc: "$ARG_infamous_decade_idea_desc$" # todo: NEW TRANSLATION
+  ARG_infamous_decade_3_idea: "$ARG_infamous_decade_idea$" # todo: NEW TRANSLATION
+  ARG_infamous_decade_3_idea_desc: "$ARG_infamous_decade_idea_desc$" # todo: NEW TRANSLATION
+  ARG_infamous_decade_4_idea: "$ARG_infamous_decade_idea$" # todo: NEW TRANSLATION
+  ARG_infamous_decade_4_idea_desc: "$ARG_infamous_decade_idea_desc$" # todo: NEW TRANSLATION
+  ARG_public_works_investment_idea: "Investice do veřejných prací" # todo: NEW TRANSLATION
+  ARG_public_works_investment_idea_desc: "Je důležité, aby [ARG.GetAdjective] vláda financovala a obstarávala projekty veřejných prací pro rekreaci, zaměstnanost, zdraví a bezpečnost. To zlepší kvalitu života ve větší [ARG.GetAdjective] komunitě." # todo: NEW TRANSLATION
+  ARG_towards_a_greater_argentina_idea: "$ARG_towards_a_greater_argentina$" # todo: NEW TRANSLATION
+  ARG_towards_a_greater_argentina_idea_desc: "[ARG.GetNameDefCap] utrpěla na počátku 20. století díky Velké depresi a následnému začátku Nechvalně proslulého desetiletí. Navzdory neustálým podvodným volbám, pokusům o puč a korupci úředníků jsme vyšli jako stabilní a efektivní národ." # todo: NEW TRANSLATION
+  ARG_economic_reactivation_idea: "Ekonomická reaktivace" # todo: NEW TRANSLATION
+  ARG_economic_reactivation_idea_desc: "Zákon o ekonomické reaktivaci je legislativa, která zajišťuje, že více vládních peněz bude směrováno do rozvoje ekonomických a průmyslových odvětví." # todo: NEW TRANSLATION
+  ARG_civilian_economy_boost_idea: "Rozvinutá civilní ekonomika" # todo: NEW TRANSLATION
+  ARG_civilian_economy_boost_idea_desc: "Díky pečlivému plánování a dobře umístěným darům se nám podařilo plně rozvinout naši civilní ekonomiku. Zvýšené vybavenosti dostupné občanům znamenají, že index národní spokojenosti se bude pomalu zvyšovat." # todo: NEW TRANSLATION
+  ARG_invest_in_roads_idea: "Investice do silnic" # todo: NEW TRANSLATION
+  ARG_invest_in_roads_idea_desc: "Dálnice národa jsou klíčové pro ekonomické, průmyslové a vojenské schopnosti [ARG.GetNameDef]. Naše investice do jejich výstavby a údržby se nám v nadcházejících letech vyplatí." # todo: NEW TRANSLATION
+  ARG_invest_in_railways_idea: "Investice do železnic" # todo: NEW TRANSLATION
+  ARG_invest_in_railways_idea_desc: "V moderní době se každý průmysl spoléhá na oporu národní železniční sítě. Jak jsme rozšířili železniční tratě po celé zemi, položili jsme základy pro pevný přesun zboží z venkovských komunit zpět do měst." # todo: NEW TRANSLATION
+  ARG_roca_runciman_treaty_idea: "Smlouva Roca–Runciman" # todo: NEW TRANSLATION
+  ARG_roca_runciman_treaty_idea_desc: "Dohoda Roca–Runciman je významný obchodní pakt mezi [ARG.GetNameDef] a [ENG.GetNameDef] podepsaný v květnu 1933, který zaručil [ARG.GetNameDef] fixní podíl na [ENG.GetAdjective] trhu s masem. Na oplátku se [ARG.GetNameDef] zavázala k omezením v obchodě a směnném kurzu, čímž chránila obchodní zájmy [ENG.GetNameDef]." # todo: NEW TRANSLATION
+  ARG_eden_malbran_treaty_idea: "Smlouva Eden–Malbrán" # todo: NEW TRANSLATION
+  ARG_eden_malbran_treaty_idea_desc: "Jako reakce na tvrdá omezení uložená smlouvou Roca–Runciman byla vyjednána nová dohoda nazvaná Smlouva Eden–Malbrán. Ta umožnila [ENG.GetNameDef] získat další koncese a zároveň snížila náklady na přepravné pšenice." # todo: NEW TRANSLATION
+  ARG_raf_cooperation_idea: "Spolupráce s RAF" # todo: NEW TRANSLATION
+  ARG_raf_cooperation_idea_desc: "Jak konflikty po světě nadále zuří, musíme vynaložit veškeré úsilí, abychom podpořili naše spojence tím, co dokážeme. Těsnější spolupráce s Královským letectvem [ENG.GetNameDef] jistě přivede naše piloty na modernější úroveň." # todo: NEW TRANSLATION
+  ARG_argentine_beef_idea: "Argentinské hovězí" # todo: NEW TRANSLATION
+  ARG_argentine_beef_idea_desc: "Od dob, kdy byli do [ARG.GetNameDef] přivezeni první dobytek španělskými conquistadory v roce 1536, je hovězí základním prvkem tradiční argentinské kuchyně. Díky tomu je naše hovězí celosvětově známé a existuje velká poptávka po jeho vývozu." # todo: NEW TRANSLATION
+  ARG_argentine_metropole_idea: "Argentinská metropole" # todo: NEW TRANSLATION
+  ARG_argentine_metropole_idea_desc: "Až donedávna se naše země opírala o venkovské zemědělské a těžební komunity. Jak se však nadále rozvíjíme v 20. století, časy se mění a představa ideálního [ARG.GetAdjective] života se také vyvíjí. Mnozí se stěhují do našich rozrostlých a prosperujících měst v naději usadit se a přizpůsobit se metropolitnímu životu." # todo: NEW TRANSLATION
+  ARG_our_own_path_idea: "$ARG_our_own_path$" # todo: NEW TRANSLATION
+  ARG_our_own_path_idea_desc: "Navzdory všemu utrpení, které jsme museli podstoupit, je [ARG.GetNameDef] schopná stát na vlastních nohách, aniž by se skláněla před jinými národy, frakcemi či konglomeráty. Volíme si vlastní cestu v těchto turbulentních časech." # todo: NEW TRANSLATION
+  ARG_british_cooperation_idea: "$ARG_british_cooperation$" # todo: NEW TRANSLATION
+  ARG_british_cooperation_idea_desc: "[ENG.GetNameDefCap] byla jedním z našich nejdéle trvajících obchodních partnerů. Jak budeme nadále dodržovat naše mnohé smlouvy a dohody, můžeme zjistit, že se naše ideologie posouvá směrem k nim." # todo: NEW TRANSLATION
+  ARG_subdue_dissension_idea: "Potlačené nesouhlasy" # todo: NEW TRANSLATION
+  ARG_subdue_dissension_idea_desc: "Probíhající vojenské nesouhlasy byly konečně uhašeny. To by pro nás mělo být lekcí do budoucna, abychom dávali pozor na další neklid v různých složkách naší vlády." # todo: NEW TRANSLATION
+  ARG_improved_cooperation_idea: "Zlepšená spolupráce" # todo: NEW TRANSLATION
+  ARG_improved_cooperation_idea_desc: "[ARG.GetNameDefCap] a [ENG.GetNameDef] se vzájemně sbližují ve svých zájmech." # todo: NEW TRANSLATION
+  ARG_refused_embargo_idea: "Odmítnutá žádost o embargo" # todo: NEW TRANSLATION
+  ARG_refused_embargo_idea_desc: "[ARG.GetNameDefCap] odmítla naši žádost o embargo na Ose." # todo: NEW TRANSLATION
+  ARG_maintain_neutrality_idea: "Oddaní sobě samým" # todo: NEW TRANSLATION
+  ARG_maintain_neutrality_idea_desc: "Ukázali jsme, že nemáme zájem o větší konflikty, které zuří po světě. Musíme se nejprve starat o sebe. Ať to je pro všechny prohlášení, že [ARG.GetNameDef] se zaměří na své vlastní cíle." # todo: NEW TRANSLATION
+  ARG_american_allyship_idea: "Blízké vazby s Washingtonem" # todo: NEW TRANSLATION
+  ARG_american_allyship_idea_desc: "Ve duchu americké spolupráce jsme navázali těsnější politické vazby s [USA.GetNameDef]. Jak stojíme spolu pod významnými slovy Monroeovy doktríny, nic z evropských mocností nás nemůže rozdělit." # todo: NEW TRANSLATION
+  ARG_envoy_to_london_idea: "Blízké vazby s Londýnem" # todo: NEW TRANSLATION
+  ARG_envoy_to_london_idea_desc: "Pokud budeme nadále vzájemně podporovat, bude mít [ENG.GetNameDev] v [ARG.GetNameDef] přítele. Je důležité, aby naše dvě země zůstaly politicky spojené a zajistily, že naše cíle zůstanou sladěny." # todo: NEW TRANSLATION
+  ARG_counter_interlligence_program_idea: "Argentinský protizpravodajský program" # todo: NEW TRANSLATION
+  ARG_counter_interlligence_program_idea_desc: "Špionáž je jedním z mnoha frontů, kterým čelíme v tomto globálním konfliktu, a proto je schopnost efektivně provozovat vlastní protizpravodajský program zásadní pro přežití ve válce. Rozhodli jsme se soustředit na obranné politiky spíše než na útočné podvratné taktiky." # todo: NEW TRANSLATION
+  ARG_disrupt_bolivar_lar: "Práce proti operaci Bolívar" # todo: NEW TRANSLATION
+  ARG_disrupt_bolivar_lar_desc: "Operace Bolívar nám byla dlouho trnem v oku a je na nás, abychom zaujali postoj proti tomuto ohavnému aktu nepřátelské špionáže." # todo: NEW TRANSLATION
+  ARG_cut_ties_with_britain_idea: "Přerušit vazby s Británií" # todo: NEW TRANSLATION
+  ARG_cut_ties_with_britain_idea_desc: "[ARG.GetNameDefCap] přerušila s námi vazby." # todo: NEW TRANSLATION
+  ARG_disrupt_bolivar_no_lar: "Operace Bolívar narušena" # todo: NEW TRANSLATION
+  ARG_disrupt_bolivar_no_lar_desc: "$ARG_disrupt_bolivar_lar_desc$" # todo: NEW TRANSLATION
+  ARG_red_scare_idea: "Účinky rudého strachu" # todo: NEW TRANSLATION
+  ARG_red_scare_idea_desc: "Ideologické napětí mezi těmito dvěma národy přerostlo." # todo: NEW TRANSLATION
+  ARG_anti_soviet_idea: "Antisovětské postoje" # todo: NEW TRANSLATION
+  ARG_anti_soviet_idea_desc: "Hrozba komunismu a nebezpečí, které představuje pro náš národ, je příliš důležitá na ignorování. [SOV.GetNameDefCap] stále dokazuje, že je mocností schopnou zničit náš způsob života. Lidé se bojí rudé hrozby — a právem!" # todo: NEW TRANSLATION
+  ARG_buying_the_islands_idea: "Koupili jižní atlantské ostrovy" # todo: NEW TRANSLATION
+  ARG_buying_the_islands_idea_desc: "Ukázalo se, že koupě dvou celých ostrovů je dost drahá. Tento dluh budeme splácet ještě dlouho." # todo: NEW TRANSLATION
+  ARG_siam_di_tella: "SIAM Di Tella" # todo: NEW TRANSLATION
+  ARG_chade_cade: "CHADE-CADE" # todo: NEW TRANSLATION
+  ARG_anti_british_sentiment_idea: "Antibretonský sentiment" # todo: NEW TRANSLATION
+  ARG_anti_british_sentiment_idea_desc: "Od té doby, co jsme přerušili vazby s [ENG.GetNameDef], se do naší vlády dostala vlna anti-britských nálad. Už nejsme vázáni jejich smlouvami a obchodními dohodami! Teď se můžeme soustředit na to, co je důležité: válku." # todo: NEW TRANSLATION
+  ARG_growing_nationalism_modifier: "Rostoucí nacionalistické hnutí" # todo: NEW TRANSLATION
+  ARG_growing_nationalism_modifier_desc: "Argentinská nacionalistická strana zaznamenala v zemi vlnu podpory a čím dál více lidí se přidává k jejich řadám a podporuje jejich rostoucí ideologii. Argentinský nacionalismus sleduje myšlenku obnovení [ARG.GetAdjective] identity a upevnění našeho postavení jako dominantní mocnosti v Jižní Americe." # todo: NEW TRANSLATION
+  ARG_modify_growing_nationalism_ns_intro: "Upravte §Y$ARG_growing_nationalism_modifier$§! o" # todo: NEW TRANSLATION
+  ARG_military_government_idea: "Vojenská vláda" # todo: NEW TRANSLATION
+  ARG_military_government_idea_desc: "Pedro Pablo Ramírez převzal vládu a zřídil vojensky řízený stát. Tato změna režimu byla vyvolána voláním po změně z dříve zkorumpované a podvodné Concordancie. S manifestem orientovaným na [ARG.GeAdjective] expanzionismus je náš stát připraven čelit mnoha konfliktům v budoucnu." # todo: NEW TRANSLATION
+  ARG_spirit_of_the_conquistadors_idea: "Duch conquistadorů" # todo: NEW TRANSLATION
+  ARG_spirit_of_the_conquistadors_idea_desc: "Díky slávě conquistadorů se náš lid dostal na tuto krásnou zemi stříbra. Hrají významnou roli v naší historii a nyní slouží jako inspirace pro nový nacionalistický režim Nimia de Anquína. [ARG.GetNameDefCap] poroste, jak dobýváme slabší sousedy a stáváme se dominantní mocností v Jižní Americe." # todo: NEW TRANSLATION
+  ARG_rapid_militarization_idea: "Rychlá militarizace" # todo: NEW TRANSLATION
+  ARG_rapid_militarization_idea_desc: "Rychlá militarizace je proces, při kterém se společnost organizuje pro vojenský konflikt a násilí. Pustili jsme se do plného rozvoje našeho vojensko-průmyslového komplexu a připravujeme se na nadcházející boje." # todo: NEW TRANSLATION
+  ARG_argentine_nationalism_idea: "Argentinský nacionalismus" # todo: NEW TRANSLATION
+  ARG_argentine_nationalism_idea_desc: "Máme hodně důvodů být hrdí jako [ARG.GetAdjective] a tak i nadále povzbuzujeme obyvatele uvnitř našich hranic, aby identifikovali a podporovali zájmy našeho národa. Nepotřebujeme pomoc těch, kteří by se snažili zavádět tvrdé regulace nebo nás ohrožovat válkou. [ARG.GetNameDefCap] je suverénní země, která stojí sama za sebe." # todo: NEW TRANSLATION
+  ARG_war_division_idea: "Válka - sekce" # todo: NEW TRANSLATION
+  ARG_war_division_idea_desc: "Nyní, když náš národ stabilizoval vládu a vybudoval silnou ekonomiku, získali jsme konečně dost podpory od našeho lidu, abychom se připravili naplnit naše expanzionistické cíle." # todo: NEW TRANSLATION
+  ARG_preparing_for_war_idea: "Připravujeme se na válku" # todo: NEW TRANSLATION
+  ARG_preparing_for_war_idea_desc: "Kontinent Jižní Ameriky se nad námi tyčí, zralý k uchopení. Naše armády se připravují na válku, zatímco naši politici a diplomaté horlivě vytvářejí dokumenty a ultimáta v přípravě na naše dobytí. Hrozný had je připraven udeřit." # todo: NEW TRANSLATION
+  ARG_spirit_of_the_cisplatine_war_idea: "Duch války cisplatinské" # todo: NEW TRANSLATION
+  ARG_spirit_of_the_cisplatine_war_idea_desc: "Cisplatinská válka, rovněž známá jako argentinsko-brazilská válka, byla ozbrojeným konfliktem v 20. letech 19. století a od té doby panovalo mezi našimi dvěma národy napjaté a nejisté mírové soužití. Už to tak není. [BRA.GetNameDefCap] je hrozba, kterou je třeba řešit. Naše jednotky pochodují se duchem naší minulosti v zádech." # todo: NEW TRANSLATION
+  ARG_integrate_operation_bolivar_idea_lar: "Integrace operace Bolívar" # todo: NEW TRANSLATION
+  ARG_integrate_operation_bolivar_idea_lar_desc: "Díky našemu blízkému propojení s mocnostmi Osy jsme úspěšně začali integrovat Operaci Bolívar a pracovat na podpoře jihoamerického divadla vlastním špionážním programem." # todo: NEW TRANSLATION
+  ARG_integrate_operation_bolivar_idea_no_lar: "Integrace operace Bolívar" # todo: NEW TRANSLATION
+  ARG_integrate_operation_bolivar_idea_no_lar_desc: "$ARG_integrate_operation_bolivar_idea_lar_desc$" # todo: NEW TRANSLATION
+  ARG_anti_american_idea: "Antiamerické nálady" # todo: NEW TRANSLATION
+  ARG_anti_american_idea_desc: "$ARG_red_scare_idea_desc$" # todo: NEW TRANSLATION
+  ARG_anti_american_propaganda_idea: "Antiamerická propaganda" # todo: NEW TRANSLATION
+  ARG_anti_american_propaganda_idea_desc: "[USA.GetNameDefCap] je pozoruhodná hrozba pro náš režim. Ačkoli jsou známí jako spící gigant, nikdy nevíme, kdy se rozhodnou probudit a obrátit svůj zájem k nám. Naše jednotky jsou díky našemu propagačnímu oddělení připraveny postavit se [USA.GetAdjective] nebezpečí na severu." # todo: NEW TRANSLATION
+  ARG_state_unions_idea: "Státní odbory" # todo: NEW TRANSLATION
+  ARG_state_unions_idea_desc: "Odbory jsou organizace pracovníků, které si kladou za cíl udržet a zlepšit podmínky jejich zaměstnání. Mnohé z těchto podmínek zahrnují lepší mzdy a benefity, zlepšenou bezpečnost a pracovní podmínky a také zajištění, že běžný pracovník nebude nespravedlivě šikanován managementem." # todo: NEW TRANSLATION
+  ARG_FJC_empowered_idea: "FJC zmocněna" # todo: NEW TRANSLATION
+  ARG_FJC_empowered_idea_desc: "Federación Juvenil Comunista de la Argentina je jednou z nejvlivnějších mládežnických politických organizací v historii země. Je mládežnickou organizací v souladu s PCA a byla založena v roce 1921, aby prosazovala politiku strany mezi argentinskou mládeží. S PCA nyní plně u moci se FJC může dál rozvíjet a vychovávat mladé lidi Argentiny na plnohodnotné revolucionáře!" # todo: NEW TRANSLATION
+  ARG_state_atheism_idea: "Státní ateismus" # todo: NEW TRANSLATION
+  ARG_state_atheism_idea_desc: "Státní ateismus je začlenění tvrdého ateismu do politických režimů. Považuje se mnohými za pravý opak teologie a je běžnou politikou přijatou komunistickými státy, jdouce v kroku se Sovětským svazem, když poprvé přišel k moci." # todo: NEW TRANSLATION
+  ARG_liberation_theology_idea: "Teologie osvobození" # todo: NEW TRANSLATION
+  ARG_liberation_theology_idea_desc: "Teologie osvobození je proud křesťanství, který zdůrazňuje osvobození utlačovaných. Jako náboženství se zabývá socio-ekonomickými analýzami s důrazem na sociální péči o chudé a politické osvobození utlačovaných. Teologie osvobození vznikla z touhy našeho lidu po náboženské svobodě a podpoře našich revolučních cílů." # todo: NEW TRANSLATION
+  ARG_committee_of_state_security_idea_lar: "Komise státní bezpečnosti" # todo: NEW TRANSLATION
+  ARG_committee_of_state_security_idea_lar_desc: "Modelována podle ruských zpravodajských agentur, argentinská Komise státní bezpečnosti je zřízena k provádění zahraniční rozvědky, protizpravodajských a tajných policejních funkcí." # todo: NEW TRANSLATION
+  ARG_committee_of_state_security_idea_no_lar: "$ARG_committee_of_state_security_idea_lar$" # todo: NEW TRANSLATION
+  ARG_committee_of_state_security_idea_no_lar_desc: "$ARG_committee_of_state_security_idea_lar_desc$" # todo: NEW TRANSLATION
+  ARG_socialist_unification_idea: "Sociální unifikace" # todo: NEW TRANSLATION
+  ARG_socialist_unification_idea_desc: "Díky síle naší slavné revoluce jsme se konečně dokázali etablovat jako dominantní ideologie na jihu amerického kontinentu. Tato válka, vyhraná krví a odvahou, naplnila náš lid touhou po větší vlasti pro Jihoamerické socialistické republiky." # todo: NEW TRANSLATION
+  ARG_eliminate_american_imperialism_idea: "Operación Ocaso Escarlata" # todo: NEW TRANSLATION
+  ARG_eliminate_american_imperialism_idea_desc: "Obří severní mocnost dlouho stála jako bašta kapitalismu. Je nejvyšší čas ukončit americký imperialismus a přinést Šarlatový soumrak." # todo: NEW TRANSLATION
+  ARG_women_in_industry_idea: "$ARG_women_in_industry$" # todo: NEW TRANSLATION
+  ARG_women_in_industry_idea_desc: "S ženou jako vládnoucím vůdcem [ARG.GetNameDef] to nastavuje precedens, že ženy by měly mít právo pracovat i v jiných odvětvích. S tímto velkým přírůstkem do pracovní síly můžeme očekávat velký ekonomický pokrok pro naši zemi." # todo: NEW TRANSLATION
+  ARG_socialist_volunteers_idea: "$ARG_socialist_volunteers$" # todo: NEW TRANSLATION
+  ARG_socialist_volunteers_idea_desc: "Abychom pomohli zajistit mezinárodní revoluci, musíme nabídnout pomoc našim soudruhům v socialistických státech, kdykoli to bude nutné. Pokud máme volné lidské zdroje, musíme posílat dobrovolníky bojovat proti buržoazii po celém světě!" # todo: NEW TRANSLATION
+  ARG_free_association_idea: "Volné sdružení producentů" # todo: NEW TRANSLATION
+  ARG_free_association_idea_desc: "Volné sdružení je vztah mezi jednotlivci bez státu, sociálních tříd, hierarchie nebo soukromého vlastnictví výrobních prostředků. Podle anarchosyndikalistů u moci to umožní jednotlivcům svobodně se sdružovat bez sociálních omezení a produkovat a reprodukovat své vlastní životní podmínky." # todo: NEW TRANSLATION
+  ARG_no_gods_no_masters_idea: "¡Liberación!" # todo: NEW TRANSLATION
+  ARG_no_gods_no_masters_idea_desc: "I když ostatní země na kontinentu nemusí souhlasit s naší vládou, bylo by proti naší ideologii sedět a nechat je být dobyty rozzlobenými agresory. Pokud by kterýkoli z našich sousedů padl do rukou vetřelce, musíme zvednout zbraně a osvobodit je." # todo: NEW TRANSLATION
+  ARG_regulated_salaries: "Regulované mzdy" # todo: NEW TRANSLATION
+  ARG_regulated_salaries_desc: "Přijali jsme opatření, aby naši zaměstnaní občané nebyli nedostatečně placeni domácím průmyslem. Dohoda dosažená mezi průmyslem a dělníky se ukázala být pro naši zemi velmi prospěšná." # todo: NEW TRANSLATION
+  ARG_social_welfare_fund_ns: "Sociální fond [ARG.GetAdjective]" # todo: NEW TRANSLATION
+  ARG_social_welfare_fund_ns_desc: "Zvýšené výdaje na sociální opatření byly v [ARG.GetNameDef] zavedeny. Vidíme pozitivní efekty z tohoto zvýšeného rozpočtu ve formě spokojenější populace a stále pozitivnějšího přístupu k vládě." # todo: NEW TRANSLATION
+  ARG_british_argentine_agreement: "Smlouva [ENG.GetAdjective]-[ARG.GetAdjective]" # todo: NEW TRANSLATION
+  ARG_british_argentine_agreement_desc: "Dohoda o lepších obchodních podmínkách mezi námi a [ENG.GetAdjective] byla dosažena. Od nynějška máme mírnou slevu na náš obchod s [ENG.GetAdjective]." # todo: NEW TRANSLATION
+  ARG_fabricaciones_militares_epartamento_de_tanques_del_ejercito_manufacturer: "$ARG_fabricaciones_militares_epartamento_de_tanques_del_ejercito_organization$" # todo: NEW TRANSLATION
+  ARG_arsenales_de_marina_manufacturer: "$ARG_arsenales_de_marina_organization$" # todo: NEW TRANSLATION
+  ARG_astarsa_manufacturer: "$ARG_astarsa_organization$" # todo: NEW TRANSLATION
+  ARG_fma_manufacturer: "$ARG_fma_organization$" # todo: NEW TRANSLATION
+  ARG_fabricaciones_militares: "$ARG_fabricaciones_militares_organization$" # todo: NEW TRANSLATION
+  ARG_fabricaciones_militares_art_manufacturer: "$ARG_fabricaciones_militares_art_organization$" # todo: NEW TRANSLATION
+  ARG_hispano_argentina_manufacturer: "$ARG_hispano_argentina_organization$" # todo: NEW TRANSLATION
+  BRA_ford_motor_company: "$USA_ford_motor_company_organization$" # todo: NEW TRANSLATION
+  BRA_amrj_manufacturer: "$BRA_amrj_organization$" # todo: NEW TRANSLATION
+  BRA_rossi_manufacturer: "$BRA_rossi_organization$" # todo: NEW TRANSLATION
+  BRA_cbc_manufacturer: "$BRA_cbc_organization$" # todo: NEW TRANSLATION
+  BRA_fnm_manufacturer: "$BRA_fnm_organization$" # todo: NEW TRANSLATION
+  BRA_embraer_manufacturer: "$BRA_embraer_organization$" # todo: NEW TRANSLATION
+  BRA_bernadini_manufacturer: "$BRA_bernadini_organization$" # todo: NEW TRANSLATION
+  BRA_ddam_manufacturer: "$BRA_ddam_organization$" # todo: NEW TRANSLATION
+  BRA_fiat_company: "Brazilská Fiat" # todo: NEW TRANSLATION
+  SOV_ARG_BRA_rubin_design_bureau_manufacturer: "Rubin" # todo: NEW TRANSLATION
+  ARG_argentina_for_all_idea: "Argentina pro všechny" # todo: NEW TRANSLATION
+  ARG_argentina_for_all_idea_desc: "Náš velký národ má tak širokou škálu lidí žijících v jeho hranicích a dlouho bylo téměř nemožné sjednotit naši populaci pod jedním praporem. Je čas změnit náš přístup. [ARG.GetNameDef] by měla být zemí přístupnou a přijímající všechny, kteří ji nazývají domovem." # todo: NEW TRANSLATION
+  ARG_us_army_training_idea: "$ARG_us_army_training$" # todo: NEW TRANSLATION
+  ARG_us_army_training_idea_desc: "S bližšími vazbami s [USA.GetNameDef] jsme byli schopni převzít jejich tréninkové režimy do naší armády. Pokud budeme cvičit naše jednotky jako [USA.GetNameDef], budeme mít silnější a odolnější armádu." # todo: NEW TRANSLATION
+  ARG_monroe_doctrine_idea: "V souladu s Monroeovou doktrínou" # todo: NEW TRANSLATION
+  ARG_monroe_doctrine_idea_desc: "Monroeova doktrína dlouho sloužila jako způsob, jak zabránit evropskému vměšování na západní polokouli. Je pro nás zásadní ji dodržovat, pokud chceme přežít nával války." # todo: NEW TRANSLATION
+  ARG_argentina_first_idea: "$ARG_argentina_first$" # todo: NEW TRANSLATION
+  ARG_argentina_first_idea_desc: "Není nikdy snadné jít na to sám, zvláště když máme tak vznešené cíle dobytí v Jižní Americe. Pokud se však zapleteme s fašistickými hnutími v Evropě, můžeme ztratit ze zřetele náš skutečný cíl: sjednocenou Jižní Ameriku." # todo: NEW TRANSLATION
+  ARG_united_workers_idea: "Jednotní dělníci" # todo: NEW TRANSLATION
+  ARG_united_workers_idea_desc: "Dělník je páteří socialistické revoluce. Proletariát stojí jednotně proti korupci a podvodům, které kapitalismus rozšířil po [ARG.GetNameDef]." # todo: NEW TRANSLATION
+  ARG_agrarian_reforms_idea: "Agrární reformy" # todo: NEW TRANSLATION
+  ARG_agrarian_reforms_idea_desc: "$ARG_support_the_farmers_decisions_desc$" # todo: NEW TRANSLATION
+  idea_GUAY_stewards_of_the_south: "Správci jihu" # todo: NEW TRANSLATION
+  idea_GUAY_father_of_the_nation_urg: "Otec národa: José Gervasio Artigas" # todo: NEW TRANSLATION
+  idea_GUAY_father_of_the_nation_par: "Otec národa: Francisco Solano López" # todo: NEW TRANSLATION
+  idea_GUAY_abolished_low_level_income_tax: "Zrušení nízké daně z příjmu" # todo: NEW TRANSLATION
+  idea_GUAY_free_seconday_schools: "Bezplatné střední školy" # todo: NEW TRANSLATION
+  idea_GUAY_defense_force: "[THIS.GetAdjective] obranné síly" # todo: NEW TRANSLATION
+  idea_GUAY_volunteers: "[THIS.GetAdjective] dobrovolnické síly" # todo: NEW TRANSLATION
+  idea_GUYA_specialized_training: "Specializovaný výcvik v terénu" # todo: NEW TRANSLATION
+  idea_GUYA_old_powers_USA: "Starý mocenský partner: [USA.GetName] - průmyslová velmoc" # todo: NEW TRANSLATION
+  idea_GUYA_old_powers_FRA: "Starý mocenský partner: [FRA.GetName] - obrana národa" # todo: NEW TRANSLATION
+  idea_GUYA_old_powers_ENG: "Starý mocenský partner: [ENG.GetName] - speciální operace" # todo: NEW TRANSLATION
+  idea_GUYA_old_powers_ITA: "Starý mocenský partner: [ITA.GetName] - nadřazenost vůdce" # todo: NEW TRANSLATION
+  idea_GUYA_old_powers_GER: "Starý mocenský partner: [GER.GetName] - Blitzkrieg" # todo: NEW TRANSLATION
+  idea_GUYA_old_powers_JAP: "Starý mocenský partner: [JAP.GetName] - národní agrese" # todo: NEW TRANSLATION
+  idea_GUYA_old_powers_SOV: "Starý mocenský partner: [SOV.GetName] - útočná pěchota" # todo: NEW TRANSLATION
+  idea_URG_rioplatense_spanish_in_the_army: "Rioplatenská španělština v armádě" # todo: NEW TRANSLATION
+  idea_GUAY_mass_drafts: "Hromadné odvedení" # todo: NEW TRANSLATION
+  idea_GUAY_building_dam: "Výstavba přehrady" # todo: NEW TRANSLATION
+  idea_GUAY_repayment_for_dam_repayment: "Splatka přehrady" # todo: NEW TRANSLATION
+  idea_GUAY_repayment_for_dam_investor: "$idea_GUAY_repayment_for_dam_repayment$" # todo: NEW TRANSLATION
+  idea_GUAY_electrification_of_the_country: "Elektrifikace země" # todo: NEW TRANSLATION
+  idea_GUAY_demoralized_troops_PAR: "Demoralizované jednotky" # todo: NEW TRANSLATION
+  idea_GUAY_demoralized_troops_URG: "$idea_GUAY_demoralized_troops_PAR$" # todo: NEW TRANSLATION
+  idea_GUAY_booming_tourism: "Vzkvétající turismus" # todo: NEW TRANSLATION
+  idea_GUAY_long_term_contracts: "Dlouhodobé smlouvy" # todo: NEW TRANSLATION
+  idea_GUAY_military_contracts: "Vojenské kontrakty" # todo: NEW TRANSLATION
+  idea_GUAY_clamping_down_on_new_territories: "Utahování kontroly nad novými územími" # todo: NEW TRANSLATION
+  idea_GUAY_developing_new_territories: "Rozvoj nových území" # todo: NEW TRANSLATION
+  idea_GUAY_crusade_against_imperialism: "Křížová výprava proti imperialismu" # todo: NEW TRANSLATION
+  idea_GUAY_heavy_industry: "Těžký průmysl" # todo: NEW TRANSLATION
+  idea_PAR_the_aftershock_of_the_tripple_alliance: "Následky Trojité aliance" # todo: NEW TRANSLATION
+  idea_PAR_the_aftershock_of_the_tripple_alliance_instant_desc: "Bude odstraněno, pokud kontroluje §YFormosa§! a §YPonta Porã§!" # todo: NEW TRANSLATION
+  idea_PAR_industrialization_effort: "Úsilí o industrializaci" # todo: NEW TRANSLATION
+  idea_GUAY_the_tag_economic_miracle: "Ekonomické zázraky [ROOT.GetAdjective]" # todo: NEW TRANSLATION
+  USA_monroe_doctrine_idea: "Monroeova doktrína" # todo: NEW TRANSLATION
+  USA_monroe_doctrine_idea_desc: "Spojené státy si dlouho kladly za cíl chránit západní polokouli před vnějším vměšováním koloniálních mocností, což znamená, že jakýkoli vpád na naše území by pravděpodobně přiměl USA nám pomoci. Pokud se však naše politika přestane shodovat s politikou Spojených států, můžeme se ocitnout bez ochrany." # todo: NEW TRANSLATION
+  USA_monroe_doctrine_enforcer: "Vykonavatel Monroeovy doktríny" # todo: NEW TRANSLATION
+  USA_monroe_doctrine_enforcer_desc: "Od poloviny 19. století usilujeme o ochranu západní polokoule před vnějším vměšováním koloniálních mocností. Ačkoli se parametry této doktríny v průběhu času vyvíjely, její jádro znamená, že naši sousedé v Severní i Jižní Americe očekávají, že jim v čase konfliktu pomůžeme. Samozřejmě je naší vládě, kdy a jak doktrínu uplatní." # todo: NEW TRANSLATION
+  idea_VEN_blockade_inactive: "Blokáda neaktivní" # todo: NEW TRANSLATION
+  idea_VEN_blockade_inactive_instant_desc: "Cizí mocnosti mohou blokovat naše dodávky ropy fašisticky orientovaným mocnostem, pokud mají více než 2 §YKapitální lodě§! v §YKaribském moři§!.\nAktuální stav: §GŽádná blokáda§!" # todo: NEW TRANSLATION
+  idea_VEN_blockade_active: "Blokáda aktivní" # todo: NEW TRANSLATION
+  idea_VEN_blockade_active_instant_desc: "Cizí mocnosti mohou blokovat naše dodávky ropy fašisticky orientovaným mocnostem, pokud mají více než §Y2 kapitální lodě§! v §YKaribském moři§!.\nAktuální stav: §RNás se blokuje§!" # todo: NEW TRANSLATION
+  idea_VEN_defensive_posture: "Defenzivní postoj" # todo: NEW TRANSLATION
+  idea_PAR_accepted_american_investment: "Přijata americká investice" # todo: NEW TRANSLATION
+  idea_PAR_women_in_the_industry: "Ženy v průmyslu" # todo: NEW TRANSLATION
+  idea_PAR_banned_white_vouchers: "Zákaz bílých poukázek" # todo: NEW TRANSLATION
+  idea_PAR_turmoil: "Nepokoje" # todo: NEW TRANSLATION
+  idea_PAR_cemented_control: "Upevněná kontrola" # todo: NEW TRANSLATION
+  idea_PAR_river_navy: "Říční námořnictvo" # todo: NEW TRANSLATION
+  idea_PAR_river_navy_desc: "Máme největší říční flotilu ze všech států, což zdržuje nebo dokonce brání nepřátelským vpádům. Ačkoli se nemůže rovnat oceánským flotilám, je klíčová pro udržení naší země v bezpečí." # todo: NEW TRANSLATION
+  idea_PAR_very_high_military_spending: "Velmi vysoké výdaje na obranu" # todo: NEW TRANSLATION
+  idea_PAR_very_high_military_spending_desc: "45 % našeho HDP je momentálně rezervováno pro armádu a příbuzné složky." # todo: NEW TRANSLATION
+  will_be_upgraded_to: "Bude upgradováno na " # todo: NEW TRANSLATION
+  when_expired: "po vypršení." # todo: NEW TRANSLATION
+  idea_PAR_devastation: "Zkáza" # todo: NEW TRANSLATION
+  idea_PAR_recovering: "Obnova ekonomiky" # todo: NEW TRANSLATION
+  idea_PAR_flourishing: "Kvetoucí ekonomika" # todo: NEW TRANSLATION
+  idea_PAR_purged_military: "Očištěná armáda" # todo: NEW TRANSLATION
+  idea_PAR_loyal_military: "Loajální armáda" # todo: NEW TRANSLATION
+  idea_PAR_guion_rojo: "Guión Rojo" # todo: NEW TRANSLATION
+  idea_PAR_radicalized_police_force: "Radikalizovaná policie" # todo: NEW TRANSLATION
+  idea_PAR_increased_humaita_spending: "Zvýšené výdaje na Humaitá" # todo: NEW TRANSLATION
+  surveyor: "Geodet" # todo: NEW TRANSLATION
+  idea_PAR_french_volunteers: "[FRA.GetAdjective] dobrovolníci" # todo: NEW TRANSLATION
+  idea_PAR_jose_felix_estigarribia: "Spoluvláda s $PAR_Jose_Felix_Estigarribia$" # todo: NEW TRANSLATION
+  idea_URG_low_amounts_of_external_debts: "Nízké množství zahraničních dluhů" # todo: NEW TRANSLATION
+  idea_URG_expired_debts: "Vypršené dluhy" # todo: NEW TRANSLATION
+  idea_URG_spanish_volunteers: "Španělská dobrovolnická síla" # todo: NEW TRANSLATION
+  idea_URG_corporatism: "Korporatismus" # todo: NEW TRANSLATION
+  idea_URG_food_for_the_warmachine: "[URG.GetAdjective] jídlo pro válečný stroj" # todo: NEW TRANSLATION
+  idea_URG_revaluation_law: "Zákon o revalvaci" # todo: NEW TRANSLATION
+  idea_URG_import_substitution: "Substituce dovozu" # todo: NEW TRANSLATION
+  idea_URG_strong_falangist_prescence: "Silná Falangistická přítomnost " # todo: NEW TRANSLATION
+  idea_URG_fascist_pressure: "Fašistický tlak" # todo: NEW TRANSLATION
+  idea_URG_ruralism_good: "$URG_ruralism$" # todo: NEW TRANSLATION
+  idea_URG_ruralism_bad: "$URG_ruralism$" # todo: NEW TRANSLATION
+  idea_URG_ruralism_good_2: "$URG_ruralism$" # todo: NEW TRANSLATION
+  idea_URG_ruralism_bad_2: "$URG_ruralism$" # todo: NEW TRANSLATION

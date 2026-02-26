@@ -1,0 +1,9 @@
+﻿l_polish:
+  CURR_COMB_STR: "£strenght_texticon  Síla: $VALUE|0%Y$" # todo: NEW TRANSLATION
+  BM_ATTACK_VALUE: "£attack_texticon  Útok: $VALUE|+=%$" # todo: NEW TRANSLATION
+  BM_DEFEND_VALUE: "£defence_texticon  Obrana: $VALUE|+=%$" # todo: NEW TRANSLATION
+  BM_BREAKTHROUGH_VALUE: "£breakthrough_texticon  Průlom: $VALUE|+=%$" # todo: NEW TRANSLATION
+  BM_BORDER_WAR_MODIFIER: "£organization_texticon  Organizace pohraniční války" # todo: NEW TRANSLATION
+  AA_MODIFIER: "£anti_air_gun_texticon  Protiletadlová obrana: $NUM|+%$" # todo: NEW TRANSLATION
+  SCREENING_VALUE: "£armor_texticon  Krytí: $NUM|+%$" # todo: NEW TRANSLATION
+  POSITIONING_VALUE: "£ships_contact_texticon  Postavení: $NUM|+%$" # todo: NEW TRANSLATION

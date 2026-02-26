@@ -1,0 +1,41 @@
+﻿l_polish:
+  EFFECT_ADD_NATIONAL_UNITY: "£national_unity_texticon  Získat základní národní jednotu: $VAL|+=%$." # todo: NEW TRANSLATION
+  EFFECT_SET_NATIONAL_UNITY: "£national_unity_texticon  Nastavit základní národní jednotu: $VAL|%$." # todo: NEW TRANSLATION
+  EFFECT_ADD_STABILITY: "£stability_texticon  Získat základní stabilitu: $VAL|+=%$." # todo: NEW TRANSLATION
+  EFFECT_SET_STABILITY: "£stability_texticon  Nastavit základní stabilitu: $VAL|H%$." # todo: NEW TRANSLATION
+  EFFECT_ADD_WAR_SUPPORT: "£war_support_texticon  Získat základní podporu války: $VAL|+=%$." # todo: NEW TRANSLATION
+  EFFECT_SET_WAR_SUPPORT: "£war_support_texticon  Nastavit základní podporu války: $VAL|H%$." # todo: NEW TRANSLATION
+  EFFECT_ADD_ARMY_EXPERIENCE: "£army_experience  Zkušenosti armády: $VAL|=+0$." # todo: NEW TRANSLATION
+  EFFECT_ADD_NAVY_EXPERIENCE: "£navy_experience  Zkušenosti námořnictva: $VAL|=+0$." # todo: NEW TRANSLATION
+  EFFECT_ADD_AIR_EXPERIENCE: "£air_experience  Zkušenosti letectva: $VAL|=+0$." # todo: NEW TRANSLATION
+  POLITICS_SET_POLITICAL_POWER: "£political_power_texticon  Nastaví politickou moc na $VAL|0Y$." # todo: NEW TRANSLATION
+  POLITICS_ADD_POLITICAL_POWER: "£political_power_texticon  Politická moc: $VAL|=+0$." # todo: NEW TRANSLATION
+  EFFECT_ADD_RESEARCH_SLOT: "£research_icon  Získat $COUNT|G$ výzkumný slot." # todo: NEW TRANSLATION
+  EFFECT_REMOVE_RESEARCH_SLOT: "£research_icon  Ztratit $COUNT|R$ výzkumný slot." # todo: NEW TRANSLATION
+  EFFECT_SET_RESEARCH_SLOTS: "£research_icon  Nastavit počet výzkumných slotů na $COUNT|H$." # todo: NEW TRANSLATION
+  EFFECT_SET_FUEL_RATIO: "£fuel_texticon  Nastavit poměr paliva na $VAL|%.0H$." # todo: NEW TRANSLATION
+  EFFECT_GIVE_TECHNOLOGY: "£tech_mod  Přidat technologii: $NAME|Y$." # todo: NEW TRANSLATION
+  EFFECT_REMOVE_TECHNOLOGY: "£tech_mod  Odebrat technologii: $NAME|Y$." # todo: NEW TRANSLATION
+  EFFECT_ADD_COMMAND_POWER: "£command_power_texticon  Velitelské body: $VAL|=+1$." # todo: NEW TRANSLATION
+  EFFECT_UPDATE_BORDER_WAR_COMBAT_WIDTH: "£combat_width_texticon      £command_power_texticon  Šířka boje : $NUM|.0H$" # todo: NEW TRANSLATION
+  EFFECT_UPDATE_BORDER_WAR_NUM_UNITS: "    £divisions_texticon  Maximální počet jednotek : $NUM|.0H$" # todo: NEW TRANSLATION
+  EFFECT_UPDATE_BORDER_WAR_MODIFIER: "    £attack_texticon  Modifikátor boje : $NUM|H$" # todo: NEW TRANSLATION
+  EFFECT_ADD_LEGITIMACY: "£occupation_costs  Legitimita: $VAL|=+0$." # todo: NEW TRANSLATION
+  EFFECT_SET_LEGITIMACY: "£occupation_costs  Nastaví legitimitu na $VAL|0Y$." # todo: NEW TRANSLATION
+  EFFECT_SET_GARRISON_STRENGTH: "£garrison_texticon  Nastavit sílu posádky: $VALUE$." # todo: NEW TRANSLATION
+  EFFECT_ADD_RESISTANCE: "£political_violence_texticon  Odboj: $VALUE$." # todo: NEW TRANSLATION
+  EFFECT_ADD_COMPLIANCE: "£occupation_costs  Souhlas: $VALUE$." # todo: NEW TRANSLATION
+  EFFECT_SET_RESISTANCE: "£political_violence_texticon  Nastavit odboj: $VALUE|H$." # todo: NEW TRANSLATION
+  EFFECT_SET_COMPLIANCE: "£occupation_costs  Nastavit souhlas: $VALUE|H$." # todo: NEW TRANSLATION
+  EFFECT_ADD_RESISTANCE_TARGET_WITH_FROM_AND_TARGET: "£political_violence_texticon  Cíl odboje: $VALUE$ pro $OCCUPIED|H$ během okupace $OCCUPIER|H$" # todo: NEW TRANSLATION
+  EFFECT_ADD_RESISTANCE_TARGET_WITH_FROM: "£political_violence_texticon  Cíl odboje: $VALUE$ pro $OCCUPIED|H$" # todo: NEW TRANSLATION
+  EFFECT_ADD_RESISTANCE_TARGET_WITH_TARGET: "£political_violence_texticon  Cíl odboje: $VALUE$ během okupace $OCCUPIER|H$" # todo: NEW TRANSLATION
+  EFFECT_ADD_RESISTANCE_TARGET: "£political_violence_texticon  Cíl odboje: $VALUE$" # todo: NEW TRANSLATION
+  DEFAULT_DYNAMIC_RESISTANCE_TARGET_TOOLTIP: "£political_violence_texticon  Skriptovaná hodnota: $VALUE|-%0$" # todo: NEW TRANSLATION
+  EFFECT_ADD_DECRYPTION_RATIO: "£decryption_texticon  Dešifrování proti $COUNTRY|H$: $RATIO|+%0$" # todo: NEW TRANSLATION
+  EFFECT_ADD_DECRYPTION: "£decryption_texticon  Dešifrování proti $COUNTRY|H$: $AMOUNT|+*$" # todo: NEW TRANSLATION
+  EFFECT_ADD_TECH_BONUS_AHEAD_ONLY: "£research_bonus_texticon  $USES$$AHEAD|G.1$ roků snížení penalizace za předčasný výzkum pro: $LIST|Y$." # todo: NEW TRANSLATION
+  EFFECT_ADD_TECH_BONUS_BONUS_ONLY: "£research_bonus_texticon  $USES$$BONUS|%0+$ Výzkumný bonus pro: $LIST|Y$." # todo: NEW TRANSLATION
+  EFFECT_ADD_DOCTRINE_COST_REDUCTION: "£experience_neutral_texticon  $USES$$REDUCTION|G%.0$ Snížení nákladů pro: $LIST|Y$." # todo: NEW TRANSLATION
+  EFFECT_MANPOWER_ADD_COUNTRY: "£manpower_texticon  Lidské zdroje: $VAL|+=0$." # todo: NEW TRANSLATION
+  EFFECT_MANPOWER_ADD_STATE: "£population_texticon  Místní populace: $VAL|+=0$." # todo: NEW TRANSLATION

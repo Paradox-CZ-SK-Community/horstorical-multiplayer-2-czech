@@ -1,0 +1,67 @@
+﻿l_polish:
+  STATE_UPGRADE_BUILDING: "Vylepšit $BUILDING|H$." # todo: NEW TRANSLATION
+  STATE_UPGRADE_BUILDING_DESC: "Dny výstavby: $COST|H$" # todo: NEW TRANSLATION
+  STATE_BUILDING_LEVEL: "$BUILDING|H$ (Státní úroveň: $LEVEL|H$)" # todo: NEW TRANSLATION
+  STATE_BUILDING_LEVEL_SHARED_SLOTS: "$LEVEL|H$ $BUILDING|H$" # todo: NEW TRANSLATION
+  STATE_BUILDING_INCONSTRUCTION: "Ve výstavbě: $LEVEL|H$" # todo: NEW TRANSLATION
+  STATE_BUILDING_SLOT_TECH: "Nemáme žádné zpravodajské informace o civilní infrastruktuře v tomto státě" # todo: NEW TRANSLATION
+  STATE_BUILDING_AIR_UNKNOWN_ANTI_AIR_TECH: "Nemáme zpravodajské informace o protiletadlových technologiích v tomto státě" # todo: NEW TRANSLATION
+  STATE_BUILDING_AIR_UNKNOWN_ANTI_AIR: "Nemáme zpravodajské informace o protiletadlových zařízeních v tomto státě" # todo: NEW TRANSLATION
+  STATE_BUILDING_NO_KNOWN_FACTORIES: "Nemáme žádné zpravodajské informace o továrnách v tomto státě" # todo: NEW TRANSLATION
+  STATE_BUILDING_SOME_KNOWN_FACTORIES: "Naše zpravodajství uvádí, že v tomto státě je nejméně $AMOUNT|H$ továren" # todo: NEW TRANSLATION
+  STATE_CONVERT_BUILDING: "Přeměnit $FACTOR|H$ $BUILDING_FROM$ na §H1§! $BUILDING_TO$." # todo: NEW TRANSLATION
+  STATE_CONTROLLER: "Ovládá: @$TAG$$COUNTRY|H$" # todo: NEW TRANSLATION
+  STATE_CONTROLLER_DELAYED: "§GKlikněte pro otevření diplomacie.§!" # todo: NEW TRANSLATION
+  STATE_OWNER: "Vlastník: @$TAG$$COUNTRY|H$" # todo: NEW TRANSLATION
+  STATE_OWNER_CORE: "§GJádrový stát§!" # todo: NEW TRANSLATION
+  STATE_OWNER_NON_CORE: "§YKoloniální stát§!" # todo: NEW TRANSLATION
+  STATE_OWNER_OCCUPIED: "§YObsazený stát§!" # todo: NEW TRANSLATION
+  STATE_MANPOWER_VALUE: "$VAL|2*$" # todo: NEW TRANSLATION
+  STATE_RESISTANCE_GUI: "$STRENGTH|%0-$ ($GROWTH|=%0-$)" # todo: NEW TRANSLATION
+  STATE_CORE: "§T$COUNTRY|H$ má $STATE|H$ jako jádrový stát.§!" # todo: NEW TRANSLATION
+  STATE_CORE_DESC: "Jádrový stát je považován za nedílnou součást vašeho národa. Pokud je vlastněn jiným státem, máte oprávněný důvod vyhlásit válku, abyste jej znovu získali, a pokud budete úspěšní, nebude potřebovat okupační politiku - po dobytí se prostě stane součástí vaší vlasti." # todo: NEW TRANSLATION
+  STATE_CLAIM: "§T$COUNTRY|H$ má nárok na $STATE|H$.§!" # todo: NEW TRANSLATION
+  STATE_POPULATION: "§HRekrutovatelná populace§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§HObyvatelstvo§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n" # todo: NEW TRANSLATION
+  MONTHLY_BASE_GROWTH: "Základ: $VALUE|H%2$" # todo: NEW TRANSLATION
+  STATE_POPULATION_GROWTH: "§HMěsíční nárůst§!: $VALUE|%2$ ( $AVAIL|*+$ rekrutovatelných, $LOCKED|*+$ civilních )" # todo: NEW TRANSLATION
+  LOCAL_MANPOWER_ACCESSIBLE_FACTOR: "Základní způsobilost k službě: §R-$VAL|%$§!" # todo: NEW TRANSLATION
+  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_FACTOR: "Základní způsobilost k službě (Nejádrový stát): §R-$VAL|%$§!" # todo: NEW TRANSLATION
+  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_TOTAL: "Celkem způsobilých k službě (Nejádrový stát): §R-$VAL|%$§!" # todo: NEW TRANSLATION
+  STATE_POPULATION_DESC: "Počet lidí žijících v tomto státě. Vaše zákony o branné povinnosti vám dovolují použít určité procento jako lidskou sílu pro vaše divize, lodě a letadla." # todo: NEW TRANSLATION
+  STATE_POPULATION_VALUE: "$VAL|*H$" # todo: NEW TRANSLATION
+  STATE_SET_POLICY: "§GKlikněte pro nastavení okupační politiky státu $STATE|H$§!" # todo: NEW TRANSLATION
+  STATE_NOT_OCCUPIED: "§RMusíte obsadit $STATE|H$, abyste mohli nastavit okupační politiku§!" # todo: NEW TRANSLATION
+  STATE_CLAIMS: "Zahraniční nároky" # todo: NEW TRANSLATION
+  STATE_NO_RESOURCES: "§TV $STATE|H$ nejsou žádné zdroje.§!" # todo: NEW TRANSLATION
+  LOCAL_PROVINCE_MODIFIERS: "\n§HLokální efekty provincie:§!" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS: "$NUM|Y$/$MAX|Y$ odemčených slotů" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_DESC: "Počet odemčených slotů je omezen infrastrukturou a populací ve státě" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_CAP: "Omezeno technologií na $NUM|Y$" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_FROM_POPULATION: "Omezeno populací na $NUM|Y$" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_FROM_INFRASTRUCTURE: "Omezeno infrastrukturou na $NUM|Y$" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_ABSOLUTE_MAX: "Maximum: $NUM|Y$" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_CAP_DESC_HEADER: "Omezení z technologie:" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_FROM_POPULATION_DESC_HEADER: "Omezení z populace:" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_FROM_INFRASTRUCTURE_DESC_HEADER: "Omezení z infrastruktury:" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_BASE: "Základní limit: $NUM|Y$" # todo: NEW TRANSLATION
+  UNLOCKED_SLOTS_STATE_EXTRA: "Další sloty v tomto státě: $NUM|Y$" # todo: NEW TRANSLATION
+  PROVINCE_STATE_CATERGORY_TOOLTIP: "Kategorie: $CATEGORY|Y$" # todo: NEW TRANSLATION
+  PROVINCE_STATE_IMPASSABLE: "Neprůchodné: §RVojska sem nemohou vstoupit§!" # todo: NEW TRANSLATION
+  wasteland: "Pustina" # todo: NEW TRANSLATION
+  city: "Městský region" # todo: NEW TRANSLATION
+  large_city: "Hustě osídlený městský region" # todo: NEW TRANSLATION
+  metropolis: "Metropolitní region" # todo: NEW TRANSLATION
+  megalopolis: "Megalopolní region" # todo: NEW TRANSLATION
+  town: "Rozvinutý venkovský region" # todo: NEW TRANSLATION
+  large_town: "Řídce osídlený městský region" # todo: NEW TRANSLATION
+  rural: "Venkovský region" # todo: NEW TRANSLATION
+  enclave: "Enkláva" # todo: NEW TRANSLATION
+  small_island: "Malý ostrov" # todo: NEW TRANSLATION
+  tiny_island: "Velmi malý ostrov" # todo: NEW TRANSLATION
+  pastoral: "Pastvinský region" # todo: NEW TRANSLATION
+  OCCUPATION_BREAKDOWN: "Rozpis okupace:" # todo: NEW TRANSLATION
+  OCCUPATION_BREAKDOWN_ENTRY: "\n$COUNTRY|Y$: $OCCUPATION|Y%0$" # todo: NEW TRANSLATION
+  STATE_OWNER_RESISTANCE_NON_CORE_INFO: "$COUNTRY|H$ bude mít přístup pouze k $MANPOWER|-%.0$ z vojenské síly státu." # todo: NEW TRANSLATION
+  STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS: "$COUNTRY|H$ bude mít přístup pouze k $MANPOWER|-%.0$ vojenské síly státu a navíc obdrží následující modifikátory kvůli svému okupačnímu statusu:" # todo: NEW TRANSLATION
+  STATE_OWNER_MODIFIER_INFO: "Stát má následující modifikátory kvůli svému okupačnímu statusu:" # todo: NEW TRANSLATION
+  STATE_FOREIGN_RESOURCE_OWNER: "Připadá $COUNTRY|H$" # todo: NEW TRANSLATION
