@@ -1,0 +1,1 @@
+Tu sa vkladá preklad originálnej hry.
